@@ -16,12 +16,14 @@ AppTek Call-Center Dialogues is a long-form English ASR benchmark consisting of 
 The dataset is designed to evaluate ASR systems under realistic conversational conditions, including extended interactions with disfluencies, repairs, and domain-specific language.
 
   2.The diarization using Pyannote took around 10 mins for each file, due to time contraint I decided not to include diarization in the pipeline, I have done it for one file 
-which you can look it in predicted_segments.json
+which you can look it in **predicted_segments.json**
 
   3.Not every complaint or negative statement indicates escalation. Distinguishing ordinary conversations from potentially escalated segments was challenging.
 
   4.Selecting a suitable threshold was challenging because a higher threshold could miss potential escalations, while a lower threshold could flag too many 
 segments for review.
+
+  5.Labeled datset for escalations was not found, again it was geenrated using Gemini.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -60,14 +62,16 @@ The system saves segment-level predictions, timestamps, transcripts, and estimat
 
 <img width="972" height="170" alt="image" src="https://github.com/user-attachments/assets/c7cdff62-6376-41da-9009-7b9f24894598" />
 
+Random Forest had the higher F1-score and precision, while LSTM had higher recall. Neither model performed strongly enough to be used as an automatic decision-maker, so the predictions should be reviewed by a human.If we train it with enough dataset then , it is possible to get better results, I only gave a protype model.
+
 
 
 
 Model output:
 
-  You can find the test folds output in escalation_output.json
+  You can find the test folds output in **escalation_output.json**
 
-  i have attached how the pieplien works when given a audio call, complete transcript with probabilites get saved under predictions and the escalation segments exceeding the threshold would be displayed in the terminal
+  i have attached how the pieplien works when given a audio call, complete transcript with probabilites get saved under **predictions folder ** and the escalation segments exceeding the threshold would be displayed in the terminal
   <img width="1246" height="332" alt="Screenshot 2026-10-29 084405" src="https://github.com/user-attachments/assets/4d534335-fd63-4202-b6ee-fec8553e2360" />
 
   
