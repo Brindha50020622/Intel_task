@@ -1,0 +1,833 @@
+{
+    "file_name": "en_AU_Retail_1590921.wav",
+    "domain": "retail",
+    "accent": "en-AU",
+    "duration": 610.647,
+    "escalation_label": 1,
+    "segments": [
+        {
+            "start": 11.64,
+            "end": 16.14,
+            "role": "agent",
+            "text": "Hi, you've reached Herald Sun's customer service. You're speaking with Tom. What can I do for you today?",
+            "escalation_label": 0,
+            "label_reason": "Agent greeting."
+        },
+        {
+            "start": 17.64,
+            "end": 26.24,
+            "role": "customer",
+            "text": "Hi Tom, (um,) look I've just got a Herald Sun subscription that my dad had signed up to a fair while ago ,",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly states the purpose of the call."
+        },
+        {
+            "start": 26.44,
+            "end": 29.64,
+            "role": "customer",
+            "text": "and basically he's passed away",
+            "escalation_label": 0,
+            "label_reason": "Customer provides factual information about the reason for the call."
+        },
+        {
+            "start": 29.94,
+            "end": 33.04,
+            "role": "customer",
+            "text": "and we just need to cancel the subscription.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly states their request."
+        },
+        {
+            "start": 33.54,
+            "end": 35.74,
+            "role": "agent",
+            "text": "Right, Okay. So",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 36.34,
+            "end": 38.54,
+            "role": "agent",
+            "text": "that's quite a reason for canceling (Um.)",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's sensitive reason."
+        },
+        {
+            "start": 39.14,
+            "end": 39.94,
+            "role": "customer",
+            "text": "I know.",
+            "escalation_label": 0,
+            "label_reason": "Brief customer response."
+        },
+        {
+            "start": 39.84,
+            "end": 45.54,
+            "role": "agent",
+            "text": "Let's see if we can get this sorted out for you. (uh) Before we get started, I'll just need to verify",
+            "escalation_label": 0,
+            "label_reason": "Agent offering assistance and starting account verification."
+        },
+        {
+            "start": 46.14,
+            "end": 55.14,
+            "role": "agent",
+            "text": "(ah) the account details. (ah) The security question that I can see linked to this phone number was star sign and (uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent continues account verification."
+        },
+        {
+            "start": 49.04,
+            "end": 49.34,
+            "role": "customer",
+            "text": "Yeah",
+            "escalation_label": 0,
+            "label_reason": "Brief customer response."
+        },
+        {
+            "start": 55.34,
+            "end": 56.54,
+            "role": "agent",
+            "text": "the postcode, please.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues account verification."
+        },
+        {
+            "start": 58.14,
+            "end": 67.74,
+            "role": "customer",
+            "text": "Yeah, so Tom Jones, (um,) for the name on the account, (uh,) his star sign is, give me a sec, Scorpio.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested verification details."
+        },
+        {
+            "start": 68.44,
+            "end": 70.14,
+            "role": "customer",
+            "text": "(Uh,) was there something else?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for clarification calmly."
+        },
+        {
+            "start": 70.44,
+            "end": 79.84,
+            "role": "agent",
+            "text": "No, (uh) that's the three things, right. So another subscription, lots of unforeseeable events, all right. (ah) So is that the only reason you're looking to",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges verification and asks a clarifying question."
+        },
+        {
+            "start": 79.94,
+            "end": 83.24,
+            "role": "agent",
+            "text": "cancel the subscription? Is it not something you want to give to a family member?",
+            "escalation_label": 0,
+            "label_reason": "Agent attempts retention."
+        },
+        {
+            "start": 85.04,
+            "end": 88.24,
+            "role": "customer",
+            "text": "Yeah, no, no one else needs a subscription.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly declines the offer."
+        },
+        {
+            "start": 88.44,
+            "end": 97.94,
+            "role": "agent",
+            "text": "Okay, well, I'll process the cancelation. It only takes a moment, unlike some stories. (um) But that sounds like a difficult time, so let's go ahead and",
+            "escalation_label": 0,
+            "label_reason": "Agent agrees to process cancellation and offers sympathy."
+        },
+        {
+            "start": 98.04,
+            "end": 106.04,
+            "role": "agent",
+            "text": "we'll get it sorted for you. At least that's one last thing to worry about, even if the subscription seems to have outlived him. (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to offer support."
+        },
+        {
+            "start": 106.64,
+            "end": 111.54,
+            "role": "agent",
+            "text": "Do you know if he enjoyed the subscription? Did he ever mention it to any of you?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks a personal question."
+        },
+        {
+            "start": 113.14,
+            "end": 119.24,
+            "role": "customer",
+            "text": "(Ah,) look, he had a Herald Sun subscription since as long as I can remember. It's just,",
+            "escalation_label": 0,
+            "label_reason": "Customer responds calmly to the agent's question."
+        },
+        {
+            "start": 119.54,
+            "end": 123.94,
+            "role": "customer",
+            "text": "you know, the paper he always read and he's stuck with his tried and true paper.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to explain calmly."
+        },
+        {
+            "start": 124.14,
+            "end": 135.67,
+            "role": "customer",
+            "text": "(Um,) yeah, it's pretty sad when I think about it, but yeah, he always had his paper, you know, every week delivered, so nothing changed over that time. (Um,) yeah.",
+            "escalation_label": 0,
+            "label_reason": "Customer reflects sadly but remains calm."
+        },
+        {
+            "start": 135.64,
+            "end": 140.34,
+            "role": "agent",
+            "text": "All right, well, if circumstance has changed. Like We're also here for living customers, too.",
+            "escalation_label": 0,
+            "label_reason": "Agent's slightly insensitive comment, but not direct conflict yet."
+        },
+        {
+            "start": 140.94,
+            "end": 150.74,
+            "role": "agent",
+            "text": "(um) Do you know if he's accessed his (uh) rewards program at all? Because that would still be available (uh) for the next two months, even after the subscriptions canceled.",
+            "escalation_label": 0,
+            "label_reason": "Agent attempts to offer a rewards program, which is a retention effort."
+        },
+        {
+            "start": 152.54,
+            "end": 159.44,
+            "role": "customer",
+            "text": "I wouldn't say he's used anything like that. He was pretty old school. (um) You know, like, your",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly declines the offer."
+        },
+        {
+            "start": 159.74,
+            "end": 162.84,
+            "role": "customer",
+            "text": "older parents, older generation tend to be, like,",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to explain."
+        },
+        {
+            "start": 163.04,
+            "end": 169.54,
+            "role": "customer",
+            "text": "just pretty stuck with reading his old school paper. Think most of us all, you know, look for online stories these days.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to explain."
+        },
+        {
+            "start": 169.54,
+            "end": 178.64,
+            "role": "agent",
+            "text": "Hmm, Because, yeah, so, it, since your dad died, because he (um) only called us yesterday to update his payment method.",
+            "escalation_label": 1,
+            "label_reason": "Agent questions the customer's statement about the father's passing by bringing up a recent call from the father, implying suspicion. This introduces conflict."
+        },
+        {
+            "start": 181.34,
+            "end": 190.74,
+            "role": "customer",
+            "text": "(uh) Yeah, it was ugh I'd like to say it was kind of sudden, but we knew it was coming for a little while, so You know, he had a bit of dementia, he was doing a lot of",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the situation in response to the agent's query, still not expressing strong frustration."
+        },
+        {
+            "start": 191.14,
+            "end": 194.14,
+            "role": "customer",
+            "text": "random things, so I couldn't really tell you why.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to explain calmly."
+        },
+        {
+            "start": 194.24,
+            "end": 195.64,
+            "role": "agent",
+            "text": "Hmm, Okay. He's",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 196.34,
+            "end": 202.94,
+            "role": "agent",
+            "text": "Well, if lives cancel subscriptions, I think he'd be on the lifetime plan, but that's Okay. (um) We can certainly help you out with that.",
+            "escalation_label": 1,
+            "label_reason": "Agent makes a highly insensitive joke about the father's death, which is disrespectful and dismissive, contributing to potential customer frustration."
+        },
+        {
+            "start": 203.14,
+            "end": 206.64,
+            "role": "agent",
+            "text": "(uh) Do you know if there were any family members linked to the subscription?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks about linked family members."
+        },
+        {
+            "start": 208.94,
+            "end": 217.34,
+            "role": "customer",
+            "text": "Don't believe there would have been. My mum passed away already. (um) So it was just my dad left, and I think he was just the last one on the account.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides information calmly."
+        },
+        {
+            "start": 217.34,
+            "end": 218.14,
+            "role": "agent",
+            "text": "(uh) well.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 218.74,
+            "end": 228.24,
+            "role": "agent",
+            "text": "From the linking that I can actually see here, she's contacted us this morning, actually. Was that another last-minute passing?",
+            "escalation_label": 1,
+            "label_reason": "Agent directly challenges the customer's credibility and makes an extremely offensive and insensitive remark about the mother's alleged passing, clearly escalating the interaction."
+        },
+        {
+            "start": 229.54,
+            "end": 231.34,
+            "role": "customer",
+            "text": "No, my mum died a year ago.",
+            "escalation_label": 1,
+            "label_reason": "Customer directly refutes a highly offensive and incorrect claim from the agent, showing clear dissatisfaction with the agent's behavior."
+        },
+        {
+            "start": 232.04,
+            "end": 240.14,
+            "role": "agent",
+            "text": "Ah, Okay. (um) cause I can see, yeah, she definitely called us this morning (um) just to change her payment details as well.",
+            "escalation_label": 1,
+            "label_reason": "Agent insists on their incorrect and offensive claim about the customer's deceased mother, further escalating the conflict and demonstrating insensitivity."
+        },
+        {
+            "start": 240.74,
+            "end": 248.14,
+            "role": "agent",
+            "text": "So (uh) it's quite interesting. (um) But I appreciate you sharing that with me. (um)",
+            "escalation_label": 1,
+            "label_reason": "Agent uses sarcasm and dismisses the customer's sensitive information, continuing the pattern of disrespect."
+        },
+        {
+            "start": 248.24,
+            "end": 253.84,
+            "role": "agent",
+            "text": "Before I do go ahead and cancel that, we can look at a discounted subscription offer if you did want to move that into your name.",
+            "escalation_label": 1,
+            "label_reason": "Agent attempts a sales pitch after making highly insensitive and accusatory remarks, showing a complete lack of empathy and contributing to customer frustration."
+        },
+        {
+            "start": 255.24,
+            "end": 257.34,
+            "role": "customer",
+            "text": "(uh) What does it involve?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for clarification about the offer."
+        },
+        {
+            "start": 257.14,
+            "end": 265.34,
+            "role": "agent",
+            "text": "(uh) Well, it's just a dollar a day for the first Twenty Eight days, and that includes unlimited access to unravel journalism,",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the subscription offer."
+        },
+        {
+            "start": 265.74,
+            "end": 267.34,
+            "role": "agent",
+            "text": "breaking news, as well as",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the subscription offer."
+        },
+        {
+            "start": 267.34,
+            "end": 276.44,
+            "role": "agent",
+            "text": "(uh) the up-to-date, up-to-the-minute sports statistics. You'll get access to the Plus Rewards portal, which is your destination for exclusives, events",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the subscription offer."
+        },
+        {
+            "start": 276.44,
+            "end": 279.54,
+            "role": "agent",
+            "text": "and extras only available to Herald Sun members.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the subscription offer."
+        },
+        {
+            "start": 279.74,
+            "end": 283.24,
+            "role": "agent",
+            "text": "You can also read stories across the News Corp network.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the subscription offer."
+        },
+        {
+            "start": 285.44,
+            "end": 292.24,
+            "role": "customer",
+            "text": "Okay, I don't know, there's that guy that does all those Herald Sun reels and that, it's pretty annoying. So,",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild annoyance at an external marketing practice, not directed at the agent or current service."
+        },
+        {
+            "start": 292.54,
+            "end": 296.34,
+            "role": "customer",
+            "text": "I don't know if I want to spend too much extra time with the Herald Sun itself.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses disinterest in the product."
+        },
+        {
+            "start": 296.54,
+            "end": 305.64,
+            "role": "customer",
+            "text": "(Um,) yeah, probably not for me, to be honest. I don't know if anyone else in the family wants it, I can definitely ask them . (Um,) but",
+            "escalation_label": 0,
+            "label_reason": "Customer politely declines the offer."
+        },
+        {
+            "start": 305.74,
+            "end": 307.44,
+            "role": "customer",
+            "text": "yeah, nah, I think I'm okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer politely declines the offer."
+        },
+        {
+            "start": 307.94,
+            "end": 309.44,
+            "role": "customer",
+            "text": "We just need to get it canceled.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly reiterates the primary request."
+        },
+        {
+            "start": 309.14,
+            "end": 314.94,
+            "role": "agent",
+            "text": "(ah) Well, just (um) out of curiosity, like what type of news or content do you like to consume?",
+            "escalation_label": 1,
+            "label_reason": "Agent ignores the customer's clear request to cancel and continues to push sales/retention questions, showing disregard for the customer's needs."
+        },
+        {
+            "start": 316.74,
+            "end": 322.34,
+            "role": "customer",
+            "text": "(Um,) kind of random stuff, like, (uh) you know.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly responds to the agent's question."
+        },
+        {
+            "start": 323.04,
+            "end": 330.94,
+            "role": "customer",
+            "text": "I don't even know, like, I think it's just stuff that pops up in my feed. A bit of political stuff at the moment seems to be in the algorithm.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly responds to the agent's question."
+        },
+        {
+            "start": 331.34,
+            "end": 341.14,
+            "role": "agent",
+            "text": "Well, we do have the state election coming up next year. (uh) And given how dry that is, I think (ah) you'd probably enjoy",
+            "escalation_label": 0,
+            "label_reason": "Agent continues sales pitch based on customer's stated interests."
+        },
+        {
+            "start": 341.24,
+            "end": 345.34,
+            "role": "agent",
+            "text": "reading a lot about that. We will have in-depth analysis, opinion, as well as",
+            "escalation_label": 0,
+            "label_reason": "Agent continues sales pitch."
+        },
+        {
+            "start": 345.74,
+            "end": 353.74,
+            "role": "agent",
+            "text": "(uh) unbeatable coverage in the lead-up to and on state election day, particularly with Jess Wilson just being voted in as the Liberal leader.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues sales pitch."
+        },
+        {
+            "start": 354.34,
+            "end": 355.04,
+            "role": "agent",
+            "text": "(uh)",
+            "escalation_label": 0,
+            "label_reason": "Filler word."
+        },
+        {
+            "start": 355.64,
+            "end": 361.74,
+            "role": "agent",
+            "text": "(uh) Are you sure you wouldn't like to access that, just so you stay well-informed (um) before the election really ramps up?",
+            "escalation_label": 1,
+            "label_reason": "Agent repeatedly pushes the subscription offer despite the customer's clear disinterest and original request to cancel, showing persistent disregard."
+        },
+        {
+            "start": 363.64,
+            "end": 366.34,
+            "role": "customer",
+            "text": "I'm not part of that, like, a dollar a day thing.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly indicates lack of interest in the offer."
+        },
+        {
+            "start": 366.24,
+            "end": 376.24,
+            "role": "agent",
+            "text": "That would come to Fifty Cents extra for the election package, but we could discount that based on your father's long-term membership by Twenty Five Cents. So,",
+            "escalation_label": 1,
+            "label_reason": "Agent continues to push a sales offer, despite the customer's lack of interest and the sensitive context of the call."
+        },
+        {
+            "start": 376.94,
+            "end": 383.24,
+            "role": "agent",
+            "text": "Yeah, we, like we could do it for Twenty Five Cents extra, so a dollar a day plus Twenty Five Cents a week. You can work out the math on that one.",
+            "escalation_label": 1,
+            "label_reason": "Agent continues to push the sales offer and uses a slightly condescending tone, indicating persistent disregard for the customer's situation."
+        },
+        {
+            "start": 385.24,
+            "end": 390.34,
+            "role": "customer",
+            "text": "Yeah, no, it's not really selling me, to be honest with you, so it doesn't really sound overly appealing.",
+            "escalation_label": 0,
+            "label_reason": "Customer clearly rejects the sales offer."
+        },
+        {
+            "start": 390.34,
+            "end": 396.94,
+            "role": "agent",
+            "text": "Okay, well, (uh) I do need to let you know that your father was on a, a",
+            "escalation_label": 1,
+            "label_reason": "Agent introduces a new obstacle to cancellation by revealing a year-to-year contract, clearly shifting the interaction to an adversarial stance."
+        },
+        {
+            "start": 397.44,
+            "end": 401.14,
+            "role": "agent",
+            "text": "year-to-year contract, so there is still another eight months left on that.",
+            "escalation_label": 1,
+            "label_reason": "Agent states the remaining contract term, which directly contradicts the customer's initial request for simple cancellation."
+        },
+        {
+            "start": 401.14,
+            "end": 410.54,
+            "role": "agent",
+            "text": "He did sign the terms and conditions, as well as the, the declaration that was witnessed. So there is still another (uh) eight months of that contract left that",
+            "escalation_label": 1,
+            "label_reason": "Agent emphasizes the legal binding of the contract, explicitly stating an obligation that prevents immediate cancellation, which is a direct refusal of the customer's request."
+        },
+        {
+            "start": 410.54,
+            "end": 412.24,
+            "role": "agent",
+            "text": "would still need to be paid out today.",
+            "escalation_label": 1,
+            "label_reason": "Agent demands immediate payment for the remaining contract term, directly imposing a financial burden and refusing the cancellation request."
+        },
+        {
+            "start": 413.74,
+            "end": 419.74,
+            "role": "customer",
+            "text": "(uh) Under Victorian law, that is not going to fly, and I can guarantee you that (uh) I've.",
+            "escalation_label": 1,
+            "label_reason": "Customer immediately challenges the agent's claim by citing Victorian law, stating it 'is not going to fly,' and referencing lawyers, indicating a serious dispute and threat of formal action."
+        },
+        {
+            "start": 419.84,
+            "end": 425.04,
+            "role": "customer",
+            "text": "I've spoken to his lawyers, so anything that is in his name due to his passing can be canceled.",
+            "escalation_label": 1,
+            "label_reason": "Customer reinforces their legal position by stating they have consulted lawyers and confirms that contracts can be canceled due to passing, directly contradicting the agent."
+        },
+        {
+            "start": 424.24,
+            "end": 432.24,
+            "role": "agent",
+            "text": "Pow, it seems like you've made quite a lot of progress. If your father only passed yesterday, and you've already spoken to your lawyers about Herald Sun subscription.",
+            "escalation_label": 1,
+            "label_reason": "Agent uses sarcasm ('Pow') and again questions the timeline of the father's death, mocking the customer's swift action, which is highly disrespectful and escalatory."
+        },
+        {
+            "start": 433.34,
+            "end": 440.54,
+            "role": "customer",
+            "text": "No, I've spoken to them about all their subscriptions, and they gave me legal advice today on everything that he was signed up to, his",
+            "escalation_label": 1,
+            "label_reason": "Customer defends their actions and legal consultations, indicating increased frustration and determination in the face of the agent's mockery."
+        },
+        {
+            "start": 440.84,
+            "end": 454.64,
+            "role": "customer",
+            "text": "(ah) electricity and gas, his internet. I've had to call everybody, get everything sorted. So , yeah, that was the first advice, is get all the affairs in order, and that was the legal advice that was given to me. So I would like to sa,",
+            "escalation_label": 1,
+            "label_reason": "Customer emphasizes the difficulty of managing the deceased's affairs and reiterates receiving legal advice, underscoring their serious dissatisfaction with the agent's refusal."
+        },
+        {
+            "start": 454.64,
+            "end": 458.44,
+            "role": "customer",
+            "text": "cancel that due to his passing, as he is no longer alive.",
+            "escalation_label": 1,
+            "label_reason": "Customer firmly reiterates the request to cancel due to the father's death, highlighting the agent's inappropriate handling of the situation."
+        },
+        {
+            "start": 458.64,
+            "end": 466.44,
+            "role": "agent",
+            "text": "Okay, well, (uh) I can actually see here that (uh) the contract screening you wanted to go through this morning, so you've",
+            "escalation_label": 1,
+            "label_reason": "Agent claims the customer called too late to avoid a payment, introducing another obstacle and increasing frustration."
+        },
+        {
+            "start": 466.44,
+            "end": 470.04,
+            "role": "agent",
+            "text": "called in a little bit too late. So that payment has actually just been taken",
+            "escalation_label": 1,
+            "label_reason": "Agent informs the customer that a payment has already been taken, creating a new point of contention."
+        },
+        {
+            "start": 470.14,
+            "end": 472.54,
+            "role": "agent",
+            "text": "(uh) from his card, and we do have a strict no refund policy.",
+            "escalation_label": 1,
+            "label_reason": "Agent states a 'strict no refund policy,' directly refusing to resolve the recent payment issue and frustrating the customer further."
+        },
+        {
+            "start": 474.04,
+            "end": 477.24,
+            "role": "customer",
+            "text": "That's fine, I will take this further, because that's not the law.",
+            "escalation_label": 1,
+            "label_reason": "Customer explicitly threatens to 'take this further' and states the agent's claim is 'not the law,' clearly escalating the dispute."
+        },
+        {
+            "start": 477.54,
+            "end": 481.34,
+            "role": "agent",
+            "text": "Okay, (um) well, it is the law when the contract is signed.",
+            "escalation_label": 1,
+            "label_reason": "Agent directly contradicts the customer's legal assertion, maintaining an argumentative and unhelpful stance."
+        },
+        {
+            "start": 482.84,
+            "end": 485.64,
+            "role": "customer",
+            "text": "Not when someone's not alive anymore, and you can look that up.",
+            "escalation_label": 1,
+            "label_reason": "Customer firmly reiterates their legal point and challenges the agent to verify it, expressing strong disagreement and frustration."
+        },
+        {
+            "start": 486.04,
+            "end": 491.14,
+            "role": "agent",
+            "text": "Okay, (um) well, I've been through the same thing myself, and I can tell you now that",
+            "escalation_label": 1,
+            "label_reason": "Agent dismisses the customer's legal argument by asserting personal experience, which is unprofessional and escalatory."
+        },
+        {
+            "start": 491.84,
+            "end": 494.64,
+            "role": "agent",
+            "text": "the contract is binding. It was agreed to.",
+            "escalation_label": 1,
+            "label_reason": "Agent insists the contract is binding, directly opposing the customer's position and demonstrating unhelpfulness."
+        },
+        {
+            "start": 494.74,
+            "end": 501.04,
+            "role": "customer",
+            "text": "It's fine, I, I don't need to have this argument with you, you're wrong, I'll take this further, and I'm happy to escalate it to your manager.",
+            "escalation_label": 1,
+            "label_reason": "Customer explicitly states 'I don't need to have this argument with you, you're wrong,' threatens to 'take this further,' and demands to escalate to a manager, indicating extreme frustration and a formal complaint."
+        },
+        {
+            "start": 500.84,
+            "end": 501.44,
+            "role": "agent",
+            "text": "Okay, well.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 501.44,
+            "end": 505.34,
+            "role": "customer",
+            "text": "Like, this is a really hard time at the moment, it's difficult enough as it is,",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses strong emotional distress and frustration over the difficult time, exacerbated by the agent's actions."
+        },
+        {
+            "start": 505.34,
+            "end": 514.44,
+            "role": "customer",
+            "text": "and you're being quite rude, and you don't understand what you're talking about, and you need to go and learn a little bit more about your role before you start educating customers about things, Okay? So",
+            "escalation_label": 1,
+            "label_reason": "Customer directly accuses the agent of being 'quite rude' and lacking understanding, expressing severe dissatisfaction and attacking the agent's professionalism."
+        },
+        {
+            "start": 513.64,
+            "end": 514.04,
+            "role": "agent",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 514.54,
+            "end": 515.84,
+            "role": "customer",
+            "text": "I just want to cancel it,",
+            "escalation_label": 1,
+            "label_reason": "Customer exasperatedly reiterates the core request, indicating ongoing frustration."
+        },
+        {
+            "start": 515.84,
+            "end": 525.44,
+            "role": "customer",
+            "text": "that's it. And, yeah, that's fine, I don't want to hear any more of like the extra things, and things like that, can we just get into this cancelation process?",
+            "escalation_label": 1,
+            "label_reason": "Customer explicitly expresses frustration with additional information and demands to proceed directly with cancellation, demonstrating serious dissatisfaction."
+        },
+        {
+            "start": 524.64,
+            "end": 531.74,
+            "role": "agent",
+            "text": "Yep, absolutely. That'll, We'll need to advise that there is a cancelation fee of Eighty Five Dollars, and that is due today.",
+            "escalation_label": 1,
+            "label_reason": "Agent introduces an additional cancellation fee immediately after the customer's strong demand to cancel, which is a further obstacle and source of frustration."
+        },
+        {
+            "start": 531.84,
+            "end": 539.94,
+            "role": "agent",
+            "text": "(um) And that will need to come off a separate card if your father allegedly isn't around to verify the payment. It came off his card, so you'll need to pay that now.",
+            "escalation_label": 1,
+            "label_reason": "Agent uses the offensive term 'allegedly' again when referring to the father's death and demands immediate payment of a cancellation fee, escalating the disrespect and conflict."
+        },
+        {
+            "start": 541.09,
+            "end": 549.79,
+            "role": "customer",
+            "text": "No, that won't be happening, and I don't appreciate the allegedly either, so I do want to escalate this cause with someone else that I can speak to.",
+            "escalation_label": 1,
+            "label_reason": "Customer refuses payment, expresses strong offense at the agent's use of 'allegedly,' and demands to escalate the issue to a different person, indicating severe dissatisfaction and a demand for higher-level intervention."
+        },
+        {
+            "start": 549.94,
+            "end": 555.94,
+            "role": "agent",
+            "text": "(uh) Well, I am the manager. (um) I'm also the auditor. (uh) I also print the paper, so",
+            "escalation_label": 1,
+            "label_reason": "Agent makes a highly dismissive and misleading claim about their multiple roles, including being 'the manager' and 'auditor,' effectively denying the customer's right to escalate to a higher authority."
+        },
+        {
+            "start": 556.74,
+            "end": 559.54,
+            "role": "agent",
+            "text": "(uh) there is no one else to take this to.",
+            "escalation_label": 1,
+            "label_reason": "Agent explicitly states 'there is no one else to take this to,' directly refusing the customer's demand for escalation."
+        },
+        {
+            "start": 559.24,
+            "end": 561.94,
+            "role": "customer",
+            "text": "That's fine, I'll take it further, we'll go to the ombudsman.",
+            "escalation_label": 1,
+            "label_reason": "Customer explicitly states 'I'll take it further, we'll go to the ombudsman,' which is a direct threat of formal regulatory complaint."
+        },
+        {
+            "start": 561.74,
+            "end": 563.64,
+            "role": "agent",
+            "text": "Okay, I have heard that quite a few times. So",
+            "escalation_label": 1,
+            "label_reason": "Agent dismisses the customer's threat to go to the ombudsman by stating 'I have heard that quite a few times,' implying it's an empty threat and acting condescendingly."
+        },
+        {
+            "start": 564.24,
+            "end": 574.54,
+            "role": "agent",
+            "text": "(ah) you can (uh) use your threats also enter a confirmation of this call. (um) But if you would like to continue the subscription, (um) just let us know. (um)",
+            "escalation_label": 1,
+            "label_reason": "Agent refers to the customer's statements as 'threats,' implies they will be documented, and continues to push for subscription retention, demonstrating ongoing hostility and disregard."
+        },
+        {
+            "start": 574.44,
+            "end": 575.44,
+            "role": "customer",
+            "text": "No, thank you.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly declines."
+        },
+        {
+            "start": 574.94,
+            "end": 577.64,
+            "role": "agent",
+            "text": "Is there anything else I can help you with today outside of this call?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks a closing question, not necessarily escalating in itself, but highly incongruous with the prior interaction."
+        },
+        {
+            "start": 578.94,
+            "end": 579.84,
+            "role": "customer",
+            "text": "No, thank you.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly declines."
+        },
+        {
+            "start": 579.94,
+            "end": 585.74,
+            "role": "agent",
+            "text": "All right, well, (uh) for now, we'll keep that subscription going (um) until you do reach out and",
+            "escalation_label": 1,
+            "label_reason": "Agent explicitly states they will *not* cancel the subscription, but rather keep it going, which is a direct refusal of the customer's primary request."
+        },
+        {
+            "start": 586.74,
+            "end": 591.54,
+            "role": "agent",
+            "text": "allegedly take it further. (um) to cancel that one. Thanks, Laura. I really appreciate it.",
+            "escalation_label": 1,
+            "label_reason": "Agent uses 'allegedly' again to mock the customer's intent to escalate, and then sarcastically thanks the customer by name, ending the call with clear disrespect and hostility."
+        },
+        {
+            "start": 593.04,
+            "end": 593.54,
+            "role": "customer",
+            "text": "Goodbye.",
+            "escalation_label": 0,
+            "label_reason": "Customer ends the call."
+        },
+        {
+            "start": 593.74,
+            "end": 594.04,
+            "role": "agent",
+            "text": "Thank",
+            "escalation_label": 0,
+            "label_reason": "Agent ends the call."
+        }
+    ]
+}

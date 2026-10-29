@@ -1,0 +1,528 @@
+{
+    "file_name": "en_AU_Agriculture_1586330.wav",
+    "duration": 432.0,
+    "accent": "en-AU",
+    "domain": "agriculture",
+    "segments": [
+        {
+            "start": 20.5,
+            "end": 21.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Hi. How can I help you?"
+        },
+        {
+            "start": 23.74,
+            "end": 28.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Hi. I'm just calling about the new government subsidies for the drip irrigation."
+        },
+        {
+            "start": 29.49,
+            "end": 34.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yes, sure. Look (uh) thank you for contacting Gas."
+        },
+        {
+            "start": 34.34,
+            "end": 43.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Um) this is the correct information line and I can definitely help you with your questions. Is there a particular question that you need to check?"
+        },
+        {
+            "start": 45.14,
+            "end": 54.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Um) it's just that water rates have been rising, and I'm looking at switching to flood irrigation. Wondering if that's a right move for me."
+        },
+        {
+            "start": 55.24,
+            "end": 64.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Look, yes. The the program is designed to help farmers move from flood irrigations to more efficient systems"
+        },
+        {
+            "start": 64.24,
+            "end": 67.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(uh) like drip or sprinkler water irrigation."
+        },
+        {
+            "start": 67.84,
+            "end": 74.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "It provides a subsidy to cover part of the cost of equipment and installations . Is that what you're after?"
+        },
+        {
+            "start": 75.55,
+            "end": 76.89,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "It is for the yes."
+        },
+        {
+            "start": 77.31,
+            "end": 86.61,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Sure. So look I I can take you through (uh) the some of the steps and your eligibility and application process."
+        },
+        {
+            "start": 86.64,
+            "end": 89.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Before I continue, can I have your post code please?"
+        },
+        {
+            "start": 90.54,
+            "end": 94.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yeah it's (uh) seven nine five two."
+        },
+        {
+            "start": 94.44,
+            "end": 98.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Seven nine five two, sure . And (uh) what was your name again?"
+        },
+        {
+            "start": 100.34,
+            "end": 102.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Uh) Jenny O'Brien."
+        },
+        {
+            "start": 103.24,
+            "end": 115.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Perfect, thank you so much. Look so in terms of the eligibility to apply you will need to be the owner or the lease holder for a commercial farm,"
+        },
+        {
+            "start": 115.54,
+            "end": 119.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "and be able to show that the upgrade will save water."
+        },
+        {
+            "start": 120.81,
+            "end": 129.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "There is a deadline to for the process and the application for this round will close at the end of November."
+        },
+        {
+            "start": 130.14,
+            "end": 139.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "But we we recommend you submitting your application as soon as possible (uh) since the funding for this program is limited."
+        },
+        {
+            "start": 130.84,
+            "end": 131.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay."
+        },
+        {
+            "start": 140.14,
+            "end": 147.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "In terms of the paper work, you will need the proof of property ownership or lease"
+        },
+        {
+            "start": 147.84,
+            "end": 161.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(uh) a curd or irrigation plan from a licensed supplier and some recent water usage details like your latest (uh) water bill or allocation statements."
+        },
+        {
+            "start": 162.84,
+            "end": 163.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Ohh okay, yep."
+        },
+        {
+            "start": 164.24,
+            "end": 170.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "And for the application process, you can apply online through our website."
+        },
+        {
+            "start": 170.54,
+            "end": 176.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "There is a portal link, (um) can I ask how you heard about this program?"
+        },
+        {
+            "start": 177.34,
+            "end": 179.01,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Um) through a government website."
+        },
+        {
+            "start": 180.04,
+            "end": 182.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Was that through the Department of Environment?"
+        },
+        {
+            "start": 183.34,
+            "end": 184.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yeah, yes."
+        },
+        {
+            "start": 183.84,
+            "end": 194.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah, so you would have seen (uh) the link to our portal. (Um) you can up~ (uh) submit your application through the portal or if you pre~ prefer,"
+        },
+        {
+            "start": 194.64,
+            "end": 199.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "you can visit your local government offices and submit the documents in person too."
+        },
+        {
+            "start": 200.32,
+            "end": 208.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "So that's also an option. I'm not sure whether you have access to one of the offices or do you prefer the online application?"
+        },
+        {
+            "start": 209.26,
+            "end": 215.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Um) it will have to be online 'cause we we're quite far away from town. It's about a sixty minute drive into town and back."
+        },
+        {
+            "start": 215.74,
+            "end": 228.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah, sure and that is actually our preferred option because we can (um) process your applications faster and there is (um) (um) better chance of you actually receiving the funding from the government."
+        },
+        {
+            "start": 230.14,
+            "end": 234.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Uh) (um) I was just wondering, do you have loans available to cover equipment cost?"
+        },
+        {
+            "start": 235.54,
+            "end": 249.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "So if you actually need help with upfront cost, low interest loans are available (uh) through one of our (uh) institutes to help cover any remaining expenses ."
+        },
+        {
+            "start": 249.44,
+            "end": 258.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "But for that and for you to be e~ eligible for that we'll need complete details about what what you are actually seeking for ."
+        },
+        {
+            "start": 258.74,
+            "end": 266.19,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "So the type of equipments and all the details, warranty details, the cost and everything about it ."
+        },
+        {
+            "start": 266.24,
+            "end": 274.29,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "So there are if you're doing this online, there will be a section where you can actually provide all this additional information."
+        },
+        {
+            "start": 274.39,
+            "end": 288.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "But what I will suggest is gather all the information upfront, and then start your application process. You can always go back and submit amendments to the application but I would suggest doing it in all,"
+        },
+        {
+            "start": 288.24,
+            "end": 295.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "so when the offices start looking at your application, they have all the information (uh) in front of them."
+        },
+        {
+            "start": 296.64,
+            "end": 298.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay, yeah. That sounds doable."
+        },
+        {
+            "start": 298.29,
+            "end": 303.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah. So is there any other particular information that you will need?"
+        },
+        {
+            "start": 304.36,
+            "end": 308.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Um) just wondering, how long would it be until a decision has been made?"
+        },
+        {
+            "start": 308.59,
+            "end": 321.86,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "So the applications will close (uh) at the end of November, but (uh) we will (uh) basically start reviewing as soon as applications are complete."
+        },
+        {
+            "start": 321.86,
+            "end": 326.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "So, I would say there is between four to six weeks wait."
+        },
+        {
+            "start": 327.07,
+            "end": 329.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Ah) okay. And then you'll let me know by email?"
+        },
+        {
+            "start": 330.24,
+            "end": 344.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yes, so all the information then again as part of the portal when you start, initially you will need to provide your contact information and the email that you provide will be the one that will receive all the notifications in terms of,"
+        },
+        {
+            "start": 344.94,
+            "end": 349.82,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "the receipt of your application and how the approval process is progressing."
+        },
+        {
+            "start": 349.82,
+            "end": 361.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "If there are any additional information like major information that are missing from your application, I would say its very helpful to have a contact number on the application form"
+        },
+        {
+            "start": 362.04,
+            "end": 367.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "so one of our agents can actually reach out if there is something that needs to be received."
+        },
+        {
+            "start": 368.04,
+            "end": 369.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yes."
+        },
+        {
+            "start": 368.54,
+            "end": 371.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay, yeah. That sounds straight forward."
+        },
+        {
+            "start": 371.14,
+            "end": 382.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Would you like me to also give you a phone number where you can actually start your application and then if you needed any particular information or check in points?"
+        },
+        {
+            "start": 382.94,
+            "end": 383.76,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Ah) yes please."
+        },
+        {
+            "start": 383.79,
+            "end": 387.42,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "So the phone number is one eight hundred"
+        },
+        {
+            "start": 388.84,
+            "end": 389.37,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Ah) yeah."
+        },
+        {
+            "start": 389.32,
+            "end": 390.79,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "three double six"
+        },
+        {
+            "start": 392.02,
+            "end": 392.47,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 392.99,
+            "end": 394.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "five nine two."
+        },
+        {
+            "start": 395.49,
+            "end": 397.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay, cool. I'll write everything down."
+        },
+        {
+            "start": 397.44,
+            "end": 410.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yes so (uh) you can contact his number if there were any specific help needed in terms of the application but they won't be able to pro~ provide you information about the whole process. You need to contact us for that."
+        },
+        {
+            "start": 411.24,
+            "end": 412.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yeah no, it's cool."
+        },
+        {
+            "start": 412.44,
+            "end": 420.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Fantastic . If there is no o~ there are no other questions, would you mind staying on the line for a short survey after the call?"
+        },
+        {
+            "start": 421.04,
+            "end": 422.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "No that's fine."
+        },
+        {
+            "start": 422.64,
+            "end": 424.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Perfect. Thank you so much for calling."
+        },
+        {
+            "start": 425.29,
+            "end": 426.39,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thanks."
+        }
+    ]
+}

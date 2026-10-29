@@ -1,0 +1,416 @@
+{
+    "file_name": "en_AU_Aviation_1586330.wav",
+    "duration": 354.0,
+    "accent": "en-AU",
+    "domain": "aviation",
+    "segments": [
+        {
+            "start": 18.98,
+            "end": 23.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Hello. (Uh) you have reached out to ABC Airlines, how can I help you?"
+        },
+        {
+            "start": 24.74,
+            "end": 33.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Hi. My name is Sarah and I'm just looking I've flown from Australia to New Zealand, and I'm looking coming back to Australia,"
+        },
+        {
+            "start": 33.37,
+            "end": 37.97,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "but I need to change my flight date to another date. Are you able to help me with that, please?"
+        },
+        {
+            "start": 39.34,
+            "end": 43.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Absolutely. So you already have a return flight booked?"
+        },
+        {
+            "start": 43.31,
+            "end": 44.2,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "I do, yes."
+        },
+        {
+            "start": 44.87,
+            "end": 49.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "All right. (Uh) I can definitely help you with that."
+        },
+        {
+            "start": 49.04,
+            "end": 57.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So before I start, could I please have your booking reference number or your ticket number so I can look y~ up your reservation?"
+        },
+        {
+            "start": 57.44,
+            "end": 62.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yep (um) it's five four eight one nine two three four."
+        },
+        {
+            "start": 64.09,
+            "end": 65.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yup."
+        },
+        {
+            "start": 68.84,
+            "end": 79.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Zero, yep okay, yes. Great. Thank you . I can see your current flight is on twelfth of December."
+        },
+        {
+            "start": 80.31,
+            "end": 88.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Let me check what flights are available after that day in economy class if that's all right. Can I put you on hold for a second?"
+        },
+        {
+            "start": 88.42,
+            "end": 89.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah, that's cool."
+        },
+        {
+            "start": 100.34,
+            "end": 107.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So Sarah, can I check that any date after that like would be okay for you or is there a particular date that your prefer?"
+        },
+        {
+            "start": 105.84,
+            "end": 106.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah."
+        },
+        {
+            "start": 108.09,
+            "end": 111.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Um) I would prefer a date. Probably around about the tenth of December."
+        },
+        {
+            "start": 113.34,
+            "end": 125.98,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Because we have seats available on the nineteenth which gives me a very good option but I do also have one on the tenth."
+        },
+        {
+            "start": 125.98,
+            "end": 138.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Staying in economy class is absolutely fine and you don't need to upgrade but (um) in terms of the seat selection on your preferred date,"
+        },
+        {
+            "start": 139.34,
+            "end": 141.66,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(um)"
+        },
+        {
+            "start": 142.56,
+            "end": 149.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "I may and there might be some additional charges to that because there is a fair difference"
+        },
+        {
+            "start": 149.74,
+            "end": 154.58,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "depending on (uh) the time that we go with. Is there any preferred time?"
+        },
+        {
+            "start": 154.58,
+            "end": 160.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "What I have here is during the afternoon and nine p.m. flight."
+        },
+        {
+            "start": 161.54,
+            "end": 163.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Uh) can we do the nine p.m. flight?"
+        },
+        {
+            "start": 164.74,
+            "end": 167.07,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. (Um)"
+        },
+        {
+            "start": 169.57,
+            "end": 175.03,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "so just give me one more second so I can check that one for you ,"
+        },
+        {
+            "start": 175.7,
+            "end": 180.36,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "and I can give you the exact total before confirming anything."
+        },
+        {
+            "start": 186.84,
+            "end": 200.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So the lowest available fare I can offer for the nine p.m. on the tenth and the total cost to change would be sixty-eight dollars. Would you like me to go ahead and rebook that for you?"
+        },
+        {
+            "start": 201.54,
+            "end": 203.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Is that cheapest option you've got available?"
+        },
+        {
+            "start": 205.64,
+            "end": 215.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yes. If we are changing to the tenth, that is, if we are changing to the nineteenth, nineteenth of December onwards, there might be actually,"
+        },
+        {
+            "start": 206.94,
+            "end": 207.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah?"
+        },
+        {
+            "start": 215.84,
+            "end": 221.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "additional charges considering that time of the year, it's very close to Christmas period so."
+        },
+        {
+            "start": 221.84,
+            "end": 224.36,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "No. I'll I'll go with the tenth of December please."
+        },
+        {
+            "start": 224.7,
+            "end": 231.19,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. Fantastic. So just bear with me while I confirm all your details here."
+        },
+        {
+            "start": 231.19,
+            "end": 232.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So"
+        },
+        {
+            "start": 234.28,
+            "end": 240.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "I have your seat selection. (Um) is an aisle seat okay for you?"
+        },
+        {
+            "start": 241.04,
+            "end": 242.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah. That's that'd be great."
+        },
+        {
+            "start": 242.34,
+            "end": 252.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "The tenth of December at nine p.m. and I've got all your email (uh) and contact information here."
+        },
+        {
+            "start": 253.34,
+            "end": 261.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And your flight has been successfully changed and I have sent the updated itinerary and e-ticket to your email address."
+        },
+        {
+            "start": 261.56,
+            "end": 262.39,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh. Great."
+        },
+        {
+            "start": 264.14,
+            "end": 267.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Can you please double check all the details when you receive it?"
+        },
+        {
+            "start": 268.44,
+            "end": 269.09,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh yeah."
+        },
+        {
+            "start": 269.54,
+            "end": 276.87,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And is there anything else I can help you with such as your additional package or anything like that?"
+        },
+        {
+            "start": 277.39,
+            "end": 279.21,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Uh) no, not at the moment, thank you."
+        },
+        {
+            "start": 280.44,
+            "end": 285.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "All right. I'll hold on (um) until you receive and then confirm your details for me."
+        },
+        {
+            "start": 286.39,
+            "end": 287.22,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Okay, cool."
+        },
+        {
+            "start": 298.26,
+            "end": 300.26,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh. So all my details correct."
+        },
+        {
+            "start": 301.24,
+            "end": 310.17,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Fantastic. All right. (Uh) thank you for contacting ABC Airlines and I hope you have a pleasant trip when you travel."
+        },
+        {
+            "start": 310.24,
+            "end": 317.17,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "One thing that I would remind you is, please arrive at the airport ninety minutes before your flight."
+        },
+        {
+            "start": 317.19,
+            "end": 327.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And if you require any assistance, please (uh) head towards the counter and the flight attendants there will be able to assist you with all your inquiries."
+        },
+        {
+            "start": 327.84,
+            "end": 337.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And just a reminder that you don't have any check-in bags and please have your passport and all the information handy."
+        },
+        {
+            "start": 338.14,
+            "end": 339.39,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "I will. Thank you."
+        },
+        {
+            "start": 339.74,
+            "end": 340.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thank you very much."
+        }
+    ]
+}

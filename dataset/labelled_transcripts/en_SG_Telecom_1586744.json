@@ -1,0 +1,2041 @@
+{
+    "file_name": "en_SG_Telecom_1586744.wav",
+    "domain": "telecom",
+    "accent": "en-SG",
+    "duration": 888.0,
+    "escalation_label": 1,
+    "segments": [
+        {
+            "start": 1.64,
+            "end": 2.54,
+            "role": "customer",
+            "text": "Hello, hello.",
+            "escalation_label": 0,
+            "label_reason": "Normal greeting."
+        },
+        {
+            "start": 3.34,
+            "end": 7.44,
+            "role": "agent",
+            "text": "Hi. (uh) This is call~, yeah, this is from Singtel.",
+            "escalation_label": 0,
+            "label_reason": "Agent greeting and identification."
+        },
+        {
+            "start": 4.44,
+            "end": 4.84,
+            "role": "customer",
+            "text": "Hello.",
+            "escalation_label": 0,
+            "label_reason": "Normal greeting."
+        },
+        {
+            "start": 8.94,
+            "end": 10.44,
+            "role": "customer",
+            "text": "Yeah, Singtel customer service, right?",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms agent's identity."
+        },
+        {
+            "start": 11.34,
+            "end": 11.82,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirmation."
+        },
+        {
+            "start": 12.39,
+            "end": 16.69,
+            "role": "customer",
+            "text": "Yeah, cool. No, it takes so long to to pick up my phone, loh, you know, it's okay, loh.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild annoyance about wait time but dismisses it, not strong enough for escalation."
+        },
+        {
+            "start": 17.79,
+            "end": 22.79,
+            "role": "customer",
+            "text": "Ai. Okay, now, ma anyway (uh,) (uh) ya, ya, it's okay, it's okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to dismiss the wait time issue."
+        },
+        {
+            "start": 19.24,
+            "end": 20.89,
+            "role": "agent",
+            "text": "Yeah, so sorry for waiting.",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes for the wait time."
+        },
+        {
+            "start": 23.04,
+            "end": 34.9,
+            "role": "customer",
+            "text": "But anyway, I just wanna call in because (uh) I'm having some issues setting up my wi-fi here at home, lah, because, you know, installers just now just came, and then they already (uh) fix everything and all that stuff like that.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains the initial problem with Wi-Fi setup."
+        },
+        {
+            "start": 31.49,
+            "end": 32.09,
+            "role": "agent",
+            "text": "Uh-uh.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 34.9,
+            "end": 43.64,
+            "role": "customer",
+            "text": "And now my wi-fi is having some (um) some issues while I'm setting it up (uh) can you assist me on this, loh?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for assistance with Wi-Fi setup."
+        },
+        {
+            "start": 45.14,
+            "end": 49.94,
+            "role": "agent",
+            "text": "Okay. (um) Is the, are you near the modem now?",
+            "escalation_label": 0,
+            "label_reason": "Agent begins troubleshooting by asking about location relative to modem."
+        },
+        {
+            "start": 50.84,
+            "end": 52.09,
+            "role": "customer",
+            "text": "Yes, yes, I'm here at the modem.",
+            "escalation_label": 0,
+            "label_reason": "Customer answers troubleshooting question."
+        },
+        {
+            "start": 52.99,
+            "end": 60.09,
+            "role": "agent",
+            "text": "Okay. (uh) Have you tried switching on and off for the the switch for the modem?",
+            "escalation_label": 0,
+            "label_reason": "Agent suggests a common troubleshooting step (power cycle)."
+        },
+        {
+            "start": 59.84,
+            "end": 63.84,
+            "role": "customer",
+            "text": "Yes, I have a home phone, lah. Must switch on, must switch on first, lah.",
+            "escalation_label": 0,
+            "label_reason": "Customer responds to troubleshooting question."
+        },
+        {
+            "start": 65.04,
+            "end": 67.79,
+            "role": "agent",
+            "text": "Yeah. so have you turned it on and off again?",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies troubleshooting step."
+        },
+        {
+            "start": 65.84,
+            "end": 66.24,
+            "role": "customer",
+            "text": "Ohh.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 67.34,
+            "end": 67.94,
+            "role": "customer",
+            "text": "Ye~ yes.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms action."
+        },
+        {
+            "start": 68.64,
+            "end": 70.14,
+            "role": "customer",
+            "text": "So you want it off and on again, lah?",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks confirmation of instructions."
+        },
+        {
+            "start": 70.94,
+            "end": 71.74,
+            "role": "agent",
+            "text": "Yes, correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms instructions."
+        },
+        {
+            "start": 72.24,
+            "end": 73.79,
+            "role": "customer",
+            "text": "Okay, okay, I'll try, okay. Off.",
+            "escalation_label": 0,
+            "label_reason": "Customer agrees to perform the troubleshooting step."
+        },
+        {
+            "start": 75.24,
+            "end": 77.84,
+            "role": "customer",
+            "text": "yeah, I must wait a few seconds or I switch it on?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for further clarification on the process."
+        },
+        {
+            "start": 79.09,
+            "end": 84.14,
+            "role": "agent",
+            "text": "(uh) Yeah, wait for ten seconds after you off, before you turn it on.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides detailed instructions for troubleshooting."
+        },
+        {
+            "start": 84.49,
+            "end": 86.44,
+            "role": "customer",
+            "text": "That seems more than perfect .",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges and accepts the instruction."
+        },
+        {
+            "start": 87.64,
+            "end": 90.24,
+            "role": "customer",
+            "text": "Okay, yeah, now it's (uh) lighting up.",
+            "escalation_label": 0,
+            "label_reason": "Customer reports the status of the modem after power cycle."
+        },
+        {
+            "start": 89.29,
+            "end": 89.87,
+            "role": "agent",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 92.24,
+            "end": 92.94,
+            "role": "customer",
+            "text": "Ohh, ya.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 94.69,
+            "end": 95.54,
+            "role": "customer",
+            "text": "I see .",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 96.29,
+            "end": 98.09,
+            "role": "customer",
+            "text": "I now, I still have my wi-fi wire.",
+            "escalation_label": 0,
+            "label_reason": "Customer states the Wi-Fi issue persists."
+        },
+        {
+            "start": 99.09,
+            "end": 99.63,
+            "role": "customer",
+            "text": "can you check now?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks agent to check the status from their end."
+        },
+        {
+            "start": 99.34,
+            "end": 100.39,
+            "role": "agent",
+            "text": "Okay, (um.)",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 101.14,
+            "end": 107.59,
+            "role": "agent",
+            "text": "Yeah. (uh) You look at your modem, right, then there's actually a reset (uh) button to it.",
+            "escalation_label": 0,
+            "label_reason": "Agent suggests another troubleshooting step (reset button)."
+        },
+        {
+            "start": 101.49,
+            "end": 101.74,
+            "role": "customer",
+            "text": "(uh)",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 108.29,
+            "end": 110.04,
+            "role": "customer",
+            "text": "Not reset, you want me to hard reset it ?",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies the instruction, ensuring it's a 'hard reset'."
+        },
+        {
+            "start": 111.44,
+            "end": 112.14,
+            "role": "agent",
+            "text": "Sorry?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for clarification."
+        },
+        {
+            "start": 112.39,
+            "end": 114.04,
+            "role": "customer",
+            "text": "You want me to hard reset it, is it?",
+            "escalation_label": 0,
+            "label_reason": "Customer repeats and clarifies the question about hard reset."
+        },
+        {
+            "start": 115.74,
+            "end": 121.29,
+            "role": "agent",
+            "text": "(uh) Yeah, you just need to try, we can try different options to see whether it works.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the reset as a troubleshooting option."
+        },
+        {
+            "start": 122.14,
+            "end": 127.44,
+            "role": "customer",
+            "text": "Okay, so when I'm, when I press the button, should I off, off again, or I just leave it on and then just press the button?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for detailed instructions on performing the reset."
+        },
+        {
+            "start": 128.09,
+            "end": 134.19,
+            "role": "agent",
+            "text": "No, when you press the reset, right, then you can hold it for, like, (um) ten seconds.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides specific instructions for the reset procedure."
+        },
+        {
+            "start": 135.04,
+            "end": 135.39,
+            "role": "customer",
+            "text": "Uh-huh.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 136.44,
+            "end": 138.29,
+            "role": "agent",
+            "text": "Yeah. And usually.",
+            "escalation_label": 0,
+            "label_reason": "Agent elaborates on expected outcome."
+        },
+        {
+            "start": 136.74,
+            "end": 138.34,
+            "role": "customer",
+            "text": "So I press and hold for ten second?",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks confirmation of instructions."
+        },
+        {
+            "start": 139.24,
+            "end": 145.29,
+            "role": "agent",
+            "text": "Yeah, usually it should be able to, (um) the the lights are supposed to light up properly.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the expected result after the reset."
+        },
+        {
+            "start": 145.34,
+            "end": 147.19,
+            "role": "customer",
+            "text": "Okay. So after ten second I just let go, lah?",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks confirmation of the next action after reset."
+        },
+        {
+            "start": 148.24,
+            "end": 154.29,
+            "role": "agent",
+            "text": "Yeah. And then we will just wait for it to, for the lights to to like that.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the next step of waiting for lights."
+        },
+        {
+            "start": 153.24,
+            "end": 158.64,
+            "role": "customer",
+            "text": "But, but you gotta check inside your m~ m~ but you can, you can check from your system, right, if my wi-fi working or no.",
+            "escalation_label": 0,
+            "label_reason": "Customer insists on agent checking system, but without strong frustration or demands yet."
+        },
+        {
+            "start": 161.64,
+            "end": 163.99,
+            "role": "agent",
+            "text": "(uh) Have you actually pressed the reset button?",
+            "escalation_label": 0,
+            "label_reason": "Agent checks if customer has performed the action."
+        },
+        {
+            "start": 164.64,
+            "end": 166.09,
+            "role": "customer",
+            "text": "Ohh, no, no, no, yeah, I press now, ah?",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms they are about to press the button."
+        },
+        {
+            "start": 166.74,
+            "end": 167.54,
+            "role": "agent",
+            "text": "Okay, okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 167.84,
+            "end": 168.39,
+            "role": "customer",
+            "text": "yeah",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 169.74,
+            "end": 170.44,
+            "role": "customer",
+            "text": "(uh)",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 171.44,
+            "end": 172.39,
+            "role": "customer",
+            "text": "ten seconds,",
+            "escalation_label": 0,
+            "label_reason": "Customer states an action (counting seconds)."
+        },
+        {
+            "start": 173.24,
+            "end": 174.04,
+            "role": "agent",
+            "text": "Yes, correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the action."
+        },
+        {
+            "start": 175.04,
+            "end": 189.04,
+            "role": "agent",
+            "text": "Yeah, because sometimes maybe it's the modem side. And then if, let's say, it's still not working, then I can check it on my end. Because if your end is able to work right away, then I don't need to do (um) the checking here.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the rationale behind the troubleshooting steps."
+        },
+        {
+            "start": 190.14,
+            "end": 193.09,
+            "role": "customer",
+            "text": "We are done. Already already pressed and let go already.",
+            "escalation_label": 0,
+            "label_reason": "Customer reports completion of the reset."
+        },
+        {
+            "start": 194.14,
+            "end": 194.71,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 194.89,
+            "end": 201.44,
+            "role": "customer",
+            "text": "Got light, lah, but then, got light, lah, but then still my, I think, you know, I check my wi-fi power.",
+            "escalation_label": 0,
+            "label_reason": "Customer reports the Wi-Fi is still not working despite lights, indicating continued issue."
+        },
+        {
+            "start": 195.64,
+            "end": 196.24,
+            "role": "agent",
+            "text": "How is it?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for status update."
+        },
+        {
+            "start": 202.34,
+            "end": 212.04,
+            "role": "customer",
+            "text": "You check from your system, lah, check on your system. Is my wi-fi actually working? Or maybe my installer, just now your installer come never fix properly or what. Maybe you have to send out your installer again. I dunno.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses strong dissatisfaction, blames the installer for not fixing it properly, and suggests sending another installer, indicating an unresolved issue and criticism of prior service."
+        },
+        {
+            "start": 202.64,
+            "end": 203.69,
+            "role": "agent",
+            "text": "Mm, okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 213.14,
+            "end": 219.39,
+            "role": "agent",
+            "text": "Okay. (um) I will check with, (uh) I'll check online here, okay. (uh) Can I get your details?",
+            "escalation_label": 0,
+            "label_reason": "Agent agrees to check the system and asks for verification details."
+        },
+        {
+            "start": 214.34,
+            "end": 214.74,
+            "role": "customer",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 217.19,
+            "end": 218.64,
+            "role": "customer",
+            "text": "Yeah, yeah, yeah, it's a, it's a, it's a.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 220.39,
+            "end": 223.74,
+            "role": "customer",
+            "text": "No, my name is (uh) Mr. Bakkar.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides their name."
+        },
+        {
+            "start": 225.09,
+            "end": 227.04,
+            "role": "agent",
+            "text": "Okay, (um.)",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 225.94,
+            "end": 226.39,
+            "role": "customer",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 227.74,
+            "end": 231.29,
+            "role": "agent",
+            "text": "Can I get your last three digit of your IC number?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for identification details."
+        },
+        {
+            "start": 231.29,
+            "end": 235.03,
+            "role": "customer",
+            "text": "Last is four five six (uh) Z.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides identification details."
+        },
+        {
+            "start": 236.14,
+            "end": 237.64,
+            "role": "agent",
+            "text": "Four five six Z, okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms details."
+        },
+        {
+            "start": 237.44,
+            "end": 238.14,
+            "role": "customer",
+            "text": "Zulu (uh.)",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies a letter."
+        },
+        {
+            "start": 239.74,
+            "end": 240.14,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 241.54,
+            "end": 245.14,
+            "role": "agent",
+            "text": "(uh) Okay. So, Mr. Butter, over here I just check.",
+            "escalation_label": 0,
+            "label_reason": "Agent uses customer's name (mispronounced) and indicates checking the system."
+        },
+        {
+            "start": 244.24,
+            "end": 248.24,
+            "role": "customer",
+            "text": "Bakkar, Mr. Bakkar, not Mr. Butter. Butter is a bread or the shoe, hey.",
+            "escalation_label": 0,
+            "label_reason": "Customer corrects the agent's pronunciation of their name; a lighthearted correction, not strong frustration."
+        },
+        {
+            "start": 249.39,
+            "end": 259.69,
+            "role": "agent",
+            "text": "Okay, sorry. So, Mr. Bakkar, (uh) I can see that from your (um) account, (um) it's actually working.",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes for mispronunciation and reports that the Wi-Fi appears to be working from their end."
+        },
+        {
+            "start": 252.39,
+            "end": 252.84,
+            "role": "customer",
+            "text": "Ah.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 261.94,
+            "end": 264.49,
+            "role": "agent",
+            "text": "Yeah, the wi-fi connection is actually working.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms Wi-Fi connection is working."
+        },
+        {
+            "start": 262.34,
+            "end": 263.64,
+            "role": "customer",
+            "text": "Working, lah.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms Wi-Fi is working."
+        },
+        {
+            "start": 265.09,
+            "end": 267.19,
+            "role": "customer",
+            "text": "Ya, yeah .",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 265.24,
+            "end": 265.89,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirmation."
+        },
+        {
+            "start": 268.44,
+            "end": 278.34,
+            "role": "customer",
+            "text": "I (uh) see, lah, your installer, the wire are never put properly. Do it, lah, I'm appreciate it, I wanna send email .",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses clear dissatisfaction with the installer's work ('never put properly') and states intent to send an email, implying a formal complaint or threat of action."
+        },
+        {
+            "start": 275.34,
+            "end": 276.24,
+            "role": "agent",
+            "text": "Mm, mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 278.24,
+            "end": 278.84,
+            "role": "agent",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 279.09,
+            "end": 281.34,
+            "role": "customer",
+            "text": "just untangle the wire.",
+            "escalation_label": 1,
+            "label_reason": "Customer continues to explain the installer's fault, maintaining dissatisfaction."
+        },
+        {
+            "start": 282.39,
+            "end": 284.24,
+            "role": "customer",
+            "text": "Ohh, now suddenly my wi-fi can be.",
+            "escalation_label": 0,
+            "label_reason": "Customer reports a sudden improvement in Wi-Fi, shifting focus from the installer's work to the current status."
+        },
+        {
+            "start": 286.84,
+            "end": 287.84,
+            "role": "agent",
+            "text": "It's, it's working now?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for confirmation of Wi-Fi functionality."
+        },
+        {
+            "start": 288.04,
+            "end": 291.94,
+            "role": "customer",
+            "text": "Yeah, now it's okay. You see my, your system, your b~, your, (uh) your system there, is it okay?",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms Wi-Fi is now okay and asks the agent to verify it on their system."
+        },
+        {
+            "start": 292.84,
+            "end": 293.54,
+            "role": "agent",
+            "text": "Yeah, yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the status on their system."
+        },
+        {
+            "start": 293.89,
+            "end": 303.69,
+            "role": "customer",
+            "text": "Ya, now they okay. I (uh) these are not very nice (uh) very good (uh,) your installer. See, for nothing I call you then you can, then I and then, lah, I won't have call you .",
+            "escalation_label": 1,
+            "label_reason": "Customer again criticizes the installer's work ('not very nice', 'not very good') and expresses frustration about making an unnecessary call due to their poor service, indicating serious dissatisfaction."
+        },
+        {
+            "start": 299.77,
+            "end": 300.24,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 304.54,
+            "end": 305.14,
+            "role": "customer",
+            "text": "No, not for a while.",
+            "escalation_label": 1,
+            "label_reason": "Customer continues expressing dissatisfaction about the wasted effort."
+        },
+        {
+            "start": 304.99,
+            "end": 309.94,
+            "role": "agent",
+            "text": "(um) No problem, it's okay. (uh) I understand. (uh) We will feedback about that installer.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's frustration and offers to provide feedback about the installer."
+        },
+        {
+            "start": 306.89,
+            "end": 307.39,
+            "role": "customer",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 310.44,
+            "end": 313.84,
+            "role": "customer",
+            "text": "Ohh, I email and say email already.",
+            "escalation_label": 1,
+            "label_reason": "Customer mentions having already sent or planning to send an email, reinforcing the intent of a formal complaint."
+        },
+        {
+            "start": 315.04,
+            "end": 316.54,
+            "role": "agent",
+            "text": "Mm. Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 315.79,
+            "end": 316.54,
+            "role": "customer",
+            "text": "Ai.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses exasperation ('Ai')."
+        },
+        {
+            "start": 317.24,
+            "end": 318.04,
+            "role": "customer",
+            "text": "By the way, what's your name, ah?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for the agent's name, shifting to a more neutral topic."
+        },
+        {
+            "start": 319.74,
+            "end": 323.17,
+            "role": "agent",
+            "text": "(uh) My name is Natalie.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides their name."
+        },
+        {
+            "start": 323.69,
+            "end": 334.14,
+            "role": "customer",
+            "text": "Natalie, ah, okay, Natalie, okay. Anyway, since already my wi-fi, think my wi-fi is now set up and then now I can, I can access it. I got some inquiries, ah, since I'm a new user, lah.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the agent's name and transitions to new inquiries, indicating a de-escalation of the previous issue."
+        },
+        {
+            "start": 325.12,
+            "end": 325.49,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 335.04,
+            "end": 336.09,
+            "role": "agent",
+            "text": "Yeah, okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 336.14,
+            "end": 345.39,
+            "role": "customer",
+            "text": "Ya. But anyway, (um) what is my data limit at home, lah? Like how many gi~ gigabytes do I, do I get from this, (uh) my new internet connection?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks a normal inquiry about data limits."
+        },
+        {
+            "start": 346.24,
+            "end": 346.94,
+            "role": "customer",
+            "text": "I forgot already.",
+            "escalation_label": 0,
+            "label_reason": "Customer adds context to their question."
+        },
+        {
+            "start": 346.89,
+            "end": 347.49,
+            "role": "agent",
+            "text": "(um.)",
+            "escalation_label": 0,
+            "label_reason": "Agent preparing to answer."
+        },
+        {
+            "start": 348.14,
+            "end": 355.79,
+            "role": "agent",
+            "text": "Okay, it's actually unlimited (uh.) And the speed is actually (uh) two GBPS.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about the internet plan."
+        },
+        {
+            "start": 357.19,
+            "end": 358.59,
+            "role": "customer",
+            "text": "Two gigs for .",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks clarification on the speed unit."
+        },
+        {
+            "start": 359.44,
+            "end": 363.56,
+            "role": "customer",
+            "text": "So d~ d~ do I need to monitor my usage since you say unli~ unlimited?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for clarification regarding monitoring usage with an unlimited plan."
+        },
+        {
+            "start": 363.56,
+            "end": 374.79,
+            "role": "customer",
+            "text": "But you know sometimes internet, like, they say unlimited, unlimited, but then after a few giga~ after a few gigs of usage, or too af~ after a few hours of use suddenly, like, becomes slower. do so.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses general skepticism about 'unlimited' claims, not specific to their current service or strong frustration."
+        },
+        {
+            "start": 367.74,
+            "end": 368.19,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 374.84,
+            "end": 375.34,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 375.54,
+            "end": 385.64,
+            "role": "customer",
+            "text": "Or do I have to, like, (uh) or just (uh) monitor the usage that I'm using or me and my family, you know that kinda thing, someti~. You know like kids nowadays also, they play games, right, they never stop playing game .",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to express general concerns about internet usage patterns."
+        },
+        {
+            "start": 382.04,
+            "end": 382.64,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 386.34,
+            "end": 388.5,
+            "role": "agent",
+            "text": "Yeah. I understand.",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses understanding."
+        },
+        {
+            "start": 387.74,
+            "end": 387.93,
+            "role": "customer",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 388.7,
+            "end": 402.04,
+            "role": "agent",
+            "text": "Also, Mr. Bakkar, for yours it's actually unlimited. Meaning to say that (uh) you can use as much as you want. Your kid can play for as long as he wants to. (um) And it's still the same speed, at two GBPS.",
+            "escalation_label": 0,
+            "label_reason": "Agent reassures the customer about the unlimited data and consistent speed."
+        },
+        {
+            "start": 398.04,
+            "end": 398.52,
+            "role": "customer",
+            "text": "(uh)",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 401.04,
+            "end": 401.54,
+            "role": "customer",
+            "text": "Mmhmm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 402.29,
+            "end": 402.74,
+            "role": "customer",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 403.34,
+            "end": 403.92,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirmation."
+        },
+        {
+            "start": 404.44,
+            "end": 405.64,
+            "role": "customer",
+            "text": "Mm. Sure, ah.",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks reassurance."
+        },
+        {
+            "start": 406.74,
+            "end": 410.24,
+            "role": "agent",
+            "text": "Yes, correct. So that's how the wi-fi works, yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the Wi-Fi specifications."
+        },
+        {
+            "start": 407.64,
+            "end": 408.14,
+            "role": "customer",
+            "text": ".",
+            "escalation_label": 0,
+            "label_reason": "Non-verbal communication."
+        },
+        {
+            "start": 411.94,
+            "end": 422.69,
+            "role": "customer",
+            "text": "Okay then. So is there, is there any chance that if I want to increase it, right, (uh) can I do that? I mean, is there any (uh) promotion ongoing, you know, that I can increase my speed?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about upgrading speed or promotions."
+        },
+        {
+            "start": 423.14,
+            "end": 435.94,
+            "role": "customer",
+            "text": "(uh) Or maybe because I didn't take any extra channels for my new TV now. So (uh) maybe I can pick up channels so already give me the new TV box for this promotion and all that, right. So anything",
+            "escalation_label": 0,
+            "label_reason": "Customer inquires about potential promotions related to channels or TV box."
+        },
+        {
+            "start": 429.09,
+            "end": 429.69,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 435.24,
+            "end": 435.69,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 436.14,
+            "end": 441.49,
+            "role": "customer",
+            "text": "anything that I can think of, or maybe since (ah) even though it's that newly installed, but, you know.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to inquire about additional services or promotions."
+        },
+        {
+            "start": 443.39,
+            "end": 454.44,
+            "role": "agent",
+            "text": "Mm. (uh) Yeah, actually, you don't have to do anything else. (um) Because two GBPS is actually the fastest speed already that we have (uh) in the whole Singapore.",
+            "escalation_label": 0,
+            "label_reason": "Agent informs the customer that their current speed is the fastest available."
+        },
+        {
+            "start": 455.14,
+            "end": 458.04,
+            "role": "agent",
+            "text": "So, meaning to say that that's the fastest speed you can ever get.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates that the speed is the maximum possible."
+        },
+        {
+            "start": 457.34,
+            "end": 459.19,
+            "role": "customer",
+            "text": "Really max, two GBP is the fastest.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses surprise and seeks confirmation."
+        },
+        {
+            "start": 460.24,
+            "end": 461.19,
+            "role": "agent",
+            "text": "Ya, correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the maximum speed."
+        },
+        {
+            "start": 461.64,
+            "end": 461.89,
+            "role": "customer",
+            "text": "Hmm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 463.14,
+            "end": 467.14,
+            "role": "agent",
+            "text": "So, (um) yeah, so there's actually nothing else that you can be doing.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms there are no further upgrades."
+        },
+        {
+            "start": 463.24,
+            "end": 463.64,
+            "role": "customer",
+            "text": ".",
+            "escalation_label": 0,
+            "label_reason": "Non-verbal communication."
+        },
+        {
+            "start": 467.24,
+            "end": 477.27,
+            "role": "agent",
+            "text": "(uh) Yeah, but do just take note, because (um) basically with wi-fi, as long as there's so many devices ongoing at the same time, sometimes it will slow down a little bit. Just a very little one.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a minor clarification about Wi-Fi performance with multiple devices."
+        },
+        {
+            "start": 477.67,
+            "end": 485.29,
+            "role": "agent",
+            "text": "(um) But honestly, it's not gonna affect a lot because (um) two GBPS is already the fastest speed that you can actually get already.",
+            "escalation_label": 0,
+            "label_reason": "Agent reassures that the minor slowdown won't significantly affect performance."
+        },
+        {
+            "start": 486.44,
+            "end": 489.44,
+            "role": "customer",
+            "text": "I see. I see, I see. So.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the information."
+        },
+        {
+            "start": 486.84,
+            "end": 487.24,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 488.64,
+            "end": 500.64,
+            "role": "agent",
+            "text": "Correct. And the promotions that you actually sign up for the last time, (um) it's al~ it's a very good plan. And right now, the new TV (um) box that we actually give it to you.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains that the customer's current plan and TV box are already part of a good promotion."
+        },
+        {
+            "start": 501.34,
+            "end": 504.49,
+            "role": "agent",
+            "text": "(um) Yeah, that's also part of the promotion as well.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the TV box is part of the promotion."
+        },
+        {
+            "start": 505.49,
+            "end": 506.89,
+            "role": "customer",
+            "text": "That's why you want to add channels, ah?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about adding channels."
+        },
+        {
+            "start": 508.44,
+            "end": 510.84,
+            "role": "agent",
+            "text": "(uh) If you want to add channels, (uh.)",
+            "escalation_label": 0,
+            "label_reason": "Agent responds to the inquiry about adding channels."
+        },
+        {
+            "start": 509.59,
+            "end": 511.14,
+            "role": "customer",
+            "text": "Like football, I wanna have football.",
+            "escalation_label": 0,
+            "label_reason": "Customer specifies interest in football channels."
+        },
+        {
+            "start": 512.64,
+            "end": 520.34,
+            "role": "agent",
+            "text": "Okay, so if you want to add football, then you can just go onto our website. Then you can add on the package for the football.",
+            "escalation_label": 0,
+            "label_reason": "Agent advises the customer to add the package via the website."
+        },
+        {
+            "start": 519.79,
+            "end": 527.84,
+            "role": "customer",
+            "text": "I cannot add on from you now, since I'm on a call with you. You know how how how long I need to get to you, right? I need to wait almost like fifteen minute before you pick up the phone here.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses strong frustration and dissatisfaction with the process, explicitly mentioning the long wait time and the inconvenience of not being able to add channels directly during the call."
+        },
+        {
+            "start": 529.49,
+            "end": 531.19,
+            "role": "agent",
+            "text": "Mm. (uh.)",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 530.34,
+            "end": 539.24,
+            "role": "customer",
+            "text": "Since I'm already on the phone with you, I or is it because they outsource customer service that's why you you you I mean? That's why they always outsource everything .",
+            "escalation_label": 1,
+            "label_reason": "Customer continues to express frustration, questioning the company's outsourcing model as a reason for inefficiency, a direct criticism of service delivery."
+        },
+        {
+            "start": 540.79,
+            "end": 545.79,
+            "role": "agent",
+            "text": "Mm, (um) I'm actually not outsourced, I'm an in-store (uh) customer service.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies their role as in-store customer service, not outsourced."
+        },
+        {
+            "start": 546.24,
+            "end": 548.59,
+            "role": "customer",
+            "text": "Ya, so lucky, ah. ~kay ~kay ~kay ~kay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the agent's clarification with a hint of sarcasm but not strong frustration."
+        },
+        {
+            "start": 548.44,
+            "end": 555.29,
+            "role": "agent",
+            "text": "Yeah. So, yeah, that's why it takes a little bit longer. (um) Sorry to keep you waiting again. (um.)",
+            "escalation_label": 0,
+            "label_reason": "Agent explains why there might be longer wait times and apologizes again for the wait."
+        },
+        {
+            "start": 549.34,
+            "end": 549.49,
+            "role": "customer",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 552.24,
+            "end": 554.74,
+            "role": "customer",
+            "text": "Aah.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 555.84,
+            "end": 560.69,
+            "role": "agent",
+            "text": "Yeah, I I can just check to see whether you're able to include it over here.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers to check if they can add the channel directly."
+        },
+        {
+            "start": 560.89,
+            "end": 561.34,
+            "role": "customer",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 561.29,
+            "end": 564.94,
+            "role": "agent",
+            "text": "(um) Anything else that you want to add on besides the football channels?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks about other desired additions besides football."
+        },
+        {
+            "start": 565.04,
+            "end": 570.64,
+            "role": "customer",
+            "text": "(uh) Maybe, maybe sports, lah, you know in football, (uh) UFC, you know? (uh)",
+            "escalation_label": 0,
+            "label_reason": "Customer lists other sports interests."
+        },
+        {
+            "start": 570.64,
+            "end": 571.24,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 571.39,
+            "end": 573.44,
+            "role": "customer",
+            "text": "(um) F one.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues listing sports interests."
+        },
+        {
+            "start": 574.04,
+            "end": 574.89,
+            "role": "customer",
+            "text": "You know, .",
+            "escalation_label": 0,
+            "label_reason": "Customer completes their thought."
+        },
+        {
+            "start": 574.34,
+            "end": 575.07,
+            "role": "agent",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 575.84,
+            "end": 581.24,
+            "role": "agent",
+            "text": "I think you already have the sports channels in your new TV package.",
+            "escalation_label": 0,
+            "label_reason": "Agent informs customer they likely already have other sports channels."
+        },
+        {
+            "start": 581.09,
+            "end": 581.84,
+            "role": "customer",
+            "text": "I have me~.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses surprise."
+        },
+        {
+            "start": 581.94,
+            "end": 583.69,
+            "role": "agent",
+            "text": "(um) Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the information."
+        },
+        {
+            "start": 584.09,
+            "end": 584.63,
+            "role": "customer",
+            "text": "Ohh really, ah?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses surprise."
+        },
+        {
+            "start": 585.54,
+            "end": 590.54,
+            "role": "agent",
+            "text": "Yeah, it's actually on channel one two seven to one three five",
+            "escalation_label": 0,
+            "label_reason": "Agent provides channel details for sports."
+        },
+        {
+            "start": 590.74,
+            "end": 591.49,
+            "role": "customer",
+            "text": "Ohh really, ah?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses surprise."
+        },
+        {
+            "start": 592.24,
+            "end": 600.04,
+            "role": "agent",
+            "text": "Yes, correct. You can (um) try to (um) yeah, switch it later, when you're free. And if it's still not there, then you can let me know.",
+            "escalation_label": 0,
+            "label_reason": "Agent advises customer to check the channels and offers further assistance if needed."
+        },
+        {
+            "start": 600.64,
+            "end": 605.34,
+            "role": "agent",
+            "text": "(um) But I can add on the football package for you if you would like to.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers to add the football package for the customer."
+        },
+        {
+            "start": 600.64,
+            "end": 601.74,
+            "role": "customer",
+            "text": "Ohh ah I thought I don't do, ah.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses surprise/misunderstanding."
+        },
+        {
+            "start": 605.04,
+            "end": 607.34,
+            "role": "customer",
+            "text": "Ohh, so I have all the sport, but I don't have football, lah.",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies understanding of available packages."
+        },
+        {
+            "start": 608.44,
+            "end": 609.94,
+            "role": "agent",
+            "text": "Yeah, yeah, correct, correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms customer's understanding."
+        },
+        {
+            "start": 609.59,
+            "end": 611.74,
+            "role": "customer",
+            "text": "I see. So the English Premier League, I don't have, lah?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for specific confirmation about football leagues."
+        },
+        {
+            "start": 610.79,
+            "end": 613.19,
+            "role": "agent",
+            "text": "Because the football, sorry?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for clarification."
+        },
+        {
+            "start": 613.34,
+            "end": 615.64,
+            "role": "customer",
+            "text": "English Premier League, Champion's League, all I don't have, is it?",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies the specific football leagues they are asking about."
+        },
+        {
+            "start": 616.29,
+            "end": 619.64,
+            "role": "agent",
+            "text": "Yeah, usually football is an separate package.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains that football is usually a separate package."
+        },
+        {
+            "start": 619.84,
+            "end": 624.44,
+            "role": "customer",
+            "text": "Ohh ah, you all are really, really, really milking your customers, huh.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses strong dissatisfaction and criticizes the company's pricing strategy ('milking your customers')."
+        },
+        {
+            "start": 621.29,
+            "end": 626.89,
+            "role": "agent",
+            "text": "Yeah, you know like we, yeah, we want to, correct, yeah, take more.",
+            "escalation_label": 0,
+            "label_reason": "Agent seems to acknowledge the customer's criticism without escalating themselves."
+        },
+        {
+            "start": 626.04,
+            "end": 632.94,
+            "role": "customer",
+            "text": "All right, some more. . Okay . Okay, lah, you add the football. How much, how mu ~how much I must pay?",
+            "escalation_label": 0,
+            "label_reason": "Despite previous frustration, customer agrees to add the football package and asks about the price, indicating a move towards resolution for this specific item."
+        },
+        {
+            "start": 628.49,
+            "end": 629.19,
+            "role": "agent",
+            "text": ".",
+            "escalation_label": 0,
+            "label_reason": "Non-verbal communication."
+        },
+        {
+            "start": 633.89,
+            "end": 634.89,
+            "role": "customer",
+            "text": "Additional for my.",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies the request."
+        },
+        {
+            "start": 634.04,
+            "end": 635.24,
+            "role": "agent",
+            "text": "Okay, for the football.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the request."
+        },
+        {
+            "start": 636.54,
+            "end": 640.59,
+            "role": "agent",
+            "text": "Mm, football package is actually additional eighty-seven dollars.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the price for the football package."
+        },
+        {
+            "start": 641.09,
+            "end": 644.44,
+            "role": "customer",
+            "text": "Wha~ . No promotion, eh?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses surprise and disappointment at the price and lack of promotion."
+        },
+        {
+            "start": 646.29,
+            "end": 647.69,
+            "role": "agent",
+            "text": "(uh) No.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms no promotion."
+        },
+        {
+            "start": 646.69,
+            "end": 648.14,
+            "role": "customer",
+            "text": "Yeah, first three months free or what?",
+            "escalation_label": 0,
+            "label_reason": "Customer inquires about potential promotional offers."
+        },
+        {
+            "start": 649.64,
+            "end": 651.94,
+            "role": "agent",
+            "text": "No. (um) Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms no promotions are available."
+        },
+        {
+            "start": 650.64,
+            "end": 652.14,
+            "role": "customer",
+            "text": "Or first three months fifty percent off.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to ask about possible promotions."
+        },
+        {
+            "start": 654.34,
+            "end": 654.74,
+            "role": "agent",
+            "text": "(um.)",
+            "escalation_label": 0,
+            "label_reason": "Agent preparing to answer."
+        },
+        {
+            "start": 655.44,
+            "end": 658.84,
+            "role": "agent",
+            "text": "No, we don't have a promotion for the football package.",
+            "escalation_label": 0,
+            "label_reason": "Agent explicitly states there is no promotion for the football package."
+        },
+        {
+            "start": 657.64,
+            "end": 661.09,
+            "role": "customer",
+            "text": "You sound heavy , maybe you wanna check your mobile or .",
+            "escalation_label": 0,
+            "label_reason": "Customer makes a conversational observation about the agent's tone, but it's not a direct escalation of the service issue."
+        },
+        {
+            "start": 663.29,
+            "end": 673.54,
+            "role": "agent",
+            "text": "Yeah, it's (uh) very clear here that there's actually no promotion for football package. But we have already given you the prom~, we can give you promotions for everything else, but not the football package.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates that there are no promotions for the football package and explains why other promotions might apply elsewhere."
+        },
+        {
+            "start": 673.74,
+            "end": 674.14,
+            "role": "customer",
+            "text": "Ya.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 673.94,
+            "end": 680.34,
+            "role": "agent",
+            "text": "Since it's (um) it's a special screening from Singtel as well.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the exclusivity of the football package."
+        },
+        {
+            "start": 681.39,
+            "end": 682.14,
+            "role": "customer",
+            "text": "Ohh, like that, lah.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses resignation/understanding."
+        },
+        {
+            "start": 683.44,
+            "end": 686.04,
+            "role": "agent",
+            "text": "Yeah. I understand your frustration.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's frustration, an empathetic response."
+        },
+        {
+            "start": 687.74,
+            "end": 690.04,
+            "role": "agent",
+            "text": "But it is what it is , lah. Mmhmm.",
+            "escalation_label": 0,
+            "label_reason": "Agent uses a common phrase to convey the unchangeable nature of the policy."
+        },
+        {
+            "start": 687.89,
+            "end": 688.74,
+            "role": "customer",
+            "text": ".",
+            "escalation_label": 0,
+            "label_reason": "Non-verbal communication."
+        },
+        {
+            "start": 689.84,
+            "end": 690.34,
+            "role": "customer",
+            "text": "Ya.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 691.59,
+            "end": 693.89,
+            "role": "customer",
+            "text": "Ohh (uh) mm mm mm mm .",
+            "escalation_label": 0,
+            "label_reason": "Customer's contemplative sounds, indicating resignation."
+        },
+        {
+            "start": 694.64,
+            "end": 698.44,
+            "role": "customer",
+            "text": "Ai. Okay, if I add on the football channel now, when do I start paying?",
+            "escalation_label": 0,
+            "label_reason": "Customer accepts the cost and asks a practical question about billing."
+        },
+        {
+            "start": 700.04,
+            "end": 703.24,
+            "role": "agent",
+            "text": "(uh) It will bill to your next (uh) coming bill.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides billing information."
+        },
+        {
+            "start": 704.54,
+            "end": 708.94,
+            "role": "customer",
+            "text": "So next coming bill I will get the for the football.",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks confirmation of the billing cycle for the football package."
+        },
+        {
+            "start": 709.64,
+            "end": 710.79,
+            "role": "agent",
+            "text": "Yes, correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the billing information."
+        },
+        {
+            "start": 711.54,
+            "end": 712.04,
+            "role": "customer",
+            "text": "See.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 712.64,
+            "end": 719.24,
+            "role": "customer",
+            "text": "So confirm, ah, if I tailor for what I can get, the English Premier League, Champion's League, UEFA League. All the leagues.",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks confirmation that the package includes all specified leagues."
+        },
+        {
+            "start": 718.84,
+            "end": 719.45,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the package content."
+        },
+        {
+            "start": 720.24,
+            "end": 720.84,
+            "role": "customer",
+            "text": "Confirm, ah.",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks further confirmation."
+        },
+        {
+            "start": 721.09,
+            "end": 722.74,
+            "role": "agent",
+            "text": "Yeah, all the leagues for football.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms all football leagues are included."
+        },
+        {
+            "start": 723.39,
+            "end": 723.89,
+            "role": "customer",
+            "text": "True, ah.",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks final confirmation."
+        },
+        {
+            "start": 724.94,
+            "end": 725.39,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 726.14,
+            "end": 740.24,
+            "role": "customer",
+            "text": "Okay. And then confirm also, ah, my internet, I don't have data limit, lah. So I mean, t~, and you said two GBP is the fastest. So let's say if I want to add on the speed, you say no need. But if, can I add on the equipments like an extra mesh so that my whole home, the wi-fi coverage will be better?",
+            "escalation_label": 0,
+            "label_reason": "Customer moves to a new topic, asking about Wi-Fi coverage and adding mesh equipment."
+        },
+        {
+            "start": 730.94,
+            "end": 731.54,
+            "role": "agent",
+            "text": "No.",
+            "escalation_label": 0,
+            "label_reason": "Agent's quick response, possibly an interruption or confirmation of the negative."
+        },
+        {
+            "start": 741.74,
+            "end": 749.54,
+            "role": "agent",
+            "text": "(um) Can I check with you, sir? Do you stay in a (uh) for your, what, what household type is your flat?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for details about the customer's living situation to assess coverage needs."
+        },
+        {
+            "start": 748.74,
+            "end": 750.14,
+            "role": "customer",
+            "text": "I'm staying in a jumbo flat.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides information about their flat type."
+        },
+        {
+            "start": 750.94,
+            "end": 756.09,
+            "role": "agent",
+            "text": "Jumbo? Okay. Usually, do you have (uh) difficulties with (uh) accessing?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the flat type and asks about current difficulties with Wi-Fi."
+        },
+        {
+            "start": 751.89,
+            "end": 752.14,
+            "role": "customer",
+            "text": "Ah.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 755.29,
+            "end": 759.84,
+            "role": "customer",
+            "text": "Sometimes, lah, sometimes some corner there, in my room or in the toilet. Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains experiencing some coverage issues in certain areas."
+        },
+        {
+            "start": 758.04,
+            "end": 759.24,
+            "role": "agent",
+            "text": "At some corners, lah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the customer's problem areas."
+        },
+        {
+            "start": 761.04,
+            "end": 763.24,
+            "role": "agent",
+            "text": "Ohh, okay. (um.)",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 762.19,
+            "end": 766.84,
+            "role": "customer",
+            "text": "Mm, in the toilet, sometimes you use internet, lah, on your phone. Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Customer adds a specific example of Wi-Fi usage in problem areas."
+        },
+        {
+            "start": 765.54,
+            "end": 766.14,
+            "role": "agent",
+            "text": "Yeah, yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 766.94,
+            "end": 776.19,
+            "role": "agent",
+            "text": "Understand. (um) What some of my customers actually do instead of, like, getting extra mesh from us, right, you can actually try to, (um.)",
+            "escalation_label": 0,
+            "label_reason": "Agent offers an alternative solution for improving Wi-Fi coverage."
+        },
+        {
+            "start": 776.94,
+            "end": 786.09,
+            "role": "agent",
+            "text": "Yeah, purchase your own mesh first. Because (um) (uh) it's a~ it's actually a cheaper option as well. And usually that works very well for a jumbo house.",
+            "escalation_label": 0,
+            "label_reason": "Agent recommends purchasing a mesh from elsewhere as a cheaper and effective option."
+        },
+        {
+            "start": 787.24,
+            "end": 789.14,
+            "role": "customer",
+            "text": "Ohh, not bad, ah, you add three.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses approval of the agent's advice."
+        },
+        {
+            "start": 789.74,
+            "end": 792.84,
+            "role": "customer",
+            "text": "cheaper, better than buying from the store.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the cost-effectiveness of the advice."
+        },
+        {
+            "start": 794.04,
+            "end": 794.69,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 795.49,
+            "end": 796.34,
+            "role": "customer",
+            "text": "All right, not bad, not bad.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses further approval."
+        },
+        {
+            "start": 797.14,
+            "end": 798.04,
+            "role": "customer",
+            "text": "Natalie, right, your name?",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms the agent's name."
+        },
+        {
+            "start": 799.04,
+            "end": 804.14,
+            "role": "agent",
+            "text": "Yes, correct. Yeah, help you save money since you are purchasing the the football channels.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms their name and ties the advice to saving the customer money."
+        },
+        {
+            "start": 800.24,
+            "end": 800.64,
+            "role": "customer",
+            "text": "Okay, loh.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 804.99,
+            "end": 811.22,
+            "role": "customer",
+            "text": "That's great, that's great. Okay appreciate the the, said I appreciate the the the submission.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses gratitude for the advice."
+        },
+        {
+            "start": 806.64,
+            "end": 807.14,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 811.47,
+            "end": 820.05,
+            "role": "customer",
+            "text": "Okay, again, so just (uh) can you just confirm? So I'm not gonna be upgrading my speed, I'm not gonna be buying any or adding on any mesh, or anything like that.",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks confirmation of actions taken/not taken regarding speed and equipment."
+        },
+        {
+            "start": 820.4,
+            "end": 828.74,
+            "role": "customer",
+            "text": "So, for now, through this call, I'm just gonna be adding my football (uh) subscription channels into my new TV, correct?",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks confirmation that only the football subscription is being added through this call."
+        },
+        {
+            "start": 820.89,
+            "end": 822.19,
+            "role": "agent",
+            "text": "No. Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the action."
+        },
+        {
+            "start": 829.59,
+            "end": 830.59,
+            "role": "agent",
+            "text": "Yes, correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the action."
+        },
+        {
+            "start": 831.04,
+            "end": 843.84,
+            "role": "customer",
+            "text": "All right, ah. So, other than that, other than that, so I'm just gonna send my email to complain about the installers. And I hope you, I I need you to put down in your notes somewhere to actually escalate and (uh) and bring this matter up.",
+            "escalation_label": 1,
+            "label_reason": "Customer reiterates intent to complain about installers via email and explicitly demands the agent escalate and bring the matter up, indicating a request for formal intervention due to dissatisfaction."
+        },
+        {
+            "start": 832.54,
+            "end": 832.94,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 843.84,
+            "end": 850.84,
+            "role": "customer",
+            "text": "Because your installers are not very professional about it just now. That's why I did the YA order . I need you to do that, can or not, Natalie?",
+            "escalation_label": 1,
+            "label_reason": "Customer reinforces the complaint about installers' unprofessionalism and presses the agent to take action, indicating a strong demand related to a service failure."
+        },
+        {
+            "start": 847.94,
+            "end": 848.63,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 851.64,
+            "end": 854.89,
+            "role": "agent",
+            "text": "(um) Yeah, I can, I can write an email to feedback as well.",
+            "escalation_label": 0,
+            "label_reason": "Agent agrees to write an email for feedback."
+        },
+        {
+            "start": 855.19,
+            "end": 856.54,
+            "role": "customer",
+            "text": "Yeah, please do, please do, okay?",
+            "escalation_label": 1,
+            "label_reason": "Customer emphasizes the request for the agent to take action on the complaint."
+        },
+        {
+            "start": 855.94,
+            "end": 857.09,
+            "role": "agent",
+            "text": "You want me to help you with that?",
+            "escalation_label": 0,
+            "label_reason": "Agent seeks clarification to confirm the request."
+        },
+        {
+            "start": 857.44,
+            "end": 860.14,
+            "role": "customer",
+            "text": "Yeah, of of course, I see, I I I I nee~ I need you to do that.",
+            "escalation_label": 1,
+            "label_reason": "Customer strongly affirms the need for the agent to perform the requested action."
+        },
+        {
+            "start": 861.14,
+            "end": 863.39,
+            "role": "agent",
+            "text": "Okay, okay. Yes, I can do that.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms they will take the requested action."
+        },
+        {
+            "start": 862.14,
+            "end": 873.89,
+            "role": "customer",
+            "text": ", great. I mean great, Ms. Natalie, I think (uh) you you help me a lot. (uh) Basically you you've been a lifesaver here. But but (uh) at the same time, I'm sorry I, you know, if I sounded a bit rude or .",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses gratitude for the agent's help and apologizes for any rudeness, indicating de-escalation."
+        },
+        {
+            "start": 864.54,
+            "end": 864.94,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 874.44,
+            "end": 875.24,
+            "role": "agent",
+            "text": "Ohh, it's okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent accepts the apology."
+        },
+        {
+            "start": 875.84,
+            "end": 878.04,
+            "role": "customer",
+            "text": "Okay. I think that's about it, lah, Ms. Natalie.",
+            "escalation_label": 0,
+            "label_reason": "Customer concludes the conversation."
+        },
+        {
+            "start": 878.84,
+            "end": 881.09,
+            "role": "agent",
+            "text": "Yeah, okay. Thank you so much, Mr. Bakkar.",
+            "escalation_label": 0,
+            "label_reason": "Agent gives a closing remark and thanks the customer."
+        },
+        {
+            "start": 881.54,
+            "end": 882.24,
+            "role": "customer",
+            "text": "Thank you so much.",
+            "escalation_label": 0,
+            "label_reason": "Customer thanks the agent."
+        },
+        {
+            "start": 883.14,
+            "end": 885.09,
+            "role": "agent",
+            "text": "Thank you. Have a good day.",
+            "escalation_label": 0,
+            "label_reason": "Agent gives a closing remark and wishes the customer a good day."
+        },
+        {
+            "start": 884.24,
+            "end": 886.74,
+            "role": "customer",
+            "text": "Okay, buh-bye. You too, you too, you have a good evening.",
+            "escalation_label": 0,
+            "label_reason": "Customer gives a closing remark and wishes the agent a good evening."
+        },
+        {
+            "start": 887.64,
+            "end": 887.98,
+            "role": "customer",
+            "text": "~kay, bye.",
+            "escalation_label": 0,
+            "label_reason": "Customer says goodbye."
+        },
+        {
+            "start": 887.74,
+            "end": 887.98,
+            "role": "agent",
+            "text": "Buh-b~.",
+            "escalation_label": 0,
+            "label_reason": "Agent says goodbye."
+        }
+    ]
+}

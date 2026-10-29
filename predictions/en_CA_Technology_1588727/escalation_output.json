@@ -1,0 +1,881 @@
+{
+  "file_name": "en_CA_Technology_1588727.wav",
+  "threshold": 0.14,
+  "segments": [
+    {
+      "start": 12.24,
+      "end": 16.36,
+      "text": "Hello and welcome to the technology company. My name is Julia. How can I help you?",
+      "escalation_probability": 0.0948,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "Hi, I",
+      "escalation_probability": 0.0968,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 19.04,
+      "end": 21.2,
+      "text": "recently purchased a laptop from you guys",
+      "escalation_probability": 0.0526,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 22.04,
+      "end": 23.64,
+      "text": "and",
+      "escalation_probability": 0.0231,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 23.64,
+      "end": 30.6,
+      "text": "Since I I bought it and it was on Windows 10 and I updated to Windows 11, but now it keeps on crashing",
+      "escalation_probability": 0.0716,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 32.08,
+      "end": 34.08,
+      "text": "Okay, yes",
+      "escalation_probability": 0.0242,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 34.74,
+      "end": 38.0,
+      "text": "What have you tried so far to troubleshoot this problem?",
+      "escalation_probability": 0.0857,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 39.52,
+      "end": 41.2,
+      "text": "Nothing",
+      "escalation_probability": 0.0281,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 41.2,
+      "end": 43.2,
+      "text": "Okay, no problem",
+      "escalation_probability": 0.0421,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 43.6,
+      "end": 46.04,
+      "text": "Have you tried a fresh reboot?",
+      "escalation_probability": 0.0905,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 46.76,
+      "end": 47.84,
+      "text": "I",
+      "escalation_probability": 0.0045,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 47.84,
+      "end": 52.2,
+      "text": "Mean I turned it off and on again if that's but that's really all I've tried. Sorry",
+      "escalation_probability": 0.096,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 53.04,
+      "end": 55.04,
+      "text": "Okay, no problem",
+      "escalation_probability": 0.0419,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 55.56,
+      "end": 60.12,
+      "text": "So what I will ask you to do is to shut down your computer",
+      "escalation_probability": 0.0754,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 62.0,
+      "end": 66.88,
+      "text": "Okay, if you need to do that forcefully you can do that so you can do that by",
+      "escalation_probability": 0.0488,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 67.8,
+      "end": 77.38,
+      "text": "Holding down the power button until the computer totally turns off. Okay. Give me a second. All right. It's turned off",
+      "escalation_probability": 0.0378,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 79.1,
+      "end": 86.14,
+      "text": "Okay, now when you just just you'll give the power button one click and",
+      "escalation_probability": 0.0335,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 86.7,
+      "end": 93.58,
+      "text": "As you hear it starting up. I want you to continuously press F1 until a",
+      "escalation_probability": 0.0804,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 94.86,
+      "end": 96.86,
+      "text": "Blue screen appears",
+      "escalation_probability": 0.0336,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 96.98,
+      "end": 103.16,
+      "text": "Okay, all right, I have a blue screen",
+      "escalation_probability": 0.0373,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 104.72,
+      "end": 105.96,
+      "text": "Perfect",
+      "escalation_probability": 0.0555,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 105.96,
+      "end": 110.08,
+      "text": "So by now you should see a few different options",
+      "escalation_probability": 0.0775,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 111.08,
+      "end": 113.08,
+      "text": "listed on your screen",
+      "escalation_probability": 0.0437,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 114.6,
+      "end": 120.52,
+      "text": "That tell you which key to press for which option do you see that I do yes",
+      "escalation_probability": 0.0578,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 121.96,
+      "end": 129.95,
+      "text": "Okay, do you see one for opening with safe mode? Yes, I do it's at the bottom here",
+      "escalation_probability": 0.0247,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 131.59,
+      "end": 133.59,
+      "text": "Okay, then I will ask you to",
+      "escalation_probability": 0.0713,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 134.39,
+      "end": 137.51,
+      "text": "Click the associated key. I believe it is",
+      "escalation_probability": 0.0764,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 139.07,
+      "end": 141.07,
+      "text": "F9",
+      "escalation_probability": 0.0234,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 141.19,
+      "end": 145.51,
+      "text": "It's F8 on this one, but yeah, I'll click it and see what happens. Okay, perfect",
+      "escalation_probability": 0.0912,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 147.23,
+      "end": 149.23,
+      "text": "Okay, it is",
+      "escalation_probability": 0.0387,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 149.71,
+      "end": 152.27,
+      "text": "Booting but the logo looks different",
+      "escalation_probability": 0.1109,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 153.95,
+      "end": 158.23,
+      "text": "Okay, let me know if an error message pops up at any point",
+      "escalation_probability": 0.0527,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 162.27,
+      "end": 164.27,
+      "text": "No, it seems to have gone in",
+      "escalation_probability": 0.0526,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 164.39,
+      "end": 168.15,
+      "text": "I'll try and log in",
+      "escalation_probability": 0.0328,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 168.27,
+      "end": 173.07,
+      "text": "Usually it starts crash it crashes as soon as they try and do anything after I log in so we'll see what happens",
+      "escalation_probability": 0.073,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 173.59,
+      "end": 178.59,
+      "text": "Okay, I'm in but I'm gonna start up my game now",
+      "escalation_probability": 0.0283,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 183.41,
+      "end": 185.41,
+      "text": "Okay. Yeah, it just crashed",
+      "escalation_probability": 0.0678,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 186.37,
+      "end": 188.05,
+      "text": "a",
+      "escalation_probability": 0.0467,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 188.05,
+      "end": 190.05,
+      "text": "Pop-up came up that said something about",
+      "escalation_probability": 0.1106,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 191.77,
+      "end": 195.93,
+      "text": "It's like about a driver error, which I guess means I did something wrong",
+      "escalation_probability": 0.0815,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 196.77,
+      "end": 199.17,
+      "text": "I guess I'm the driver",
+      "escalation_probability": 0.0895,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 199.17,
+      "end": 204.17,
+      "text": "The driver is something in your computer so",
+      "escalation_probability": 0.0532,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 206.09,
+      "end": 208.09,
+      "text": "Does it say",
+      "escalation_probability": 0.0283,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 208.49,
+      "end": 212.81,
+      "text": "Anything specific about which driver it says but it says graphics driver",
+      "escalation_probability": 0.1305,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 214.45,
+      "end": 218.65,
+      "text": "Okay, did this start happening when you installed this game",
+      "escalation_probability": 0.0565,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 219.77,
+      "end": 221.77,
+      "text": "No, I was playing it before",
+      "escalation_probability": 0.0824,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 222.05,
+      "end": 223.29,
+      "text": "On Windows 10",
+      "escalation_probability": 0.0538,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 223.29,
+      "end": 229.97,
+      "text": "But then the computer set pot a pop-up that said that Windows 10 was no longer going to be supported after October 31st",
+      "escalation_probability": 0.1102,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 230.33,
+      "end": 232.33,
+      "text": "so then I",
+      "escalation_probability": 0.0374,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 232.57,
+      "end": 237.53,
+      "text": "Updated and then for the past week. It's been crashing every time I try and play the game",
+      "escalation_probability": 0.0639,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 238.09,
+      "end": 241.49,
+      "text": "Like it gets past it gets sometimes it gets past the first",
+      "escalation_probability": 0.093,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 242.09,
+      "end": 246.69,
+      "text": "Little bit of the loading, but then as soon as I load into any game",
+      "escalation_probability": 0.106,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 246.77,
+      "end": 251.73,
+      "text": "It'll crash and oftentimes even before then with this message that pops up",
+      "escalation_probability": 0.0637,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 253.29,
+      "end": 254.97,
+      "text": "I see",
+      "escalation_probability": 0.0379,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 254.97,
+      "end": 257.69,
+      "text": "so this sounds like a very",
+      "escalation_probability": 0.0628,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 259.29,
+      "end": 260.85,
+      "text": "complex issue",
+      "escalation_probability": 0.0731,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 260.85,
+      "end": 266.41,
+      "text": "That will need to bring the computer in for repairs if that is something that you would like to do",
+      "escalation_probability": 0.0906,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 267.09,
+      "end": 270.65,
+      "text": "I mean, I I only bought this like three months ago",
+      "escalation_probability": 0.1592,
+      "predicted_escalation": 1
+    },
+    {
+      "start": 271.57,
+      "end": 273.13,
+      "text": "and",
+      "escalation_probability": 0.0369,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 273.13,
+      "end": 279.21,
+      "text": "They asked if I wanted the extended warranty and I said no, but I can you check if this is still under warranty?",
+      "escalation_probability": 0.0722,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 280.21,
+      "end": 282.05,
+      "text": "Absolutely",
+      "escalation_probability": 0.0233,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 282.05,
+      "end": 287.73,
+      "text": "Could you please give me your first and last name? Yes, it's Owen",
+      "escalation_probability": 0.0659,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 289.09,
+      "end": 299.58,
+      "text": "Macbook, okay, and do you happen to have your receipt with you?",
+      "escalation_probability": 0.0608,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 300.86,
+      "end": 305.96,
+      "text": "I do it's on my phone. I can just get a pull it up here",
+      "escalation_probability": 0.0556,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 308.72,
+      "end": 314.6,
+      "text": "And if you could please give me the receipt number that would be greatly helpful, okay, I have it",
+      "escalation_probability": 0.0764,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 315.2,
+      "end": 316.88,
+      "text": "It is",
+      "escalation_probability": 0.0558,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 316.88,
+      "end": 320.56,
+      "text": "four two nine three seven eight four",
+      "escalation_probability": 0.0481,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 321.2,
+      "end": 322.76,
+      "text": "Four nine",
+      "escalation_probability": 0.0563,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 322.76,
+      "end": 331.44,
+      "text": "Okay, and can you confirm the payment method that you used to purchase this computer? It was a visa credit card",
+      "escalation_probability": 0.0481,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 331.92,
+      "end": 337.4,
+      "text": "And could you please confirm the date of the purchase?",
+      "escalation_probability": 0.0425,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 338.0,
+      "end": 340.92,
+      "text": "It was October 27th",
+      "escalation_probability": 0.1205,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 341.92,
+      "end": 352.93,
+      "text": "2025 and finally the approximate location of the store that you bought the fact",
+      "escalation_probability": 0.0653,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 353.69,
+      "end": 361.6,
+      "text": "Windsor, Ontario, okay. Yeah, although the details seem to be matching up on my side and",
+      "escalation_probability": 0.0339,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 362.76,
+      "end": 370.4,
+      "text": "It looks like the warranty is still in effect. So even without the extended warranty you are still within your",
+      "escalation_probability": 0.0914,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 371.56,
+      "end": 373.56,
+      "text": "limited warranty period",
+      "escalation_probability": 0.0626,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 374.28,
+      "end": 376.64,
+      "text": "Okay, yeah, then that's fine. We can go through repair",
+      "escalation_probability": 0.1107,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 377.64,
+      "end": 383.0,
+      "text": "But would this be something I'd have to drop it off or do I ship it and how long would that take?",
+      "escalation_probability": 0.1341,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 384.0,
+      "end": 390.4,
+      "text": "So something like this would require shipping out to one of our external repair",
+      "escalation_probability": 0.1001,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 391.28,
+      "end": 393.28,
+      "text": "locations and",
+      "escalation_probability": 0.053,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 393.48,
+      "end": 395.48,
+      "text": "It could take anywhere between",
+      "escalation_probability": 0.0866,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 396.8,
+      "end": 398.8,
+      "text": "Three and six weeks",
+      "escalation_probability": 0.0615,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 399.28,
+      "end": 403.68,
+      "text": "I mean that's quite a long time to be without a laptop. That's almost the amount of time",
+      "escalation_probability": 0.1487,
+      "predicted_escalation": 1
+    },
+    {
+      "start": 403.68,
+      "end": 406.44,
+      "text": "I've or less than the amount of time I've had the laptop",
+      "escalation_probability": 0.0865,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 407.24,
+      "end": 409.24,
+      "text": "Sorry more than",
+      "escalation_probability": 0.096,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 409.84,
+      "end": 415.48,
+      "text": "And so would there be anything you guys could do to make that better for me?",
+      "escalation_probability": 0.1292,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 417.04,
+      "end": 421.4,
+      "text": "So we are able to provide a temporary replacement",
+      "escalation_probability": 0.0895,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 423.6,
+      "end": 426.72,
+      "text": "But that will be an additional fee of",
+      "escalation_probability": 0.0772,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 428.72,
+      "end": 435.66,
+      "text": "$100, okay, I mean that doesn't seem quite fair to me",
+      "escalation_probability": 0.0705,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 436.7,
+      "end": 440.62,
+      "text": "I purchased this laptop from you guys",
+      "escalation_probability": 0.116,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 441.3,
+      "end": 448.82,
+      "text": "It was defective almost immediately after purchasing it and now you're saying that it's going to take six weeks",
+      "escalation_probability": 0.1013,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 449.18,
+      "end": 454.78,
+      "text": "For it to be repaired and if I want a laptop while I wait, I have to pay you a hundred dollars",
+      "escalation_probability": 0.1477,
+      "predicted_escalation": 1
+    },
+    {
+      "start": 455.18,
+      "end": 461.86,
+      "text": "Which is essentially over ten dollars a week just for the per the privilege of using",
+      "escalation_probability": 0.0762,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 463.38,
+      "end": 466.74,
+      "text": "Replacement for the laptop that you sold me as a defective product",
+      "escalation_probability": 0.1796,
+      "predicted_escalation": 1
+    },
+    {
+      "start": 467.46,
+      "end": 468.26,
+      "text": "I",
+      "escalation_probability": 0.0282,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 468.26,
+      "end": 475.94,
+      "text": "Understand sir what I can do is I can talk to my manager and see if there is something else we can do to help you out in this situation",
+      "escalation_probability": 0.0812,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 476.54,
+      "end": 478.54,
+      "text": "Yes, please",
+      "escalation_probability": 0.0192,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 478.7,
+      "end": 489.92,
+      "text": "Okay, then I will be one moment. Okay. I've spoken to my manager now and",
+      "escalation_probability": 0.0463,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 491.08,
+      "end": 495.0,
+      "text": "What we can do is this $100 can be a",
+      "escalation_probability": 0.1441,
+      "predicted_escalation": 1
+    },
+    {
+      "start": 496.0,
+      "end": 497.32,
+      "text": "deposit",
+      "escalation_probability": 0.0144,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 497.32,
+      "end": 502.64,
+      "text": "So we would you would exchange the hundred dollars for the laptop",
+      "escalation_probability": 0.0581,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 503.52,
+      "end": 507.48,
+      "text": "the replacement device while your other one is being repaired and",
+      "escalation_probability": 0.0628,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 508.28,
+      "end": 511.04,
+      "text": "Once you receive the original back",
+      "escalation_probability": 0.0908,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 511.48,
+      "end": 516.56,
+      "text": "You can bring back the replacement and we will hand back the $100 deposit",
+      "escalation_probability": 0.0939,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 516.88,
+      "end": 519.88,
+      "text": "Assuming no damage has been done to the replacement",
+      "escalation_probability": 0.0723,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 520.4,
+      "end": 522.4,
+      "text": "That seems fair to me",
+      "escalation_probability": 0.0235,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 523.28,
+      "end": 525.2,
+      "text": "Excellent",
+      "escalation_probability": 0.0332,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 525.2,
+      "end": 530.0,
+      "text": "Okay, then in that case if you could email me the shipping instructions",
+      "escalation_probability": 0.1257,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 530.04,
+      "end": 535.8,
+      "text": "I will ship it off and then I will await its repair and return",
+      "escalation_probability": 0.1236,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 537.24,
+      "end": 540.96,
+      "text": "Absolutely, we can even provide we will provide the",
+      "escalation_probability": 0.1236,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 541.88,
+      "end": 543.88,
+      "text": "shipping instructions as well as",
+      "escalation_probability": 0.0868,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 544.36,
+      "end": 547.96,
+      "text": "The label for it free of charge great. Thank you",
+      "escalation_probability": 0.0633,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 550.58,
+      "end": 552.74,
+      "text": "Okay, in which email can I send that to?",
+      "escalation_probability": 0.0945,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 553.42,
+      "end": 561.02,
+      "text": "Is my first and last name combined with an underscore in the middle so Owen underscore Mac book at yahoo.ca",
+      "escalation_probability": 0.1388,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 561.46,
+      "end": 574.05,
+      "text": "I have that written in here. All right. The email should be sent off to you now. I",
+      "escalation_probability": 0.056,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 574.69,
+      "end": 576.69,
+      "text": "Do see it. Thank you",
+      "escalation_probability": 0.0474,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 577.61,
+      "end": 580.11,
+      "text": "Excellent, so what you'll do with the",
+      "escalation_probability": 0.1136,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 581.25,
+      "end": 583.25,
+      "text": "current laptop that you have",
+      "escalation_probability": 0.0713,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 583.45,
+      "end": 586.13,
+      "text": "Package it according to the instructions there",
+      "escalation_probability": 0.0767,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 586.69,
+      "end": 588.49,
+      "text": "bring it to",
+      "escalation_probability": 0.0629,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 588.49,
+      "end": 593.77,
+      "text": "The post office and they will ship that off for you and provide you a tracking number",
+      "escalation_probability": 0.0718,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 593.77,
+      "end": 595.77,
+      "text": "should you be interested in",
+      "escalation_probability": 0.0533,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 595.97,
+      "end": 601.53,
+      "text": "Seeing that it gets from your destiny your location to the destination",
+      "escalation_probability": 0.0625,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 602.29,
+      "end": 604.29,
+      "text": "Okay, that would be great. Thank you",
+      "escalation_probability": 0.0623,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 605.57,
+      "end": 610.01,
+      "text": "All right, is there anything else I can do for you sir. Nope, that's it. Thank you for your help today",
+      "escalation_probability": 0.0717,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 611.17,
+      "end": 613.53,
+      "text": "No problem. Have a great day you too",
+      "escalation_probability": 0.0878,
+      "predicted_escalation": 0
+    }
+  ]
+}

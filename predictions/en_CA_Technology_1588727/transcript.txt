@@ -1,0 +1,125 @@
+[00:12.24 - 00:16.36] Hello and welcome to the technology company. My name is Julia. How can I help you?
+[00:17.00 - 00:19.00] Hi, I
+[00:19.04 - 00:21.20] recently purchased a laptop from you guys
+[00:22.04 - 00:23.64] and
+[00:23.64 - 00:30.60] Since I I bought it and it was on Windows 10 and I updated to Windows 11, but now it keeps on crashing
+[00:32.08 - 00:34.08] Okay, yes
+[00:34.74 - 00:38.00] What have you tried so far to troubleshoot this problem?
+[00:39.52 - 00:41.20] Nothing
+[00:41.20 - 00:43.20] Okay, no problem
+[00:43.60 - 00:46.04] Have you tried a fresh reboot?
+[00:46.76 - 00:47.84] I
+[00:47.84 - 00:52.20] Mean I turned it off and on again if that's but that's really all I've tried. Sorry
+[00:53.04 - 00:55.04] Okay, no problem
+[00:55.56 - 01:00.12] So what I will ask you to do is to shut down your computer
+[01:02.00 - 01:06.88] Okay, if you need to do that forcefully you can do that so you can do that by
+[01:07.80 - 01:17.38] Holding down the power button until the computer totally turns off. Okay. Give me a second. All right. It's turned off
+[01:19.10 - 01:26.14] Okay, now when you just just you'll give the power button one click and
+[01:26.70 - 01:33.58] As you hear it starting up. I want you to continuously press F1 until a
+[01:34.86 - 01:36.86] Blue screen appears
+[01:36.98 - 01:43.16] Okay, all right, I have a blue screen
+[01:44.72 - 01:45.96] Perfect
+[01:45.96 - 01:50.08] So by now you should see a few different options
+[01:51.08 - 01:53.08] listed on your screen
+[01:54.60 - 02:00.52] That tell you which key to press for which option do you see that I do yes
+[02:01.96 - 02:09.95] Okay, do you see one for opening with safe mode? Yes, I do it's at the bottom here
+[02:11.59 - 02:13.59] Okay, then I will ask you to
+[02:14.39 - 02:17.51] Click the associated key. I believe it is
+[02:19.07 - 02:21.07] F9
+[02:21.19 - 02:25.51] It's F8 on this one, but yeah, I'll click it and see what happens. Okay, perfect
+[02:27.23 - 02:29.23] Okay, it is
+[02:29.71 - 02:32.27] Booting but the logo looks different
+[02:33.95 - 02:38.23] Okay, let me know if an error message pops up at any point
+[02:42.27 - 02:44.27] No, it seems to have gone in
+[02:44.39 - 02:48.15] I'll try and log in
+[02:48.27 - 02:53.07] Usually it starts crash it crashes as soon as they try and do anything after I log in so we'll see what happens
+[02:53.59 - 02:58.59] Okay, I'm in but I'm gonna start up my game now
+[03:03.41 - 03:05.41] Okay. Yeah, it just crashed
+[03:06.37 - 03:08.05] a
+[03:08.05 - 03:10.05] Pop-up came up that said something about
+[03:11.77 - 03:15.93] It's like about a driver error, which I guess means I did something wrong
+[03:16.77 - 03:19.17] I guess I'm the driver
+[03:19.17 - 03:24.17] The driver is something in your computer so
+[03:26.09 - 03:28.09] Does it say
+[03:28.49 - 03:32.81] Anything specific about which driver it says but it says graphics driver
+[03:34.45 - 03:38.65] Okay, did this start happening when you installed this game
+[03:39.77 - 03:41.77] No, I was playing it before
+[03:42.05 - 03:43.29] On Windows 10
+[03:43.29 - 03:49.97] But then the computer set pot a pop-up that said that Windows 10 was no longer going to be supported after October 31st
+[03:50.33 - 03:52.33] so then I
+[03:52.57 - 03:57.53] Updated and then for the past week. It's been crashing every time I try and play the game
+[03:58.09 - 04:01.49] Like it gets past it gets sometimes it gets past the first
+[04:02.09 - 04:06.69] Little bit of the loading, but then as soon as I load into any game
+[04:06.77 - 04:11.73] It'll crash and oftentimes even before then with this message that pops up
+[04:13.29 - 04:14.97] I see
+[04:14.97 - 04:17.69] so this sounds like a very
+[04:19.29 - 04:20.85] complex issue
+[04:20.85 - 04:26.41] That will need to bring the computer in for repairs if that is something that you would like to do
+[04:27.09 - 04:30.65] I mean, I I only bought this like three months ago
+[04:31.57 - 04:33.13] and
+[04:33.13 - 04:39.21] They asked if I wanted the extended warranty and I said no, but I can you check if this is still under warranty?
+[04:40.21 - 04:42.05] Absolutely
+[04:42.05 - 04:47.73] Could you please give me your first and last name? Yes, it's Owen
+[04:49.09 - 04:59.58] Macbook, okay, and do you happen to have your receipt with you?
+[05:00.86 - 05:05.96] I do it's on my phone. I can just get a pull it up here
+[05:08.72 - 05:14.60] And if you could please give me the receipt number that would be greatly helpful, okay, I have it
+[05:15.20 - 05:16.88] It is
+[05:16.88 - 05:20.56] four two nine three seven eight four
+[05:21.20 - 05:22.76] Four nine
+[05:22.76 - 05:31.44] Okay, and can you confirm the payment method that you used to purchase this computer? It was a visa credit card
+[05:31.92 - 05:37.40] And could you please confirm the date of the purchase?
+[05:38.00 - 05:40.92] It was October 27th
+[05:41.92 - 05:52.93] 2025 and finally the approximate location of the store that you bought the fact
+[05:53.69 - 06:01.60] Windsor, Ontario, okay. Yeah, although the details seem to be matching up on my side and
+[06:02.76 - 06:10.40] It looks like the warranty is still in effect. So even without the extended warranty you are still within your
+[06:11.56 - 06:13.56] limited warranty period
+[06:14.28 - 06:16.64] Okay, yeah, then that's fine. We can go through repair
+[06:17.64 - 06:23.00] But would this be something I'd have to drop it off or do I ship it and how long would that take?
+[06:24.00 - 06:30.40] So something like this would require shipping out to one of our external repair
+[06:31.28 - 06:33.28] locations and
+[06:33.48 - 06:35.48] It could take anywhere between
+[06:36.80 - 06:38.80] Three and six weeks
+[06:39.28 - 06:43.68] I mean that's quite a long time to be without a laptop. That's almost the amount of time
+[06:43.68 - 06:46.44] I've or less than the amount of time I've had the laptop
+[06:47.24 - 06:49.24] Sorry more than
+[06:49.84 - 06:55.48] And so would there be anything you guys could do to make that better for me?
+[06:57.04 - 07:01.40] So we are able to provide a temporary replacement
+[07:03.60 - 07:06.72] But that will be an additional fee of
+[07:08.72 - 07:15.66] $100, okay, I mean that doesn't seem quite fair to me
+[07:16.70 - 07:20.62] I purchased this laptop from you guys
+[07:21.30 - 07:28.82] It was defective almost immediately after purchasing it and now you're saying that it's going to take six weeks
+[07:29.18 - 07:34.78] For it to be repaired and if I want a laptop while I wait, I have to pay you a hundred dollars
+[07:35.18 - 07:41.86] Which is essentially over ten dollars a week just for the per the privilege of using
+[07:43.38 - 07:46.74] Replacement for the laptop that you sold me as a defective product
+[07:47.46 - 07:48.26] I
+[07:48.26 - 07:55.94] Understand sir what I can do is I can talk to my manager and see if there is something else we can do to help you out in this situation
+[07:56.54 - 07:58.54] Yes, please
+[07:58.70 - 08:09.92] Okay, then I will be one moment. Okay. I've spoken to my manager now and
+[08:11.08 - 08:15.00] What we can do is this $100 can be a
+[08:16.00 - 08:17.32] deposit
+[08:17.32 - 08:22.64] So we would you would exchange the hundred dollars for the laptop
+[08:23.52 - 08:27.48] the replacement device while your other one is being repaired and
+[08:28.28 - 08:31.04] Once you receive the original back
+[08:31.48 - 08:36.56] You can bring back the replacement and we will hand back the $100 deposit
+[08:36.88 - 08:39.88] Assuming no damage has been done to the replacement
+[08:40.40 - 08:42.40] That seems fair to me
+[08:43.28 - 08:45.20] Excellent
+[08:45.20 - 08:50.00] Okay, then in that case if you could email me the shipping instructions
+[08:50.04 - 08:55.80] I will ship it off and then I will await its repair and return
+[08:57.24 - 09:00.96] Absolutely, we can even provide we will provide the
+[09:01.88 - 09:03.88] shipping instructions as well as
+[09:04.36 - 09:07.96] The label for it free of charge great. Thank you
+[09:10.58 - 09:12.74] Okay, in which email can I send that to?
+[09:13.42 - 09:21.02] Is my first and last name combined with an underscore in the middle so Owen underscore Mac book at yahoo.ca
+[09:21.46 - 09:34.05] I have that written in here. All right. The email should be sent off to you now. I
+[09:34.69 - 09:36.69] Do see it. Thank you
+[09:37.61 - 09:40.11] Excellent, so what you'll do with the
+[09:41.25 - 09:43.25] current laptop that you have
+[09:43.45 - 09:46.13] Package it according to the instructions there
+[09:46.69 - 09:48.49] bring it to
+[09:48.49 - 09:53.77] The post office and they will ship that off for you and provide you a tracking number
+[09:53.77 - 09:55.77] should you be interested in
+[09:55.97 - 10:01.53] Seeing that it gets from your destiny your location to the destination
+[10:02.29 - 10:04.29] Okay, that would be great. Thank you
+[10:05.57 - 10:10.01] All right, is there anything else I can do for you sir. Nope, that's it. Thank you for your help today
+[10:11.17 - 10:13.53] No problem. Have a great day you too

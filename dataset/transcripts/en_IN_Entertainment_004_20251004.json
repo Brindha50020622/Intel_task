@@ -1,0 +1,543 @@
+{
+  "file_name": "en_IN_Entertainment_004_20251004.wav",
+  "domain": "entertainment",
+  "accent": "en-IN",
+  "duration": 693.803,
+  "escalation_label": 1,
+  "segments": [
+    {
+      "start": 4.92,
+      "end": 11.96,
+      "role": "agent",
+      "text": "Hello. Good evening. Thank you for calling Anex (uh) help service. This is Rohini. How can I help you?"
+    },
+    {
+      "start": 13.22,
+      "end": 26.09,
+      "role": "customer",
+      "text": "Hi Rohini, good evening. (uh) Yesterday (uh) we went for a movie and it was (ah) I was very disappointed (uh) there. The whole situation was very terrible."
+    },
+    {
+      "start": 26.71,
+      "end": 28.41,
+      "role": "agent",
+      "text": "Sorry to hear"
+    },
+    {
+      "start": 27.04,
+      "end": 30.99,
+      "role": "customer",
+      "text": "So, that is why I thought to I should call you."
+    },
+    {
+      "start": 30.93,
+      "end": 37.27,
+      "role": "agent",
+      "text": "Yeah, sorry to hear that ma'am. (um) I can definitely help you. Can I have your booking ID first?"
+    },
+    {
+      "start": 38.28,
+      "end": 48.17,
+      "role": "customer",
+      "text": "(uh) Yeah yeah. Wait a second. (um) Write please, it is C W double five six seven eight."
+    },
+    {
+      "start": 49.18,
+      "end": 62.4,
+      "role": "agent",
+      "text": "Okay. One moment. C W double five six seven eight. I can see that you had four premium seats in row G, seven to ten. (uh) Can you tell me what went wrong?"
+    },
+    {
+      "start": 63.61,
+      "end": 70.13,
+      "role": "customer",
+      "text": "(uh) Yeah, we, when we reached (uh) our seats were (uh) occupied already."
+    },
+    {
+      "start": 70.7,
+      "end": 72.34,
+      "role": "agent",
+      "text": "Ohh. Okay."
+    },
+    {
+      "start": 71.28,
+      "end": 80.45,
+      "role": "customer",
+      "text": "And one of your, one of your start telling us, ma'am please adjust in this row, adjust in this row. Why should I adjust in another row when I have booked the row G?"
+    },
+    {
+      "start": 81.04,
+      "end": 90.63,
+      "role": "agent",
+      "text": "I understand ma'am. I understand. And sorry (uh) she~ (uh) these sh~ (uh) seats should never be double allocated."
+    },
+    {
+      "start": 90.63,
+      "end": 98.81,
+      "role": "agent",
+      "text": "(uh) I am taking it as a serious problem, (um) did yo~, did the staff tried to clear those seats for you?"
+    },
+    {
+      "start": 99.6,
+      "end": 110.13,
+      "role": "customer",
+      "text": "No no, they were keep telling me, please adjust in the row H. Why should I adjust in the row H? I have kids with me, I have kids with me."
+    },
+    {
+      "start": 106.67,
+      "end": 108.09,
+      "role": "agent",
+      "text": "(uh) I understand ma'am."
+    },
+    {
+      "start": 111.95,
+      "end": 115.21,
+      "role": "agent",
+      "text": "I understand ma'am. (uh)"
+    },
+    {
+      "start": 116.81,
+      "end": 121.27,
+      "role": "agent",
+      "text": "So, (uh) were you able to get your seats later?"
+    },
+    {
+      "start": 122.91,
+      "end": 128.5,
+      "role": "customer",
+      "text": "No no. (uh) Yeah we get our seats later but after arguing so much."
+    },
+    {
+      "start": 128.95,
+      "end": 138.02,
+      "role": "customer",
+      "text": "What is the fun, we (uh) the whole mood was spoiled. Movie had started very early. We have lost our trailer also."
+    },
+    {
+      "start": 138.91,
+      "end": 143.17,
+      "role": "agent",
+      "text": "Ohh, sorry. Sorry to hear that ma'am. (uh) Anything else?"
+    },
+    {
+      "start": 144.5,
+      "end": 157.97,
+      "role": "customer",
+      "text": "Yeah (uh) by the, the sound was too bad. In the hall, the dialogs were muffled and the dialogs were muffled and the also the AC was not working well."
+    },
+    {
+      "start": 152.14,
+      "end": 152.98,
+      "role": "agent",
+      "text": "Okay."
+    },
+    {
+      "start": 158.44,
+      "end": 160.98,
+      "role": "agent",
+      "text": "Okay. (uh) I am"
+    },
+    {
+      "start": 160.07,
+      "end": 164.97,
+      "role": "customer",
+      "text": "Sometimes the volume of volume was very low and sometime it was distorted."
+    },
+    {
+      "start": 165.48,
+      "end": 171.84,
+      "role": "agent",
+      "text": "Okay, so sorry to hear that ma'am. (uh) (uh) That must have been c~ uncomfortable. I am very sorry."
+    },
+    {
+      "start": 172.34,
+      "end": 181.12,
+      "role": "agent",
+      "text": "(um) Okay, so I will write down in my report that the dialog channel was low and it affects the high channel and the HVAC was not cooling adequately."
+    },
+    {
+      "start": 181.52,
+      "end": 184.41,
+      "role": "agent",
+      "text": "(uh) Did you speak to the duty manager during the show?"
+    },
+    {
+      "start": 186.08,
+      "end": 193.53,
+      "role": "customer",
+      "text": "(uh) Yes yes. We tried jo hai but (uh) he came after the interval, and (uh) he said I will look into it."
+    },
+    {
+      "start": 194.23,
+      "end": 203.46,
+      "role": "customer",
+      "text": "And instead he (uh) he offered us a comple~ complementary bottle. What does it mean, you are offering (uh) water to us instead of our seats."
+    },
+    {
+      "start": 194.44,
+      "end": 195.18,
+      "role": "agent",
+      "text": "Okay."
+    },
+    {
+      "start": 204.11,
+      "end": 213.24,
+      "role": "customer",
+      "text": "We have paid almost two thousand rupees and I was expecting at least basic rights, our seats, clear sound, decent cooling. Everything was missing."
+    },
+    {
+      "start": 211.94,
+      "end": 223.02,
+      "role": "agent",
+      "text": "I understand ma'am. I understand ma'am. (uh) If may I propose and feel free to interrupt me, I can issue complementary vouchers to you (uh) which will equal to your ticket amount"
+    },
+    {
+      "start": 223.02,
+      "end": 234.8,
+      "role": "agent",
+      "text": "that you have already paid and I, because you had so much problem and you f~ (uh) you did not enjoy so I will add a snack combo voucher for your next visit."
+    },
+    {
+      "start": 234.8,
+      "end": 243.15,
+      "role": "agent",
+      "text": "I can also like partially refund (uh) some of the convenience charges as a gesture."
+    },
+    {
+      "start": 244.27,
+      "end": 251.07,
+      "role": "customer",
+      "text": "Hmm, okay vouchers are okay, but how do I know next time it would not happen?"
+    },
+    {
+      "start": 251.59,
+      "end": 263.74,
+      "role": "agent",
+      "text": "Fair point ma'am. I will add the priority seating assurance note, for your profile so that (um) (uh) whenever you go (uh) the staff over there will make sure that you will get your seats."
+    },
+    {
+      "start": 265.19,
+      "end": 277.82,
+      "role": "customer",
+      "text": "(uh) Now that sounds like a plan. (uh) But yesterday, I kept telling the sir, just check the system, he said the scanner is glitching. So, this type of inco~ inconvenience should not be there."
+    },
+    {
+      "start": 278.59,
+      "end": 291.89,
+      "role": "agent",
+      "text": "I totally agree with you ma'am. (uh) I will have my ID check the QR devices and the seat map sync and we (uh) and I will also request for an internal audit so that we can see that"
+    },
+    {
+      "start": 291.89,
+      "end": 297.76,
+      "role": "agent",
+      "text": "how (uh) we can (uh) improve ourselves. (uh) Is there anything else ma'am?"
+    },
+    {
+      "start": 298.92,
+      "end": 304.99,
+      "role": "customer",
+      "text": "(uh) Yes please. (uh) Train your staff also. So that they can handle the families better."
+    },
+    {
+      "start": 302.98,
+      "end": 303.58,
+      "role": "agent",
+      "text": "Sure."
+    },
+    {
+      "start": 305.39,
+      "end": 318.36,
+      "role": "customer",
+      "text": "Kids become anxious when they, they are, their parents are arguing with the staff. It is very stressful for everyone. We went to the movie to light our mood but after going there, the mood was very off."
+    },
+    {
+      "start": 305.8,
+      "end": 306.52,
+      "role": "agent",
+      "text": "Sure."
+    },
+    {
+      "start": 311.66,
+      "end": 313.66,
+      "role": "agent",
+      "text": "Sure ma'am I understand."
+    },
+    {
+      "start": 319.3,
+      "end": 331.47,
+      "role": "agent",
+      "text": "Sure ma'am sure. (uh) I assure you, we will train our team to have family first seating protocol so that every one with a family can enjoy and not get disturbed."
+    },
+    {
+      "start": 332.74,
+      "end": 342.62,
+      "role": "customer",
+      "text": "Good good and one thing also (uh) (uh) the food we (ah) take from the, your stall, (uh) stall were very stale. They were not fresh."
+    },
+    {
+      "start": 343.42,
+      "end": 351.04,
+      "role": "customer",
+      "text": "So, please be ensure that haan yeah we ensure (um) you should ensure that the at least the food should not be stale there."
+    },
+    {
+      "start": 343.7,
+      "end": 344.84,
+      "role": "agent",
+      "text": "Ohh really?"
+    },
+    {
+      "start": 352.06,
+      "end": 361.29,
+      "role": "agent",
+      "text": "Ohh thank you for bringing that (uh) into my knowledge, I will inform our F and B manager, (ah) they will check the batch fresheners and"
+    },
+    {
+      "start": 361.59,
+      "end": 372.26,
+      "role": "agent",
+      "text": "warming setting, (uh) we want everyone to have some, (uh) fresh food, for sure. So (uh) sir (uh) (uh) sorry ma'am, (uh) here is what I will do"
+    },
+    {
+      "start": 372.61,
+      "end": 385.22,
+      "role": "agent",
+      "text": "I will create a formal complaint ticket and share the ticket number by SMS and email with you. I will issue complementary ticket vouchers (uh) equal to your four seats, and plus (uh) snack combo voucher."
+    },
+    {
+      "start": 385.92,
+      "end": 396.21,
+      "role": "agent",
+      "text": "I will also process partial refund of the convenience fee and will add the priority seating assurance note to your profi~"
+    },
+    {
+      "start": 396.66,
+      "end": 408.49,
+      "role": "agent",
+      "text": "So, that the next time you come and visit Anex (uh) you can get your priority seating (uh) and I will also reach out for the technical issue about the audio and the HVAC team."
+    },
+    {
+      "start": 409.41,
+      "end": 415.95,
+      "role": "customer",
+      "text": "(uh) Good (uh) but please share everything in writing so that I ke~ (uh) keep it for a record."
+    },
+    {
+      "start": 416.03,
+      "end": 419.99,
+      "role": "agent",
+      "text": "Sure ma'am, sure. Can you please confirm your email and phone number?"
+    },
+    {
+      "start": 420.97,
+      "end": 432.97,
+      "role": "customer",
+      "text": "Yes yes. (uh) My email is, write down please. Singh dot R at the rate of Gmail dot com. And my phone yeah, note down my"
+    },
+    {
+      "start": 428.63,
+      "end": 429.57,
+      "role": "agent",
+      "text": "mhm"
+    },
+    {
+      "start": 431.61,
+      "end": 439.95,
+      "role": "agent",
+      "text": "And is your phone, yeah (uh) I have that, thankyou and is your phone number still (uh) the one ending with nine eight zero one?"
+    },
+    {
+      "start": 440.67,
+      "end": 453.39,
+      "role": "customer",
+      "text": "Yeah, this is correct. (uh) Sorry to interrupt, (uh) when will the vouchers be re-usable? (uh) We are thinking to try again next weekend. (uh) Maybe the Sunday Matinee."
+    },
+    {
+      "start": 443.14,
+      "end": 443.84,
+      "role": "agent",
+      "text": "Okay."
+    },
+    {
+      "start": 453.47,
+      "end": 463.9,
+      "role": "agent",
+      "text": "Sure ma'am and thank you for considering ag~ (uh) again after everything. (ah) the vouchers, they will be active immediately, like (uh) upon the email delivery."
+    },
+    {
+      "start": 465.35,
+      "end": 479.01,
+      "role": "agent",
+      "text": "And (ah) they will be valid for ninety days. So, for Sunday Matinee, (uh) I can also pre-book (uh) the row and release it to you once you decide on the exact show time."
+    },
+    {
+      "start": 480.8,
+      "end": 488.76,
+      "role": "customer",
+      "text": "Please do that, pre-blocking of the seats give peace of mind. I will confirm you after, after talking to my husband."
+    },
+    {
+      "start": 484.75,
+      "end": 486.11,
+      "role": "agent",
+      "text": "Sure ma'am. Sure."
+    },
+    {
+      "start": 488.61,
+      "end": 502.92,
+      "role": "agent",
+      "text": "Sure, definitely ma'am. And I will place a courtesy hold for row F seat eight to eleven for the Sunday Matinee, there will be no charges and you can confirm anytime within the next twenty-four hours."
+    },
+    {
+      "start": 504.28,
+      "end": 514.99,
+      "role": "customer",
+      "text": "Perfect perfect. (uh) By the way, one suggestion (um) put, can you put a small sign near the entrance that says, your seats are occupied contact supervisor immediately,"
+    },
+    {
+      "start": 515.34,
+      "end": 520.44,
+      "role": "customer",
+      "text": "because people should have to argue (um) should not argue with each other inside the hall."
+    },
+    {
+      "start": 520.98,
+      "end": 533.73,
+      "role": "agent",
+      "text": "Definitely ma'am, (um) that is a very practical suggestion. I will write it down in my complaint that I will make, that there should be something that (uh) can help people for that."
+    },
+    {
+      "start": 536.97,
+      "end": 542.54,
+      "role": "customer",
+      "text": "Nice, and please add that also, early entry means less chaos."
+    },
+    {
+      "start": 543.15,
+      "end": 553.53,
+      "role": "agent",
+      "text": "True. I, I really appreciate your patience ma'am and thankyou for (uh) trying us again and we value, we so value your time and feedback."
+    },
+    {
+      "start": 553.88,
+      "end": 565.73,
+      "role": "agent",
+      "text": "And it genuinely help us to improve and I am truly again I am truly sorry for the, all the poor experience you had yesterday. I want your next visit yeah."
+    },
+    {
+      "start": 562.73,
+      "end": 565.95,
+      "role": "customer",
+      "text": "It is okay. It is okay."
+    },
+    {
+      "start": 566.13,
+      "end": 570.35,
+      "role": "agent",
+      "text": "Yeah. I want your next visit to go effortless."
+    },
+    {
+      "start": 571.75,
+      "end": 574.43,
+      "role": "customer",
+      "text": "mm, thank you. Maybe."
+    },
+    {
+      "start": 575.23,
+      "end": 586.35,
+      "role": "agent",
+      "text": "(uh) For families ma'am we can also arrange early entry by five minutes, just to settle in, if that helps and I can add it to your note that they can let you enter early."
+    },
+    {
+      "start": 589.01,
+      "end": 591.91,
+      "role": "customer",
+      "text": "Okay. Okay."
+    },
+    {
+      "start": 594.0,
+      "end": 600.71,
+      "role": "agent",
+      "text": "Okay. So, I have updated your profile with early sitting assistance and a priority seating assurance."
+    },
+    {
+      "start": 602.65,
+      "end": 605.35,
+      "role": "customer",
+      "text": "Got it. Got it. I will keep an eye."
+    },
+    {
+      "start": 606.29,
+      "end": 618.58,
+      "role": "agent",
+      "text": "Okay. So, ma'am I am generating (uh) your complaint ticket as we are speaking right now. Your ticket number is E N four seven two eight one."
+    },
+    {
+      "start": 620.22,
+      "end": 628.23,
+      "role": "agent",
+      "text": "You can write it down, but you will also receive it in a SMS in the next few (uh) minutes, and email shortly after that."
+    },
+    {
+      "start": 620.62,
+      "end": 621.68,
+      "role": "customer",
+      "text": "Okay."
+    },
+    {
+      "start": 630.5,
+      "end": 637.99,
+      "role": "customer",
+      "text": "Okay. (uh) If the email does not come (uh) should I call you back? Or should I trust you will send it?"
+    },
+    {
+      "start": 635.59,
+      "end": 637.11,
+      "role": "agent",
+      "text": "Have my assurance."
+    },
+    {
+      "start": 638.61,
+      "end": 646.86,
+      "role": "agent",
+      "text": "(uh) have my assurance ma'am, (uh) before I let you go (uh) you will receive the SMS for sure."
+    },
+    {
+      "start": 647.26,
+      "end": 655.07,
+      "role": "agent",
+      "text": "And you will receive the email and (uh) may I check if there is anything else that I can help you with today?"
+    },
+    {
+      "start": 656.76,
+      "end": 667.49,
+      "role": "customer",
+      "text": "No, no. I think you have covered everything. I feel heard and the plan, your plan sounds so solid. So, I am satisfied with the help you have done today."
+    },
+    {
+      "start": 665.28,
+      "end": 666.29,
+      "role": "agent",
+      "text": "Thank you ma'am."
+    },
+    {
+      "start": 667.99,
+      "end": 677.18,
+      "role": "agent",
+      "text": "Thank you, thank you ma'am. We are here to help and, we truly appreciate the another chance that you are giving us and thank you for calling us."
+    },
+    {
+      "start": 677.63,
+      "end": 686.8,
+      "role": "agent",
+      "text": "(um) I hope (uh) we were able to help you today and make sure your next visit is smooth and enjoyable. Have a peaceful evening ma'am."
+    },
+    {
+      "start": 688.38,
+      "end": 690.74,
+      "role": "customer",
+      "text": "Thank you, thank you Rohini. Good bye."
+    }
+  ]
+}

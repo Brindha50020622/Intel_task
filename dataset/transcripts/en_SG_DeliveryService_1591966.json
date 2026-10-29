@@ -1,0 +1,879 @@
+{
+  "file_name": "en_SG_DeliveryService_1591966.wav",
+  "domain": "deliveryservice",
+  "accent": "en-SG",
+  "duration": 649.489,
+  "escalation_label": 1,
+  "segments": [
+    {
+      "start": 15.54,
+      "end": 16.14,
+      "role": "customer",
+      "text": "Hi"
+    },
+    {
+      "start": 16.94,
+      "end": 17.64,
+      "role": "customer",
+      "text": "this is Grab."
+    },
+    {
+      "start": 18.14,
+      "end": 19.44,
+      "role": "agent",
+      "text": "Yes, this is Grab."
+    },
+    {
+      "start": 20.04,
+      "end": 20.34,
+      "role": "agent",
+      "text": "What"
+    },
+    {
+      "start": 21.26,
+      "end": 22.14,
+      "role": "customer",
+      "text": "Is overdue"
+    },
+    {
+      "start": 23.34,
+      "end": 26.44,
+      "role": "agent",
+      "text": "(uh,) what what parcel are you referring to?"
+    },
+    {
+      "start": 30.34,
+      "end": 31.54,
+      "role": "customer",
+      "text": "The one for the cosmetic."
+    },
+    {
+      "start": 32.24,
+      "end": 35.84,
+      "role": "agent",
+      "text": "Okay. Can you tell me more? Do you have your tracking number?"
+    },
+    {
+      "start": 39.84,
+      "end": 42.24,
+      "role": "customer",
+      "text": "My tracking number, (um)"
+    },
+    {
+      "start": 41.74,
+      "end": 44.74,
+      "role": "agent",
+      "text": "Or is your tracking number showing any updates?"
+    },
+    {
+      "start": 47.54,
+      "end": 48.74,
+      "role": "customer",
+      "text": "Or the tracking is stuck."
+    },
+    {
+      "start": 48.94,
+      "end": 49.54,
+      "role": "agent",
+      "text": "Okay"
+    },
+    {
+      "start": 50.14,
+      "end": 54.54,
+      "role": "agent",
+      "text": "So, can you (uh) please give me an order ID please?"
+    },
+    {
+      "start": 59.64,
+      "end": 61.44,
+      "role": "customer",
+      "text": "A D five four"
+    },
+    {
+      "start": 62.04,
+      "end": 62.84,
+      "role": "customer",
+      "text": "one two nine"
+    },
+    {
+      "start": 63.04,
+      "end": 64.54,
+      "role": "agent",
+      "text": "Okay, let me repeat one more"
+    },
+    {
+      "start": 64.54,
+      "end": 65.44,
+      "role": "customer",
+      "text": "C I D"
+    },
+    {
+      "start": 65.94,
+      "end": 66.84,
+      "role": "agent",
+      "text": "AD"
+    },
+    {
+      "start": 67.84,
+      "end": 69.54,
+      "role": "agent",
+      "text": "five D one four five"
+    },
+    {
+      "start": 72.14,
+      "end": 72.74,
+      "role": "agent",
+      "text": "Is that right?"
+    },
+    {
+      "start": 74.14,
+      "end": 75.04,
+      "role": "customer",
+      "text": "Yes"
+    },
+    {
+      "start": 75.54,
+      "end": 76.44,
+      "role": "agent",
+      "text": "Okay"
+    },
+    {
+      "start": 79.04,
+      "end": 88.94,
+      "role": "agent",
+      "text": "Let me enter. Check out the system. Okay. It shows that there's this order. So (uh,) may I know when was the last time that you have checked"
+    },
+    {
+      "start": 89.14,
+      "end": 90.04,
+      "role": "agent",
+      "text": "on the tracking?"
+    },
+    {
+      "start": 92.34,
+      "end": 93.44,
+      "role": "customer",
+      "text": "I just checked this morning."
+    },
+    {
+      "start": 94.54,
+      "end": 95.24,
+      "role": "agent",
+      "text": "Okay"
+    },
+    {
+      "start": 95.14,
+      "end": 96.34,
+      "role": "customer",
+      "text": "And then now I try again."
+    },
+    {
+      "start": 96.94,
+      "end": 99.04,
+      "role": "customer",
+      "text": "I can't check because it's stuck already."
+    },
+    {
+      "start": 99.54,
+      "end": 101.04,
+      "role": "agent",
+      "text": "Okay, so"
+    },
+    {
+      "start": 101.74,
+      "end": 103.34,
+      "role": "customer",
+      "text": "It's already overdue, you know"
+    },
+    {
+      "start": 104.04,
+      "end": 105.84,
+      "role": "customer",
+      "text": "it's very urgent for me. I need it."
+    },
+    {
+      "start": 107.34,
+      "end": 110.94,
+      "role": "agent",
+      "text": "Okay, I'm very sorry about this situation happening."
+    },
+    {
+      "start": 112.04,
+      "end": 114.14,
+      "role": "agent",
+      "text": "Let me look at the system right now."
+    },
+    {
+      "start": 115.04,
+      "end": 116.14,
+      "role": "agent",
+      "text": "Okay"
+    },
+    {
+      "start": 116.74,
+      "end": 119.24,
+      "role": "agent",
+      "text": "It's six four, okay system"
+    },
+    {
+      "start": 119.84,
+      "end": 127.84,
+      "role": "agent",
+      "text": "Okay, it shows that it has left. The seller has shipped out. Okay, shows that it has arrived at their warehouse."
+    },
+    {
+      "start": 128.04,
+      "end": 129.64,
+      "role": "customer",
+      "text": "But why there's no update?"
+    },
+    {
+      "start": 130.14,
+      "end": 133.34,
+      "role": "agent",
+      "text": "Okay, I think, I believe this is (uh)"
+    },
+    {
+      "start": 133.94,
+      "end": 137.04,
+      "role": "agent",
+      "text": "This might be due to the recent flooding in"
+    },
+    {
+      "start": 141.24,
+      "end": 141.74,
+      "role": "agent",
+      "text": "Sorry"
+    },
+    {
+      "start": 142.34,
+      "end": 145.74,
+      "role": "agent",
+      "text": "So, there (uh) disconnection. So, this might be any"
+    },
+    {
+      "start": 146.44,
+      "end": 156.24,
+      "role": "agent",
+      "text": "Issue due to the flooding area, so because I believe the seller is from Thailand. So, you are buying this cosmetic from Thailand, and we have received multiple"
+    },
+    {
+      "start": 156.34,
+      "end": 156.94,
+      "role": "agent",
+      "text": "(um)"
+    },
+    {
+      "start": 157.34,
+      "end": 164.24,
+      "role": "agent",
+      "text": "Feedback regarding this issue from this seller or from parcels from Thailand. So"
+    },
+    {
+      "start": 165.14,
+      "end": 168.24,
+      "role": "agent",
+      "text": "This might be the issue due to the heavy flood."
+    },
+    {
+      "start": 169.34,
+      "end": 176.54,
+      "role": "agent",
+      "text": "the transportation and delivery are badly affected. Which is why they are now misrouting the"
+    },
+    {
+      "start": 178.44,
+      "end": 180.44,
+      "role": "agent",
+      "text": "Usual routes and"
+    },
+    {
+      "start": 181.84,
+      "end": 188.34,
+      "role": "agent",
+      "text": "May I ask if the indicated dates in your tracking order shows that the delivery should be"
+    },
+    {
+      "start": 189.04,
+      "end": 189.54,
+      "role": "agent",
+      "text": "today"
+    },
+    {
+      "start": 193.54,
+      "end": 194.34,
+      "role": "customer",
+      "text": "Okay, just let me check."
+    },
+    {
+      "start": 200.94,
+      "end": 203.54,
+      "role": "customer",
+      "text": "Although there~ there's no indication. So (um)"
+    },
+    {
+      "start": 204.54,
+      "end": 206.24,
+      "role": "customer",
+      "text": "Will the driver attend the delivery?"
+    },
+    {
+      "start": 210.44,
+      "end": 210.94,
+      "role": "agent",
+      "text": "Yes"
+    },
+    {
+      "start": 211.74,
+      "end": 217.54,
+      "role": "agent",
+      "text": "It shows that the driver is on the way to deliver and he's already out for delivery."
+    },
+    {
+      "start": 219.04,
+      "end": 220.54,
+      "role": "agent",
+      "text": "It shows that in the system."
+    },
+    {
+      "start": 224.94,
+      "end": 225.84,
+      "role": "customer",
+      "text": "Okay"
+    },
+    {
+      "start": 226.54,
+      "end": 230.94,
+      "role": "customer",
+      "text": "But I I didn't receive any SMS or any updates"
+    },
+    {
+      "start": 231.34,
+      "end": 231.94,
+      "role": "agent",
+      "text": "I see"
+    },
+    {
+      "start": 232.64,
+      "end": 233.74,
+      "role": "agent",
+      "text": "Let me check the"
+    },
+    {
+      "start": 234.44,
+      "end": 238.64,
+      "role": "agent",
+      "text": "(uh,) system over here, regarding the SMS. Okay"
+    },
+    {
+      "start": 239.84,
+      "end": 244.04,
+      "role": "agent",
+      "text": "May I (uh) verify your phone number please? Is it"
+    },
+    {
+      "start": 245.24,
+      "end": 247.84,
+      "role": "agent",
+      "text": "Eight nine three six"
+    },
+    {
+      "start": 248.54,
+      "end": 249.84,
+      "role": "agent",
+      "text": "Four one two"
+    },
+    {
+      "start": 252.84,
+      "end": 255.54,
+      "role": "customer",
+      "text": "Eight nine three six four one, yes"
+    },
+    {
+      "start": 255.94,
+      "end": 263.44,
+      "role": "agent",
+      "text": "Ohh, okay. So, it seems that there has been a SMS sent yesterday regarding this."
+    },
+    {
+      "start": 266.14,
+      "end": 270.84,
+      "role": "agent",
+      "text": "It says that (um) the delivery. yes it It indicated that (um)"
+    },
+    {
+      "start": 267.44,
+      "end": 268.04,
+      "role": "customer",
+      "text": "release"
+    },
+    {
+      "start": 271.84,
+      "end": 274.94,
+      "role": "agent",
+      "text": "There is there is a delay due to the."
+    },
+    {
+      "start": 276.04,
+      "end": 278.24,
+      "role": "agent",
+      "text": "Flooding situation in Thailand."
+    },
+    {
+      "start": 279.34,
+      "end": 281.74,
+      "role": "agent",
+      "text": "So, they wanted to give you an update."
+    },
+    {
+      "start": 283.64,
+      "end": 284.44,
+      "role": "agent",
+      "text": "You might have it."
+    },
+    {
+      "start": 284.04,
+      "end": 287.54,
+      "role": "customer",
+      "text": "Okay, I didn't I didn't actually receive it. So, what happens next?"
+    },
+    {
+      "start": 287.84,
+      "end": 288.64,
+      "role": "agent",
+      "text": "Ohh, okay."
+    },
+    {
+      "start": 289.84,
+      "end": 294.04,
+      "role": "agent",
+      "text": "So, I will try to expedite and contact the delivery company."
+    },
+    {
+      "start": 295.14,
+      "end": 300.64,
+      "role": "agent",
+      "text": "Which is Ninja Ben. I believe Ninja Ben is the delivery company responsible for this."
+    },
+    {
+      "start": 303.34,
+      "end": 307.24,
+      "role": "agent",
+      "text": "So, I will I will quickly expedite this situation."
+    },
+    {
+      "start": 307.84,
+      "end": 315.84,
+      "role": "agent",
+      "text": "and get them to give me an update internally so, that our system can send you another SMS"
+    },
+    {
+      "start": 316.44,
+      "end": 318.74,
+      "role": "agent",
+      "text": "to inform you of the most updated"
+    },
+    {
+      "start": 319.64,
+      "end": 320.64,
+      "role": "agent",
+      "text": "Delivery time"
+    },
+    {
+      "start": 324.14,
+      "end": 327.94,
+      "role": "customer",
+      "text": "So, what if (um) around the time I don't I don't receive the thing. Will there be a refund?"
+    },
+    {
+      "start": 329.24,
+      "end": 338.04,
+      "role": "agent",
+      "text": "Yes, definitely. we will we will investigate this situation. And if it is more than seventy-two hours of the."
+    },
+    {
+      "start": 338.74,
+      "end": 342.34,
+      "role": "agent",
+      "text": "(um,) intended required delivery time,"
+    },
+    {
+      "start": 343.44,
+      "end": 345.34,
+      "role": "agent",
+      "text": "Grab will definitely."
+    },
+    {
+      "start": 346.54,
+      "end": 352.24,
+      "role": "agent",
+      "text": "Refund without questions asked. So, I will I have escalated this in my system."
+    },
+    {
+      "start": 352.84,
+      "end": 362.64,
+      "role": "agent",
+      "text": "We hire UPS as a memo so that they will put this case in priority and we will track this system very carefully."
+    },
+    {
+      "start": 362.94,
+      "end": 363.84,
+      "role": "agent",
+      "text": "and if"
+    },
+    {
+      "start": 364.54,
+      "end": 366.04,
+      "role": "agent",
+      "text": "after seventy-two hours."
+    },
+    {
+      "start": 368.04,
+      "end": 372.24,
+      "role": "agent",
+      "text": "The updates in our system has not been reflected as delivered"
+    },
+    {
+      "start": 373.04,
+      "end": 381.24,
+      "role": "agent",
+      "text": "to customer, we would definitely automatically (um) send you the refund back into your Grab account."
+    },
+    {
+      "start": 384.04,
+      "end": 388.64,
+      "role": "customer",
+      "text": "Ohh, so, what is the difference between a refund and"
+    },
+    {
+      "start": 389.24,
+      "end": 390.54,
+      "role": "customer",
+      "text": "resending me the items?"
+    },
+    {
+      "start": 391.04,
+      "end": 394.04,
+      "role": "agent",
+      "text": "So, when it comes to refunding."
+    },
+    {
+      "start": 396.74,
+      "end": 400.84,
+      "role": "agent",
+      "text": "Whether you will eventually receive the parcel"
+    },
+    {
+      "start": 401.84,
+      "end": 403.04,
+      "role": "agent",
+      "text": "You will receive the money."
+    },
+    {
+      "start": 403.64,
+      "end": 407.94,
+      "role": "agent",
+      "text": "So, the money will immediately go back into your system into your account."
+    },
+    {
+      "start": 409.44,
+      "end": 414.84,
+      "role": "agent",
+      "text": "And if the parcel were to arrive today, tomorrow or"
+    },
+    {
+      "start": 415.54,
+      "end": 423.54,
+      "role": "agent",
+      "text": "I mean definitely after seventy-two hours later or next week, you will keep the parcel as well. We do not require any return from you."
+    },
+    {
+      "start": 423.94,
+      "end": 425.64,
+      "role": "agent",
+      "text": "So that is the refund"
+    },
+    {
+      "start": 425.94,
+      "end": 435.84,
+      "role": "agent",
+      "text": "And when it comes to resend, resend is we will still hold on, Grab will still hold on to the funding and we would request for the seller,"
+    },
+    {
+      "start": 436.74,
+      "end": 443.74,
+      "role": "agent",
+      "text": "to resend out the parcel one more time, because of the situation that the customer did not receive this parcel"
+    },
+    {
+      "start": 444.64,
+      "end": 448.04,
+      "role": "agent",
+      "text": "and the delivery team also did not receive the parcel."
+    },
+    {
+      "start": 449.04,
+      "end": 450.34,
+      "role": "agent",
+      "text": "But there is the difference."
+    },
+    {
+      "start": 452.04,
+      "end": 456.24,
+      "role": "customer",
+      "text": "Okay. That's all? There's no compensation? I've waited for so long."
+    },
+    {
+      "start": 456.84,
+      "end": 465.04,
+      "role": "agent",
+      "text": "All right. So (um,) may I know what kind of compensation I'm looking for like so that I can check into our SOP and"
+    },
+    {
+      "start": 465.74,
+      "end": 470.14,
+      "role": "agent",
+      "text": "find (uh) compensations that is suitable for you"
+    },
+    {
+      "start": 470.84,
+      "end": 472.04,
+      "role": "agent",
+      "text": "For your situation."
+    },
+    {
+      "start": 473.64,
+      "end": 475.04,
+      "role": "customer",
+      "text": "I don't know. I don't know why your company."
+    },
+    {
+      "start": 476.74,
+      "end": 479.04,
+      "role": "agent",
+      "text": "Sorry, could you repeat one more time please?"
+    },
+    {
+      "start": 480.04,
+      "end": 486.24,
+      "role": "customer",
+      "text": "I don't know because I don't know what your company can offer me. Because I have never experienced this situation before."
+    },
+    {
+      "start": 487.24,
+      "end": 491.94,
+      "role": "agent",
+      "text": "Okay. So, (uh) when it comes to late delivery"
+    },
+    {
+      "start": 493.04,
+      "end": 495.84,
+      "role": "agent",
+      "text": "especially when the clients"
+    },
+    {
+      "start": 496.44,
+      "end": 500.54,
+      "role": "agent",
+      "text": "has not received the parcel seventy-two hours after the"
+    },
+    {
+      "start": 501.44,
+      "end": 510.74,
+      "role": "agent",
+      "text": "stated delivery time, not only will we give you a full refund of the amount that you have paid for this delivered parcel"
+    },
+    {
+      "start": 511.44,
+      "end": 514.54,
+      "role": "agent",
+      "text": "we would also include a twenty dollars"
+    },
+    {
+      "start": 515.24,
+      "end": 515.94,
+      "role": "agent",
+      "text": "voucher"
+    },
+    {
+      "start": 516.54,
+      "end": 518.84,
+      "role": "agent",
+      "text": "that you can use for your next order."
+    },
+    {
+      "start": 519.94,
+      "end": 520.54,
+      "role": "agent",
+      "text": "So"
+    },
+    {
+      "start": 521.44,
+      "end": 522.84,
+      "role": "agent",
+      "text": "We have definitely"
+    },
+    {
+      "start": 524.84,
+      "end": 533.24,
+      "role": "agent",
+      "text": "our customers satisfaction as a priority. So, I'm very we are very sorry that this happened to you. So"
+    },
+    {
+      "start": 534.64,
+      "end": 536.94,
+      "role": "agent",
+      "text": "Could you please call"
+    },
+    {
+      "start": 537.64,
+      "end": 541.64,
+      "role": "agent",
+      "text": "If in after seventy-two- hours, if you still have not receive it,"
+    },
+    {
+      "start": 543.14,
+      "end": 544.74,
+      "role": "agent",
+      "text": "could you please call me again?"
+    },
+    {
+      "start": 545.74,
+      "end": 549.44,
+      "role": "agent",
+      "text": "You have the same number, and my extension number is forty-five"
+    },
+    {
+      "start": 550.04,
+      "end": 556.54,
+      "role": "agent",
+      "text": "So, you could call when you call in again, you just press extension number forty-five, you will reach me."
+    },
+    {
+      "start": 557.24,
+      "end": 558.54,
+      "role": "agent",
+      "text": "and I will definitely."
+    },
+    {
+      "start": 559.64,
+      "end": 564.14,
+      "role": "agent",
+      "text": "assure that the refund goes through and you will also receive the"
+    },
+    {
+      "start": 564.74,
+      "end": 568.34,
+      "role": "agent",
+      "text": "additional voucher to compensate for your troubles."
+    },
+    {
+      "start": 570.74,
+      "end": 571.34,
+      "role": "customer",
+      "text": "All right."
+    },
+    {
+      "start": 573.24,
+      "end": 574.14,
+      "role": "customer",
+      "text": "It should be okay."
+    },
+    {
+      "start": 574.24,
+      "end": 578.54,
+      "role": "agent",
+      "text": "Okay. So, (uh) is there anything else I can help you with?"
+    },
+    {
+      "start": 582.64,
+      "end": 583.84,
+      "role": "customer",
+      "text": "Ohh"
+    },
+    {
+      "start": 584.84,
+      "end": 587.34,
+      "role": "customer",
+      "text": "Well, okay. Not really, yeah, just"
+    },
+    {
+      "start": 589.74,
+      "end": 592.54,
+      "role": "customer",
+      "text": "Keep me updated for the delivery."
+    },
+    {
+      "start": 594.84,
+      "end": 595.34,
+      "role": "agent",
+      "text": "Okay"
+    },
+    {
+      "start": 595.24,
+      "end": 596.84,
+      "role": "customer",
+      "text": "Delivery thing, okay"
+    },
+    {
+      "start": 597.14,
+      "end": 598.04,
+      "role": "agent",
+      "text": "Okay, sure"
+    },
+    {
+      "start": 598.74,
+      "end": 606.54,
+      "role": "agent",
+      "text": "(uh,) thank you mam, (uh) I have recorded this and set it into a high priority system."
+    },
+    {
+      "start": 607.34,
+      "end": 610.04,
+      "role": "agent",
+      "text": "And if the parcel"
+    },
+    {
+      "start": 610.64,
+      "end": 617.44,
+      "role": "agent",
+      "text": "And the delivery team give us an update, I will we will definitely send out the same as the,"
+    },
+    {
+      "start": 617.64,
+      "end": 622.74,
+      "role": "agent",
+      "text": "most updated information to your SMS using the same number that you have verified earlier."
+    },
+    {
+      "start": 623.04,
+      "end": 627.44,
+      "role": "agent",
+      "text": "So, we are sorry for the inconvenience caused and thank you for calling in."
+    },
+    {
+      "start": 628.74,
+      "end": 632.74,
+      "role": "agent",
+      "text": "Have a nice day. Yeah, thank you. Yeah. Bye bye."
+    },
+    {
+      "start": 629.84,
+      "end": 630.54,
+      "role": "customer",
+      "text": "All right, sure"
+    },
+    {
+      "start": 631.44,
+      "end": 632.34,
+      "role": "customer",
+      "text": "Thank you, bye"
+    },
+    {
+      "start": 634.34,
+      "end": 634.64,
+      "role": "customer",
+      "text": "bye"
+    }
+  ]
+}

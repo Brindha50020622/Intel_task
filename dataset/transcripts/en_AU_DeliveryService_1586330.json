@@ -1,0 +1,568 @@
+{
+    "file_name": "en_AU_DeliveryService_1586330.wav",
+    "duration": 422.0,
+    "accent": "en-AU",
+    "domain": "deliveryservice",
+    "segments": [
+        {
+            "start": 13.34,
+            "end": 19.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Good morning. Thank you for calling Fox Courier. My name is Ally. How can I help you today?"
+        },
+        {
+            "start": 20.24,
+            "end": 33.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Hi. My name is Jenny. (Um) I'm waiting for a really important package, but it hasn't has not arrived on time and I was told it would arrive by yesterday and it's still not here."
+        },
+        {
+            "start": 33.94,
+            "end": 40.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Ohh. I am sorry to hear that. I understand you're calling about a package that hasn't arrived on time,"
+        },
+        {
+            "start": 40.04,
+            "end": 45.02,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(uh) specifically since it contains important information."
+        },
+        {
+            "start": 45.04,
+            "end": 51.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Let's get this sorted out for you. And you wanted this urgently."
+        },
+        {
+            "start": 51.94,
+            "end": 56.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Can I please have your tracking number so I can lookup the shipment details?"
+        },
+        {
+            "start": 56.83,
+            "end": 61.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yep. It's four five nine two one seven eight four five."
+        },
+        {
+            "start": 63.55,
+            "end": 67.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Sorry the last numbers were eight four five, was it?"
+        },
+        {
+            "start": 66.73,
+            "end": 67.91,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Five. Yes."
+        },
+        {
+            "start": 68.04,
+            "end": 72.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. Thank you. Just let me bring this on the system."
+        },
+        {
+            "start": 78.04,
+            "end": 89.48,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thank you, Jenny. I can see here that your package was due to arrive on twenty fourth."
+        },
+        {
+            "start": 92.14,
+            "end": 102.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. But you understand how there was some storms happening in the last couple of days. I understand that its been delayed due to the storms."
+        },
+        {
+            "start": 104.14,
+            "end": 109.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "It is currently at the Tullamarine airport facility ."
+        },
+        {
+            "start": 110.43,
+            "end": 111.19,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh yeah."
+        },
+        {
+            "start": 111.54,
+            "end": 118.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So my understanding is can I confirm that this is going to be shipped to Brunswick?"
+        },
+        {
+            "start": 118.64,
+            "end": 119.31,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yes it is."
+        },
+        {
+            "start": 120.34,
+            "end": 127.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. So I wouldn't expect this to be more than another day or so ."
+        },
+        {
+            "start": 127.82,
+            "end": 139.33,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "But if you require this shipment immediately, what I can do is to lodge a trace request so we can then monitor the package closely,"
+        },
+        {
+            "start": 139.33,
+            "end": 143.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "and make sure it continues to move through the network."
+        },
+        {
+            "start": 143.74,
+            "end": 147.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Wou~ would you like me to do that for you?"
+        },
+        {
+            "start": 144.34,
+            "end": 144.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Okay."
+        },
+        {
+            "start": 147.24,
+            "end": 147.85,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yes, please."
+        },
+        {
+            "start": 148.34,
+            "end": 153.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. Just bear with me and I'll need to collect some information from you."
+        },
+        {
+            "start": 159.64,
+            "end": 168.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So while I set this up, when we put this through, you will receive an update as soon as there is a new tracking information."
+        },
+        {
+            "start": 168.54,
+            "end": 180.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So the latest that I have is the package has arrived at Tullamarine airport at (uh) nine fifteen this morning, so very recently."
+        },
+        {
+            "start": 181.84,
+            "end": 182.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Okay."
+        },
+        {
+            "start": 184.84,
+            "end": 198.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "I can also upgrade this for you (uh) to for faster handling but that will cost you additional delivery. Would you like me to do that?"
+        },
+        {
+            "start": 199.04,
+            "end": 202.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Um) would it make it faster? Would it make it"
+        },
+        {
+            "start": 201.84,
+            "end": 214.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "It does. It is a little bit expensive, there is an additional thirty dollars for that but most likely you will be receiving that one by the end of today."
+        },
+        {
+            "start": 214.94,
+            "end": 223.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(um) I really like that idea because it's got some very important details, sorry, some very important documents that I need and I kind of need it today ."
+        },
+        {
+            "start": 223.64,
+            "end": 224.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay."
+        },
+        {
+            "start": 223.74,
+            "end": 225.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "So yeah I will go with that idea. Thank you."
+        },
+        {
+            "start": 226.64,
+            "end": 238.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "All right. So let's do that. So just bear with me I will need to cancel that trace request and then upgrade this to expedited service for faster handling."
+        },
+        {
+            "start": 238.97,
+            "end": 246.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. Yep. It is confirming that you should be able to receive that by four thirty p.m. today."
+        },
+        {
+            "start": 251.04,
+            "end": 252.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "That would be perfect."
+        },
+        {
+            "start": 254.74,
+            "end": 264.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So for that, I will need your tracking number which I've got it, updated delivery. No other information is going to change?"
+        },
+        {
+            "start": 264.74,
+            "end": 267.43,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "No, no. stays the same."
+        },
+        {
+            "start": 265.84,
+            "end": 266.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "No."
+        },
+        {
+            "start": 267.44,
+            "end": 278.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay, fantastic. So what I'll need is your credit card information in a second. If you would want to grab that while I complete your (uh) processing."
+        },
+        {
+            "start": 278.14,
+            "end": 279.03,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah ."
+        },
+        {
+            "start": 282.64,
+            "end": 290.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Fantastic. Okay. I've processed the upgrade. (Um) so can you tell me your name on the credit card?"
+        },
+        {
+            "start": 291.74,
+            "end": 293.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yes, Jennifer O'Brien."
+        },
+        {
+            "start": 295.24,
+            "end": 296.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yep ."
+        },
+        {
+            "start": 296.24,
+            "end": 296.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah."
+        },
+        {
+            "start": 299.54,
+            "end": 301.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And what is your credit card number?"
+        },
+        {
+            "start": 302.44,
+            "end": 307.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "It's five four five two one hundred nine five four."
+        },
+        {
+            "start": 313.04,
+            "end": 318.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Five four five four one hundred and what was the last?"
+        },
+        {
+            "start": 316.74,
+            "end": 317.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 319.24,
+            "end": 320.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Nine two five four."
+        },
+        {
+            "start": 320.74,
+            "end": 326.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Nine two five four. Thank you. And the security code on the card?"
+        },
+        {
+            "start": 326.74,
+            "end": 328.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Uh) four five nine."
+        },
+        {
+            "start": 329.14,
+            "end": 330.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Four five nine."
+        },
+        {
+            "start": 331.14,
+            "end": 332.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Perfect ."
+        },
+        {
+            "start": 333.14,
+            "end": 337.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. This might take a couple of seconds."
+        },
+        {
+            "start": 341.54,
+            "end": 342.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Beautiful."
+        },
+        {
+            "start": 342.64,
+            "end": 353.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So what will happen now, we had your email address here. You should be receiving a confirmation on that. I'll stay on the line if you don't mind checking that your email has been received."
+        },
+        {
+            "start": 356.74,
+            "end": 358.21,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yep. The email has been received."
+        },
+        {
+            "start": 359.04,
+            "end": 359.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Perfect."
+        },
+        {
+            "start": 361.54,
+            "end": 364.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Was there anything else that we can help you today?"
+        },
+        {
+            "start": 365.04,
+            "end": 368.6,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Um) no. I think that's all for today. Thank you."
+        },
+        {
+            "start": 368.64,
+            "end": 380.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Great . Look, since you have upgraded this, (uh) we will (uh) you will receive a notification, we will receive a notification that the parcel has been received ."
+        },
+        {
+            "start": 380.74,
+            "end": 390.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "But in the meantime if there was anything else that you need help, you can always contact us twenty-four seven on this line and we will be able to help you."
+        },
+        {
+            "start": 390.34,
+            "end": 394.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And thank you so much for your patience again and I am sorry about the delay."
+        },
+        {
+            "start": 394.94,
+            "end": 396.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "No, that's okay."
+        },
+        {
+            "start": 397.44,
+            "end": 407.29,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thank you so much and yeah as I said please feel free to call us anytime especially if you didn't receive it up to four thirty this afternoon ."
+        },
+        {
+            "start": 406.94,
+            "end": 407.4,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah."
+        },
+        {
+            "start": 408.24,
+            "end": 410.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thank you so much, Jenny and have a great day."
+        },
+        {
+            "start": 409.64,
+            "end": 409.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Okay."
+        },
+        {
+            "start": 410.95,
+            "end": 411.5,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "E J."
+        },
+        {
+            "start": 412.64,
+            "end": 413.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Bye bye."
+        }
+    ]
+}

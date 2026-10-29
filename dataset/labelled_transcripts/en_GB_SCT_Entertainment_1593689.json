@@ -1,0 +1,777 @@
+{
+    "file_name": "en_GB_SCT_Entertainment_1593689.wav",
+    "domain": "entertainment",
+    "accent": "en-GB_SCT",
+    "duration": 460.629,
+    "escalation_label": 1,
+    "segments": [
+        {
+            "start": 0.34,
+            "end": 1.84,
+            "role": "customer",
+            "text": "I'll fuck this one up.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses general negative sentiment not directed at the service or an issue yet."
+        },
+        {
+            "start": 3.34,
+            "end": 4.44,
+            "role": "customer",
+            "text": "I'm too tired.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses general negative sentiment not directed at the service or an issue yet."
+        },
+        {
+            "start": 13.14,
+            "end": 16.34,
+            "role": "agent",
+            "text": "Hi there. Thanks for calling Ticket Master. How can I help you today?",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a standard greeting."
+        },
+        {
+            "start": 16.54,
+            "end": 22.94,
+            "role": "customer",
+            "text": "Hi, I'm Calling to let you know that I didn't receive the e tickets for the concert for Louis Capaldi",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly states the problem."
+        },
+        {
+            "start": 24.04,
+            "end": 28.64,
+            "role": "agent",
+            "text": "Ohh, yeah, is that the one that's within the next two days?",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies details."
+        },
+        {
+            "start": 24.24,
+            "end": 25.44,
+            "role": "customer",
+            "text": "at the hydro.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides additional detail calmly."
+        },
+        {
+            "start": 28.84,
+            "end": 32.04,
+            "role": "customer",
+            "text": "Yes, I got them online, but I haven't received them yet",
+            "escalation_label": 0,
+            "label_reason": "Customer reiterates the problem calmly."
+        },
+        {
+            "start": 32.64,
+            "end": 38.34,
+            "role": "agent",
+            "text": "All right, that's not good, you should have them by now, and it's so close. (Er) let me check your details. What",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the issue and offers to check details."
+        },
+        {
+            "start": 36.94,
+            "end": 37.14,
+            "role": "customer",
+            "text": "Yes",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms information."
+        },
+        {
+            "start": 37.94,
+            "end": 42.94,
+            "role": "customer",
+            "text": "the ev~ because it events in two days and I'm worried about the entry.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the urgency and expresses worry, but in a calm, informative tone."
+        },
+        {
+            "start": 43.44,
+            "end": 46.44,
+            "role": "agent",
+            "text": "Right. Let, let me check your details, can I take your name please?",
+            "escalation_label": 0,
+            "label_reason": "Agent requests personal details to look up the account."
+        },
+        {
+            "start": 47.94,
+            "end": 49.04,
+            "role": "customer",
+            "text": "Mrs. Smith",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information."
+        },
+        {
+            "start": 49.64,
+            "end": 50.54,
+            "role": "agent",
+            "text": "And your first name?",
+            "escalation_label": 0,
+            "label_reason": "Agent requests additional information."
+        },
+        {
+            "start": 50.84,
+            "end": 51.74,
+            "role": "customer",
+            "text": "Elizabeth.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information."
+        },
+        {
+            "start": 52.04,
+            "end": 57.94,
+            "role": "agent",
+            "text": "OK. And also can I take the email address please, that the tickets should have been sent to.",
+            "escalation_label": 0,
+            "label_reason": "Agent requests additional information."
+        },
+        {
+            "start": 59.14,
+            "end": 62.84,
+            "role": "customer",
+            "text": "(er) Kelly ninety-three at Hotmail dot com.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information."
+        },
+        {
+            "start": 63.34,
+            "end": 69.34,
+            "role": "agent",
+            "text": "Okay. Is that K for Kilo, A for Alpha, Y for Yankee and L for Lima, E for Echo and Y for Yankee?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms spelling."
+        },
+        {
+            "start": 69.54,
+            "end": 70.34,
+            "role": "customer",
+            "text": "yes",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms information."
+        },
+        {
+            "start": 70.34,
+            "end": 72.54,
+            "role": "agent",
+            "text": "Okay, I'll just check that just now.",
+            "escalation_label": 0,
+            "label_reason": "Agent states intention to check details."
+        },
+        {
+            "start": 74.84,
+            "end": 75.34,
+            "role": "agent",
+            "text": "Right.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges information."
+        },
+        {
+            "start": 77.34,
+            "end": 77.94,
+            "role": "agent",
+            "text": "And,",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to ask for information."
+        },
+        {
+            "start": 80.24,
+            "end": 81.54,
+            "role": "agent",
+            "text": "is there a phone number on the account?",
+            "escalation_label": 0,
+            "label_reason": "Agent requests additional information."
+        },
+        {
+            "start": 82.34,
+            "end": 86.04,
+            "role": "customer",
+            "text": "Yeah, it's O, seven, eight, three, two, four",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information."
+        },
+        {
+            "start": 86.64,
+            "end": 88.64,
+            "role": "customer",
+            "text": "eight, five, six, three, six",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information."
+        },
+        {
+            "start": 88.74,
+            "end": 95.84,
+            "role": "agent",
+            "text": "Perfect, I've got you here. Yeah I can see your purchase information, you have definitely bought the tickets, so I don't know why the email's not come through.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms purchase and acknowledges the problem without a solution yet."
+        },
+        {
+            "start": 96.34,
+            "end": 107.44,
+            "role": "agent",
+            "text": "(um,) I'll try and re-send the email. And if you don't get that, by close of today. Actually by four P.M. because we close at five, give us a call straight back",
+            "escalation_label": 0,
+            "label_reason": "Agent proposes a solution (resending email) and a contingency plan calmly."
+        },
+        {
+            "start": 107.14,
+            "end": 116.24,
+            "role": "customer",
+            "text": "Ohh no, I'm sorry. mean we're looking forward to this but been looking forward to it for the past few months. Is there's any chance the ticket can be",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses disappointment and the emotional importance of the event, but asks for alternatives rather than escalating directly."
+        },
+        {
+            "start": 118.04,
+            "end": 119.74,
+            "role": "customer",
+            "text": "picked up at the venue",
+            "escalation_label": 0,
+            "label_reason": "Customer proposes an alternative solution calmly."
+        },
+        {
+            "start": 120.84,
+            "end": 122.24,
+            "role": "agent",
+            "text": "Eh, well actually",
+            "escalation_label": 0,
+            "label_reason": "Agent's brief response."
+        },
+        {
+            "start": 121.54,
+            "end": 129.84,
+            "role": "customer",
+            "text": "or even like you sending me the an email with the tickets, if you know what I mean. And I can show that email for entry.",
+            "escalation_label": 0,
+            "label_reason": "Customer proposes another alternative solution calmly."
+        },
+        {
+            "start": 127.34,
+            "end": 127.54,
+            "role": "agent",
+            "text": "Look.",
+            "escalation_label": 0,
+            "label_reason": "Agent's brief interjection."
+        },
+        {
+            "start": 130.84,
+            "end": 136.74,
+            "role": "agent",
+            "text": "Erm, so yeah when, when you bought the tickets, you signed up for the E-Tickets yeah, which is email tickets.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the original process of e-tickets."
+        },
+        {
+            "start": 136.94,
+            "end": 138.34,
+            "role": "customer",
+            "text": "Yeah, I understand that.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges understanding."
+        },
+        {
+            "start": 137.64,
+            "end": 143.24,
+            "role": "agent",
+            "text": "But, for some reason they have not came through. But however, what I can do is, there is a tech",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the issue and starts to offer a solution."
+        },
+        {
+            "start": 142.24,
+            "end": 145.14,
+            "role": "customer",
+            "text": "Okay, can you not but can you not resend them?",
+            "escalation_label": 0,
+            "label_reason": "Customer repeats a previous question about resending tickets, showing mild impatience but not strong frustration."
+        },
+        {
+            "start": 145.94,
+            "end": 152.45,
+            "role": "agent",
+            "text": "Yeah, yeah, so I'm goi~, that's what I'm saying, I'm going to try re-send the email and if it's not there by four P.M. today, give us a call back.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates the proposed solution calmly."
+        },
+        {
+            "start": 152.45,
+            "end": 167.24,
+            "role": "agent",
+            "text": "However, I was just thinking there is a Ticket Master in Glasgow, erm the city center, so if you would be able to go there, you can actually pick the tickets up. If I give you a reference number that way you've got them.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers a new, concrete solution for ticket collection."
+        },
+        {
+            "start": 168.44,
+            "end": 171.54,
+            "role": "customer",
+            "text": "Right, that's fine. I'll take that off you.",
+            "escalation_label": 0,
+            "label_reason": "Customer accepts the new solution."
+        },
+        {
+            "start": 171.84,
+            "end": 180.34,
+            "role": "agent",
+            "text": "So the reference number is L C, one eight, two zero four.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the requested information."
+        },
+        {
+            "start": 176.14,
+            "end": 176.64,
+            "role": "customer",
+            "text": "Uh-Huh",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges information."
+        },
+        {
+            "start": 178.54,
+            "end": 179.04,
+            "role": "customer",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges information."
+        },
+        {
+            "start": 181.64,
+            "end": 182.14,
+            "role": "customer",
+            "text": "Right",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges information."
+        },
+        {
+            "start": 182.74,
+            "end": 183.44,
+            "role": "customer",
+            "text": "And if.",
+            "escalation_label": 0,
+            "label_reason": "Customer starts a new thought."
+        },
+        {
+            "start": 184.04,
+            "end": 189.14,
+            "role": "customer",
+            "text": "I'm unable to get them, are they refund process in case the tickets.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly inquires about a refund process as a contingency."
+        },
+        {
+            "start": 190.04,
+            "end": 193.14,
+            "role": "customer",
+            "text": "are not there? I can't get them. They're sold out. Something like that.",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies the refund scenario calmly."
+        },
+        {
+            "start": 192.14,
+            "end": 203.44,
+            "role": "agent",
+            "text": "Don't, don't, don't worry, don't worry, the tickets will be there, you've purchased the tickets so the tickets will be kept for you. I'll make sure that they are kept behind a vase for you to pick up. You've",
+            "escalation_label": 0,
+            "label_reason": "Agent provides reassurance about ticket availability."
+        },
+        {
+            "start": 201.74,
+            "end": 203.14,
+            "role": "customer",
+            "text": "That's great. So",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges reassurance."
+        },
+        {
+            "start": 204.64,
+            "end": 212.94,
+            "role": "customer",
+            "text": "That's great. But (um) it's just seen if cannae gain entry without the tickets. If you went to the venue.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses lingering concern about entry without physical tickets, but remains calm."
+        },
+        {
+            "start": 213.54,
+            "end": 220.04,
+            "role": "customer",
+            "text": "know, I mean you weren't able to pick them up, you cannae gain entry even if you showed them the, the email for confirmation.",
+            "escalation_label": 0,
+            "label_reason": "Customer reiterates concern about entry without physical tickets, still calm."
+        },
+        {
+            "start": 221.24,
+            "end": 227.44,
+            "role": "agent",
+            "text": "Erm, and what a lot of people do ask because they're not completely sure the email, at the very least, some ID can they still get in.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges common customer concerns regarding entry."
+        },
+        {
+            "start": 228.44,
+            "end": 239.14,
+            "role": "agent",
+            "text": "Erm, some days the staff on the door can be quite strict, erm, you know there's a lot of fraudsters now, going about, and I'm not saying you are, obviously I understand you bought the tickets, however, It would",
+            "escalation_label": 0,
+            "label_reason": "Agent explains potential difficulties with entry rules, providing factual information without escalating."
+        },
+        {
+            "start": 238.74,
+            "end": 242.74,
+            "role": "customer",
+            "text": "Well, I, think, I think it's. I think it's absolutely shocking me. I mean I paid all that money.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses strong dissatisfaction using 'absolutely shocking' and mentions money paid, indicating clear frustration."
+        },
+        {
+            "start": 243.44,
+            "end": 243.84,
+            "role": "agent",
+            "text": "I know.",
+            "escalation_label": 0,
+            "label_reason": "Agent briefly acknowledges the customer's statement, showing empathy without escalating."
+        },
+        {
+            "start": 243.74,
+            "end": 248.44,
+            "role": "customer",
+            "text": "And my daughter's looking forward to this. She's built, built all this up.",
+            "escalation_label": 1,
+            "label_reason": "Customer emphasizes the emotional importance of the event, reinforcing their frustration and dissatisfaction."
+        },
+        {
+            "start": 246.34,
+            "end": 246.74,
+            "role": "agent",
+            "text": "I know.",
+            "escalation_label": 0,
+            "label_reason": "Agent briefly acknowledges the customer's statement, showing empathy without escalating."
+        },
+        {
+            "start": 249.44,
+            "end": 254.34,
+            "role": "customer",
+            "text": "And then we don't even get any tickets. We go through all this process which is ridiculous.",
+            "escalation_label": 1,
+            "label_reason": "Customer continues to express strong frustration, calling the process 'ridiculous'."
+        },
+        {
+            "start": 254.54,
+            "end": 256.24,
+            "role": "agent",
+            "text": "No, I know I tot~",
+            "escalation_label": 0,
+            "label_reason": "Agent attempts to express understanding and empathy."
+        },
+        {
+            "start": 255.24,
+            "end": 257.34,
+            "role": "customer",
+            "text": "I'm actually going to make a formal complaint.",
+            "escalation_label": 1,
+            "label_reason": "Customer explicitly threatens to make a formal complaint."
+        },
+        {
+            "start": 257.84,
+            "end": 267.84,
+            "role": "agent",
+            "text": "Yeah, I to~, I totally understand and if I was you I'd feel the same. But like I said, if you're able to go down to Ticket Master in the city center, the tickets will be there for you.",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses understanding and reiterates a proposed solution, attempting to de-escalate."
+        },
+        {
+            "start": 268.24,
+            "end": 274.74,
+            "role": "customer",
+            "text": "Well, you send me a confirmation of that and I'll show them that. And if I've got issues with that, I'll be taking this further.",
+            "escalation_label": 1,
+            "label_reason": "Customer demands confirmation of the solution and reiterates a threat to 'take this further' if issues persist."
+        },
+        {
+            "start": 274.94,
+            "end": 282.84,
+            "role": "agent",
+            "text": "Do you know what I'll do for you? erm, I know you want to complain, but rather than that, what I could do for you is I'll upgrade you seats, free of charge.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers a goodwill gesture (seat upgrade) as a direct response to de-escalate the complaint."
+        },
+        {
+            "start": 284.44,
+            "end": 285.64,
+            "role": "customer",
+            "text": "Upgrade them to what?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks a clarifying question about the upgrade, not expressing frustration."
+        },
+        {
+            "start": 286.04,
+            "end": 295.64,
+            "role": "agent",
+            "text": "So at the moment, you're actually quite at the back, but I've got a couple of seats left at the front, right near Lewis Capaldi, at the stage.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the details of the upgrade."
+        },
+        {
+            "start": 296.14,
+            "end": 297.04,
+            "role": "customer",
+            "text": "Ohh, that'd be great.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses pleasure about the upgrade."
+        },
+        {
+            "start": 296.54,
+            "end": 302.84,
+            "role": "agent",
+            "text": "Well, I know that your daughter is really looking forward to it, so as a good bold gesture, I could upgrade the tickets for you, due to the inconvenience.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the reason for the upgrade, reinforcing the de-escalation effort."
+        },
+        {
+            "start": 303.74,
+            "end": 313.94,
+            "role": "customer",
+            "text": "Great, that's fine. But I'm still going to make a formal complaint because this is, this is no way that this should work. People are paying this much money for this.",
+            "escalation_label": 1,
+            "label_reason": "Customer accepts the upgrade but explicitly states they are 'still going to make a formal complaint' and expresses continued dissatisfaction."
+        },
+        {
+            "start": 314.04,
+            "end": 320.74,
+            "role": "customer",
+            "text": "And then you're not getting the tickets. If I wouldnae have called you, we wouldnae be going. Sorry, excuse me, I've got a cold.",
+            "escalation_label": 1,
+            "label_reason": "Customer continues to express dissatisfaction and the negative impact of the situation."
+        },
+        {
+            "start": 323.14,
+            "end": 323.54,
+            "role": "agent",
+            "text": "Mhm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer."
+        },
+        {
+            "start": 324.64,
+            "end": 330.04,
+            "role": "customer",
+            "text": "I said sorry, excuse me. I have the cold there just sneezed. I just say, but (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer apologizes for a personal interruption (cold)."
+        },
+        {
+            "start": 328.04,
+            "end": 329.34,
+            "role": "agent",
+            "text": "Ohh, I'm sorry and all that",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses empathy for the customer's cold."
+        },
+        {
+            "start": 331.04,
+            "end": 333.04,
+            "role": "customer",
+            "text": "This is not acceptable.",
+            "escalation_label": 1,
+            "label_reason": "Customer states 'This is not acceptable,' a clear expression of strong dissatisfaction."
+        },
+        {
+            "start": 333.64,
+            "end": 338.24,
+            "role": "agent",
+            "text": "I understand that it isn't acceptable at all. I totally agree with you. I don't know what's going on with the email.",
+            "escalation_label": 0,
+            "label_reason": "Agent agrees with the customer's sentiment and empathizes, attempting to de-escalate."
+        },
+        {
+            "start": 338.94,
+            "end": 345.74,
+            "role": "agent",
+            "text": "Erm, but like I said now, you can pick them up from Ticket Master in the city center, Glasgow and I will upgrade your tickets to",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates the solutions offered (pickup and upgrade)."
+        },
+        {
+            "start": 345.44,
+            "end": 350.14,
+            "role": "customer",
+            "text": "So, you have emailed me confirmation just now to pick them up?",
+            "escalation_label": 1,
+            "label_reason": "Customer asks for clarification about emailed confirmation, indicating a lack of trust or understanding of the solution, stemming from prior dissatisfaction."
+        },
+        {
+            "start": 350.44,
+            "end": 355.04,
+            "role": "agent",
+            "text": "So, you don't need any mail Its the reference number I gave you. Remember, you wrote it down?",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies the process and corrects the customer's misunderstanding."
+        },
+        {
+            "start": 355.44,
+            "end": 361.84,
+            "role": "customer",
+            "text": "Yeah, yeah. So, you've actually sent that to my email, and I just showed that at the Ticketmaster.",
+            "escalation_label": 1,
+            "label_reason": "Customer continues to display confusion about the process and how the solution works, reflecting ongoing dissatisfaction and lack of clarity."
+        },
+        {
+            "start": 360.94,
+            "end": 367.94,
+            "role": "agent",
+            "text": "No. So obviously the e~ is a problem with the email, that I'm saying to you right, I don't know what the problem is. No.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies the process and the issue with email delivery."
+        },
+        {
+            "start": 366.34,
+            "end": 373.04,
+            "role": "customer",
+            "text": "Right. Well, how do I know that my tickets are there? You'd. I'm just going by word that you're going to contact them to hold my tickets.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses clear doubt and mistrust in the agent's word regarding the tickets being held, showing serious dissatisfaction about the certainty of the solution."
+        },
+        {
+            "start": 369.14,
+            "end": 369.94,
+            "role": "agent",
+            "text": "Because.",
+            "escalation_label": 0,
+            "label_reason": "Agent's brief interjection to provide explanation."
+        },
+        {
+            "start": 373.74,
+            "end": 380.34,
+            "role": "agent",
+            "text": "Because I already did it, while, we were on the phone, that's what how I generated the reference number. So that reference number is just for collection.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains how the reference number was generated, providing reassurance."
+        },
+        {
+            "start": 381.14,
+            "end": 389.84,
+            "role": "customer",
+            "text": "Right. So, I just take the reference number then, and I'll have my tickets, and I don't right and I don't need to pay you any more money.",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks final clarification of the process, appearing to accept the information, not escalating."
+        },
+        {
+            "start": 385.04,
+            "end": 385.64,
+            "role": "agent",
+            "text": "Certainly.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the customer's understanding."
+        },
+        {
+            "start": 388.94,
+            "end": 389.64,
+            "role": "agent",
+            "text": "No, no, no.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the customer's understanding."
+        },
+        {
+            "start": 391.04,
+            "end": 391.64,
+            "role": "agent",
+            "text": "Not at all.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the customer's understanding."
+        },
+        {
+            "start": 393.14,
+            "end": 400.24,
+            "role": "customer",
+            "text": "Right. That's great then. Thank you anyway and if I get any issues, but I will be getting back to you and I will be taking it further.",
+            "escalation_label": 1,
+            "label_reason": "Customer ends the call with a conditional threat to 'take it further' if issues arise, indicating lingering dissatisfaction."
+        },
+        {
+            "start": 400.44,
+            "end": 409.44,
+            "role": "agent",
+            "text": "No, of course and, like if, if you did want a refund, you know if you change your mind or anything, we, we can refund it for you.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers a refund as an alternative, attempting to provide a comprehensive resolution."
+        },
+        {
+            "start": 409.64,
+            "end": 412.04,
+            "role": "customer",
+            "text": "Yeah but what is the process on the refund?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for information about the refund process, not escalating."
+        },
+        {
+            "start": 412.24,
+            "end": 419.24,
+            "role": "agent",
+            "text": "The process is (ah) takes three to five business working days and then it would go back into your bank account, the money that you paid.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides details about the refund process."
+        },
+        {
+            "start": 419.14,
+            "end": 427.04,
+            "role": "customer",
+            "text": "No, cause no, my daughter's really looking forward to this, she's been looking she~ she's been crying that she's not got the tickets. it is unacceptable",
+            "escalation_label": 1,
+            "label_reason": "Customer reiterates emotional impact and strong dissatisfaction by stating it is 'unacceptable' and mentioning their daughter's distress."
+        },
+        {
+            "start": 427.64,
+            "end": 429.14,
+            "role": "agent",
+            "text": "No, I completely understand.",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses complete understanding and empathy."
+        },
+        {
+            "start": 430.64,
+            "end": 437.74,
+            "role": "customer",
+            "text": "Right. Well, I'll take your word for it and I'll see how I get on I'm gonna go down tomorrow and just give them the reference number and hope from my tickets are there.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses lingering doubt ('take your word for it,' 'hope my tickets are there') despite agreeing to the next step, indicating serious dissatisfaction about the certainty of the solution."
+        },
+        {
+            "start": 437.62,
+            "end": 440.24,
+            "role": "agent",
+            "text": "Yeah, I can guarantee you, your tickets will be there.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides strong reassurance that the tickets will be available."
+        },
+        {
+            "start": 440.74,
+            "end": 442.54,
+            "role": "customer",
+            "text": "Right. Thank you very much for your help.",
+            "escalation_label": 0,
+            "label_reason": "Customer thanks the agent, indicating a conclusion to the active problem-solving."
+        },
+        {
+            "start": 442.84,
+            "end": 443.54,
+            "role": "agent",
+            "text": "Thank you.",
+            "escalation_label": 0,
+            "label_reason": "Agent thanks the customer."
+        },
+        {
+            "start": 443.34,
+            "end": 445.74,
+            "role": "customer",
+            "text": "Thank you. Thank you. Bye, bye.",
+            "escalation_label": 0,
+            "label_reason": "Customer offers farewells."
+        },
+        {
+            "start": 444.14,
+            "end": 444.74,
+            "role": "agent",
+            "text": "Take care.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers farewells."
+        }
+    ]
+}

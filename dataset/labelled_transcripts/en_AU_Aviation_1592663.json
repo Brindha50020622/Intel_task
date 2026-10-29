@@ -1,0 +1,1518 @@
+{
+    "file_name": "en_AU_Aviation_1592663.wav",
+    "duration": 903.482,
+    "accent": "en-AU",
+    "domain": "aviation",
+    "segments": [
+        {
+            "start": 14.24,
+            "end": 19.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Good afternoon. Thank you for calling Qatar Airways. My name is Danielle. How can I help you today?",
+            "escalation_label": 0,
+            "label_reason": "Agent greeting, normal conversation start."
+        },
+        {
+            "start": 20.04,
+            "end": 26.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh, hi Danielle. My name is Maria. I need to change my return flight from Melbourne back to Sydney and",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains the need to change a flight."
+        },
+        {
+            "start": 26.84,
+            "end": 30.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I've got a bit of situation going on with work, so",
+            "escalation_label": 0,
+            "label_reason": "Customer provides context for the change without showing frustration."
+        },
+        {
+            "start": 30.14,
+            "end": 30.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "it's kind of urgent.",
+            "escalation_label": 0,
+            "label_reason": "Customer states the request is 'urgent' but this is an explanation of need, not a sign of frustration or demand for immediate special treatment."
+        },
+        {
+            "start": 32.04,
+            "end": 35.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Ohh gosh, okay no worries at all Maria, I'll be happy to help you with that.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges and offers help."
+        },
+        {
+            "start": 35.94,
+            "end": 44.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(Um) I just need some more details from you. Can I please grab (uh) to start off with your booking reference number or frequent client number to pull up your reservation?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for booking details."
+        },
+        {
+            "start": 44.74,
+            "end": 54.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Mmh. Okay, let me just look that up on my phone. Hang on once sec. Okay, yeah, my booking reference number is",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly retrieves requested information."
+        },
+        {
+            "start": 55.34,
+            "end": 62.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Q F. (um,) I'm sorry, Q seven F, two M nine",
+            "escalation_label": 0,
+            "label_reason": "Customer provides the booking reference number."
+        },
+        {
+            "start": 62.74,
+            "end": 69.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, perfect. Thanks Maria. (um,) look just give me one moment while I bring that up (uh) bring that up please. (um) yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges and begins to look up the booking."
+        },
+        {
+            "start": 71.34,
+            "end": 81.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, right. I can see your booking here. Thank you for waiting. (um,) you're currently scheduled to fly from Melbourne to Sydney, on Friday the thirteenth of December, departing at six forty-five PM.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms finding the booking and current flight details."
+        },
+        {
+            "start": 82.14,
+            "end": 84.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "on QF four thirty.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to confirm flight details."
+        },
+        {
+            "start": 84.54,
+            "end": 86.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Is that the flight you're looking to change?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for confirmation of the flight to be changed."
+        },
+        {
+            "start": 86.24,
+            "end": 95.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh yeah, that's that's the one. (um) look, I'm actually in Melbourne for a conference, and my boss has just actually called me this morning and he just said that",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms the flight and calmly explains the reason for the change."
+        },
+        {
+            "start": 95.54,
+            "end": 98.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) we need to stay a few extra days, so there's been a last minute",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to calmly explain the reason for the flight change."
+        },
+        {
+            "start": 99.54,
+            "end": 104.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "change to the program, and it turns out that I have to do some presenting on Monday. Typical, right?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses slight exasperation at the situation (last-minute change by boss), but not directed at the agent or airline. Still a calm explanation."
+        },
+        {
+            "start": 105.94,
+            "end": 114.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah, look I completely understand. (Um,) these things happen, especially with conferences. But yeah, really frustrating that you (uh) weren't given the heads up on presenting.",
+            "escalation_label": 0,
+            "label_reason": "Agent empathizes with the customer's situation."
+        },
+        {
+            "start": 114.94,
+            "end": 117.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(Um,) so what day are you actually looking to fly back?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for the desired new flight date."
+        },
+        {
+            "start": 118.24,
+            "end": 127.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Well, ideally, I'd like to fly, fly back on Monday, the sixteenth of December, (um) maybe in the evening after my presentation. That way I can get back to Sydney",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly states their preferred new flight date and time."
+        },
+        {
+            "start": 127.34,
+            "end": 129.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "you know, not miss too much of the week.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the reason for their preferred time."
+        },
+        {
+            "start": 130.04,
+            "end": 134.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah look, no problem. (Um,) let me have a look at what we've got available on Monday the sixteenth.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms they will look up options."
+        },
+        {
+            "start": 136.44,
+            "end": 136.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the agent."
+        },
+        {
+            "start": 137.74,
+            "end": 145.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay Maria, so I've looked (uh) up what we've got, and we've actually got a few options for you. Ah so, we've got",
+            "escalation_label": 0,
+            "label_reason": "Agent presents available flight options."
+        },
+        {
+            "start": 145.34,
+            "end": 148.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "QF four three two departing at seven fifteen PM",
+            "escalation_label": 0,
+            "label_reason": "Agent presents available flight options."
+        },
+        {
+            "start": 149.14,
+            "end": 157.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "arriving into Sydney at eight thirty PM. We've also got a later option, that's Q F four three eight, leaving at nine PM",
+            "escalation_label": 0,
+            "label_reason": "Agent presents available flight options."
+        },
+        {
+            "start": 158.14,
+            "end": 160.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "getting in at ten fifteen PM",
+            "escalation_label": 0,
+            "label_reason": "Agent presents available flight options."
+        },
+        {
+            "start": 160.34,
+            "end": 163.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "and both have availability in economy class.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms class availability."
+        },
+        {
+            "start": 163.14,
+            "end": 172.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, yeah that's great. I was actually going to ask, I'm currently in economy, and I'd like to stay in economy when I rebook. I don't need anything fancy, you know, just to",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses satisfaction and confirms desired class."
+        },
+        {
+            "start": 174.04,
+            "end": 176.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "just to get home really, that's it.",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies their simple travel needs."
+        },
+        {
+            "start": 176.94,
+            "end": 183.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah look, it is only an hour flight I fully understand. So (um,) look, you remain in economy class for the new booking",
+            "escalation_label": 0,
+            "label_reason": "Agent understands and confirms class."
+        },
+        {
+            "start": 183.74,
+            "end": 189.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(Um,) now the seven fifteen PM flight would get you home at a reasonable hour. Does that timing work for you?",
+            "escalation_label": 0,
+            "label_reason": "Agent recommends an option and asks for confirmation."
+        },
+        {
+            "start": 189.84,
+            "end": 196.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah, that sounds perfect actually. I should be done by five, I think. Mmh actually let me just check the schedule.",
+            "escalation_label": 0,
+            "label_reason": "Customer responds positively and checks their schedule."
+        },
+        {
+            "start": 198.14,
+            "end": 199.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um.)",
+            "escalation_label": 0,
+            "label_reason": "Customer pauses while checking their schedule."
+        },
+        {
+            "start": 200.14,
+            "end": 208.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah yeah yeah. I definite~, if we're running on on time, I should be done at five. So that gives me plenty of time to get to Tullamarine.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms the suggested timing works."
+        },
+        {
+            "start": 208.84,
+            "end": 214.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Now, I have to ask, what is this going to cost me? Are there any extra fees for changing the flight?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks about the cost and fees for the change."
+        },
+        {
+            "start": 215.24,
+            "end": 220.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Good question. Let me look at the fare rules on your original booking. (Um)",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the question and prepares to check fare rules."
+        },
+        {
+            "start": 220.34,
+            "end": 225.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "just before I do actually, was this purchased through a company account, or was just through your own?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks a clarifying question about the original purchase method."
+        },
+        {
+            "start": 226.04,
+            "end": 226.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Customer pauses to formulate an answer."
+        },
+        {
+            "start": 227.54,
+            "end": 235.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(uh) well. Originally, the company booked it, but any changes we usually have to pay that out of pocket, (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains the original booking and payment process for changes."
+        },
+        {
+            "start": 235.84,
+            "end": 244.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "because obviously, you know, getting our team to, our admin team to actually make the change, that could take weeks, so",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the company's admin process without expressing frustration towards the airline."
+        },
+        {
+            "start": 244.34,
+            "end": 247.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) we usually have to pay for that out of pocket, and then they'll reimburse.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to explain the payment and reimbursement process."
+        },
+        {
+            "start": 248.44,
+            "end": 256.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, yeah absolutely. Understood. Well, good news, you're on a flex economy fair anyway, so there's a ninety-nine-dollar fare",
+            "escalation_label": 0,
+            "label_reason": "Agent provides positive news regarding the customer's fare type."
+        },
+        {
+            "start": 257.34,
+            "end": 260.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "difference (um) fee for changing to a different date",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the fare difference component of the cost."
+        },
+        {
+            "start": 260.54,
+            "end": 269.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "but because you booked flex, you won't be charged a standard fee of one forty-nine. So the change fee is waived, you'll only pay the fare difference.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains that the change fee is waived due to the flex fare."
+        },
+        {
+            "start": 269.24,
+            "end": 275.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay so, ninety-nine dollars. That's not too bad. What's the fare difference exactly?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly seeks clarification on the exact fare difference."
+        },
+        {
+            "start": 275.74,
+            "end": 283.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep, absolutely. So let me calcla~ calculate that for you. (um,) your original fare was a hundred and eighty-five.",
+            "escalation_label": 0,
+            "label_reason": "Agent prepares to calculate the fare difference."
+        },
+        {
+            "start": 283.24,
+            "end": 289.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "And the new fare for Monday the sixteenth at seven fifteen PM is two hundred and forty-five dollars.",
+            "escalation_label": 0,
+            "label_reason": "Agent states the new fare price."
+        },
+        {
+            "start": 289.44,
+            "end": 298.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "So the difference is sixty dollars added to the ninety-nine fare difference fee ohh wait, sorry sorry Ma~ Maria, I misspoke, because you've got the flex fare there's no separate",
+            "escalation_label": 0,
+            "label_reason": "Agent makes an error in calculation but immediately corrects herself, apologizing. Customer has not reacted yet."
+        },
+        {
+            "start": 299.14,
+            "end": 300.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "fare difference fee",
+            "escalation_label": 0,
+            "label_reason": "Agent corrects the previous statement about a separate fare difference fee."
+        },
+        {
+            "start": 300.64,
+            "end": 309.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(Um,) so you simply pay the difference between the fares, which is sixty dollars, you'll only be charged six dollars in total to change your new flight.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies the final, lower cost for the change, which is a positive outcome for the customer."
+        },
+        {
+            "start": 310.84,
+            "end": 318.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Oh-kay. Yeah that's actually better than expected. Okay, but before I commit, are there any, like cheaper alternatives, like",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses positive surprise ('better than expected') but then calmly asks about exploring even cheaper options, which is normal customer behavior."
+        },
+        {
+            "start": 319.24,
+            "end": 322.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "what if I flew earlier in the day on Monday or maybe even Sunday?",
+            "escalation_label": 0,
+            "label_reason": "Customer proposes alternative flight times to potentially save money."
+        },
+        {
+            "start": 323.04,
+            "end": 326.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I could potentially rearrange things if it saves me a decent amount.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains their willingness to adjust plans for cost savings."
+        },
+        {
+            "start": 327.04,
+            "end": 333.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah look (um) absolutely I know that you know, the rising customer economy economy, sorry (uh) a rising economy costs",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges and understands the customer's desire to save money."
+        },
+        {
+            "start": 334.04,
+            "end": 339.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) saving a dollar here or there it helps a lot, so let me just check some other options for you.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers to check other options for the customer."
+        },
+        {
+            "start": 340.44,
+            "end": 341.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(Um)",
+            "escalation_label": 0,
+            "label_reason": "Agent pauses to look for other options."
+        },
+        {
+            "start": 341.84,
+            "end": 350.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, alright. So if you flew Sunday the fifteenth instead, we have flights throughout the day. The cheapest would be eleven thirty AM flight at a hundred and ninety-five",
+            "escalation_label": 0,
+            "label_reason": "Agent presents a Sunday flight option and its cost."
+        },
+        {
+            "start": 350.94,
+            "end": 354.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "so that would save you fifty dollars compared to Monday evening",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the savings of the Sunday flight compared to Monday evening."
+        },
+        {
+            "start": 353.84,
+            "end": 354.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Mmh.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the information."
+        },
+        {
+            "start": 354.24,
+            "end": 358.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "but that's probably not ideal if you need to be at the conference on Monday.",
+            "escalation_label": 0,
+            "label_reason": "Agent highlights why the Sunday option might not be suitable given the customer's conference commitment."
+        },
+        {
+            "start": 358.14,
+            "end": 366.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah, no I look. I definitely need to be there Monday for the prezzo, (um) yeah nothing I can do about that unfortunately.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms the Sunday option won't work due to conference obligations, expressed calmly."
+        },
+        {
+            "start": 368.04,
+            "end": 377.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah (um) look, so what about Monday morning? I think you did say though that you were actually speaking in during the day",
+            "escalation_label": 0,
+            "label_reason": "Agent inquires about Monday morning flights, recalling prior information about the customer's presentation."
+        },
+        {
+            "start": 377.64,
+            "end": 379.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you mentioned something about",
+            "escalation_label": 0,
+            "label_reason": "Agent recalls the customer mentioning a time constraint."
+        },
+        {
+            "start": 379.94,
+            "end": 384.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "it would need to be after a certain time, could you please remind me what that time was?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for the specific time constraint."
+        },
+        {
+            "start": 384.54,
+            "end": 389.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah, like my prezzo is at two, (um) so I can't really leave before that.",
+            "escalation_label": 0,
+            "label_reason": "Customer states her presentation time and confirms she cannot leave before then."
+        },
+        {
+            "start": 391.94,
+            "end": 400.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um,) what about, but what about on Monday evening? You mentioned that seven P fifteen PM flight. Is there anything around five or six?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for earlier Monday evening options than initially suggested."
+        },
+        {
+            "start": 392.54,
+            "end": 393.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the request."
+        },
+        {
+            "start": 401.44,
+            "end": 410.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Let me see what we've got. If you can swing leaving early then (um,) yeah actually, there's a Q F four two six at fo~ five forty-five, sorry",
+            "escalation_label": 0,
+            "label_reason": "Agent checks and finds an earlier flight option."
+        },
+        {
+            "start": 411.14,
+            "end": 412.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "sorry PM",
+            "escalation_label": 0,
+            "label_reason": "Agent corrects the time of the found flight."
+        },
+        {
+            "start": 412.04,
+            "end": 421.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "it's for two hundred and twenty dollars, so that's twenty-five less than the seven fifteen PM flight, and that would get you into Sydney at seven. Will that give you enough time after your presentation?",
+            "escalation_label": 0,
+            "label_reason": "Agent presents the earlier flight option, its cost, and asks if the timing works."
+        },
+        {
+            "start": 421.84,
+            "end": 428.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh that's very tempting. (um) you know what, if I can duck out straight after my session",
+            "escalation_label": 0,
+            "label_reason": "Customer finds the option tempting and considers if they can make it work."
+        },
+        {
+            "start": 429.14,
+            "end": 433.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "and grab an uber to the airport, yeah I reckon I could make that work.",
+            "escalation_label": 0,
+            "label_reason": "Customer believes they can make the earlier flight work."
+        },
+        {
+            "start": 433.74,
+            "end": 442.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "The conference is at the Melbourne Convention and Exhibition Center, you know, the one down at South War, so it's only about twenty-five minutes to the airport.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the logistics of getting to the airport, confirming feasibility."
+        },
+        {
+            "start": 443.44,
+            "end": 446.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "That's if the traffic is not too bad on the Tullamarine freeway.",
+            "escalation_label": 0,
+            "label_reason": "Customer adds a minor caveat about traffic, which is a normal consideration, not frustration."
+        },
+        {
+            "start": 447.54,
+            "end": 454.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(uh) yeah look, the five forty-five should work well then, (um) you'd want to be at the airport by about four forty-five PM for a domestic flight",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the chosen flight time should work and advises on airport arrival time."
+        },
+        {
+            "start": 454.54,
+            "end": 461.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "which gives you couple of hours after a two PM presentation (um) you'd save twenty-five dollars so the total change would only cost you thirty-five.",
+            "escalation_label": 0,
+            "label_reason": "Agent highlights the time buffer and cost savings with the chosen flight."
+        },
+        {
+            "start": 462.44,
+            "end": 469.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "That's perfect. (um) and just to confirm, I'll still be in economy class, same baggage allowance and everything?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses satisfaction and calmly asks for confirmation on class and baggage."
+        },
+        {
+            "start": 469.94,
+            "end": 477.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep that's correct. You'll have the standard economy baggage allowance, one carry on up to seven kilos, a one checked bag up to twenty-three kilos.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the baggage allowance details."
+        },
+        {
+            "start": 477.94,
+            "end": 482.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Your frequent flight number is also attached, so you'll earn points on this flight as well.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms frequent flyer points attachment."
+        },
+        {
+            "start": 483.24,
+            "end": 491.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Awesome. Okay, so one more thing before we finalize it. If something else comes up and I need to change again, what happens then?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks a proactive question about future changes/cancellations, not indicating current frustration."
+        },
+        {
+            "start": 492.74,
+            "end": 498.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Look, because you're on a flex pay you can make another change if needed and you just need to pay the fare difference again",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the policy for future changes."
+        },
+        {
+            "start": 498.34,
+            "end": 503.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Uhh you also have the option to cancel up to the day of travel and receive a flight credit",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the cancellation option."
+        },
+        {
+            "start": 503.54,
+            "end": 508.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "for twelve months, minus the seventy-five dollar cancelation fee. But hopefully you won't need to do that.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the cancellation fee and expresses hope it won't be needed."
+        },
+        {
+            "start": 509.24,
+            "end": 519.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh, good to know. you never know, just in case. Alright Danielle, look, I'm happy to go ahead with the change. Let's book the five forty-five PM flight on Monday the sixteenth.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the information and confirms they are ready to proceed with the booking."
+        },
+        {
+            "start": 520.94,
+            "end": 529.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Excellent. I'll process that change for you now, just confirming one more time. We are changing from Friday the thirteenth of December at six forty-five PM",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms details of the change before processing."
+        },
+        {
+            "start": 529.64,
+            "end": 532.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "to the Monday the sixteenth of December at",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms details of the change before processing."
+        },
+        {
+            "start": 532.34,
+            "end": 541.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "five forty-five PM flight from Q F four two six from Melbourne Tullamarine into Sydney, arriving at seven PM.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms details of the change before processing."
+        },
+        {
+            "start": 541.24,
+            "end": 542.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "The additional cost is",
+            "escalation_label": 0,
+            "label_reason": "Agent states the additional cost for the change."
+        },
+        {
+            "start": 542.64,
+            "end": 547.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "thirty-five dollars. Can I charge that to the credit card you originally used for booking?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for payment confirmation."
+        },
+        {
+            "start": 547.74,
+            "end": 554.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) yeah, that's fine. It should be a visa ending in (um,) four seven eight two.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms the payment method."
+        },
+        {
+            "start": 555.04,
+            "end": 556.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, one moment please.",
+            "escalation_label": 0,
+            "label_reason": "Agent proceeds with processing the payment."
+        },
+        {
+            "start": 558.54,
+            "end": 564.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "All right, perfect. Processing that now, and it's all been done. (Um) so your new fli~",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the processing is complete and the flight is confirmed."
+        },
+        {
+            "start": 564.24,
+            "end": 570.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "so your new flight is confirmed. You'll receive a confirmation email within the next few minutes to the email address we have on file.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains about the confirmation email."
+        },
+        {
+            "start": 570.24,
+            "end": 574.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(uh) we have Maria dot chen at gmail dot com. Is that correct?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the email address on file."
+        },
+        {
+            "start": 574.54,
+            "end": 576.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah that's that's still correct, yep.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms the email address is correct."
+        },
+        {
+            "start": 576.94,
+            "end": 585.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, fantastic. So just to recap your new itinerary, you're flying Q F four two six on Monday, the sixteenth December out from Melbourne Tullamarine into Sydney",
+            "escalation_label": 0,
+            "label_reason": "Agent recaps the new itinerary details."
+        },
+        {
+            "start": 585.74,
+            "end": 588.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "departing five forty-five PM from gate",
+            "escalation_label": 0,
+            "label_reason": "Agent recaps the new itinerary details."
+        },
+        {
+            "start": 588.54,
+            "end": 598.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you'll get the gate information sorry when you check in. (Um) arriving at Sydney seven PM, economy class twenty-three kilo check baggage, seven kilo carry on.",
+            "escalation_label": 0,
+            "label_reason": "Agent recaps the new itinerary details, including baggage information."
+        },
+        {
+            "start": 598.54,
+            "end": 600.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Your booking reference remains the same.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the booking reference remains the same."
+        },
+        {
+            "start": 600.44,
+            "end": 601.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Q seven F",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the booking reference."
+        },
+        {
+            "start": 602.24,
+            "end": 607.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "two N nine and you can check in online twenty-four hours before departure at the airport.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about online check-in."
+        },
+        {
+            "start": 608.14,
+            "end": 613.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Perfect. Thanks so much for making that so easy Danielle. I was really worried it was going to be a whole drama.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses gratitude and satisfaction, indicating no frustration or escalation."
+        },
+        {
+            "start": 614.74,
+            "end": 622.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah look, (um) that's' absolutely fine. I'm happy to help. And Maria since you're presenting at the conference, best of luck. I hope it goes really well.",
+            "escalation_label": 0,
+            "label_reason": "Agent responds positively and offers well wishes."
+        },
+        {
+            "start": 622.94,
+            "end": 631.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh thank you, and I appreciate that. I'm a bit nervous, (um) but I'm sure it will be fine. Ohh, can I just ask you one more thing Danielle?",
+            "escalation_label": 0,
+            "label_reason": "Customer thanks the agent, expresses slight nervousness about presentation, and asks another calm question."
+        },
+        {
+            "start": 631.64,
+            "end": 632.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Mm hmm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's question."
+        },
+        {
+            "start": 632.84,
+            "end": 640.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um,) do I earn frequent flyer points with the like, the the difference that I pay",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for clarification about frequent flyer points on the fare difference."
+        },
+        {
+            "start": 640.24,
+            "end": 643.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "is that all something that actually earns frequent flyer points?",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies the frequent flyer points question."
+        },
+        {
+            "start": 644.14,
+            "end": 651.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "That's a great question, uhh let me just look that up for you, because I'm not one a hundred percent sure I'm just going to pop you on hold and speak with my manager on that one.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges uncertainty, states she will check with a manager and put the customer on hold, which is standard procedure, not escalation."
+        },
+        {
+            "start": 651.74,
+            "end": 652.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly acknowledges being put on hold."
+        },
+        {
+            "start": 655.44,
+            "end": 656.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay Maria are you there?",
+            "escalation_label": 0,
+            "label_reason": "Agent checks if the customer is still on the line after hold."
+        },
+        {
+            "start": 657.34,
+            "end": 658.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yep, still here.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms they are still present."
+        },
+        {
+            "start": 659.34,
+            "end": 663.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(uh) yes, so you do earn those extra points as well.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the answer regarding frequent flyer points."
+        },
+        {
+            "start": 664.24,
+            "end": 672.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Excellent! (um,) can I just ask one more thing Danielle, you might have mentioned it but (uh) I don't know I might have forgotten if you mentioned this. But like",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses satisfaction and calmly asks another question about seat allocation."
+        },
+        {
+            "start": 672.94,
+            "end": 675.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "the seat allocation. Is that something that",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies the seat allocation question."
+        },
+        {
+            "start": 675.44,
+            "end": 678.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "like to, can I get a chance to do that before I",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies the seat allocation question."
+        },
+        {
+            "start": 678.94,
+            "end": 684.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "get to the airport, because I really hate being in the middle, you know what I mean? Like I want to I want to if I can get a window seat.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains their preference for a window seat."
+        },
+        {
+            "start": 685.54,
+            "end": 694.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah absolutely, (um) look, we can actually do that for you now if you like, so let me just reopen your booking or would you prefer to do it yourself online?",
+            "escalation_label": 0,
+            "label_reason": "Agent offers to help with seat selection or allow customer to do it online."
+        },
+        {
+            "start": 695.04,
+            "end": 703.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "If you can grab me like a window seat now, then that actually saves me from, you know, maybe I might miss out if I try and do it myself.",
+            "escalation_label": 0,
+            "label_reason": "Customer asks the agent to select the seat for them, explaining their reasoning calmly."
+        },
+        {
+            "start": 704.14,
+            "end": 709.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah no problem. (Um) so, I have, it's up towards the front",
+            "escalation_label": 0,
+            "label_reason": "Agent locates an available seat."
+        },
+        {
+            "start": 709.84,
+            "end": 716.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(Um,) but it is an emergency seat, I can get you that window seat. Would you like that, me to do that one?",
+            "escalation_label": 0,
+            "label_reason": "Agent describes the seat (emergency exit) and asks if the customer wants it."
+        },
+        {
+            "start": 716.64,
+            "end": 722.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "So what does that mean, like the emergency seat? Does that mean I have to do, do something emergency?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for clarification about an emergency seat."
+        },
+        {
+            "start": 723.24,
+            "end": 728.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you do have to be prepared to (um) help in the case of emergency",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the responsibilities associated with an emergency exit seat."
+        },
+        {
+            "start": 728.34,
+            "end": 733.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(Um) it's mainly just being able to you know stand and of course (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain emergency seat requirements."
+        },
+        {
+            "start": 734.34,
+            "end": 743.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "there's a the window, just being able to push down on that (um) button to release the window in that case. But, it does give you a bit of extra leg room.",
+            "escalation_label": 0,
+            "label_reason": "Agent further explains emergency seat responsibilities and the benefit of extra legroom."
+        },
+        {
+            "start": 743.24,
+            "end": 746.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh, cool. All right. Does that mean I get extra baggage as well?",
+            "escalation_label": 0,
+            "label_reason": "Customer reacts positively to legroom and asks a normal follow-up question about baggage."
+        },
+        {
+            "start": 747.24,
+            "end": 749.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Uhh, no it does not, unfortunately.",
+            "escalation_label": 0,
+            "label_reason": "Agent answers the baggage question directly."
+        },
+        {
+            "start": 749.64,
+            "end": 759.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, all right. Look, I'm happy with the extra leg room for sure, and I don't mind being (um) like helping people out in an emergency, so I'll take that one Danielle. So what what",
+            "escalation_label": 0,
+            "label_reason": "Customer decides to take the emergency exit seat, explaining their reasoning."
+        },
+        {
+            "start": 759.84,
+            "end": 761.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "what road did you say it was?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for the seat number again."
+        },
+        {
+            "start": 762.14,
+            "end": 770.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "I yeah, so that one is row G, and the flight the seat number is sorry G twenty-four.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the seat details."
+        },
+        {
+            "start": 771.34,
+            "end": 772.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the information."
+        },
+        {
+            "start": 773.44,
+            "end": 782.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "All right, cool. Okay, (um) and just one more thing Danielle, if my if my colleague decides to actually",
+            "escalation_label": 0,
+            "label_reason": "Customer asks another 'one more thing' calmly about a colleague sitting next to them."
+        },
+        {
+            "start": 782.74,
+            "end": 788.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "catch the same flight as me because we're both in the same, like we're actually copresenting, but",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the situation regarding their colleague."
+        },
+        {
+            "start": 788.54,
+            "end": 792.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "they're actually gonna to make the call themselves, because, you know, obviously I didn't wanna",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to explain the colleague's situation."
+        },
+        {
+            "start": 793.24,
+            "end": 799.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "we didn't book together, so they need to make their own arrangements. But like, if they (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to explain the colleague's situation."
+        },
+        {
+            "start": 801.24,
+            "end": 806.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "if we want to sit next to each other, is that going to be a problem? Like, is the seat next to me, available?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks if the seat next to them is available and if they can sit together, a normal request."
+        },
+        {
+            "start": 807.44,
+            "end": 815.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Look, I'm not going to read too much into potentially some (um) extra collegial affairs going on, (um) but",
+            "escalation_label": 0,
+            "label_reason": "Agent makes a lighthearted joke, then prepares to answer the question."
+        },
+        {
+            "start": 815.34,
+            "end": 818.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "There are seats available (um) the seat available",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms general seat availability."
+        },
+        {
+            "start": 819.24,
+            "end": 821.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "sorry, the seat next to you is available yes",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the specific seat next to the customer is available."
+        },
+        {
+            "start": 821.74,
+            "end": 829.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh no, it's nothing like that Danielle, it's actually (um) we have a presentation because we're doing like this roadshow",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies the reason for wanting to sit together (work-related) in a normal, non-frustrated tone."
+        },
+        {
+            "start": 829.44,
+            "end": 832.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "and so we have a presentation that we need to do the next",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to explain the work-related reason for sitting together."
+        },
+        {
+            "start": 832.24,
+            "end": 841.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "day, would you believe it, in Sydney. So, I actually need to sit next t~ I I need to collaborate with this colleague of mine",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the need to collaborate with their colleague."
+        },
+        {
+            "start": 841.14,
+            "end": 843.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) on our next presentation, so",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to explain the need for collaboration."
+        },
+        {
+            "start": 843.84,
+            "end": 847.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah that would be awesome if you could, (um) is there any way you can hold it?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks if the seat can be held."
+        },
+        {
+            "start": 848.94,
+            "end": 858.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Uhh look, I can't. I would I'm sorry I would advise (um) if you you to call your get your get your colleague to call us as soon",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the policy that they cannot hold the seat and advises the colleague to call, which is a standard boundary-setting response, not an escalation trigger in itself."
+        },
+        {
+            "start": 858.44,
+            "end": 859.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "as possible",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to advise the colleague to call quickly."
+        },
+        {
+            "start": 859.14,
+            "end": 868.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "or, (um) you know, to change their flight and to make the booking. Otherwise, (um) you are welcome to both you know, change at the same time",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to provide options for the colleague to book."
+        },
+        {
+            "start": 868.64,
+            "end": 869.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Agent pauses in their explanation."
+        },
+        {
+            "start": 868.84,
+            "end": 869.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the agent's explanation."
+        },
+        {
+            "start": 869.74,
+            "end": 870.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you know, with what's available.",
+            "escalation_label": 0,
+            "label_reason": "Agent finishes explaining the options."
+        },
+        {
+            "start": 870.04,
+            "end": 876.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "No worries. All right well thanks so much for your help Danielle. You've been so helpful. (um,) really appreciate that.",
+            "escalation_label": 0,
+            "label_reason": "Customer accepts the answer calmly ('No worries') and expresses strong gratitude, showing no escalation."
+        },
+        {
+            "start": 877.44,
+            "end": 887.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "My pleasure Maria, have a wonderful rest of your time in Melbourne. Goodluck with your presentation, and we'll see you on board flight QF four two six on Monday evening. Take care.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a friendly closing, wishing the customer well."
+        },
+        {
+            "start": 887.34,
+            "end": 889.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Wonderful! Thanks so much Danielle. See you.",
+            "escalation_label": 0,
+            "label_reason": "Customer gives a final thanks and goodbye, ending the call on a positive note."
+        }
+    ]
+}

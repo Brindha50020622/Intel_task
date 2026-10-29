@@ -1,0 +1,618 @@
+{
+    "file_name": "en_AU_DeliveryService_1593457.wav",
+    "duration": 519.153,
+    "accent": "en-AU",
+    "domain": "deliveryservice",
+    "segments": [
+        {
+            "start": 12.78,
+            "end": 19.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Thank you for calling Smith Delivery Service. This is Julie speaking. How may I assist you today?",
+            "escalation_label": 0,
+            "label_reason": "Agent greeting the customer and offering assistance."
+        },
+        {
+            "start": 20.14,
+            "end": 29.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Hi Julie, my name is Sarah. (Um,) I just want to se~, wanna send something overseas and it's (um,) a fragile item (um.)",
+            "escalation_label": 0,
+            "label_reason": "Customer introducing themselves and stating the purpose of their call."
+        },
+        {
+            "start": 29.24,
+            "end": 32.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "I just wanted to know some stuff about your shipping options. Are you able to help me with that?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asking for information about shipping options."
+        },
+        {
+            "start": 33.84,
+            "end": 39.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Of course, I'd be super happy to help you. What type of item are you looking to send and where is it being shipped to?",
+            "escalation_label": 0,
+            "label_reason": "Agent offering help and asking for more details about the item."
+        },
+        {
+            "start": 40.24,
+            "end": 46.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "It's (um,) a porcelain vase (um,) I need to ship it from New York to Tokyo in Japan.",
+            "escalation_label": 0,
+            "label_reason": "Customer providing details about the item and its destination."
+        },
+        {
+            "start": 48.64,
+            "end": 58.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely, a porcelain vase. It's important to ensure that it's packaged correctly to avoid any damage during s~ transit. We have options to help you before that.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledging the fragile item and emphasizing correct packaging."
+        },
+        {
+            "start": 58.28,
+            "end": 67.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "But before we dive into the packaging options, let me quickly check the available international shipping methods we have to Japan, there's a few various ones that we offer.",
+            "escalation_label": 0,
+            "label_reason": "Agent explaining the next steps, which is checking shipping methods."
+        },
+        {
+            "start": 70.04,
+            "end": 70.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer providing a simple acknowledgment."
+        },
+        {
+            "start": 70.44,
+            "end": 81.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "All right, just checked. We offered standard international shipping. We've got expedited and express, each service has. Different delivery times and costs.",
+            "escalation_label": 0,
+            "label_reason": "Agent providing information on available international shipping methods."
+        },
+        {
+            "start": 81.44,
+            "end": 91.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "But based on having a porcelain vase and that would be classed as a fragile item. I personally recommend our express shipping method, which also includes extra .",
+            "escalation_label": 0,
+            "label_reason": "Agent recommending a specific shipping method based on the item's fragility."
+        },
+        {
+            "start": 91.54,
+            "end": 92.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Extra handling.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifying details about the recommended shipping method."
+        },
+        {
+            "start": 92.74,
+            "end": 95.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "For delicate items, is that something that you're wanting?",
+            "escalation_label": 0,
+            "label_reason": "Agent asking for the customer's preference."
+        },
+        {
+            "start": 95.34,
+            "end": 99.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, I think the express shop option would be really good (um.)",
+            "escalation_label": 0,
+            "label_reason": "Customer agreeing with the recommended shipping option."
+        },
+        {
+            "start": 100.04,
+            "end": 107.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(Ah,) with the packaging options for my item, (um,) are there many packaging options or.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly inquiring about packaging options."
+        },
+        {
+            "start": 108.54,
+            "end": 111.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Do I need to package it myself? I just don't want it to get damaged.",
+            "escalation_label": 0,
+            "label_reason": "Customer expressing a normal concern about the item not getting damaged, without showing frustration or dissatisfaction."
+        },
+        {
+            "start": 112.74,
+            "end": 121.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely (um,) it's crucial that the fragile item is packaged securely. So we've got a couple of different packaging options designed to.",
+            "escalation_label": 0,
+            "label_reason": "Agent explaining the importance of secure packaging and available options."
+        },
+        {
+            "start": 121.32,
+            "end": 124.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Protect delicate items such as your porcelain vase.",
+            "escalation_label": 0,
+            "label_reason": "Agent continuing to describe packaging options for delicate items."
+        },
+        {
+            "start": 124.44,
+            "end": 133.12,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Or if you have other glass or ceramics. So (um,) some of our options, I'll read out our possible package options to you. We have custom package.",
+            "escalation_label": 0,
+            "label_reason": "Agent listing different packaging services."
+        },
+        {
+            "start": 133.44,
+            "end": 138.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Which includes specialized packing materials, including reinforced cardboard boxes.",
+            "escalation_label": 0,
+            "label_reason": "Agent detailing specialized packing materials."
+        },
+        {
+            "start": 138.64,
+            "end": 148.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Bubble wrap, foam inserts and packaging peanuts. We also offer custom boxes made to fit your item perfectly so we can take the measurements of your item.",
+            "escalation_label": 0,
+            "label_reason": "Agent describing custom box options."
+        },
+        {
+            "start": 148.84,
+            "end": 153.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Eh, one of our other items we offer is a fragile item labeling.",
+            "escalation_label": 0,
+            "label_reason": "Agent introducing fragile item labeling service."
+        },
+        {
+            "start": 153.24,
+            "end": 160.56,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "We'll add fragile and handle with care labels on the package to ensure that the handlers know for additional protection.",
+            "escalation_label": 0,
+            "label_reason": "Agent explaining the benefit of fragile item labeling."
+        },
+        {
+            "start": 160.84,
+            "end": 164.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "We also have insurance for high value items like your vase.",
+            "escalation_label": 0,
+            "label_reason": "Agent introducing insurance for high-value items."
+        },
+        {
+            "start": 164.64,
+            "end": 170.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "I highly recommend adding insurance coverage to protect any potential damage or loss during transit.",
+            "escalation_label": 0,
+            "label_reason": "Agent recommending insurance coverage."
+        },
+        {
+            "start": 170.84,
+            "end": 178.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Which one would you like to opt for? We can also package it for you at one of our locations if that's an additional requirement you'd like.",
+            "escalation_label": 0,
+            "label_reason": "Agent asking for the customer's choice and offering an additional service."
+        },
+        {
+            "start": 178.74,
+            "end": 188.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(Ah,) I think I'll go with your custom packaging (um,) and definitely with like the fragile and handle with care labels on the package would be awesome and I think I'll.",
+            "escalation_label": 0,
+            "label_reason": "Customer selecting desired packaging and labeling options."
+        },
+        {
+            "start": 188.64,
+            "end": 191.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Opt for the insurance as well. I just want to make sure it gets there.",
+            "escalation_label": 0,
+            "label_reason": "Customer opting for insurance and expressing a normal desire for the item to arrive safely, without showing frustration."
+        },
+        {
+            "start": 193.74,
+            "end": 205.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yep, certainly, so the custom packaging, including the extra protective materials, will cost an additional twenty five dollars as the shipping options, let me give you the details on the.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirming selections and providing the cost of custom packaging."
+        },
+        {
+            "start": 205.14,
+            "end": 212.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Cost and delivery times. So, are you seeking the express option, would that be best suited for you?",
+            "escalation_label": 0,
+            "label_reason": "Agent asking for confirmation on the express shipping option."
+        },
+        {
+            "start": 212.44,
+            "end": 220.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, I think the expressia~ es~ sorry, express option would be really good (um.) I just don't want to.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirming the express shipping option."
+        },
+        {
+            "start": 221.74,
+            "end": 226.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Like I don't want it to be rushed and then broken. As long as that's not gonna happen, then it should be fine.",
+            "escalation_label": 0,
+            "label_reason": "Customer expressing a reasonable concern about the item not being damaged during shipping, not indicating escalation."
+        },
+        {
+            "start": 227.54,
+            "end": 238.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely so, our express option from New York to Japan typi~ typically takes about three to five business days. And so that is flown on a courier plane.",
+            "escalation_label": 0,
+            "label_reason": "Agent providing details about the express shipping duration."
+        },
+        {
+            "start": 238.84,
+            "end": 248.26,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "The total cost for express item shipping including the packaging would be hundred and ninety five dollars. So, this covers the shipping fee and the packing materials.",
+            "escalation_label": 0,
+            "label_reason": "Agent stating the total cost for shipping and packaging."
+        },
+        {
+            "start": 248.54,
+            "end": 253.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Would you happy to proceed with this option or would you like me to read you something more?",
+            "escalation_label": 0,
+            "label_reason": "Agent asking if the customer wishes to proceed."
+        },
+        {
+            "start": 253.64,
+            "end": 256.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Ohh, yeah, I think that's good (um.)",
+            "escalation_label": 0,
+            "label_reason": "Customer expressing satisfaction with the options."
+        },
+        {
+            "start": 257.44,
+            "end": 266.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Can you tell me the tracking though? I just want to make sure I can see where it is. This, I don't want to lose it and then be like, where is it? (Um,) so do you have.",
+            "escalation_label": 0,
+            "label_reason": "Customer asking about tracking information and expressing a normal concern about not losing the item, not indicative of escalation."
+        },
+        {
+            "start": 266.34,
+            "end": 267.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Tracking information?",
+            "escalation_label": 0,
+            "label_reason": "Customer completing their question about tracking."
+        },
+        {
+            "start": 268.84,
+            "end": 275.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely (um,) so we have trackings and obviously there'll have to be a custom declaration as well.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirming tracking availability and mentioning customs declaration."
+        },
+        {
+            "start": 275.54,
+            "end": 280.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Once your package is shipped, you'll receive a tracking number that allows you to follow the packages.",
+            "escalation_label": 0,
+            "label_reason": "Agent explaining how the tracking number works."
+        },
+        {
+            "start": 280.64,
+            "end": 289.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Progression online. So, you'll be able to see when it arrives at our facility, if you personally deliver it yourself or choose the courier pickup option.",
+            "escalation_label": 0,
+            "label_reason": "Agent detailing the tracking progression online."
+        },
+        {
+            "start": 289.34,
+            "end": 290.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(Um,) you'll see when it's in transit.",
+            "escalation_label": 0,
+            "label_reason": "Agent continuing to explain tracking updates."
+        },
+        {
+            "start": 291.24,
+            "end": 300.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "When it's arrived in Tokyo and when it's going through customs and then you also get an estimated delivery window (um.)",
+            "escalation_label": 0,
+            "label_reason": "Agent describing tracking milestones and estimated delivery."
+        },
+        {
+            "start": 300.54,
+            "end": 303.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Additionally, with Japan, they do have more intense.",
+            "escalation_label": 0,
+            "label_reason": "Agent mentioning specific customs requirements for Japan."
+        },
+        {
+            "start": 303.84,
+            "end": 313.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Custom paperwork, so we'll provide you with the customs declaration form that you'll need to complete. So, it will include some details such as the value of the item, description of the content.",
+            "escalation_label": 0,
+            "label_reason": "Agent explaining the customs declaration form and its required details."
+        },
+        {
+            "start": 313.74,
+            "end": 320.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "And the origin of the vase. So, if you're unsure about any of that. (Um,) you can always give us a call back and we're happy to help you with that.",
+            "escalation_label": 0,
+            "label_reason": "Agent offering assistance with the customs form."
+        },
+        {
+            "start": 320.94,
+            "end": 325.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, right that sounds good (um,) do I need any like spe~.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledging and starting a new question."
+        },
+        {
+            "start": 335.96,
+            "end": 338.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "I'm sorry, can you repeat that for me please?",
+            "escalation_label": 0,
+            "label_reason": "Agent asking for clarification due to an unclear customer statement."
+        },
+        {
+            "start": 340.34,
+            "end": 343.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Sorry (um,) with the",
+            "escalation_label": 0,
+            "label_reason": "Customer apologizing and attempting to rephrase their question."
+        },
+        {
+            "start": 361.34,
+            "end": 369.06,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yeah (um,) any additional paperwork that you'll have to pay for, for the customs packaging? No, for most person~ most personal items.",
+            "escalation_label": 0,
+            "label_reason": "Agent addressing a potential question about additional paperwork costs for customs."
+        },
+        {
+            "start": 369.34,
+            "end": 373.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Like your VARs, there won't be any additional costs as well.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifying that there won't be additional costs for most personal items."
+        },
+        {
+            "start": 373.14,
+            "end": 379.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "It may occur additional costs based on the price of the (um,) porcelain VARs so if it's.",
+            "escalation_label": 0,
+            "label_reason": "Agent explaining a scenario where additional costs might occur based on item value."
+        },
+        {
+            "start": 380.04,
+            "end": 383.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "An older sort of porcelain VARs that has a higher retail price.",
+            "escalation_label": 0,
+            "label_reason": "Agent giving an example of a high-value item."
+        },
+        {
+            "start": 384.04,
+            "end": 388.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "There may be import charges on that but most likely not.",
+            "escalation_label": 0,
+            "label_reason": "Agent concluding on the likelihood of import charges."
+        },
+        {
+            "start": 394.44,
+            "end": 395.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay that (um.)",
+            "escalation_label": 0,
+            "label_reason": "Customer providing a simple acknowledgment."
+        },
+        {
+            "start": 397.84,
+            "end": 406.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(Um,) so I'll be getting express shipping with cu~ the custom packaging and the insurance with tracking. Is that right? And it's a hundred and ninety five dollars.",
+            "escalation_label": 0,
+            "label_reason": "Customer summarizing the chosen services and cost, seeking confirmation."
+        },
+        {
+            "start": 404.18,
+            "end": 415.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yet (ah,) certainly, I'll just confirm it back to you. So for the express shipping, custom packaging and insurance, the total cost is a hundred ninety-five.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirming the summary of services and total cost."
+        },
+        {
+            "start": 416.04,
+            "end": 420.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "And I'm happy to help you with the final arrangements if you need.",
+            "escalation_label": 0,
+            "label_reason": "Agent offering further assistance with final arrangements."
+        },
+        {
+            "start": 450.34,
+            "end": 452.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Sorry, Sarah, are you still there?",
+            "escalation_label": 0,
+            "label_reason": "Agent checking if the customer is still on the line after a pause."
+        },
+        {
+            "start": 464.44,
+            "end": 465.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Certainly.",
+            "escalation_label": 0,
+            "label_reason": "Agent's brief affirmation."
+        },
+        {
+            "start": 466.54,
+            "end": 467.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(Um.)",
+            "escalation_label": 0,
+            "label_reason": "Agent's filler word during speech."
+        },
+        {
+            "start": 467.84,
+            "end": 478.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "With the paperwork, would you like to fill some of that information in now? Obviously, you'll need to fill it in yourself but we can proceed forth and get some of those organization requirements filled in now if you'd like.",
+            "escalation_label": 0,
+            "label_reason": "Agent offering to help initiate the paperwork process."
+        }
+    ]
+}

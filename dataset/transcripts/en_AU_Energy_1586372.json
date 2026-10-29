@@ -1,0 +1,704 @@
+{
+    "file_name": "en_AU_Energy_1586372.wav",
+    "duration": 422.0,
+    "accent": "en-AU",
+    "domain": "energy",
+    "segments": [
+        {
+            "start": 2.54,
+            "end": 7.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Hi, thanks for contacting Origin Energy. My name is Emily. How can I help you today?"
+        },
+        {
+            "start": 8.93,
+            "end": 18.63,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Hi. My name is Jenny and (um,) I've just move into a new address and I'm looking at getting electr~ electricity into my house and I was wondering if you could help me with that?"
+        },
+        {
+            "start": 19.33,
+            "end": 32.43,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Hi Jenny. Yeah, sure. I can definitely help you with that. Can I (um) ask (uh) if you would like to transfer to your new home (uh) your existing energy or you are (uh) a new customer?"
+        },
+        {
+            "start": 33.33,
+            "end": 35.73,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh no, I'd like to be a new customer please."
+        },
+        {
+            "start": 34.81,
+            "end": 44.31,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "New customer. Okay. So for new customers we'll need to set up your account, and we have a couple of options here that you can choose from."
+        },
+        {
+            "start": 44.47,
+            "end": 51.53,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(uh,) But before I proceed with that, is electricity is the only (uh) connection that you are after today?"
+        },
+        {
+            "start": 52.93,
+            "end": 57.93,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(um,) At the moment it's the only one. We're just doing it slowly."
+        },
+        {
+            "start": 55.93,
+            "end": 56.63,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay."
+        },
+        {
+            "start": 58.03,
+            "end": 66.03,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. No problem. So, I will need to receive some information from you. Can you please confirm your full name for me?"
+        },
+        {
+            "start": 58.95,
+            "end": 59.43,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah."
+        },
+        {
+            "start": 66.83,
+            "end": 69.03,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yep. It's Jennifer Carol O'Brian."
+        },
+        {
+            "start": 70.03,
+            "end": 70.43,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 72.23,
+            "end": 73.93,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And you will be the account holder?"
+        },
+        {
+            "start": 74.21,
+            "end": 75.21,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "I will be. Yes."
+        },
+        {
+            "start": 75.23,
+            "end": 85.73,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "The sole o~ yep. Okay. Yep and what is your (um) residential addre~ is that a residential address that you are connecting? You said your newer home. Yep."
+        },
+        {
+            "start": 84.03,
+            "end": 84.83,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yes."
+        },
+        {
+            "start": 86.03,
+            "end": 88.03,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. What's the full address please?"
+        },
+        {
+            "start": 86.05,
+            "end": 87.09,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah, it resets."
+        },
+        {
+            "start": 88.89,
+            "end": 93.13,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(um,) It'd be thirty-one David Street, Sydney."
+        },
+        {
+            "start": 94.21,
+            "end": 98.53,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thirty-one David Street, Sydney. And what's the postcode?"
+        },
+        {
+            "start": 99.33,
+            "end": 101.53,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(uh,) Four one two two five."
+        },
+        {
+            "start": 102.53,
+            "end": 109.53,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. Thank you so much. And (um,) what's your (um) best contact number Jenny?"
+        },
+        {
+            "start": 110.03,
+            "end": 115.13,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(uh,) Ohh four four one nine two five one four."
+        },
+        {
+            "start": 111.83,
+            "end": 112.13,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 116.63,
+            "end": 118.63,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Two five one four, was it?"
+        },
+        {
+            "start": 118.37,
+            "end": 119.63,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yep. Yeah."
+        },
+        {
+            "start": 119.73,
+            "end": 126.43,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay, and would you like us to put (uh) your email address on the account?"
+        },
+        {
+            "start": 127.8,
+            "end": 130.22,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(um,) Yes please. Yes. Yes."
+        },
+        {
+            "start": 129.82,
+            "end": 132.12,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yep. Okay what's your email address then?"
+        },
+        {
+            "start": 132.62,
+            "end": 143.72,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "It's Jenny, all lowercases triple one two thousand and eighteen at outlook dot com."
+        },
+        {
+            "start": 135.22,
+            "end": 135.62,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 137.92,
+            "end": 138.42,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 141.02,
+            "end": 141.42,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 144.42,
+            "end": 148.22,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay fantastic. Thank you so much, and,"
+        },
+        {
+            "start": 149.42,
+            "end": 159.72,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Can I also receive, can I also confirm that you wouldn't have any additional (um) account holders here?"
+        },
+        {
+            "start": 160.52,
+            "end": 162.22,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "No yeah. No it's just me."
+        },
+        {
+            "start": 162.12,
+            "end": 174.82,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. All right. That's not a problem. (um,) I will need to also check with you if you have any (uh) assisted medical equipments in the house."
+        },
+        {
+            "start": 175.92,
+            "end": 178.62,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "I do. I have a m~ medic alarm."
+        },
+        {
+            "start": 178.82,
+            "end": 179.32,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 180.42,
+            "end": 181.22,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay."
+        },
+        {
+            "start": 180.62,
+            "end": 180.92,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 182.22,
+            "end": 191.12,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "All right. So, we just need to make note of that in case of any emergencies and any (uh) outages."
+        },
+        {
+            "start": 195.02,
+            "end": 209.48,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "All right. Okay. The good news is there is service available in your area and we can go ahead with this connection, (um,) I just need to get some more details from you."
+        },
+        {
+            "start": 209.56,
+            "end": 215.72,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So, when would you like things to li~ like the electricity to be available at your new address?"
+        },
+        {
+            "start": 217.72,
+            "end": 227.92,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(um) Well we move in on Wednesday so I would really like it available the day before, so Tuesday n~ the f~ next Tuesday. So the fifth of November."
+        },
+        {
+            "start": 220.22,
+            "end": 220.62,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Sure."
+        },
+        {
+            "start": 228.22,
+            "end": 240.62,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "That's not a problem at all. We can actually connect them as soon as like this afternoon for you. So, next Tuesday I will put that as your connection so your billings will start from the fifth."
+        },
+        {
+            "start": 233.92,
+            "end": 234.52,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh. Okay."
+        },
+        {
+            "start": 241.12,
+            "end": 241.42,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah."
+        },
+        {
+            "start": 241.24,
+            "end": 242.62,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And."
+        },
+        {
+            "start": 246.92,
+            "end": 251.51,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(um,) Just a question, sorry. Are there any installation charges?"
+        },
+        {
+            "start": 247.01,
+            "end": 249.01,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "What, yeah sure."
+        },
+        {
+            "start": 252.61,
+            "end": 259.51,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "There is but it's very minimal. It's about twelve dollars for the installation and it's a one-off fee."
+        },
+        {
+            "start": 255.91,
+            "end": 256.11,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh."
+        },
+        {
+            "start": 260.41,
+            "end": 261.81,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Okay cool. No, that's all right."
+        },
+        {
+            "start": 261.31,
+            "end": 264.61,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Great. This will get added to your first bill."
+        },
+        {
+            "start": 265.41,
+            "end": 269.61,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And then from there on and there won't be any other charges on that."
+        },
+        {
+            "start": 266.01,
+            "end": 266.41,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh yeah."
+        },
+        {
+            "start": 272.21,
+            "end": 278.61,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(um) Just about the billing cycle. (um) How does it present itself like? How does it go?"
+        },
+        {
+            "start": 274.31,
+            "end": 275.01,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yes."
+        },
+        {
+            "start": 279.01,
+            "end": 284.81,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So our billing services is (um) done on a quarterly basis."
+        },
+        {
+            "start": 286.21,
+            "end": 295.81,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And what will happen is generally it's on, there is monthly fee and like the service fee and then there is usage fee."
+        },
+        {
+            "start": 296.01,
+            "end": 298.51,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Obviously usage will be dependent on you."
+        },
+        {
+            "start": 298.61,
+            "end": 306.11,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And all of these is provided in a breakdown format. So you will actually receive all of those on your bills."
+        },
+        {
+            "start": 306.31,
+            "end": 311.71,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Would you like to receive your bills (um) on a paper format or online?"
+        },
+        {
+            "start": 312.21,
+            "end": 313.61,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Online, please."
+        },
+        {
+            "start": 313.41,
+            "end": 326.01,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Online. Okay. So that will come to your email that you provided, and all the due dates and the cycles and the dates that are charged b~ including the peak and the un-peak hours will be listed in your bills."
+        },
+        {
+            "start": 327.31,
+            "end": 335.31,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Cool, and do you, just, one more question. Do you have any optional plans or are they all the same?"
+        },
+        {
+            "start": 335.41,
+            "end": 343.61,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "No no no. We do have we do have two options and we have a deal for this month. That it's called the green savings."
+        },
+        {
+            "start": 343.91,
+            "end": 353.31,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So, the green savings is very suitable for people who don't really use a lot of energy throughout the day."
+        },
+        {
+            "start": 354.21,
+            "end": 363.11,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Y~ you know. Like we a lot of people who were not at home throughout the day and most of the (um) electricity usage is at night."
+        },
+        {
+            "start": 363.41,
+            "end": 367.21,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And this will give them a lot of bonuses in that sense."
+        },
+        {
+            "start": 363.71,
+            "end": 364.01,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh."
+        },
+        {
+            "start": 367.31,
+            "end": 373.66,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So, what that means, is the rates apply throughout the days are slightly cheaper."
+        },
+        {
+            "start": 373.9,
+            "end": 378.9,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(um,) So that will really depend on your lifestyle. Is that the one you you would like to go?"
+        },
+        {
+            "start": 379.5,
+            "end": 381.4,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(um) No, I'm home all day."
+        },
+        {
+            "start": 381.4,
+            "end": 389.2,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "You're home all day. So if you're home all day I suggest our regular (uh) services would probably suit you best."
+        },
+        {
+            "start": 382.7,
+            "end": 383.1,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah."
+        },
+        {
+            "start": 390.0,
+            "end": 391.9,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "All right. That sounds lovely. Thank you."
+        },
+        {
+            "start": 391.62,
+            "end": 393.89,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay. No problem."
+        },
+        {
+            "start": 393.89,
+            "end": 406.97,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So, (uh) Jenny you will receive a confirmation of your account creation as well as the installation date that is booked for your next Tuesday in your email account soon. And,"
+        },
+        {
+            "start": 406.97,
+            "end": 410.6,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "if you have any other questions please feel free to call us back."
+        },
+        {
+            "start": 411.7,
+            "end": 413.1,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Okay that would be great. Thank you."
+        },
+        {
+            "start": 413.2,
+            "end": 415.1,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thank you and good luck with the move."
+        },
+        {
+            "start": 415.7,
+            "end": 416.3,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Thank you."
+        },
+        {
+            "start": 416.3,
+            "end": 417.4,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thanks. Bye bye."
+        },
+        {
+            "start": 418.3,
+            "end": 418.6,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Bye."
+        }
+    ]
+}

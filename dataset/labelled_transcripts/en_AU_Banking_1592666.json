@@ -1,0 +1,1608 @@
+{
+    "file_name": "en_AU_Banking_1592666.wav",
+    "duration": 914.521,
+    "accent": "en-AU",
+    "domain": "banking",
+    "segments": [
+        {
+            "start": 17.74,
+            "end": 22.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Good afternoon. You've reached Commonwealth Customer Care. My name is Danielle. How can I help you?",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a standard greeting and offer of assistance."
+        },
+        {
+            "start": 22.74,
+            "end": 26.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh, hi Danielle. (um) my name is Maria Nguyen",
+            "escalation_label": 0,
+            "label_reason": "Customer provides a polite greeting."
+        },
+        {
+            "start": 26.44,
+            "end": 32.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(uh) look, I need to transfer some money from my savings account to my everyday account, pretty urgently, if that's possible.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly states their request for a money transfer, noting urgency but not expressing frustration or dissatisfaction."
+        },
+        {
+            "start": 34.44,
+            "end": 38.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Ah, yep, you've come to, through to the right place, so I can help you with that Maria.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms they can assist with the request."
+        },
+        {
+            "start": 38.94,
+            "end": 44.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) before we get started, I need you to verify, I need to sorry verify your identity, (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent begins the standard identity verification process."
+        },
+        {
+            "start": 44.54,
+            "end": 48.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "of course for security purposes, can we please start with your date of birth?",
+            "escalation_label": 0,
+            "label_reason": "Agent continues with identity verification."
+        },
+        {
+            "start": 48.44,
+            "end": 52.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh yeah yeah for sure (um) it's fifteenth March",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly provides requested information."
+        },
+        {
+            "start": 53.14,
+            "end": 54.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "nineteen eighty-seven.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly provides requested information."
+        },
+        {
+            "start": 55.74,
+            "end": 59.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Perfect. Thank you. And can you confirm the postcode on your account for me?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for further identity verification details."
+        },
+        {
+            "start": 59.84,
+            "end": 66.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I think if my address is correct, it's two zero four six, we're in Haberfield.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly provides requested information."
+        },
+        {
+            "start": 67.64,
+            "end": 71.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yes, lovely. Thank you Maria. All right, (um,) I've got your account pulled up here.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms successful identity verification and account access."
+        },
+        {
+            "start": 72.04,
+            "end": 79.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "I can see you've got your Nedbank Saver and your Smart Access account with us. Which would you like to transfer between today?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for specific details regarding the transfer."
+        },
+        {
+            "start": 79.14,
+            "end": 86.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh yeah that's right, yeah. (um) yeah look, I need to move money from the Netbank Saver into the Smart Access",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly specifies the accounts for transfer."
+        },
+        {
+            "start": 86.74,
+            "end": 89.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I just got some bills that need to be paid today actually.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the reason for the transfer (bills due today), indicating urgency but no frustration towards the bank."
+        },
+        {
+            "start": 90.44,
+            "end": 99.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "The electricity bill is from Origin and it just came through and it's just, it's much higher than I expected with all the cold weather we've been having",
+            "escalation_label": 0,
+            "label_reason": "Customer provides context about a high electricity bill, which is a general complaint, not directed at the bank or indicating escalation."
+        },
+        {
+            "start": 99.64,
+            "end": 100.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Customer continues their explanation calmly."
+        },
+        {
+            "start": 100.84,
+            "end": 103.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "you know how it is with the heat is running constantly.",
+            "escalation_label": 0,
+            "label_reason": "Customer makes a general relatable comment about heating costs."
+        },
+        {
+            "start": 103.94,
+            "end": 113.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Ohh yeah, absolutely (um) I hear you. (um) my bill was shocking last month too. The winter really does make a difference, doesn't it? (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent empathizes with the customer's comment about high bills, showing rapport."
+        },
+        {
+            "start": 113.94,
+            "end": 115.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "So you need those funds",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's need."
+        },
+        {
+            "start": 115.14,
+            "end": 122.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "available today to pay your bills. I completely understand the urgency. Look (um) Maria, how much are you looking to transfer across?",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges urgency and asks for the transfer amount, maintaining a helpful tone."
+        },
+        {
+            "start": 122.34,
+            "end": 125.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Let me just check the bill again and do some quick",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly checks information to determine the transfer amount."
+        },
+        {
+            "start": 126.04,
+            "end": 130.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(uh) calculations. Okay, look, I I think I need to move",
+            "escalation_label": 0,
+            "label_reason": "Customer performs calculations calmly."
+        },
+        {
+            "start": 131.04,
+            "end": 138.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "two thousand five hundred today please, that should cover the power bill, and then my Foxtel payment that's coming out tomorrow as well.",
+            "escalation_label": 0,
+            "label_reason": "Customer states the required transfer amount and purpose calmly."
+        },
+        {
+            "start": 140.44,
+            "end": 148.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah absolutely. Look, no problem at all. And just so you're aware Maria, because we're transferring just between your own accounts, they're processed instantly",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the transfer can be done and explains the instant processing."
+        },
+        {
+            "start": 148.84,
+            "end": 152.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "so the money will be in your Smart Access account straight away.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain the instant processing of the transfer."
+        },
+        {
+            "start": 152.14,
+            "end": 157.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) you'll also be able to use it for your BPAY payment (uh) or whenever you need to immediately.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains immediate availability of funds."
+        },
+        {
+            "start": 157.54,
+            "end": 163.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh that's great. I was worried that I'd have to wait a day or something like, actually while I'm thinking about it",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses relief and asks a follow-up question, indicating satisfaction rather than frustration."
+        },
+        {
+            "start": 163.44,
+            "end": 168.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "is there a limit on how much I can transfer in a day? Just in case I need to move more money around in the future?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks a new, calm question about transfer limits for future planning."
+        },
+        {
+            "start": 169.74,
+            "end": 179.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah look Maria of course, that's a really good question. (um) so for transfers between your own accounts with us, there's actually no daily limit. You can move as much as you like",
+            "escalation_label": 0,
+            "label_reason": "Agent provides clear information about transfer limits between own accounts."
+        },
+        {
+            "start": 179.24,
+            "end": 182.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "between your Netbank Saver and your Smart Access.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues explaining transfer limits between own accounts."
+        },
+        {
+            "start": 182.54,
+            "end": 190.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "However, if you are transferring to another bank or to someone else's account, there would be different limits depending on how you're making the transfer.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about transfer limits to other banks/people."
+        },
+        {
+            "start": 190.54,
+            "end": 192.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "through Netbank or the CommBank app",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain conditions for different transfer methods."
+        },
+        {
+            "start": 193.04,
+            "end": 199.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you can transfer up to twenty thousand dollars per day to other people or institutions.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides details on daily transfer limits to other parties."
+        },
+        {
+            "start": 199.84,
+            "end": 203.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "If you needed to go higher than that, you would need to call us",
+            "escalation_label": 0,
+            "label_reason": "Agent explains options for transfers exceeding daily limits."
+        },
+        {
+            "start": 203.74,
+            "end": 204.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "or visit a branch.",
+            "escalation_label": 0,
+            "label_reason": "Agent completes the explanation of options for higher transfers."
+        },
+        {
+            "start": 204.54,
+            "end": 214.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Right, okay, that's good to know. (um) I sometimes help my mom out with her bills, so that's really handy. But for today. two thousand five hundred would be fine",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the information and provides context for why it's useful, remaining calm."
+        },
+        {
+            "start": 215.84,
+            "end": 225.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Perfect. Okay, great. So just to confirm, you mentioned you needed this for bill payments. Are you paying these through BPAY or direct debit?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms understanding and asks a clarifying question about bill payment methods."
+        },
+        {
+            "start": 224.84,
+            "end": 232.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um,) the Origin one I'll pay through BayPay today, and the Foxtel one just comes out automatically tomorrow morning.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains their bill payment methods."
+        },
+        {
+            "start": 233.54,
+            "end": 242.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, excellent. So look, you'll have plenty of time, right? Let me just process this transfer for you now. I'm moving two thousand five hundred dollars",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms and begins processing the transfer, providing details."
+        },
+        {
+            "start": 242.64,
+            "end": 244.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "from your Netbank Saver account",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to process the transfer."
+        },
+        {
+            "start": 244.44,
+            "end": 252.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "ending in seven three nine two, to your Smart Access account, ending in four one five six. Could you please confirm that's correct?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for confirmation of the transfer details."
+        },
+        {
+            "start": 252.64,
+            "end": 253.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yep, that's right.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly confirms the details."
+        },
+        {
+            "start": 254.84,
+            "end": 260.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, beautiful. Right. So, just about to process that now for you, one moment please.",
+            "escalation_label": 0,
+            "label_reason": "Agent proceeds to finalize the transfer."
+        },
+        {
+            "start": 260.04,
+            "end": 260.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the agent's action."
+        },
+        {
+            "start": 263.44,
+            "end": 270.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay Maria, done. The transfer is complete. You have twenty-five hundred dollars, so two thousand five hundred dollars",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the transfer is complete and funds are available."
+        },
+        {
+            "start": 271.04,
+            "end": 275.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "is now in your Smart Access account and available for you to use immediately.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates the availability of funds."
+        },
+        {
+            "start": 275.04,
+            "end": 280.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh that's brilliant, so (um) I can go ahead and pay that bill right now, right?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses satisfaction and confirms immediate usability of funds."
+        },
+        {
+            "start": 281.44,
+            "end": 290.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep, absolutely. So you can do it through the CommBank app, Netbank online, or even over the phone (uh) with BPAY if you prefer, the funds are there. They're ready to go for you.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms fund availability and payment options, maintaining a helpful tone."
+        },
+        {
+            "start": 290.44,
+            "end": 295.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "That is such a relief, thank you so much. I hate those reminder notices from Origin.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses relief about paying bills, attributing past stress to reminder notices, not the bank's service."
+        },
+        {
+            "start": 296.14,
+            "end": 301.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Actually Danielle, you might be able to help me with just, I've just thought of.",
+            "escalation_label": 0,
+            "label_reason": "Customer transitions to asking about another related issue."
+        },
+        {
+            "start": 302.14,
+            "end": 309.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "This is the third time in in like the last couple of months I've had to call and move money around because I've forgotten to transfer enough to cover my bills.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains a recurring personal problem (forgetting to transfer money) that leads to calls, but does not express frustration or dissatisfaction with the bank's service or an unresolved issue."
+        },
+        {
+            "start": 303.04,
+            "end": 303.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's statement."
+        },
+        {
+            "start": 310.64,
+            "end": 317.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Is there a way that I can set up some kind of automatic transfer, like maybe move a certain amount every fortnight or something?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for a solution to their personal issue (automatic transfer setup)."
+        },
+        {
+            "start": 318.64,
+            "end": 324.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Ohh yes, absolutely. Look, you're definitely not alone in that, (um) it's one of the most common things people set up",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms they can help and empathizes with the customer's common problem."
+        },
+        {
+            "start": 324.64,
+            "end": 332.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) so, it's called an automatic transfer. We can arrange what's called a recurring transfer, or a scheduled transfer",
+            "escalation_label": 0,
+            "label_reason": "Agent introduces the concept of automatic transfer options."
+        },
+        {
+            "start": 332.44,
+            "end": 338.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "for you. There are a couple of different ways you can do this, depending on what works and what's best for you.",
+            "escalation_label": 0,
+            "label_reason": "Agent describes the different ways to set up recurring transfers."
+        },
+        {
+            "start": 337.94,
+            "end": 341.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, so (um) can you run me through those options?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for the options to be explained."
+        },
+        {
+            "start": 342.04,
+            "end": 351.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah look, absolutely. So with the first option, it's a regular recurring transfer where you choose an amount and a frequency. So you could have say",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the first option for a regular recurring transfer."
+        },
+        {
+            "start": 351.84,
+            "end": 360.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "five hundred dollars, transferred from your savings to your everyday account every fortnight, or every month or even weekly if you want it.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain the first transfer option and frequency choices."
+        },
+        {
+            "start": 360.34,
+            "end": 363.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) that happens automatically so on the date you choose",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the automatic nature of the transfer."
+        },
+        {
+            "start": 363.64,
+            "end": 371.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) and you can set it up with the start date and even an end date if you want to, or just run let it run def~ (um) sorry indefinitely.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides details about setting start and end dates for recurring transfers."
+        },
+        {
+            "start": 371.94,
+            "end": 374.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah, that could work. (um) what are the other options?",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the first option and asks for the others."
+        },
+        {
+            "start": 375.64,
+            "end": 381.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep, so the other option is a bit more flexible. You can set up what we call a keep a balance transfer",
+            "escalation_label": 0,
+            "label_reason": "Agent introduces the second, more flexible option: 'keep a balance transfer'."
+        },
+        {
+            "start": 381.94,
+            "end": 388.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "So for example, you could say you wanted to keep a minimum of a thousand dollars in your Smart Access account at all times",
+            "escalation_label": 0,
+            "label_reason": "Agent provides an example for the 'keep a balance transfer' option."
+        },
+        {
+            "start": 389.04,
+            "end": 395.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "then, if your balance drops below that, will automatically top it up from your savings account. That way, you're never caught short but",
+            "escalation_label": 0,
+            "label_reason": "Agent explains how the 'keep a balance transfer' automatically tops up the account."
+        },
+        {
+            "start": 395.64,
+            "end": 399.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you're not moving money necessarily, like unnecessarily you don't have",
+            "escalation_label": 0,
+            "label_reason": "Agent highlights the benefit of not unnecessarily moving money."
+        },
+        {
+            "start": 399.14,
+            "end": 399.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "to.",
+            "escalation_label": 0,
+            "label_reason": "Agent completes the explanation."
+        },
+        {
+            "start": 400.14,
+            "end": 404.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah, that makes sense. Okay, I like the sound of the second one, actually.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses preference for the second option, indicating understanding and satisfaction."
+        },
+        {
+            "start": 404.94,
+            "end": 408.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) so it would just top up automatically if I get to load",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly clarifies their understanding of the chosen option."
+        },
+        {
+            "start": 409.74,
+            "end": 417.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Exactly right. So, what it does, is it checks your balance, and then if it drop, if your balance drops below whatever threshold you'll set",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the customer's understanding and elaborates on the system's function."
+        },
+        {
+            "start": 417.34,
+            "end": 420.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "it'll transfer the difference across your savings.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains how the transfer amount is determined."
+        },
+        {
+            "start": 420.34,
+            "end": 427.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Some people find it gives them a bit more peace of mind, especially for bill payments, so they don't have to continuously check and make sure you know that there's",
+            "escalation_label": 0,
+            "label_reason": "Agent highlights the peace of mind this feature offers for bill payments."
+        },
+        {
+            "start": 427.54,
+            "end": 430.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "a set amount in the account before money gets taken out.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain the benefit of the feature."
+        },
+        {
+            "start": 430.74,
+            "end": 440.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh yeah that sounds perfect for me Danielle (um) my papers into the Smart Access, but then, I usually move most of it into savings across",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses satisfaction with the solution and provides personal context for its suitability."
+        },
+        {
+            "start": 440.64,
+            "end": 441.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "you know",
+            "escalation_label": 0,
+            "label_reason": "Customer continues their personal explanation."
+        },
+        {
+            "start": 441.44,
+            "end": 443.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I'll transfer the difference across from",
+            "escalation_label": 0,
+            "label_reason": "Customer continues their personal explanation."
+        },
+        {
+            "start": 444.44,
+            "end": 452.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "you know, but sometimes (um) I forget to move enough back. (um) how much can I set it to top up to?",
+            "escalation_label": 0,
+            "label_reason": "Customer reiterates their personal challenge and asks a practical question about the setup."
+        },
+        {
+            "start": 454.34,
+            "end": 463.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah, so you can set whatever amount works for you. A lot of people do somewhere between one thousand and two thousand dollars, but it really depends on your regular expenses. What were you thinking?",
+            "escalation_label": 0,
+            "label_reason": "Agent explains typical amounts and asks for customer's preferred amount."
+        },
+        {
+            "start": 464.34,
+            "end": 465.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Customer pauses to consider the amount."
+        },
+        {
+            "start": 466.34,
+            "end": 467.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I don't know like",
+            "escalation_label": 0,
+            "label_reason": "Customer pauses to consider the amount."
+        },
+        {
+            "start": 468.54,
+            "end": 478.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "could I set it to maintain fifteen hundred you know, that should cover my regular bills, things like groceries, (um) things like that, without me having to worry.",
+            "escalation_label": 0,
+            "label_reason": "Customer proposes an amount and explains its reasoning calmly."
+        },
+        {
+            "start": 480.44,
+            "end": 490.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah, look, absolutely. Fifteen hundred dollars is perfect. Now I can set up the parameters for you right now over the phone, but you need to log into Nedbank or the CommBank app",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the amount and explains the next steps for setting up the transfer."
+        },
+        {
+            "start": 490.24,
+            "end": 493.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "give final authorization for the recurring transfer.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the authorization requirement."
+        },
+        {
+            "start": 493.44,
+            "end": 499.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "It's just an extra security measure we have in place, (um) of course. So if you pre~ or actually Maria",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the security reason for the authorization."
+        },
+        {
+            "start": 499.94,
+            "end": 503.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "if you prefer, I can talk you through setting it up yourself right now.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers to guide the customer through the app setup."
+        },
+        {
+            "start": 503.64,
+            "end": 506.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) look, it only takes a couple of minutes and it's really straightforward.",
+            "escalation_label": 0,
+            "label_reason": "Agent assures the customer of the simplicity of the app setup."
+        },
+        {
+            "start": 506.84,
+            "end": 510.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh, I can do it in the app myself (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer agrees to set up using the app."
+        },
+        {
+            "start": 510.74,
+            "end": 515.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I've got it on my phone. Do I just go to transfers like, which part do I go?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for specific guidance within the app."
+        },
+        {
+            "start": 515.84,
+            "end": 519.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah, that's exactly it. So if you open your CommBank app",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the first step of guidance."
+        },
+        {
+            "start": 520.34,
+            "end": 522.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Have you, are you opening the app now?",
+            "escalation_label": 0,
+            "label_reason": "Agent checks if the customer is following along."
+        },
+        {
+            "start": 522.04,
+            "end": 523.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yep, yep.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms they are opening the app."
+        },
+        {
+            "start": 523.84,
+            "end": 528.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, great. (um,) so yeah, if you open the CommBank app",
+            "escalation_label": 0,
+            "label_reason": "Agent repeats the first instruction for clarity."
+        },
+        {
+            "start": 529.74,
+            "end": 530.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yep.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the instruction."
+        },
+        {
+            "start": 530.94,
+            "end": 533.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "then you go to transfer",
+            "escalation_label": 0,
+            "label_reason": "Agent gives the next instruction."
+        },
+        {
+            "start": 533.54,
+            "end": 534.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, yep.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the instruction."
+        },
+        {
+            "start": 536.14,
+            "end": 541.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "so then you'll see an option that says: manage recurring transfers, or set up recurring transfer",
+            "escalation_label": 0,
+            "label_reason": "Agent describes the option to look for in the app."
+        },
+        {
+            "start": 541.84,
+            "end": 543.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I think I, yep okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms finding the option."
+        },
+        {
+            "start": 544.44,
+            "end": 547.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep, so tap on that and you'll be able to set up the automatic top up.",
+            "escalation_label": 0,
+            "label_reason": "Agent instructs the customer to tap on the option."
+        },
+        {
+            "start": 547.84,
+            "end": 551.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) all right. Can I hang on? I just want to make sure I'm in the right area so",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for a moment to confirm they are in the correct place, indicating mild caution, not frustration."
+        },
+        {
+            "start": 552.84,
+            "end": 559.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I'm in the app, I can see transfer money, and then, ohh yep I can see it scheduled I transfer, is that it?",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms finding the correct option in the app."
+        },
+        {
+            "start": 560.24,
+            "end": 569.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep, that's the one. So now what you want to do, is select your Netbank Saver (um) as the from account and your Smart Access as the to account.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the next instruction for selecting accounts."
+        },
+        {
+            "start": 570.34,
+            "end": 574.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay. Ohh I get so mixed up with the account name. (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses slight confusion about account names but quickly resolves it and thanks the agent."
+        },
+        {
+            "start": 574.94,
+            "end": 577.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay yeah. Thanks Danielle, done.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms completing the step."
+        },
+        {
+            "start": 578.44,
+            "end": 588.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, excellent. So now you should see some options for how you want the transfer to work. One of them will say something like, maintain minimum balance or keep my balance at. That's the one you want.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the next instruction to find the 'maintain minimum balance' option."
+        },
+        {
+            "start": 588.54,
+            "end": 589.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Can you see that?",
+            "escalation_label": 0,
+            "label_reason": "Agent checks if the customer can see the option."
+        },
+        {
+            "start": 589.44,
+            "end": 593.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) hold on, let me I'm just, I'm really not good with this sort of",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild personal difficulty with 'tech stuff', not frustration with the bank."
+        },
+        {
+            "start": 595.04,
+            "end": 597.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "tech stuff, (uh)",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to express mild personal difficulty."
+        },
+        {
+            "start": 599.74,
+            "end": 605.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh yeah I can see it, okay, so cap my balance at a minimum amount, perfect. So I just put fifteen hundred here.",
+            "escalation_label": 0,
+            "label_reason": "Customer successfully finds the option and confirms the amount."
+        },
+        {
+            "start": 608.34,
+            "end": 617.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep, that's exactly right. And what it'll do is it'll ask you to confirm which account to transfer from. If you go below that amount, that'll be your savings account.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the customer's action and explains the next step for source account confirmation."
+        },
+        {
+            "start": 619.04,
+            "end": 624.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh, I've got it. Okay, done. All right, so, do I need to set a minimum transfer amount or anything?",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms understanding and asks a clarifying question about setting a minimum transfer amount."
+        },
+        {
+            "start": 626.54,
+            "end": 635.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(uh) look, good thinking. Yes, you can set a maximum if you want, which is handy if you want to make sure you're not accidentally draining your savings",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies that a maximum limit can be set and explains its benefit."
+        },
+        {
+            "start": 635.84,
+            "end": 640.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) a lot of people set it to something like two thousand dollars or three thousand dollars",
+            "escalation_label": 0,
+            "label_reason": "Agent provides typical maximum limit amounts."
+        },
+        {
+            "start": 640.14,
+            "end": 645.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "that way if something unusual happens, it won't transfer your entire savings across you.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the protective purpose of setting a maximum transfer amount."
+        },
+        {
+            "start": 644.74,
+            "end": 646.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh that's what I meant, maximum (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies their initial thought and acknowledges the agent's smart suggestion."
+        },
+        {
+            "start": 647.74,
+            "end": 654.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah, that's really smart. I've set it to two thousand max just to be safe. I've got a bit of a buffer in my savings that I wanna keep for emergencies.",
+            "escalation_label": 0,
+            "label_reason": "Customer sets a maximum amount and explains their rationale for it, remaining calm."
+        },
+        {
+            "start": 655.54,
+            "end": 659.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) we're hoping to go to the Gold Coast for example, that's one thing.",
+            "escalation_label": 0,
+            "label_reason": "Customer casually mentions a personal savings goal."
+        },
+        {
+            "start": 660.44,
+            "end": 662.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Maybe January, yeah.",
+            "escalation_label": 0,
+            "label_reason": "Customer casually mentions a personal savings goal."
+        },
+        {
+            "start": 660.74,
+            "end": 668.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Ohh, how lovely! (um,) yeah look, the Gold Coast is beautiful in January. Look, great idea to keep that emergency fund separate.",
+            "escalation_label": 0,
+            "label_reason": "Agent responds positively to the customer's personal goal and affirms the good idea of an emergency fund."
+        },
+        {
+            "start": 669.14,
+            "end": 676.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) look, right Maria, so once you've set that maximum, you should just need to review and confirm the details then you'll",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the final instructions for reviewing and confirming the setup."
+        },
+        {
+            "start": 676.24,
+            "end": 683.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) be all set up. (um) was there something else, sorry that you mentioned, I don't know if I cut you off there a bit earlier",
+            "escalation_label": 0,
+            "label_reason": "Agent politely asks if they interrupted the customer earlier, showing attentiveness."
+        },
+        {
+            "start": 683.34,
+            "end": 693.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh no, it's okay. I just got a bit nervous Danielle with this stuff, like I just feel like I'm going to do something wrong, but (uh) it's asking me to review everything it's saying maintain",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses slight nervousness about tech tasks but calmly proceeds to review the settings."
+        },
+        {
+            "start": 693.04,
+            "end": 693.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "fifteen hundred",
+            "escalation_label": 0,
+            "label_reason": "Customer reviews the settings as instructed."
+        },
+        {
+            "start": 693.94,
+            "end": 703.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "dollar minimum in Smart Access transfer from Nedbank Saver, maximum transfer two thousand, that all looks right so I just hit confirm and",
+            "escalation_label": 0,
+            "label_reason": "Customer reviews the settings, confirms they are correct, and prepares to confirm."
+        },
+        {
+            "start": 703.84,
+            "end": 706.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "it's it's asking for my Netbank password",
+            "escalation_label": 0,
+            "label_reason": "Customer mentions the password prompt."
+        },
+        {
+            "start": 706.34,
+            "end": 707.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "hang on a sec (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer indicates they are entering their password."
+        },
+        {
+            "start": 708.84,
+            "end": 709.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yes, yep.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms password entry."
+        },
+        {
+            "start": 710.74,
+            "end": 714.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, done. Ohh it says recurring transfer set up successfully.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms successful setup of the recurring transfer."
+        },
+        {
+            "start": 715.34,
+            "end": 723.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Perfect. So look Maria, you're all sorted. Look, from now on, if your Smart Access balance drops below fifteen hundred dollars, what will happen",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the successful setup and reiterates how the automatic transfer will work."
+        },
+        {
+            "start": 723.34,
+            "end": 727.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "is system will automatically top it up right from your savings",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the automatic top-up mechanism from savings."
+        },
+        {
+            "start": 727.34,
+            "end": 736.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "and up to a maximum of two thousand at a time. So it's never going to transfer over two thousand dollars you know in one session for you. (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the maximum transfer limit per session."
+        },
+        {
+            "start": 737.14,
+            "end": 743.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you'll get a notification as well on your app, whenever your transfer happens. So you always know when it's kicked in.",
+            "escalation_label": 0,
+            "label_reason": "Agent informs the customer about notification for transfers, providing reassurance."
+        },
+        {
+            "start": 743.14,
+            "end": 748.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "That's brilliant, no, I wish I 'd known about this months ago, you you would've saved me a lot of stressful phone calls",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses high satisfaction and regret that they didn't know about it sooner, attributing 'stressful phone calls' to their own forgetfulness, not the bank's service."
+        },
+        {
+            "start": 749.04,
+            "end": 757.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Uhh well look, I mean, look to the future. You don't have to call us again for this same need. And of course, as you know, you can change it",
+            "escalation_label": 0,
+            "label_reason": "Agent responds positively, highlighting the future convenience for the customer."
+        },
+        {
+            "start": 757.34,
+            "end": 761.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um,) you know, whenever you need. But we are here if you do need to",
+            "escalation_label": 0,
+            "label_reason": "Agent reassures the customer about the flexibility to change settings and the bank's continued support."
+        },
+        {
+            "start": 761.34,
+            "end": 763.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "no need to worry about it.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers further reassurance."
+        },
+        {
+            "start": 765.24,
+            "end": 769.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Ohh, it does actually say that. Ohh, you know again, just a reminder, if",
+            "escalation_label": 0,
+            "label_reason": "Agent adds another helpful detail about the feature."
+        },
+        {
+            "start": 769.44,
+            "end": 776.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you know you wanted to stop it from happening, you can always turn it off completely if you want to go back to those manual transfers",
+            "escalation_label": 0,
+            "label_reason": "Agent explains how to disable the feature if desired."
+        },
+        {
+            "start": 775.84,
+            "end": 783.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Awesome! Okay, thanks so much. So just to make sure I've got everything right, the twenty-five hundred I needed today is ready in my account",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks a final, calm confirmation of the services provided."
+        },
+        {
+            "start": 784.04,
+            "end": 786.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "and I can pay my bills now, right?",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks final confirmation of immediate payment ability."
+        },
+        {
+            "start": 786.94,
+            "end": 795.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Correct. (um) yep, so your twenty-five hundred dollars in your Smart account, as we speak, available immediately. That's the one you and I did over the phone.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the immediate transfer was successful and funds are available."
+        },
+        {
+            "start": 795.94,
+            "end": 799.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) and you can go ahead and make your BPAY a payment to",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the customer can proceed with payments."
+        },
+        {
+            "start": 799.34,
+            "end": 804.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "origin, and your payment tomorrow will go through, without any issues.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms that future payments will be handled without issues."
+        },
+        {
+            "start": 804.24,
+            "end": 809.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay. And the automatic transfer will just keep my balance topped up from now on, like does that start today?",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks final clarification on the automatic transfer's immediate start."
+        },
+        {
+            "start": 810.24,
+            "end": 818.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yes, that's exactly right. Look, anytime you drop below fifteen hundred dollars, it'll automatically transfer funds from your savings to bring you back up that level",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the automatic transfer's mechanism and benefit."
+        },
+        {
+            "start": 818.94,
+            "end": 820.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "up to two thousand dollars at a time.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates the maximum transfer amount for the automatic transfer."
+        },
+        {
+            "start": 820.94,
+            "end": 827.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) you'll never have to worry about being short for those bills again. And as for when it starts, yeah that's all ready to go.",
+            "escalation_label": 0,
+            "label_reason": "Agent reassures the customer about future bill payments and confirms the feature is active."
+        },
+        {
+            "start": 827.24,
+            "end": 830.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, so like tomorrow when Foxtel comes out",
+            "escalation_label": 0,
+            "label_reason": "Customer provides an example to confirm understanding of the automatic transfer's timing."
+        },
+        {
+            "start": 830.94,
+            "end": 835.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "and my balance goes below twenty-five hundred really that should happen right away.",
+            "escalation_label": 0,
+            "label_reason": "Customer completes their example to confirm understanding."
+        },
+        {
+            "start": 836.64,
+            "end": 837.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a direct confirmation."
+        },
+        {
+            "start": 837.84,
+            "end": 846.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "That is so awesome. such a weight off my mind. You've been so helpful Danielle. Ohh ohh my goodness, thank you so much for your time.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses extreme gratitude and relief, praising the agent's helpfulness."
+        },
+        {
+            "start": 847.24,
+            "end": 854.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "You're very welcome Maria. I'm just so glad we could get it all sorted for you today. And you know, of course, such a bonus that this is not something you need to do",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses pleasure in assisting and highlights the long-term benefit for the customer."
+        },
+        {
+            "start": 855.14,
+            "end": 859.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "in the future. (um) whilst I've got you, is there anything else I can help you with?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks if there are any other needs, maintaining a helpful tone."
+        },
+        {
+            "start": 860.04,
+            "end": 862.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "No, no I think that's everything. You've been really wonderful.",
+            "escalation_label": 0,
+            "label_reason": "Customer declines further help and praises the agent's service."
+        },
+        {
+            "start": 864.04,
+            "end": 873.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Lovely. Well, look, you have a great rest of your day. Enjoy getting set up for that Gold Coast trip. And of course, thank you for banking with Australia's favorite bank, convent Maria.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a friendly closing, including a personal touch about the customer's trip and a standard banking farewell."
+        },
+        {
+            "start": 873.84,
+            "end": 881.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Thanks Danielle. (uh) one last thing, Danielle, sometimes there's a survey when I (um) have a call with you guys",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about a survey to provide positive feedback."
+        },
+        {
+            "start": 881.84,
+            "end": 884.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "is there gonna be a survey? Cause I'd love to give you some really good feedback.",
+            "escalation_label": 0,
+            "label_reason": "Customer explicitly states desire to give good feedback, indicating satisfaction."
+        },
+        {
+            "start": 885.84,
+            "end": 894.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Ohh look, that would be so lovely. Yeah look, you'll get a text message from us (um) to your confirmed mobile number ending in zero three four",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the survey process and delivery method."
+        },
+        {
+            "start": 894.84,
+            "end": 899.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "and you can just follow the link and prompts, and it takes about two minutes.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain the simple survey process."
+        },
+        {
+            "start": 898.74,
+            "end": 900.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Thanks, thanks for that. See ya!",
+            "escalation_label": 0,
+            "label_reason": "Customer thanks the agent and says goodbye."
+        },
+        {
+            "start": 901.94,
+            "end": 903.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Thank you, bye.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a polite farewell."
+        }
+    ]
+}

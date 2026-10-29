@@ -1,0 +1,627 @@
+{
+  "file_name": "en_AU_Retail_1590921.wav",
+  "domain": "retail",
+  "accent": "en-AU",
+  "duration": 610.647,
+  "escalation_label": 1,
+  "segments": [
+    {
+      "start": 11.64,
+      "end": 16.14,
+      "role": "agent",
+      "text": "Hi, you've reached Herald Sun's customer service. You're speaking with Tom. What can I do for you today?"
+    },
+    {
+      "start": 17.64,
+      "end": 26.24,
+      "role": "customer",
+      "text": "Hi Tom, (um,) look I've just got a Herald Sun subscription that my dad had signed up to a fair while ago ,"
+    },
+    {
+      "start": 26.44,
+      "end": 29.64,
+      "role": "customer",
+      "text": "and basically he's passed away"
+    },
+    {
+      "start": 29.94,
+      "end": 33.04,
+      "role": "customer",
+      "text": "and we just need to cancel the subscription."
+    },
+    {
+      "start": 33.54,
+      "end": 35.74,
+      "role": "agent",
+      "text": "Right, Okay. So"
+    },
+    {
+      "start": 36.34,
+      "end": 38.54,
+      "role": "agent",
+      "text": "that's quite a reason for canceling (Um.)"
+    },
+    {
+      "start": 39.14,
+      "end": 39.94,
+      "role": "customer",
+      "text": "I know."
+    },
+    {
+      "start": 39.84,
+      "end": 45.54,
+      "role": "agent",
+      "text": "Let's see if we can get this sorted out for you. (uh) Before we get started, I'll just need to verify"
+    },
+    {
+      "start": 46.14,
+      "end": 55.14,
+      "role": "agent",
+      "text": "(ah) the account details. (ah) The security question that I can see linked to this phone number was star sign and (uh)"
+    },
+    {
+      "start": 49.04,
+      "end": 49.34,
+      "role": "customer",
+      "text": "Yeah"
+    },
+    {
+      "start": 55.34,
+      "end": 56.54,
+      "role": "agent",
+      "text": "the postcode, please."
+    },
+    {
+      "start": 58.14,
+      "end": 67.74,
+      "role": "customer",
+      "text": "Yeah, so Tom Jones, (um,) for the name on the account, (uh,) his star sign is, give me a sec, Scorpio."
+    },
+    {
+      "start": 68.44,
+      "end": 70.14,
+      "role": "customer",
+      "text": "(Uh,) was there something else?"
+    },
+    {
+      "start": 70.44,
+      "end": 79.84,
+      "role": "agent",
+      "text": "No, (uh) that's the three things, right. So another subscription, lots of unforeseeable events, all right. (ah) So is that the only reason you're looking to"
+    },
+    {
+      "start": 79.94,
+      "end": 83.24,
+      "role": "agent",
+      "text": "cancel the subscription? Is it not something you want to give to a family member?"
+    },
+    {
+      "start": 85.04,
+      "end": 88.24,
+      "role": "customer",
+      "text": "Yeah, no, no one else needs a subscription."
+    },
+    {
+      "start": 88.44,
+      "end": 97.94,
+      "role": "agent",
+      "text": "Okay, well, I'll process the cancelation. It only takes a moment, unlike some stories. (um) But that sounds like a difficult time, so let's go ahead and"
+    },
+    {
+      "start": 98.04,
+      "end": 106.04,
+      "role": "agent",
+      "text": "we'll get it sorted for you. At least that's one last thing to worry about, even if the subscription seems to have outlived him. (um)"
+    },
+    {
+      "start": 106.64,
+      "end": 111.54,
+      "role": "agent",
+      "text": "Do you know if he enjoyed the subscription? Did he ever mention it to any of you?"
+    },
+    {
+      "start": 113.14,
+      "end": 119.24,
+      "role": "customer",
+      "text": "(Ah,) look, he had a Herald Sun subscription since as long as I can remember. It's just,"
+    },
+    {
+      "start": 119.54,
+      "end": 123.94,
+      "role": "customer",
+      "text": "you know, the paper he always read and he's stuck with his tried and true paper."
+    },
+    {
+      "start": 124.14,
+      "end": 135.67,
+      "role": "customer",
+      "text": "(Um,) yeah, it's pretty sad when I think about it, but yeah, he always had his paper, you know, every week delivered, so nothing changed over that time. (Um,) yeah."
+    },
+    {
+      "start": 135.64,
+      "end": 140.34,
+      "role": "agent",
+      "text": "All right, well, if circumstance has changed. Like We're also here for living customers, too."
+    },
+    {
+      "start": 140.94,
+      "end": 150.74,
+      "role": "agent",
+      "text": "(um) Do you know if he's accessed his (uh) rewards program at all? Because that would still be available (uh) for the next two months, even after the subscriptions canceled."
+    },
+    {
+      "start": 152.54,
+      "end": 159.44,
+      "role": "customer",
+      "text": "I wouldn't say he's used anything like that. He was pretty old school. (um) You know, like, your"
+    },
+    {
+      "start": 159.74,
+      "end": 162.84,
+      "role": "customer",
+      "text": "older parents, older generation tend to be, like,"
+    },
+    {
+      "start": 163.04,
+      "end": 169.54,
+      "role": "customer",
+      "text": "just pretty stuck with reading his old school paper. Think most of us all, you know, look for online stories these days."
+    },
+    {
+      "start": 169.54,
+      "end": 178.64,
+      "role": "agent",
+      "text": "Hmm, Because, yeah, so, it, since your dad died, because he (um) only called us yesterday to update his payment method."
+    },
+    {
+      "start": 181.34,
+      "end": 190.74,
+      "role": "customer",
+      "text": "(uh) Yeah, it was ugh I'd like to say it was kind of sudden, but we knew it was coming for a little while, so You know, he had a bit of dementia, he was doing a lot of"
+    },
+    {
+      "start": 191.14,
+      "end": 194.14,
+      "role": "customer",
+      "text": "random things, so I couldn't really tell you why."
+    },
+    {
+      "start": 194.24,
+      "end": 195.64,
+      "role": "agent",
+      "text": "Hmm, Okay. He's"
+    },
+    {
+      "start": 196.34,
+      "end": 202.94,
+      "role": "agent",
+      "text": "Well, if lives cancel subscriptions, I think he'd be on the lifetime plan, but that's Okay. (um) We can certainly help you out with that."
+    },
+    {
+      "start": 203.14,
+      "end": 206.64,
+      "role": "agent",
+      "text": "(uh) Do you know if there were any family members linked to the subscription?"
+    },
+    {
+      "start": 208.94,
+      "end": 217.34,
+      "role": "customer",
+      "text": "Don't believe there would have been. My mum passed away already. (um) So it was just my dad left, and I think he was just the last one on the account."
+    },
+    {
+      "start": 217.34,
+      "end": 218.14,
+      "role": "agent",
+      "text": "(uh) well."
+    },
+    {
+      "start": 218.74,
+      "end": 228.24,
+      "role": "agent",
+      "text": "From the linking that I can actually see here, she's contacted us this morning, actually. Was that another last-minute passing?"
+    },
+    {
+      "start": 229.54,
+      "end": 231.34,
+      "role": "customer",
+      "text": "No, my mum died a year ago."
+    },
+    {
+      "start": 232.04,
+      "end": 240.14,
+      "role": "agent",
+      "text": "Ah, Okay. (um) cause I can see, yeah, she definitely called us this morning (um) just to change her payment details as well."
+    },
+    {
+      "start": 240.74,
+      "end": 248.14,
+      "role": "agent",
+      "text": "So (uh) it's quite interesting. (um) But I appreciate you sharing that with me. (um)"
+    },
+    {
+      "start": 248.24,
+      "end": 253.84,
+      "role": "agent",
+      "text": "Before I do go ahead and cancel that, we can look at a discounted subscription offer if you did want to move that into your name."
+    },
+    {
+      "start": 255.24,
+      "end": 257.34,
+      "role": "customer",
+      "text": "(uh) What does it involve?"
+    },
+    {
+      "start": 257.14,
+      "end": 265.34,
+      "role": "agent",
+      "text": "(uh) Well, it's just a dollar a day for the first Twenty Eight days, and that includes unlimited access to unravel journalism,"
+    },
+    {
+      "start": 265.74,
+      "end": 267.34,
+      "role": "agent",
+      "text": "breaking news, as well as"
+    },
+    {
+      "start": 267.34,
+      "end": 276.44,
+      "role": "agent",
+      "text": "(uh) the up-to-date, up-to-the-minute sports statistics. You'll get access to the Plus Rewards portal, which is your destination for exclusives, events"
+    },
+    {
+      "start": 276.44,
+      "end": 279.54,
+      "role": "agent",
+      "text": "and extras only available to Herald Sun members."
+    },
+    {
+      "start": 279.74,
+      "end": 283.24,
+      "role": "agent",
+      "text": "You can also read stories across the News Corp network."
+    },
+    {
+      "start": 285.44,
+      "end": 292.24,
+      "role": "customer",
+      "text": "Okay, I don't know, there's that guy that does all those Herald Sun reels and that, it's pretty annoying. So,"
+    },
+    {
+      "start": 292.54,
+      "end": 296.34,
+      "role": "customer",
+      "text": "I don't know if I want to spend too much extra time with the Herald Sun itself."
+    },
+    {
+      "start": 296.54,
+      "end": 305.64,
+      "role": "customer",
+      "text": "(Um,) yeah, probably not for me, to be honest. I don't know if anyone else in the family wants it, I can definitely ask them . (Um,) but"
+    },
+    {
+      "start": 305.74,
+      "end": 307.44,
+      "role": "customer",
+      "text": "yeah, nah, I think I'm okay."
+    },
+    {
+      "start": 307.94,
+      "end": 309.44,
+      "role": "customer",
+      "text": "We just need to get it canceled."
+    },
+    {
+      "start": 309.14,
+      "end": 314.94,
+      "role": "agent",
+      "text": "(ah) Well, just (um) out of curiosity, like what type of news or content do you like to consume?"
+    },
+    {
+      "start": 316.74,
+      "end": 322.34,
+      "role": "customer",
+      "text": "(Um,) kind of random stuff, like, (uh) you know."
+    },
+    {
+      "start": 323.04,
+      "end": 330.94,
+      "role": "customer",
+      "text": "I don't even know, like, I think it's just stuff that pops up in my feed. A bit of political stuff at the moment seems to be in the algorithm."
+    },
+    {
+      "start": 331.34,
+      "end": 341.14,
+      "role": "agent",
+      "text": "Well, we do have the state election coming up next year. (uh) And given how dry that is, I think (ah) you'd probably enjoy"
+    },
+    {
+      "start": 341.24,
+      "end": 345.34,
+      "role": "agent",
+      "text": "reading a lot about that. We will have in-depth analysis, opinion, as well as"
+    },
+    {
+      "start": 345.74,
+      "end": 353.74,
+      "role": "agent",
+      "text": "(uh) unbeatable coverage in the lead-up to and on state election day, particularly with Jess Wilson just being voted in as the Liberal leader."
+    },
+    {
+      "start": 354.34,
+      "end": 355.04,
+      "role": "agent",
+      "text": "(uh)"
+    },
+    {
+      "start": 355.64,
+      "end": 361.74,
+      "role": "agent",
+      "text": "(uh) Are you sure you wouldn't like to access that, just so you stay well-informed (um) before the election really ramps up?"
+    },
+    {
+      "start": 363.64,
+      "end": 366.34,
+      "role": "customer",
+      "text": "I'm not part of that, like, a dollar a day thing."
+    },
+    {
+      "start": 366.24,
+      "end": 376.24,
+      "role": "agent",
+      "text": "That would come to Fifty Cents extra for the election package, but we could discount that based on your father's long-term membership by Twenty Five Cents. So,"
+    },
+    {
+      "start": 376.94,
+      "end": 383.24,
+      "role": "agent",
+      "text": "Yeah, we, like we could do it for Twenty Five Cents extra, so a dollar a day plus Twenty Five Cents a week. You can work out the math on that one."
+    },
+    {
+      "start": 385.24,
+      "end": 390.34,
+      "role": "customer",
+      "text": "Yeah, no, it's not really selling me, to be honest with you, so it doesn't really sound overly appealing."
+    },
+    {
+      "start": 390.34,
+      "end": 396.94,
+      "role": "agent",
+      "text": "Okay, well, (uh) I do need to let you know that your father was on a, a"
+    },
+    {
+      "start": 397.44,
+      "end": 401.14,
+      "role": "agent",
+      "text": "year-to-year contract, so there is still another eight months left on that."
+    },
+    {
+      "start": 401.14,
+      "end": 410.54,
+      "role": "agent",
+      "text": "He did sign the terms and conditions, as well as the, the declaration that was witnessed. So there is still another (uh) eight months of that contract left that"
+    },
+    {
+      "start": 410.54,
+      "end": 412.24,
+      "role": "agent",
+      "text": "would still need to be paid out today."
+    },
+    {
+      "start": 413.74,
+      "end": 419.74,
+      "role": "customer",
+      "text": "(uh) Under Victorian law, that is not going to fly, and I can guarantee you that (uh) I've."
+    },
+    {
+      "start": 419.84,
+      "end": 425.04,
+      "role": "customer",
+      "text": "I've spoken to his lawyers, so anything that is in his name due to his passing can be canceled."
+    },
+    {
+      "start": 424.24,
+      "end": 432.24,
+      "role": "agent",
+      "text": "Pow, it seems like you've made quite a lot of progress. If your father only passed yesterday, and you've already spoken to your lawyers about Herald Sun subscription."
+    },
+    {
+      "start": 433.34,
+      "end": 440.54,
+      "role": "customer",
+      "text": "No, I've spoken to them about all their subscriptions, and they gave me legal advice today on everything that he was signed up to, his"
+    },
+    {
+      "start": 440.84,
+      "end": 454.64,
+      "role": "customer",
+      "text": "(ah) electricity and gas, his internet. I've had to call everybody, get everything sorted. So , yeah, that was the first advice, is get all the affairs in order, and that was the legal advice that was given to me. So I would like to sa,"
+    },
+    {
+      "start": 454.64,
+      "end": 458.44,
+      "role": "customer",
+      "text": "cancel that due to his passing, as he is no longer alive."
+    },
+    {
+      "start": 458.64,
+      "end": 466.44,
+      "role": "agent",
+      "text": "Okay, well, (uh) I can actually see here that (uh) the contract screening you wanted to go through this morning, so you've"
+    },
+    {
+      "start": 466.44,
+      "end": 470.04,
+      "role": "agent",
+      "text": "called in a little bit too late. So that payment has actually just been taken"
+    },
+    {
+      "start": 470.14,
+      "end": 472.54,
+      "role": "agent",
+      "text": "(uh) from his card, and we do have a strict no refund policy."
+    },
+    {
+      "start": 474.04,
+      "end": 477.24,
+      "role": "customer",
+      "text": "That's fine, I will take this further, because that's not the law."
+    },
+    {
+      "start": 477.54,
+      "end": 481.34,
+      "role": "agent",
+      "text": "Okay, (um) well, it is the law when the contract is signed."
+    },
+    {
+      "start": 482.84,
+      "end": 485.64,
+      "role": "customer",
+      "text": "Not when someone's not alive anymore, and you can look that up."
+    },
+    {
+      "start": 486.04,
+      "end": 491.14,
+      "role": "agent",
+      "text": "Okay, (um) well, I've been through the same thing myself, and I can tell you now that"
+    },
+    {
+      "start": 491.84,
+      "end": 494.64,
+      "role": "agent",
+      "text": "the contract is binding. It was agreed to."
+    },
+    {
+      "start": 494.74,
+      "end": 501.04,
+      "role": "customer",
+      "text": "It's fine, I, I don't need to have this argument with you, you're wrong, I'll take this further, and I'm happy to escalate it to your manager."
+    },
+    {
+      "start": 500.84,
+      "end": 501.44,
+      "role": "agent",
+      "text": "Okay, well."
+    },
+    {
+      "start": 501.44,
+      "end": 505.34,
+      "role": "customer",
+      "text": "Like, this is a really hard time at the moment, it's difficult enough as it is,"
+    },
+    {
+      "start": 505.34,
+      "end": 514.44,
+      "role": "customer",
+      "text": "and you're being quite rude, and you don't understand what you're talking about, and you need to go and learn a little bit more about your role before you start educating customers about things, Okay? So"
+    },
+    {
+      "start": 513.64,
+      "end": 514.04,
+      "role": "agent",
+      "text": "Okay."
+    },
+    {
+      "start": 514.54,
+      "end": 515.84,
+      "role": "customer",
+      "text": "I just want to cancel it,"
+    },
+    {
+      "start": 515.84,
+      "end": 525.44,
+      "role": "customer",
+      "text": "that's it. And, yeah, that's fine, I don't want to hear any more of like the extra things, and things like that, can we just get into this cancelation process?"
+    },
+    {
+      "start": 524.64,
+      "end": 531.74,
+      "role": "agent",
+      "text": "Yep, absolutely. That'll, We'll need to advise that there is a cancelation fee of Eighty Five Dollars, and that is due today."
+    },
+    {
+      "start": 531.84,
+      "end": 539.94,
+      "role": "agent",
+      "text": "(um) And that will need to come off a separate card if your father allegedly isn't around to verify the payment. It came off his card, so you'll need to pay that now."
+    },
+    {
+      "start": 541.09,
+      "end": 549.79,
+      "role": "customer",
+      "text": "No, that won't be happening, and I don't appreciate the allegedly either, so I do want to escalate this cause with someone else that I can speak to."
+    },
+    {
+      "start": 549.94,
+      "end": 555.94,
+      "role": "agent",
+      "text": "(uh) Well, I am the manager. (um) I'm also the auditor. (uh) I also print the paper, so"
+    },
+    {
+      "start": 556.74,
+      "end": 559.54,
+      "role": "agent",
+      "text": "(uh) there is no one else to take this to."
+    },
+    {
+      "start": 559.24,
+      "end": 561.94,
+      "role": "customer",
+      "text": "That's fine, I'll take it further, we'll go to the ombudsman."
+    },
+    {
+      "start": 561.74,
+      "end": 563.64,
+      "role": "agent",
+      "text": "Okay, I have heard that quite a few times. So"
+    },
+    {
+      "start": 564.24,
+      "end": 574.54,
+      "role": "agent",
+      "text": "(ah) you can (uh) use your threats also enter a confirmation of this call. (um) But if you would like to continue the subscription, (um) just let us know. (um)"
+    },
+    {
+      "start": 574.44,
+      "end": 575.44,
+      "role": "customer",
+      "text": "No, thank you."
+    },
+    {
+      "start": 574.94,
+      "end": 577.64,
+      "role": "agent",
+      "text": "Is there anything else I can help you with today outside of this call?"
+    },
+    {
+      "start": 578.94,
+      "end": 579.84,
+      "role": "customer",
+      "text": "No, thank you."
+    },
+    {
+      "start": 579.94,
+      "end": 585.74,
+      "role": "agent",
+      "text": "All right, well, (uh) for now, we'll keep that subscription going (um) until you do reach out and"
+    },
+    {
+      "start": 586.74,
+      "end": 591.54,
+      "role": "agent",
+      "text": "allegedly take it further. (um) to cancel that one. Thanks, Laura. I really appreciate it."
+    },
+    {
+      "start": 593.04,
+      "end": 593.54,
+      "role": "customer",
+      "text": "Goodbye."
+    },
+    {
+      "start": 593.74,
+      "end": 594.04,
+      "role": "agent",
+      "text": "Thank"
+    }
+  ]
+}

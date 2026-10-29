@@ -1,0 +1,1024 @@
+{
+    "file_name": "en_AU_Aviation_1585418.wav",
+    "duration": 809.25,
+    "accent": "en-AU",
+    "domain": "aviation",
+    "segments": [
+        {
+            "start": 14.74,
+            "end": 19.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Hi there. This is Jim from Swift Aviation. (uh) Just wanted to return your call."
+        },
+        {
+            "start": 21.04,
+            "end": 23.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Hi, thanks, Jim, thanks for doing that (um.)"
+        },
+        {
+            "start": 24.64,
+            "end": 31.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay, a little bit complicated. (ah) I've been using Swift aviation for a number , so"
+        },
+        {
+            "start": 32.64,
+            "end": 34.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "to see how this call works out."
+        },
+        {
+            "start": 35.48,
+            "end": 43.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um) I've booked the flight (um) because of your fantastic business class (um)"
+        },
+        {
+            "start": 44.26,
+            "end": 53.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "experience that I've had before of using you guys and (um) I put I've sent the baggage. The baggage has has gone on, (um) but now I want to add an extra bag"
+        },
+        {
+            "start": 54.54,
+            "end": 60.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "to my booked flight, so you've got the I want to number of things. I want to make sure the bag is with the other"
+        },
+        {
+            "start": 61.44,
+            "end": 64.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "mother luggage. And I also (um.)"
+        },
+        {
+            "start": 64.94,
+            "end": 73.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Yeah, I wondered if, first of all, there's a number of things. So first of all, will the bag be able to go with the the luggage that I've already (um) booked in?"
+        },
+        {
+            "start": 75.64,
+            "end": 85.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Hi there. So absolutely (um) we~ we try our best, and we have a quite a good track record of having all the luggage arriving at the (um)"
+        },
+        {
+            "start": 85.34,
+            "end": 86.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "arrival destination"
+        },
+        {
+            "start": 87.14,
+            "end": 94.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "together with your~ you're on board as well. (um) We have less than a one percent rate of"
+        },
+        {
+            "start": 94.44,
+            "end": 97.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "baggage not arriving at the same time or being lost,"
+        },
+        {
+            "start": 97.64,
+            "end": 99.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "so we do pride ourselves on that. (um)"
+        },
+        {
+            "start": 101.04,
+            "end": 104.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "But (ah) yeah, we've got a quite a good track record on that."
+        },
+        {
+            "start": 106.12,
+            "end": 116.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay, so that therefore, I mean, it is, it is unusual. That's one of the reasons why I've been using it with you, that I can, don't have to rob on the day so my baggage, I can just drop it off,"
+        },
+        {
+            "start": 116.74,
+            "end": 123.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "and know that it'll be looked after. So that so that's great. So the other question that I would like to know is (um) ."
+        },
+        {
+            "start": 124.18,
+            "end": 131.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "When I wasn't able to get on board your your plane (um) a a flight (ah) few weeks ago now,"
+        },
+        {
+            "start": 132.28,
+            "end": 135.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "the the people that are used (um)"
+        },
+        {
+            "start": 136.86,
+            "end": 139.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "they charged me extra fees,"
+        },
+        {
+            "start": 140.22,
+            "end": 150.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um) for putting on the bag. Would it, because I'm using the bag after the fact, am I able to be my private"
+        },
+        {
+            "start": 151.56,
+            "end": 153.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "the extra cost waivered?"
+        },
+        {
+            "start": 155.24,
+            "end": 162.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) This is a bit of a case by case basis. So,"
+        },
+        {
+            "start": 163.54,
+            "end": 170.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "generally speaking, if the bag is under the weight limit, we will usually waive the fee for you, especially,"
+        },
+        {
+            "start": 170.64,
+            "end": 174.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "especially like you said, You've been a recurring customer, we would have you in the system"
+        },
+        {
+            "start": 174.64,
+            "end": 183.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "as having accrued, like a certain amount of points, (um) generally speaking, we will be able to weave the extra baggage fee for you. However,"
+        },
+        {
+            "start": 183.74,
+            "end": 188.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) if the bag comes in over the nineteen kilo weight limit,"
+        },
+        {
+            "start": 188.94,
+            "end": 191.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "we don't really have a choice in (um)"
+        },
+        {
+            "start": 193.14,
+            "end": 201.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "in the fee just because it does increase the weight of the plane, so we do need to counter (um) that"
+        },
+        {
+            "start": 201.54,
+            "end": 205.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "with the increased fuel usage and, you know, a bunch of behind the scenes business stuff."
+        },
+        {
+            "start": 206.04,
+            "end": 208.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "But our hands are tied if it is overweight."
+        },
+        {
+            "start": 210.28,
+            "end": 220.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay, would there be an option to reduce the the co~ the the fee, and if there is an option, how does that work?"
+        },
+        {
+            "start": 221.84,
+            "end": 223.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely Sir,"
+        },
+        {
+            "start": 224.04,
+            "end": 233.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "it's not an option that you can sign up, kind of opt into, or purchase at all, just because you have been such a loyal customer. And I~ I've got your profile up here"
+        },
+        {
+            "start": 233.44,
+            "end": 236.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "with your booking. I can see that you have flown with us for"
+        },
+        {
+            "start": 236.44,
+            "end": 244.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "quite a time now, (um) we absolutely would give you a reduced rate for that. (um) We would just go at cost, basically,"
+        },
+        {
+            "start": 244.44,
+            "end": 246.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So, no additional profit on top."
+        },
+        {
+            "start": 246.94,
+            "end": 252.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "that's only~ only for you, sir. We take care of you as you've been a loyal customer, (um)"
+        },
+        {
+            "start": 253.54,
+            "end": 256.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "but that~ that is basically the best we can do for overweight baggage."
+        },
+        {
+            "start": 258.84,
+            "end": 268.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay, (um) at least you're coming to the flight, so that doesn't sound too bad. Now. (uh) What about upgrading my seat?"
+        },
+        {
+            "start": 268.12,
+            "end": 274.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "I also heard of recently, (um) and I haven't checked it with your Swift airline, but (um)"
+        },
+        {
+            "start": 274.98,
+            "end": 285.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "the the Arctic bear aviation is now letting (um) cats and dogs and people take animals on board. (um) Is that the case for you guys as well?"
+        },
+        {
+            "start": 286.74,
+            "end": 288.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely Sir."
+        },
+        {
+            "start": 289.54,
+            "end": 298.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "there was recently legislation that was passed that prohibits airlines from discriminating against (um) pet owners bringing their pet"
+        },
+        {
+            "start": 299.04,
+            "end": 300.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "along with them."
+        },
+        {
+            "start": 300.64,
+            "end": 308.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) We do require certain (um) caging requirements. So they do have to be muzzled if they're a dog (um)"
+        },
+        {
+            "start": 308.84,
+            "end": 310.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "or on a leash at least."
+        },
+        {
+            "start": 311.24,
+            "end": 318.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) and also restrained for takeoff and landing. But we do definitely cater to (um)"
+        },
+        {
+            "start": 319.04,
+            "end": 320.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "pet owners for our flights."
+        },
+        {
+            "start": 322.14,
+            "end": 323.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay, now."
+        },
+        {
+            "start": 324.64,
+            "end": 333.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "If I, without her booking, I don't really anything against animals , but I don't really want to be flying four hours (um)"
+        },
+        {
+            "start": 333.64,
+            "end": 344.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "with that situation. Is it possible that I could know in advance if my seat's gonna be near an animal, and (um.)"
+        },
+        {
+            "start": 345.04,
+            "end": 354.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Is it possible, therefore, to be able to upgrade to somewhere, where there won't be animals? Do you yo~ (uh) provide that service?"
+        },
+        {
+            "start": 355.04,
+            "end": 364.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely and a really good question there. No one wants to be stuck on~ on a flight with a with an animal that's upset Sir. So, I totally understand your concern there (um)"
+        },
+        {
+            "start": 364.54,
+            "end": 366.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "in I've got to hear that you've logged"
+        },
+        {
+            "start": 366.74,
+            "end": 376.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "your booking for business class, and business class definitely offers you more options in terms of food and drink and space. However,"
+        },
+        {
+            "start": 376.64,
+            "end": 384.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "just for you, because you've been with us for so long, if you ask for an upgraded seat, when you actually show up to the terminal,"
+        },
+        {
+            "start": 384.94,
+            "end": 387.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "I will put your name aside for a free"
+        },
+        {
+            "start": 387.54,
+            "end": 393.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "upgrade. And what this means is you can (um)"
+        },
+        {
+            "start": 394.24,
+            "end": 403.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "say on your booking, on your ticket, that you would prefer to not be sat next to or around pets, and in our first class"
+        },
+        {
+            "start": 404.24,
+            "end": 405.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(ah) lounge"
+        },
+        {
+            "start": 406.04,
+            "end": 414.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "in the in the in the seats, they are quite isolated. They are quite individual, and you can sort of lock it off from the rest of the plane,"
+        },
+        {
+            "start": 414.74,
+            "end": 417.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) if that's something that you would (um)"
+        },
+        {
+            "start": 418.14,
+            "end": 421.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "look~ look forward to, so I can absolutely do that for you, sir."
+        },
+        {
+            "start": 423.02,
+            "end": 425.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(Ah) that soun~ that sounds fantastic (um.)"
+        },
+        {
+            "start": 427.54,
+            "end": 431.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Now the other qu~ the other question that I that I have is (um)"
+        },
+        {
+            "start": 432.36,
+            "end": 441.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "at the moment, and it's it's it might not be the case when (um) I had to fly, but I've (ah) I´ve twisted my my knee,"
+        },
+        {
+            "start": 441.34,
+            "end": 443.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "and (uh) I may or may not be"
+        },
+        {
+            "start": 444.24,
+            "end": 452.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um) in a wheelchair or I am a walker or (um) basically, I might need some (um) sm~ some special assistance."
+        },
+        {
+            "start": 452.74,
+            "end": 459.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "What special (um) options do you have for assisting (um) passengers during your flights?"
+        },
+        {
+            "start": 460.04,
+            "end": 468.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "I'm glad you asked. So are flight attendants and all of (um) all of the flight crew are specialized"
+        },
+        {
+            "start": 468.24,
+            "end": 471.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "in training for assisting people that aren't"
+        },
+        {
+            "start": 471.64,
+            "end": 476.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) fully able. So we have specialization in (um)"
+        },
+        {
+            "start": 477.44,
+            "end": 486.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "mental disability as well as physical disability. So wheelchairs, walkers, the elderly and even those that face weight problems."
+        },
+        {
+            "start": 486.84,
+            "end": 488.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) So we absolutely have"
+        },
+        {
+            "start": 488.64,
+            "end": 497.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "accessible options. (um) We have wheels, wheelchair access to all of the lounges. But in particular, I"
+        },
+        {
+            "start": 497.64,
+            "end": 500.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "I would definitely recommend asking for the"
+        },
+        {
+            "start": 500.74,
+            "end": 509.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "first class upgrade, just for the extra space and comfort if you're traveling with~ with a previous injury. So I'll, I'll arrange that for you after this call."
+        },
+        {
+            "start": 511.26,
+            "end": 518.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay, now thi~ this sounded better with some and (um) can you give me a (um,)"
+        },
+        {
+            "start": 519.34,
+            "end": 524.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "a a bit of a list of the (ah) alcohol that you have available for these flights?"
+        },
+        {
+            "start": 525.64,
+            "end": 533.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely Sir, one of the other benefits of flying in our first class Lounge is access to premium liquor."
+        },
+        {
+            "start": 533.94,
+            "end": 535.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So we do have some"
+        },
+        {
+            "start": 536.04,
+            "end": 545.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "specialized (ah) whiskey and Scotch options, as well as some vintage red wines available for purchase. Now"
+        },
+        {
+            "start": 545.24,
+            "end": 547.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "one amazing benefit is that you do get"
+        },
+        {
+            "start": 547.64,
+            "end": 552.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "two drinks included for free with your first class booking."
+        },
+        {
+            "start": 553.24,
+            "end": 562.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So, (ah) for example, we do have some Johnny Walker (ah) white label. We do have some Glen Fitch (um)"
+        },
+        {
+            "start": 562.54,
+            "end": 564.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "twenty year aged as"
+        },
+        {
+            "start": 564.04,
+            "end": 569.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "well. And we do have a sommelier's favorite (um)"
+        },
+        {
+            "start": 569.94,
+            "end": 579.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "red wine from Naples, I believe, the~ the vintage. So we have some amazing options available for (ah) drink options"
+        },
+        {
+            "start": 579.94,
+            "end": 580.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "in first class."
+        },
+        {
+            "start": 582.14,
+            "end": 587.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "That that´s . What I'd also like to know is, if I get, (um)"
+        },
+        {
+            "start": 588.24,
+            "end": 594.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "if I have my knee and I'm I am needing assistance, obviously I (um) I will go on first but"
+        },
+        {
+            "start": 595.24,
+            "end": 603.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um) what about if I don't do I get a priority to board first (um,) because I'm by (ah) flying business class or (uh) just like everybody else?"
+        },
+        {
+            "start": 605.54,
+            "end": 614.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "No, absolutely sir, especially if you are in crutches or in a walker or in a wheelchair. All the, all the people that"
+        },
+        {
+            "start": 614.94,
+            "end": 617.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "have accessibility~ accessibility needs"
+        },
+        {
+            "start": 618.14,
+            "end": 625.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "will be boarded first, just for (um) just for their comfort. And then once they are boarded,"
+        },
+        {
+            "start": 625.74,
+            "end": 628.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) then we load the plane from"
+        },
+        {
+            "start": 628.74,
+            "end": 636.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "first class first, then business, and then (um) just our regular (ah) bookings as well. So regardless of"
+        },
+        {
+            "start": 636.94,
+            "end": 639.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "your booking, especially if you have"
+        },
+        {
+            "start": 639.34,
+            "end": 643.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "a~ additional accessibility needs, (um) you'll be boarded first."
+        },
+        {
+            "start": 644.64,
+            "end": 658.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Ohh, that's great. That's good. (um) What else I need to know is it's a reasonably long, late night flight. Do you you have beds or what's your slee~ your sleeping arrangements in the business class?"
+        },
+        {
+            "start": 659.34,
+            "end": 662.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So I get really excited about this. (um)"
+        },
+        {
+            "start": 662.94,
+            "end": 671.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "With your booking we have, as I was speaking about before, with the pets, it's kind of like your own individual pod"
+        },
+        {
+            "start": 672.14,
+            "end": 673.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So you can"
+        },
+        {
+            "start": 673.04,
+            "end": 679.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "you can lay the seat back and extend it, and it sort of like sinks into the pod itself."
+        },
+        {
+            "start": 680.44,
+            "end": 681.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "And then"
+        },
+        {
+            "start": 682.04,
+            "end": 685.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "it has (um) the cushioning itself."
+        },
+        {
+            "start": 686.04,
+            "end": 688.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Is mattress quality, sir (um)"
+        },
+        {
+            "start": 689.64,
+            "end": 697.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "it's got (ah) memory foam padding and springs at individual placements to help support you as you rest."
+        },
+        {
+            "start": 697.24,
+            "end": 701.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "And we can also make special arrangements if you would prefer to have your knee elevated,"
+        },
+        {
+            "start": 701.84,
+            "end": 710.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "or any ice packs or heat packs or anything like that, to make it easier for you to fall asleep (um) and over the counter medication be"
+        },
+        {
+            "start": 710.04,
+            "end": 712.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "can be provided as well, if necessary."
+        },
+        {
+            "start": 714.14,
+            "end": 721.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay, that's great. Thank you, (um) pardon me. Now, what about (um) the food?"
+        },
+        {
+            "start": 721.84,
+            "end": 729.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Do I need to order my food prior to (um) departure, or is it okay to do it on"
+        },
+        {
+            "start": 730.24,
+            "end": 735.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "while we're flying? And (ah) what are the different types of menus that you have available?"
+        },
+        {
+            "start": 736.94,
+            "end": 745.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So with your booking, (um) we have a couple of different food options. You can prepay for your food"
+        },
+        {
+            "start": 745.54,
+            "end": 747.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) if you'd prefer not to pay on the flight."
+        },
+        {
+            "start": 748.04,
+            "end": 756.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Otherwise, you will have to purchase (um) at the time of request on the actual flight itself. (ah) But we do have a couple of different options we have"
+        },
+        {
+            "start": 756.74,
+            "end": 758.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) for your flight."
+        },
+        {
+            "start": 758.24,
+            "end": 766.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "In particular, we have a filet mignon, a chicken filet mignon. Sorry, (um) we have just a regular ribeye steak."
+        },
+        {
+            "start": 766.84,
+            "end": 770.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "and for a vegetarian option, we have a lovely Pad Thai."
+        },
+        {
+            "start": 772.12,
+            "end": 781.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "That's fantastic . (ah) Thank you very much for that information that I've got today. (um) It's the reason why I fly with you."
+        },
+        {
+            "start": 781.84,
+            "end": 782.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "And (um.)"
+        },
+        {
+            "start": 783.84,
+            "end": 787.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Yeah, so I hope you have a great day and I'm (ah) look forward to my flight."
+        },
+        {
+            "start": 788.64,
+            "end": 792.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely Glad I could help you sir and enjoy your flight. See you later."
+        },
+        {
+            "start": 793.92,
+            "end": 794.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Thank you, bye."
+        },
+        {
+            "start": 807.64,
+            "end": 808.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "We did it, sir."
+        }
+    ]
+}

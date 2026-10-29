@@ -1,0 +1,897 @@
+{
+    "file_name": "en_AU_Banking_1590914.wav",
+    "domain": "banking",
+    "accent": "en-AU",
+    "duration": 633.177,
+    "escalation_label": 1,
+    "segments": [
+        {
+            "start": 13.14,
+            "end": 17.64,
+            "role": "agent",
+            "text": "Hi, thanks for calling ANZ. You're speaking with Tom. How can I help you today?",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a standard greeting."
+        },
+        {
+            "start": 18.54,
+            "end": 27.34,
+            "role": "customer",
+            "text": "Hey, Tom. (uh) My name is Laura. I've just been on the banking app, and I've made a mess of things to be honest.",
+            "escalation_label": 0,
+            "label_reason": "Customer introduces themselves and calmly states they've made a mistake in the banking app."
+        },
+        {
+            "start": 27.34,
+            "end": 30.74,
+            "role": "customer",
+            "text": "I went on to the app. I've opened it up like normal.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains the background of the problem."
+        },
+        {
+            "start": 30.94,
+            "end": 38.94,
+            "role": "customer",
+            "text": "I had to make a transaction, and when I've gone to transfer something I've realized I've sent it to the wrong place. So I've sent all this money,",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains sending money to the wrong place."
+        },
+        {
+            "start": 39.24,
+            "end": 42.54,
+            "role": "customer",
+            "text": "and I'm really worried because obviously I didn't want it go",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses worry but is still calmly explaining the problem, not showing strong frustration."
+        },
+        {
+            "start": 42.54,
+            "end": 50.34,
+            "role": "customer",
+            "text": "to the wrong place. And, yea~, I don't know what to do because it's quite a bit of money, and I really need it to go to where it's meant to.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to express concern about the money, but is still explaining the issue, not escalating in tone or demand."
+        },
+        {
+            "start": 50.74,
+            "end": 58.14,
+            "role": "agent",
+            "text": "Okay. (um) I can understand how frustrating that's been. We've all been there. Just another ma~ manic Monday, as they say.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's situation with empathy and a lighthearted comment, not indicating escalation."
+        },
+        {
+            "start": 58.34,
+            "end": 62.14,
+            "role": "agent",
+            "text": "(uh) Just so I can bring up your details, (uh) could you please confirm",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly asks for verification details to proceed."
+        },
+        {
+            "start": 62.24,
+            "end": 66.84,
+            "role": "agent",
+            "text": "the last three digits of your (uh) login details?",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly asks for verification details."
+        },
+        {
+            "start": 67.54,
+            "end": 69.34,
+            "role": "agent",
+            "text": "Just your customer identification number, sorry.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies the request for verification details."
+        },
+        {
+            "start": 67.64,
+            "end": 68.54,
+            "role": "customer",
+            "text": "Yeah, it's",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information calmly."
+        },
+        {
+            "start": 70.04,
+            "end": 73.34,
+            "role": "customer",
+            "text": "That's okay. It's (uh) R T.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information calmly."
+        },
+        {
+            "start": 74.44,
+            "end": 79.14,
+            "role": "agent",
+            "text": "K E R T. Perfect. And just your year of birth next.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms details and asks for more verification information."
+        },
+        {
+            "start": 80.24,
+            "end": 82.54,
+            "role": "customer",
+            "text": "(uh) It's nineteen seventy-seven.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information calmly."
+        },
+        {
+            "start": 83.74,
+            "end": 92.54,
+            "role": "agent",
+            "text": "Perfect. Nineteen seventy-seven. Great. All right. So I have got your details up here. (ah) Could you please tell me which transaction this was?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms details and asks for specifics about the transaction."
+        },
+        {
+            "start": 93.34,
+            "end": 102.74,
+            "role": "customer",
+            "text": "So I just did the transaction before. So it was just my last one, and it was meant to go to my rent, but I've sent it to a friend.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains the nature of the incorrect transaction."
+        },
+        {
+            "start": 103.84,
+            "end": 106.94,
+            "role": "agent",
+            "text": "Ohh God. And have you already tried to contact the friend?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks a standard troubleshooting question."
+        },
+        {
+            "start": 107.24,
+            "end": 113.84,
+            "role": "customer",
+            "text": "Let's just say we're not friends anymore. So it's really awkward, and I don't think that I can get it back that easily, so,",
+            "escalation_label": 0,
+            "label_reason": "Customer explains a complication ('not friends anymore') but is still explaining the situation, not showing strong frustration at the bank."
+        },
+        {
+            "start": 114.54,
+            "end": 122.24,
+            "role": "customer",
+            "text": "yeah, it's a sticky situation, but I really would love it if there's a way that we could get that back to go to the right place.",
+            "escalation_label": 0,
+            "label_reason": "Customer describes the situation as 'sticky' and expresses a desire for resolution, but without strong frustration or demands."
+        },
+        {
+            "start": 122.74,
+            "end": 130.24,
+            "role": "agent",
+            "text": "(ah) Okay. No worries at all. (um) Just having I'll, Ok, could you please confirm (uh) just one last thing, the amount that that was for?",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly asks for further transaction details."
+        },
+        {
+            "start": 130.84,
+            "end": 135.64,
+            "role": "customer",
+            "text": "Yeah. It was one thousand three hundred and eighty-four dollars and sixty-six cents.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information calmly."
+        },
+        {
+            "start": 136.64,
+            "end": 138.34,
+            "role": "agent",
+            "text": "Okay. Perfect. (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the information."
+        },
+        {
+            "start": 139.04,
+            "end": 145.84,
+            "role": "agent",
+            "text": "I've got actually two transactions here for that (um) Do you know the time (um) that you sent that one?",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly asks for further transaction details (time)."
+        },
+        {
+            "start": 146.44,
+            "end": 148.04,
+            "role": "customer",
+            "text": "(uh) Would've been like",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information calmly."
+        },
+        {
+            "start": 148.64,
+            "end": 150.04,
+            "role": "customer",
+            "text": "twenty minutes ago.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information calmly."
+        },
+        {
+            "start": 151.04,
+            "end": 157.74,
+            "role": "agent",
+            "text": "Okay. So that would've made it (uh) approximately two twenty. Perfect. So I've located that transaction. (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms finding the transaction and prepares to proceed."
+        },
+        {
+            "start": 157.84,
+            "end": 162.24,
+            "role": "agent",
+            "text": "And just confirming the account name that it was transferred to please.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly asks for confirmation of the account name."
+        },
+        {
+            "start": 162.74,
+            "end": 164.34,
+            "role": "customer",
+            "text": "Yeah. It's Sarah Connell.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information calmly."
+        },
+        {
+            "start": 164.84,
+            "end": 172.24,
+            "role": "agent",
+            "text": "Sarah Connell. Okay. All right. So I have seen (uh) here. I'm just clicking into it.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges and indicates they are looking into the transaction."
+        },
+        {
+            "start": 172.94,
+            "end": 179.74,
+            "role": "agent",
+            "text": "Okay. Right. So because this was an established contact, and (uh) and it does use Osko fast payments now",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains how the payment system (Osko) works."
+        },
+        {
+            "start": 180.24,
+            "end": 180.74,
+            "role": "customer",
+            "text": "Mhm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the agent's explanation."
+        },
+        {
+            "start": 180.34,
+            "end": 185.64,
+            "role": "agent",
+            "text": "(uh) that payment has au~ automatically gone through (um) just because you have transferred",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the payment went through due to being an established contact."
+        },
+        {
+            "start": 186.24,
+            "end": 195.54,
+            "role": "agent",
+            "text": "to them recently. (um) Would there be any possibility (uh) of messaging them or would this be something that you would like us to investigate further?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks if the customer wants them to investigate further, offering it as an option, not as a response to a demand."
+        },
+        {
+            "start": 197.04,
+            "end": 203.64,
+            "role": "customer",
+            "text": "(um) I definitely need this investigated further. I'm not able to contact them at all.",
+            "escalation_label": 0,
+            "label_reason": "Customer states they need further investigation, directly answering the agent's question, without strong frustration or demands."
+        },
+        {
+            "start": 204.74,
+            "end": 208.24,
+            "role": "agent",
+            "text": "Okay. Not a problem. So I'm just logging and to get here now.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly confirms and states they are proceeding with the investigation."
+        },
+        {
+            "start": 208.94,
+            "end": 218.54,
+            "role": "agent",
+            "text": "(uh) It may take up to forty-eight hours for us to be able to (uh) fully process this (uh) because (uh) there are multiple layers of verification",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the process and timeframe for investigation."
+        },
+        {
+            "start": 218.84,
+            "end": 220.84,
+            "role": "agent",
+            "text": "required before confirming a transaction.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the process and requirements."
+        },
+        {
+            "start": 221.04,
+            "end": 231.04,
+            "role": "agent",
+            "text": "We cannot always guarantee that we will get it back, but we will certainly try our best. (um) I know all too well the stress of paying rent, so we'll get this escalated",
+            "escalation_label": 0,
+            "label_reason": "Agent states they will 'get this escalated' as a procedural step, not in response to customer's demand or high frustration. Agent also expresses empathy."
+        },
+        {
+            "start": 231.04,
+            "end": 232.24,
+            "role": "agent",
+            "text": "(uh) very quickly.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues explaining the procedural escalation."
+        },
+        {
+            "start": 232.64,
+            "end": 233.54,
+            "role": "agent",
+            "text": "(uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent uses a filler word."
+        },
+        {
+            "start": 235.24,
+            "end": 237.04,
+            "role": "agent",
+            "text": "Is there (uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent uses filler words while formulating the next question."
+        },
+        {
+            "start": 237.74,
+            "end": 247.64,
+            "role": "agent",
+            "text": "any possibility in the app of clicking recall? (uh) Sometimes that's an option that does display (uh) before Osko which is a third-party provider",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly suggests a potential solution within the app."
+        },
+        {
+            "start": 247.94,
+            "end": 249.44,
+            "role": "agent",
+            "text": "(um) has processed the transaction.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the app's functionality."
+        },
+        {
+            "start": 250.34,
+            "end": 254.44,
+            "role": "customer",
+            "text": "Okay. Let me check this out. So, what, just get into my banking app right now?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly agrees to follow the agent's instructions."
+        },
+        {
+            "start": 255.04,
+            "end": 262.64,
+            "role": "agent",
+            "text": "Yeah. Yeah. That's right. So if you click login (um) and go into your account (uh) just let me know what you see and just describe it as you're going through it for me.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly provides instructions for using the app."
+        },
+        {
+            "start": 256.44,
+            "end": 257.04,
+            "role": "customer",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the agent's instructions."
+        },
+        {
+            "start": 257.94,
+            "end": 258.14,
+            "role": "customer",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the agent's instructions."
+        },
+        {
+            "start": 263.54,
+            "end": 266.24,
+            "role": "customer",
+            "text": "Okay. Give me a second. I'm just pulling up the app.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly states they are complying with the instructions."
+        },
+        {
+            "start": 266.94,
+            "end": 269.44,
+            "role": "customer",
+            "text": "Yeah. Okay. Just logging in now.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly states they are complying with the instructions."
+        },
+        {
+            "start": 270.44,
+            "end": 277.84,
+            "role": "customer",
+            "text": "All right. So I'm in like my account summary page, and it's got all the different accounts that I have with you guys on there.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly describes what they see in the app."
+        },
+        {
+            "start": 278.54,
+            "end": 288.14,
+            "role": "agent",
+            "text": "Yeah. So if you just click in the account that you sent the payment from, (uh) most probably it will be your, which I'm looking at now, your everyday savings account.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly provides further instructions for navigating the app."
+        },
+        {
+            "start": 288.94,
+            "end": 295.24,
+            "role": "customer",
+            "text": "Yeah. Okay. I've clicked on that and then yeah it's got all the list of transactions that I've made on that account.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly describes what they see in the app."
+        },
+        {
+            "start": 295.74,
+            "end": 306.04,
+            "role": "agent",
+            "text": "Okay. Perfect. So if you just tap on the transaction, it should bring up (uh) details about the transaction just with the transaction number as well as the destination of the payment.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly provides further instructions for navigating the app."
+        },
+        {
+            "start": 306.04,
+            "end": 308.14,
+            "role": "agent",
+            "text": "(uh) Could you tell me what you see on that screen?",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly asks the customer what they see on the screen."
+        },
+        {
+            "start": 309.44,
+            "end": 318.64,
+            "role": "customer",
+            "text": "Okay. So clicked on the payment. It's got the destination there, that's definitely for Sarah. Got the amount.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly describes what they see in the app."
+        },
+        {
+            "start": 319.04,
+            "end": 321.54,
+            "role": "customer",
+            "text": "There's three dots here should I be clicking on that?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for clarification on an action in the app."
+        },
+        {
+            "start": 321.84,
+            "end": 331.74,
+            "role": "agent",
+            "text": "(ah) Tha~ Perfect. So that's a positive sign. Yes, if you click the three dots (uh) that should pop up (uh) with a few different options saying (uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent provides positive confirmation and instructions."
+        },
+        {
+            "start": 331.84,
+            "end": 333.94,
+            "role": "agent",
+            "text": "reca~ Hopefully recall payment is there",
+            "escalation_label": 0,
+            "label_reason": "Agent hopefully suggests an option for recalling payment."
+        },
+        {
+            "start": 333.94,
+            "end": 340.14,
+            "role": "agent",
+            "text": "or you can see biller ID or even (uh) contact us for additional support.",
+            "escalation_label": 0,
+            "label_reason": "Agent lists other potential options within the app."
+        },
+        {
+            "start": 340.84,
+            "end": 341.74,
+            "role": "customer",
+            "text": "Okay. Let me try.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly agrees to try the suggested action."
+        },
+        {
+            "start": 342.44,
+            "end": 342.74,
+            "role": "agent",
+            "text": "Thank you.",
+            "escalation_label": 0,
+            "label_reason": "Agent thanks the customer."
+        },
+        {
+            "start": 343.94,
+            "end": 346.84,
+            "role": "customer",
+            "text": "Okay. I've got three options here. That's good right?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses optimism and asks for confirmation."
+        },
+        {
+            "start": 347.14,
+            "end": 352.84,
+            "role": "agent",
+            "text": "Yes. Yeah. That's fantastic. That means you've contacted us in time. (uh) (uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent gives positive confirmation and explains the significance."
+        },
+        {
+            "start": 352.94,
+            "end": 357.24,
+            "role": "agent",
+            "text": "I as I said before, it's no guarantee we can provide it, but this is a step in the right direction.",
+            "escalation_label": 0,
+            "label_reason": "Agent sets realistic expectations but confirms a positive step."
+        },
+        {
+            "start": 357.84,
+            "end": 366.44,
+            "role": "customer",
+            "text": "Ohh God. That's good news. Okay. Thank you so much. So, okay, I'm gonna press recall and then do I press anything after that?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses relief and appreciation, and calmly asks for the next step."
+        },
+        {
+            "start": 367.14,
+            "end": 374.34,
+            "role": "agent",
+            "text": "(uh) Let me know what (uh) pops up once you hit recall. (uh) It should pop up with a loading screen and an eight digit number.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly provides instructions for the next step."
+        },
+        {
+            "start": 377.24,
+            "end": 384.94,
+            "role": "customer",
+            "text": "(hm) This is requesting like the reason. So, why I wanna recall it. So I just put in what's happened?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for clarification on filling out a form."
+        },
+        {
+            "start": 385.14,
+            "end": 392.04,
+            "role": "agent",
+            "text": "Yeah. Perfect. (um) That's just for our verification. (uh) It's just if we do need to look back at a reason for the recall.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the purpose of the form field."
+        },
+        {
+            "start": 392.34,
+            "end": 402.64,
+            "role": "customer",
+            "text": "Okay, let me just write this out for a second. So, obviously, just accidentally done this. Yeah. Okay. Perfect. Cool.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly complies with the instruction."
+        },
+        {
+            "start": 402.74,
+            "end": 409.94,
+            "role": "customer",
+            "text": "All right. And now I've got that eight digit number to put in.",
+            "escalation_label": 0,
+            "label_reason": "Customer indicates completion of the step and readiness for the next."
+        },
+        {
+            "start": 407.14,
+            "end": 416.14,
+            "role": "agent",
+            "text": "Yes. Yeah, that's right. So that should come to you in a text message as well. (uh) Again, like I said, that's just a two factor authentication verification",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the next verification step."
+        },
+        {
+            "start": 416.64,
+            "end": 419.94,
+            "role": "agent",
+            "text": "(uh) just (uh) so we know it's the right person requesting a re~",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the purpose of the verification."
+        },
+        {
+            "start": 419.94,
+            "end": 421.54,
+            "role": "agent",
+            "text": "call (uh) to a payment.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly completes the explanation of the verification."
+        },
+        {
+            "start": 422.54,
+            "end": 425.04,
+            "role": "customer",
+            "text": "Okay. Yeah, that makes sense. All right. Awesome.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses understanding and positive affirmation."
+        },
+        {
+            "start": 426.04,
+            "end": 433.84,
+            "role": "customer",
+            "text": "(ah) Okay. Yeah. I've got that come through on my text message. I'm just putting that in. Cool that's done.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly indicates they are completing the verification step."
+        },
+        {
+            "start": 435.14,
+            "end": 444.54,
+            "role": "agent",
+            "text": "Brilliant. Okay. So that means it's flagged it with our payments team. (uh) It will also be flagged with Osko to halt that payment. (uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the positive outcome of the customer's actions."
+        },
+        {
+            "start": 444.84,
+            "end": 445.64,
+            "role": "agent",
+            "text": "The amount",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly continues to explain the positive outcome."
+        },
+        {
+            "start": 445.74,
+            "end": 452.14,
+            "role": "agent",
+            "text": "(uh) should, hopefully, appear as a pending refund (uh) within your account, (uh) but it will take",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the expected outcome (pending refund)."
+        },
+        {
+            "start": 452.14,
+            "end": 456.14,
+            "role": "agent",
+            "text": "(uh) twenty-four to forty-eight hours for the money to actually clear",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the timeframe for the money to clear."
+        },
+        {
+            "start": 456.34,
+            "end": 465.24,
+            "role": "agent",
+            "text": "(um) with your (uh) in your everyday savings account. So it might be worthwhile just emailing your real estate agent just letting them know the situation.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides helpful, proactive advice to the customer."
+        },
+        {
+            "start": 466.14,
+            "end": 468.44,
+            "role": "customer",
+            "text": "Okay. Yeah, that makes sense. Will do.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly agrees to follow the agent's advice."
+        },
+        {
+            "start": 469.24,
+            "end": 478.04,
+            "role": "customer",
+            "text": "Are you able to provide me with something just to say we've had this conversation, and that's what's going on? Just so they don't think I'm making up, you know,",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for a document, not as a demand due to an unresolved issue, but as a proactive request."
+        },
+        {
+            "start": 478.24,
+            "end": 480.84,
+            "role": "customer",
+            "text": "absolute nonsense, and they can know that it's real.",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies the reason for needing the document, still calmly."
+        },
+        {
+            "start": 481.24,
+            "end": 491.24,
+            "role": "agent",
+            "text": "Yes. That's absolutely not a problem at all. Would you like me to send (uh) an email of our conversation transcripts (uh) v~ sorry via email or in a text message?",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly agrees to the request and offers options for delivery."
+        },
+        {
+            "start": 491.24,
+            "end": 492.54,
+            "role": "agent",
+            "text": "How would you like that to proceed?",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly asks for customer preference for delivery."
+        },
+        {
+            "start": 493.04,
+            "end": 502.24,
+            "role": "customer",
+            "text": "(ah) I don't know if we need the whole transcript. They'll just read me freaking out for the first five minutes, but just like a summary just to confirm that (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer makes a lighthearted, retrospective comment about their initial 'freaking out' state, not expressing current frustration."
+        },
+        {
+            "start": 502.34,
+            "end": 504.44,
+            "role": "customer",
+            "text": "like obviously what the problem was and that",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly clarifies the desired content of the summary."
+        },
+        {
+            "start": 504.54,
+            "end": 510.84,
+            "role": "customer",
+            "text": "I just need money that I've requested money to be sent back. (um) Just so they can see that",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly clarifies the desired content of the summary."
+        },
+        {
+            "start": 510.84,
+            "end": 516.64,
+            "role": "customer",
+            "text": "that's conversation has actually occurred, and just a message from you guys I think would be enough to",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly clarifies the desired content of the summary."
+        },
+        {
+            "start": 516.94,
+            "end": 520.14,
+            "role": "customer",
+            "text": "like verify that with my real estate agent.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly clarifies the desired content of the summary."
+        },
+        {
+            "start": 520.84,
+            "end": 530.54,
+            "role": "agent",
+            "text": "Yeah. Not a problem. Well let's call it the doctor's certificate of the banking world . No. So I can send that at off. (uh) That does need to go through (uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly agrees to the request with a lighthearted comment."
+        },
+        {
+            "start": 530.74,
+            "end": 534.44,
+            "role": "agent",
+            "text": "(uh) another team here at ANZ, again, just for safety reasons.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the internal process for sending the document."
+        },
+        {
+            "start": 534.44,
+            "end": 538.24,
+            "role": "agent",
+            "text": "But you can expect to receive that (uh) within the next business day.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly explains the timeframe for receiving the document."
+        },
+        {
+            "start": 538.94,
+            "end": 543.84,
+            "role": "customer",
+            "text": "Okay. Brilliant. (uh) This is giving me a little bit of relief. I was freaking out.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses relief, again mentioning past 'freaking out' as a contrast to current state."
+        },
+        {
+            "start": 544.54,
+            "end": 549.74,
+            "role": "agent",
+            "text": "No worries. I I know it's a lot of money (uh) to accidentally transfer to someone, (um) but",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's relief and the gravity of the situation."
+        },
+        {
+            "start": 549.24,
+            "end": 550.24,
+            "role": "customer",
+            "text": "Literally.",
+            "escalation_label": 0,
+            "label_reason": "Customer agrees with the agent's statement."
+        },
+        {
+            "start": 550.44,
+            "end": 559.64,
+            "role": "agent",
+            "text": "yeah, if I if I could just recommend you turning on (uh) notifications within your banking app within the settings of your phone. As well as (uh) just double checking",
+            "escalation_label": 0,
+            "label_reason": "Agent offers proactive advice for preventing future errors."
+        },
+        {
+            "start": 559.64,
+            "end": 561.74,
+            "role": "agent",
+            "text": "(uh) before you click through the",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to offer proactive advice."
+        },
+        {
+            "start": 562.04,
+            "end": 564.74,
+            "role": "agent",
+            "text": "(uh) the prompts that will pop up on your screen.",
+            "escalation_label": 0,
+            "label_reason": "Agent completes the proactive advice."
+        },
+        {
+            "start": 565.34,
+            "end": 573.14,
+            "role": "customer",
+            "text": "Yeah, definitely. I've been watching Love Island. I'm not gonna lie, and I've been totally sidetracked, so I wasn't looking at it properly like I normally do.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the reason for their mistake in a humorous and relaxed manner, without frustration."
+        },
+        {
+            "start": 573.54,
+            "end": 577.54,
+            "role": "agent",
+            "text": "(uh) Well a bombshell and exit to the bank account we should say.",
+            "escalation_label": 0,
+            "label_reason": "Agent makes a lighthearted, witty comment."
+        },
+        {
+            "start": 577.74,
+            "end": 579.94,
+            "role": "customer",
+            "text": "Definitely.",
+            "escalation_label": 0,
+            "label_reason": "Customer agrees with the agent's humorous comment."
+        },
+        {
+            "start": 579.34,
+            "end": 584.14,
+            "role": "agent",
+            "text": "(uh) Well thanks so much for getting in touch (uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent initiates closing remarks."
+        },
+        {
+            "start": 584.14,
+            "end": 589.94,
+            "role": "agent",
+            "text": "Yeah. I know that this a very stressful situation but we have (uh) activated the appropriate steps.",
+            "escalation_label": 0,
+            "label_reason": "Agent reassures the customer about the steps taken, confirming resolution, not escalation."
+        },
+        {
+            "start": 590.14,
+            "end": 596.84,
+            "role": "agent",
+            "text": "So we should see a resolution to this (uh) within the next business day. Is there anything else I can help you with today Laura?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms resolution timeline and asks for anything else, part of closing."
+        },
+        {
+            "start": 597.34,
+            "end": 603.54,
+            "role": "customer",
+            "text": "No, that's all. You've been such a big help. I really appreciate it. Five stars. Tell your boss to give you a raise.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses high satisfaction and praises the agent, indicating a positive resolution and not escalation."
+        },
+        {
+            "start": 603.64,
+            "end": 608.64,
+            "role": "agent",
+            "text": "(ah) We sha~ we'll take it out of the rent money that's coming back then.",
+            "escalation_label": 0,
+            "label_reason": "Agent makes a playful, appreciative comment in response to the praise."
+        },
+        {
+            "start": 610.14,
+            "end": 614.84,
+            "role": "agent",
+            "text": "Ohh. Well thanks very much, and (uh) please do get back in touch if you need anything else.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a polite closing statement."
+        },
+        {
+            "start": 614.04,
+            "end": 616.54,
+            "role": "customer",
+            "text": "Wonderful. Thank you.",
+            "escalation_label": 0,
+            "label_reason": "Customer offers a polite closing remark."
+        },
+        {
+            "start": 617.04,
+            "end": 618.34,
+            "role": "agent",
+            "text": "Thanks a lot Laura. Bye.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers a polite farewell."
+        },
+        {
+            "start": 618.64,
+            "end": 618.94,
+            "role": "customer",
+            "text": "Bye.",
+            "escalation_label": 0,
+            "label_reason": "Customer offers a polite farewell."
+        }
+    ]
+}

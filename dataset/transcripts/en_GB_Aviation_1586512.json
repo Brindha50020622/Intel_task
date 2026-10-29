@@ -1,0 +1,1071 @@
+{
+  "file_name": "en_GB_Aviation_1586512.wav",
+  "domain": "aviation",
+  "accent": "en-GB",
+  "duration": 800.03,
+  "escalation_label": 1,
+  "segments": [
+    {
+      "start": 12.406,
+      "end": 13.719,
+      "role": "customer",
+      "text": "Good morning"
+    },
+    {
+      "start": 13.688,
+      "end": 17.219,
+      "role": "agent",
+      "text": "Good morning, how may I help you? Aviation Airlines here today."
+    },
+    {
+      "start": 17.25,
+      "end": 27.969,
+      "role": "customer",
+      "text": "(Um) yep hello. I am calling to request (um) (uh) I want to change my return flight, please to a later later date because (um) unfortunately there's a work schedule conflict and it's gonna clash with my flight"
+    },
+    {
+      "start": 28.938,
+      "end": 33.125,
+      "role": "agent",
+      "text": "Ohh yes of course, (uh) may I ask sorry, (um) when is your flight set to take off?"
+    },
+    {
+      "start": 33.531,
+      "end": 36.781,
+      "role": "customer",
+      "text": "(um) So my current flight will be taking off"
+    },
+    {
+      "start": 36.781,
+      "end": 37.812,
+      "role": "customer",
+      "text": "in one weeks time"
+    },
+    {
+      "start": 39.0,
+      "end": 46.594,
+      "role": "agent",
+      "text": "Okay one weeks time and you want to, so do you want to cancel your flight or do you want to (um) exchange it?"
+    },
+    {
+      "start": 46.844,
+      "end": 50.656,
+      "role": "customer",
+      "text": "(Um) yep I want to, I want to ask please (um)"
+    },
+    {
+      "start": 46.938,
+      "end": 48.375,
+      "role": "agent",
+      "text": "Book a different flight."
+    },
+    {
+      "start": 53.375,
+      "end": 59.531,
+      "role": "customer",
+      "text": "I w~ w~ want to ask please I want to stay in the economic class when rescheduling. Is that something that you will be able to facilitate"
+    },
+    {
+      "start": 60.625,
+      "end": 62.281,
+      "role": "agent",
+      "text": "Yep so,"
+    },
+    {
+      "start": 62.594,
+      "end": 71.39,
+      "role": "agent",
+      "text": "Of course I can go ahead and r~ do that for you but you'd have to be mindful that you'd have to (um) they may be a t~ you may have to pay extra"
+    },
+    {
+      "start": 71.64,
+      "end": 75.53,
+      "role": "agent",
+      "text": "As (ah) the tickets (um) the closer you book the more expensive it is."
+    },
+    {
+      "start": 75.781,
+      "end": 79.031,
+      "role": "customer",
+      "text": "I understand. (um) Please may I have more information about the extra fees?"
+    },
+    {
+      "start": 80.562,
+      "end": 91.89,
+      "role": "agent",
+      "text": "(uh,) Yes of course so as it's a quite a busy season now (um) i~ and (um) as it's quite coming up close (um) you're gonna have to pay around it'll be around extra"
+    },
+    {
+      "start": 92.07,
+      "end": 99.05,
+      "role": "agent",
+      "text": "three hundred to five hundred dollars. I'm not exactly sure of the figure but it would be between three hundred to five hundred dollars."
+    },
+    {
+      "start": 99.33,
+      "end": 106.34,
+      "role": "agent",
+      "text": "And also (um) as you're doing a last minute booking you would have to (um) sorry you would have to"
+    },
+    {
+      "start": 106.969,
+      "end": 110.156,
+      "role": "agent",
+      "text": "(um) you might have to pay extra for any excess baggage"
+    },
+    {
+      "start": 110.156,
+      "end": 112.562,
+      "role": "customer",
+      "text": "Ohh I understand"
+    },
+    {
+      "start": 111.375,
+      "end": 112.625,
+      "role": "agent",
+      "text": "Due to space is limited."
+    },
+    {
+      "start": 112.969,
+      "end": 126.719,
+      "role": "customer",
+      "text": "I want to ask please because I am not sure if my company will cover this. I have to phone up the employment team to ask about this but (uh) (um) I think we~ will have to come out from my own pocket (um) which is a which is a bummer really because"
+    },
+    {
+      "start": 117.03,
+      "end": 117.44,
+      "role": "agent",
+      "text": "Yeah."
+    },
+    {
+      "start": 126.719,
+      "end": 131.812,
+      "role": "customer",
+      "text": "(Um) Is there a work schedule that's conflicting with mine but anyways I just have to ask"
+    },
+    {
+      "start": 130.312,
+      "end": 131.062,
+      "role": "agent",
+      "text": "Ohh I do."
+    },
+    {
+      "start": 132.062,
+      "end": 136.25,
+      "role": "customer",
+      "text": "(Um) Are there any cheaper alternatives to the preferred date that I am requesting"
+    },
+    {
+      "start": 137.0,
+      "end": 138.156,
+      "role": "agent",
+      "text": "(um)"
+    },
+    {
+      "start": 138.5,
+      "end": 145.969,
+      "role": "agent",
+      "text": "So the so is there any ma~, is there any dates that you would (um) is that you prefer please?"
+    },
+    {
+      "start": 145.906,
+      "end": 147.156,
+      "role": "customer",
+      "text": "(Um) yep so"
+    },
+    {
+      "start": 147.156,
+      "end": 152.906,
+      "role": "customer",
+      "text": "(uh) I would like next week please I would like to like travel on the twenty eighth"
+    },
+    {
+      "start": 153.094,
+      "end": 158.094,
+      "role": "agent",
+      "text": "Yeah the twenty-eighth and so is it just going to be you that's traveling?"
+    },
+    {
+      "start": 158.29,
+      "end": 160.51,
+      "role": "customer",
+      "text": "(Um) yeah just me Solo traveler"
+    },
+    {
+      "start": 159.594,
+      "end": 161.5,
+      "role": "agent",
+      "text": "Yep can I just take your name please?"
+    },
+    {
+      "start": 161.66,
+      "end": 162.73,
+      "role": "agent",
+      "text": "Ohh lovely."
+    },
+    {
+      "start": 161.72,
+      "end": 164.13,
+      "role": "customer",
+      "text": "(Um) yep my name is my name is Talin"
+    },
+    {
+      "start": 163.02,
+      "end": 163.52,
+      "role": "agent",
+      "text": "~kay."
+    },
+    {
+      "start": 165.5,
+      "end": 167.03,
+      "role": "agent",
+      "text": "Okay Sally and."
+    },
+    {
+      "start": 167.98,
+      "end": 176.25,
+      "role": "agent",
+      "text": "Could I take (um) you're so I'm just gonna, did you want to go ahead and book that ticket in or do you want to wait a bit and (ah) ask him a question before booking it in?"
+    },
+    {
+      "start": 176.281,
+      "end": 185.031,
+      "role": "customer",
+      "text": "(Um) I want to before I agree to rebook I want to be satisfied with my options please. So I want to request a fare cheaper alternatives in my preferred date"
+    },
+    {
+      "start": 181.28,
+      "end": 182.88,
+      "role": "agent",
+      "text": "Yes of course"
+    },
+    {
+      "start": 186.062,
+      "end": 189.484,
+      "role": "agent",
+      "text": "Could you just give me a second please I'm just going to type up and see if anything cheaper's coming up"
+    },
+    {
+      "start": 189.89,
+      "end": 190.39,
+      "role": "customer",
+      "text": "Sure"
+    },
+    {
+      "start": 191.906,
+      "end": 192.938,
+      "role": "agent",
+      "text": "Of course"
+    },
+    {
+      "start": 193.094,
+      "end": 198.719,
+      "role": "agent",
+      "text": "So for the twenty-eighth. Ohh. Sorry, (um) would you prefer to travel in the morning or in the evening?"
+    },
+    {
+      "start": 199.344,
+      "end": 205.01,
+      "role": "customer",
+      "text": "(Um) I prefer evening because in morning I have to (er) (uh) work finish off my (um) job"
+    },
+    {
+      "start": 206.188,
+      "end": 215.5,
+      "role": "agent",
+      "text": "Which would be in the evening okay, so we do have a ticket however it's the cheapest but it's around"
+    },
+    {
+      "start": 215.5,
+      "end": 219.469,
+      "role": "agent",
+      "text": "so as opposed to (um) being"
+    },
+    {
+      "start": 219.969,
+      "end": 230.234,
+      "role": "agent",
+      "text": "so as opposed to being the most expensive it's around two hundred dollars cheaper so it going to be eight hundred and sixty dollars (um) return trip, would that be okay with you?"
+    },
+    {
+      "start": 230.69,
+      "end": 237.08,
+      "role": "customer",
+      "text": "I I I understand (uh) Also I want to ask please (um) I wanted to upgrade to first class or business"
+    },
+    {
+      "start": 237.86,
+      "end": 238.51,
+      "role": "customer",
+      "text": "(Um)"
+    },
+    {
+      "start": 238.8,
+      "end": 240.35,
+      "role": "agent",
+      "text": "So for, yep"
+    },
+    {
+      "start": 240.531,
+      "end": 248.0,
+      "role": "customer",
+      "text": "I want to know how that work in terms of changing my return flight cause currently my return flight is with economic"
+    },
+    {
+      "start": 249.01,
+      "end": 257.32,
+      "role": "agent",
+      "text": "Okay, so, yeah how that would work out is you're so we're gonna have to"
+    },
+    {
+      "start": 257.32,
+      "end": 262.5,
+      "role": "agent",
+      "text": "We, you have to cancel the whole booking and then you gonna have to book it again as (um) a business class"
+    },
+    {
+      "start": 262.938,
+      "end": 264.688,
+      "role": "agent",
+      "text": "As we can't (um)"
+    },
+    {
+      "start": 265.875,
+      "end": 267.484,
+      "role": "agent",
+      "text": "Yep so you go ahead"
+    },
+    {
+      "start": 267.56,
+      "end": 276.94,
+      "role": "customer",
+      "text": "Sorry Because I just worried (um) this return flight was booked as a, because I already came on a flight (um) last year, (um) and this return flight is for this year"
+    },
+    {
+      "start": 277.34,
+      "end": 281.04,
+      "role": "customer",
+      "text": "I'm a bit worried that it's going to like affect the dis~ any discounts that was applied"
+    },
+    {
+      "start": 282.812,
+      "end": 288.39,
+      "role": "agent",
+      "text": "Ohh do not worry though, I can assure you that (um) if you're worried I can go ahead and"
+    },
+    {
+      "start": 288.39,
+      "end": 293.69,
+      "role": "agent",
+      "text": "see what I can do for you but don't worry (um) any discounts that apply do not yeah."
+    },
+    {
+      "start": 293.812,
+      "end": 297.25,
+      "role": "agent",
+      "text": "Don't worry, any discounts (um) will not be affected I can assure you."
+    },
+    {
+      "start": 297.25,
+      "end": 298.06,
+      "role": "customer",
+      "text": "Yeah, thank you"
+    },
+    {
+      "start": 299.719,
+      "end": 309.03,
+      "role": "agent",
+      "text": "So for the processes I'm going to have to go ahead and cancel your eco~ economy eco~ economy ticket and then we're gonna have to I'll refund you the price"
+    },
+    {
+      "start": 309.03,
+      "end": 315.59,
+      "role": "agent",
+      "text": "But please do I'm just gonna have to inform you that, I don't think that the refund is gonna reach you in time (um) before your next journey"
+    },
+    {
+      "start": 315.89,
+      "end": 320.44,
+      "role": "agent",
+      "text": "So you're gonna have to pay separately but before re~ receiving a refund. Is that gonna be an issue?"
+    },
+    {
+      "start": 320.82,
+      "end": 322.594,
+      "role": "customer",
+      "text": "It's totally understandable"
+    },
+    {
+      "start": 323.531,
+      "end": 329.0,
+      "role": "agent",
+      "text": "Yep, so I hope that's okay and I would have to take payment, (uh) full payment today."
+    },
+    {
+      "start": 329.53,
+      "end": 330.99,
+      "role": "customer",
+      "text": "(um) n~ no worries at all"
+    },
+    {
+      "start": 332.125,
+      "end": 342.719,
+      "role": "agent",
+      "text": "Yep that's great thank you. So I'm just gonna go ahead and just send you an email of the cheapest ticket I found. Would you like to have a look at yourself or would you want me to go ahead and book that in for you if it's urgent?"
+    },
+    {
+      "start": 342.969,
+      "end": 348.25,
+      "role": "customer",
+      "text": "(um) please can you book that in for me and, please can you give confirmation of the new itinerary to my email please?"
+    },
+    {
+      "start": 348.219,
+      "end": 351.406,
+      "role": "agent",
+      "text": "Of course I can, could you just confirm your email for me please?"
+    },
+    {
+      "start": 351.719,
+      "end": 354.438,
+      "role": "customer",
+      "text": "(Um) Yep, It's Sally Brick"
+    },
+    {
+      "start": 355.469,
+      "end": 356.25,
+      "role": "agent",
+      "text": "Yeah"
+    },
+    {
+      "start": 356.562,
+      "end": 359.188,
+      "role": "customer",
+      "text": "at hotmail dot co dot uk"
+    },
+    {
+      "start": 360.0,
+      "end": 363.344,
+      "role": "agent",
+      "text": "Yep so Sally Brick at hotmail dot co dot uk"
+    },
+    {
+      "start": 364.469,
+      "end": 365.688,
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "start": 365.844,
+      "end": 373.02,
+      "role": "agent",
+      "text": "I guess I've found that so I'm just going to go ahead and send you an email with all our itinerary details. Could you also (um)"
+    },
+    {
+      "start": 371.719,
+      "end": 372.594,
+      "role": "customer",
+      "text": "Thank you"
+    },
+    {
+      "start": 373.02,
+      "end": 377.906,
+      "role": "agent",
+      "text": "yeah so could you just confirm what (um) your meal plan is on, I'm just going to take that as well whilst we're here?"
+    },
+    {
+      "start": 377.969,
+      "end": 387.812,
+      "role": "customer",
+      "text": "Ohh ohh yes, in terms of meal plan la~ last time I spoke with someone they very rudely told me that (um) I have to pay a lot more extra for lactose into~"
+    },
+    {
+      "start": 388.81,
+      "end": 390.52,
+      "role": "customer",
+      "text": "but I thought that's part of the package"
+    },
+    {
+      "start": 391.75,
+      "end": 395.438,
+      "role": "agent",
+      "text": "So I do apologize for that (um) was that from someone from our airlines?"
+    },
+    {
+      "start": 395.38,
+      "end": 399.77,
+      "role": "customer",
+      "text": "(um) yeah, then I called them, they said (ah) They said that someone called Mark"
+    },
+    {
+      "start": 401.406,
+      "end": 413.32,
+      "role": "agent",
+      "text": "Ohh I do apologize for that. We have a lot of (um) staff, so I'm not sure who that (um) I'm I'm not sure who that's going to be but I'm going to have word with our manager and to ensure them that (um) we've had complaints from customers that"
+    },
+    {
+      "start": 413.32,
+      "end": 418.39,
+      "role": "agent",
+      "text": "(um) I'm I've think this is the second time I've heard of Mark (um) so I'm think he's not very good"
+    },
+    {
+      "start": 418.39,
+      "end": 426.65,
+      "role": "agent",
+      "text": "(um) customer service so I'm just going to go ahead and speak to our manager and let them know what's going on as I'm sure think they are gonna appreciate what's happening."
+    },
+    {
+      "start": 426.65,
+      "end": 433.844,
+      "role": "agent",
+      "text": "So I do apologize for that once again ma'am, but rest assured we're going to (uh) ensure that for for moving forward that this won't occur again"
+    },
+    {
+      "start": 434.125,
+      "end": 440.875,
+      "role": "customer",
+      "text": "Yes thank so, can I just double check with you (um) if lactose intolerant meals are charged extra or they are part of the package"
+    },
+    {
+      "start": 440.812,
+      "end": 444.406,
+      "role": "agent",
+      "text": "Of course not, they're all part of the package. You don't have to pay anything."
+    },
+    {
+      "start": 444.344,
+      "end": 447.75,
+      "role": "customer",
+      "text": "Ohh thank you and please can I add to my bill preference please"
+    },
+    {
+      "start": 448.812,
+      "end": 450.406,
+      "role": "agent",
+      "text": "Ohh yes, yes of course."
+    },
+    {
+      "start": 451.375,
+      "end": 453.188,
+      "role": "agent",
+      "text": "I'll just go ahead and add that for you now."
+    },
+    {
+      "start": 453.312,
+      "end": 454.781,
+      "role": "customer",
+      "text": "Yes, thank you"
+    },
+    {
+      "start": 455.656,
+      "end": 456.781,
+      "role": "agent",
+      "text": "That's all been added."
+    },
+    {
+      "start": 457.188,
+      "end": 466.719,
+      "role": "customer",
+      "text": "(um) Also (er) because I've (um) I've just relocated to China just for work purposes, I am returning back to Australia I just want to know (um)"
+    },
+    {
+      "start": 464.656,
+      "end": 465.406,
+      "role": "agent",
+      "text": "Yeah."
+    },
+    {
+      "start": 470.562,
+      "end": 471.688,
+      "role": "agent",
+      "text": "Yes of course."
+    },
+    {
+      "start": 470.688,
+      "end": 477.438,
+      "role": "customer",
+      "text": "Sorry I just want to know (um) regarding because I have a lot of stuff to take back, because of the relocation I have to bring"
+    },
+    {
+      "start": 477.938,
+      "end": 483.875,
+      "role": "customer",
+      "text": "(um) loads of materials and bits and bobs which I can't leave behind because of"
+    },
+    {
+      "start": 481.688,
+      "end": 483.328,
+      "role": "agent",
+      "text": "Yes so do you want to pay e~"
+    },
+    {
+      "start": 484.969,
+      "end": 486.656,
+      "role": "agent",
+      "text": "So do you want to pay extra or?"
+    },
+    {
+      "start": 486.812,
+      "end": 495.281,
+      "role": "customer",
+      "text": "(um) Yes please I want to know if there's anything you can do (Um) to bring down the price for extra baggage, especially to do with the bad customer service I've had last year"
+    },
+    {
+      "start": 496.656,
+      "end": 497.75,
+      "role": "agent",
+      "text": "(um)"
+    },
+    {
+      "start": 498.062,
+      "end": 502.75,
+      "role": "agent",
+      "text": "Yeah so I'm gonna speak to our manager and I'll get back to you in some time, is that okay?"
+    },
+    {
+      "start": 502.875,
+      "end": 504.312,
+      "role": "customer",
+      "text": "(um) yes that's fine"
+    },
+    {
+      "start": 505.25,
+      "end": 506.25,
+      "role": "agent",
+      "text": "Yeah"
+    },
+    {
+      "start": 506.594,
+      "end": 514.812,
+      "role": "agent",
+      "text": "So a would you, (um) I wouldn't be able to speak to a manager now because I think they're currently busy but I'm going to (um) email them if that's okay?"
+    },
+    {
+      "start": 514.844,
+      "end": 516.25,
+      "role": "customer",
+      "text": "(uh) That's fine"
+    },
+    {
+      "start": 516.5,
+      "end": 519.234,
+      "role": "customer",
+      "text": "And please can they email me once you have a reply"
+    },
+    {
+      "start": 520.875,
+      "end": 522.125,
+      "role": "agent",
+      "text": "Yep of course."
+    },
+    {
+      "start": 523.25,
+      "end": 525.375,
+      "role": "agent",
+      "text": "Is there any other questions I can help you with sir?"
+    },
+    {
+      "start": 523.438,
+      "end": 524.531,
+      "role": "customer",
+      "text": "(um) also"
+    },
+    {
+      "start": 525.25,
+      "end": 532.125,
+      "role": "customer",
+      "text": "(Um) I just want to know (um,) I've decided to stay in (uh) economic class when rescheduling"
+    },
+    {
+      "start": 533.406,
+      "end": 534.562,
+      "role": "agent",
+      "text": "Yep of course."
+    },
+    {
+      "start": 533.562,
+      "end": 545.172,
+      "role": "customer",
+      "text": "(Um) But then I am not sure because I am bit like sitting on the fence here, I don't know if should go first class or business or economic (um) Econo~ economy because it's just a return flight"
+    },
+    {
+      "start": 545.266,
+      "end": 549.984,
+      "role": "customer",
+      "text": "But on my way here I did use your economic class and it was (um) it was quite good"
+    },
+    {
+      "start": 551.5,
+      "end": 554.219,
+      "role": "agent",
+      "text": "Yep of course, so I can."
+    },
+    {
+      "start": 554.25,
+      "end": 559.062,
+      "role": "agent",
+      "text": "So what would you like sir? That's something that you would have to decide, that's not something I can help you with."
+    },
+    {
+      "start": 559.25,
+      "end": 563.344,
+      "role": "customer",
+      "text": "(Um) (uh) yes sure (um) I think I would like"
+    },
+    {
+      "start": 563.844,
+      "end": 567.0,
+      "role": "customer",
+      "text": "I'd like to go fly with the first class please"
+    },
+    {
+      "start": 567.906,
+      "end": 569.094,
+      "role": "agent",
+      "text": "Yes of course."
+    },
+    {
+      "start": 569.062,
+      "end": 576.469,
+      "role": "customer",
+      "text": "So because of the first class (um) do you think there'll be a need for me to pay any extra for (Um) excess baggage because"
+    },
+    {
+      "start": 577.094,
+      "end": 577.844,
+      "role": "customer",
+      "text": "(ah)"
+    },
+    {
+      "start": 578.281,
+      "end": 582.688,
+      "role": "customer",
+      "text": "(uh) I thought (um) I I didn't pay extra when I was traveling with economy"
+    },
+    {
+      "start": 583.562,
+      "end": 590.219,
+      "role": "agent",
+      "text": "(um) so you would have to pay extra for because we granting you (um) premium so I hope that's okay?"
+    },
+    {
+      "start": 590.344,
+      "end": 597.031,
+      "role": "customer",
+      "text": "(Um) Because I heard that fist class customers allowed significantly larger amount of baggage compared to other classes"
+    },
+    {
+      "start": 597.5,
+      "end": 603.156,
+      "role": "agent",
+      "text": "(um) So you'd have to you can (um) get extra clo~ you get an extra baggage if that's okay?"
+    },
+    {
+      "start": 603.875,
+      "end": 609.438,
+      "role": "customer",
+      "text": "(Um) So how many extra baggage's because on on your website I've seen it says three extra baggage"
+    },
+    {
+      "start": 610.281,
+      "end": 616.938,
+      "role": "agent",
+      "text": "(um,) yes of course so if you can check our website restrictions and allowance they'll be able to tell you."
+    },
+    {
+      "start": 617.219,
+      "end": 620.359,
+      "role": "customer",
+      "text": "(Um) yes so in terms of this I just want to ask (uh)"
+    },
+    {
+      "start": 620.359,
+      "end": 628.531,
+      "role": "customer",
+      "text": "(um) Will you be charging me anything (er) for f~ f~ for my request to change my return flight to a later date due to a work schedule conflict"
+    },
+    {
+      "start": 628.781,
+      "end": 636.469,
+      "role": "agent",
+      "text": "(um) of course as you informed us in time and it's not, and it's not your fault we'll be able to (um) we can we can do that for you, reschedule?"
+    },
+    {
+      "start": 636.688,
+      "end": 638.938,
+      "role": "customer",
+      "text": "(Um) yeah em so there won't be any extra fee"
+    },
+    {
+      "start": 639.719,
+      "end": 641.328,
+      "role": "agent",
+      "text": "Ohh no, of course not. No worries."
+    },
+    {
+      "start": 641.375,
+      "end": 649.0,
+      "role": "customer",
+      "text": "Just to summarize everything, (uh) so you will be talking to your manager regarding bad customer services to see if there is any compensation you can reward me"
+    },
+    {
+      "start": 646.75,
+      "end": 648.312,
+      "role": "agent",
+      "text": "Of course."
+    },
+    {
+      "start": 649.031,
+      "end": 650.781,
+      "role": "agent",
+      "text": "Yes of course I would. Don't worry."
+    },
+    {
+      "start": 651.0,
+      "end": 656.25,
+      "role": "customer",
+      "text": "And also (um) you rebook my flight for a later date and this time with first class"
+    },
+    {
+      "start": 655.938,
+      "end": 658.219,
+      "role": "agent",
+      "text": "Yes of course, don't worry."
+    },
+    {
+      "start": 658.594,
+      "end": 662.219,
+      "role": "customer",
+      "text": "You will be sending me your details of the money booking"
+    },
+    {
+      "start": 663.188,
+      "end": 668.0,
+      "role": "agent",
+      "text": "Yep, of course, I'm gonna send all that into your email, so all the details will be there for you don't worry."
+    },
+    {
+      "start": 667.875,
+      "end": 678.031,
+      "role": "customer",
+      "text": "(Um) Sorry also possibly CCing my (uh) work team so they said they are gonna be paying for my (um) return flight they would want full information as well. Shall I give you their email?"
+    },
+    {
+      "start": 674.062,
+      "end": 674.938,
+      "role": "agent",
+      "text": "Ohh."
+    },
+    {
+      "start": 678.156,
+      "end": 681.438,
+      "role": "agent",
+      "text": "Yes please and would you, do you want me to email them as well or is that?"
+    },
+    {
+      "start": 681.406,
+      "end": 683.688,
+      "role": "customer",
+      "text": "(Er) yes please but both of us"
+    },
+    {
+      "start": 683.531,
+      "end": 688.844,
+      "role": "agent",
+      "text": "Okay so I'll send, do you want me to send out send out a separate email to them or do you just want me to email you only?"
+    },
+    {
+      "start": 688.562,
+      "end": 691.25,
+      "role": "customer",
+      "text": "(Um) I I don't mind ei~ either way"
+    },
+    {
+      "start": 691.562,
+      "end": 702.188,
+      "role": "agent",
+      "text": "Okay so I'm g~ what I'm going to do is speak to our manager so they can send out an email to your work and I'm gonna send out an email to you as well and don't worry sir everything will be all done n~ all all good."
+    },
+    {
+      "start": 702.188,
+      "end": 704.89,
+      "role": "customer",
+      "text": "(Um) Yeah but can I give you my (uh) work email"
+    },
+    {
+      "start": 705.0,
+      "end": 709.031,
+      "role": "agent",
+      "text": "Yes of course so if you could just go ahead and give me your work email now?"
+    },
+    {
+      "start": 709.15,
+      "end": 710.844,
+      "role": "customer",
+      "text": "Yeah It's called daisy pops"
+    },
+    {
+      "start": 711.406,
+      "end": 713.0,
+      "role": "agent",
+      "text": "So Daisy Pops"
+    },
+    {
+      "start": 713.406,
+      "end": 715.656,
+      "role": "customer",
+      "text": "at (um) yahoo dot com"
+    },
+    {
+      "start": 715.625,
+      "end": 718.0,
+      "role": "agent",
+      "text": "So Daisy Pops at Yahoo dot com"
+    },
+    {
+      "start": 718.031,
+      "end": 724.188,
+      "role": "customer",
+      "text": "Yep And if a a on a subject line if you put that you wish to speak with the (ah) employment team"
+    },
+    {
+      "start": 724.156,
+      "end": 727.266,
+      "role": "agent",
+      "text": "So you wish to speak to employment team, yeah, that's all done"
+    },
+    {
+      "start": 728.375,
+      "end": 731.844,
+      "role": "customer",
+      "text": "Thank you (ah) also I just want to confirm please"
+    },
+    {
+      "start": 731.875,
+      "end": 738.281,
+      "role": "customer",
+      "text": "That there are there are, where there any cheaper alternatives to my preferred date or, shall I stick with my preferred date"
+    },
+    {
+      "start": 737.0,
+      "end": 737.906,
+      "role": "agent",
+      "text": "(um)"
+    },
+    {
+      "start": 738.438,
+      "end": 740.562,
+      "role": "agent",
+      "text": "Yes please just stick with your preferred date"
+    },
+    {
+      "start": 741.219,
+      "end": 742.719,
+      "role": "customer",
+      "text": "(ah) Jolly good"
+    },
+    {
+      "start": 742.719,
+      "end": 744.125,
+      "role": "agent",
+      "text": "Yeah, so"
+    },
+    {
+      "start": 742.812,
+      "end": 746.984,
+      "role": "customer",
+      "text": "I I think that will be all unless you have any questions (uh) for me"
+    },
+    {
+      "start": 747.141,
+      "end": 748.656,
+      "role": "customer",
+      "text": "regarding my booking"
+    },
+    {
+      "start": 747.344,
+      "end": 748.875,
+      "role": "agent",
+      "text": "Ohh no, of course not."
+    },
+    {
+      "start": 749.156,
+      "end": 757.25,
+      "role": "agent",
+      "text": "Anything else I will, we'll go ahead and email you. And please don't, make sure that you don't answer any (um) fake calls pretending to be us or any (uh) scam emails."
+    },
+    {
+      "start": 757.469,
+      "end": 760.703,
+      "role": "customer",
+      "text": "(Um) yeah actually I did receive a text message last week, I ignored it"
+    },
+    {
+      "start": 761.906,
+      "end": 769.938,
+      "role": "agent",
+      "text": "Yeah I'm (uh) glad to hear that because you know nowadays scammers are getting a lot (um) a lot smarter and you know trying to use random tricks so please do not fall for it."
+    },
+    {
+      "start": 769.969,
+      "end": 771.219,
+      "role": "customer",
+      "text": "Yeah thank you"
+    },
+    {
+      "start": 771.219,
+      "end": 774.094,
+      "role": "customer",
+      "text": "(Ah) Also (um) (uh)"
+    },
+    {
+      "start": 772.344,
+      "end": 773.094,
+      "role": "agent",
+      "text": "Yeah no worries."
+    },
+    {
+      "start": 774.438,
+      "end": 776.75,
+      "role": "customer",
+      "text": "my meals been booked I see"
+    },
+    {
+      "start": 777.156,
+      "end": 781.719,
+      "role": "agent",
+      "text": "Yeah will done, don't worry sir, lactose intolerant meal, no extra charge."
+    },
+    {
+      "start": 779.938,
+      "end": 781.281,
+      "role": "customer",
+      "text": "ok thank you"
+    },
+    {
+      "start": 781.625,
+      "end": 782.938,
+      "role": "customer",
+      "text": "thank you for your time"
+    },
+    {
+      "start": 782.438,
+      "end": 784.938,
+      "role": "agent",
+      "text": "No worries, thank you b~ thank you bye-bye."
+    },
+    {
+      "start": 784.0,
+      "end": 786.25,
+      "role": "customer",
+      "text": "Have a lovely day bye"
+    },
+    {
+      "start": 786.281,
+      "end": 787.391,
+      "role": "agent",
+      "text": "You too bye-bye."
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+    "file_name": "en_AU_Energy_1584859.wav",
+    "duration": 762.361,
+    "accent": "en-AU",
+    "domain": "energy",
+    "segments": [
+        {
+            "start": 18.74,
+            "end": 26.29,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Hello is it? Who we've got to chat? Is it the (um) the new oil and energy company?"
+        },
+        {
+            "start": 27.54,
+            "end": 32.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yes, this is Big Son Oil and Energy. My name is Jim, how can I help you sir?"
+        },
+        {
+            "start": 32.64,
+            "end": 34.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Ohh, hi Jim. OK. (um)"
+        },
+        {
+            "start": 35.94,
+            "end": 60.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "So, we've just moved in our just moved in about two three months innit and (um) we're getting a we got a quarterly bill innit and (um) we're just we don't know if it's (uh) legit or how good or bad it is so what we'd like to do is, I would check with you now Jim and just see if we can if it's necessary to schedule a (um) home energy audit"
+        },
+        {
+            "start": 63.34,
+            "end": 66.89,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah, absolutely. I can work with you on that one."
+        },
+        {
+            "start": 66.89,
+            "end": 83.2,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) So you mentioned that you were with a partner. I just need to know how many (uh) people are at the home, and if you could give me sort of a ballpark estimate of how much (uh) you pay per month for your energy bill?"
+        },
+        {
+            "start": 84.17,
+            "end": 85.33,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "OK."
+        },
+        {
+            "start": 85.51,
+            "end": 100.85,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "So w~ w~ we're, basically we get billed a quarter so if I break down the quarter it's (um) gonna be two hun~ about around about two hundred and thirty dollars a month (um) based on the on a quarterly bill."
+        },
+        {
+            "start": 101.16,
+            "end": 113.31,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um) We just think that that's pretty high (um) and (um) we're just we don't know if it's (uh) legit or how good or bad it is so what we'd like to do is, I would check with you now Jim and just see if we can If it's necessary to schedule a (um) home energy audit"
+        },
+        {
+            "start": 113.94,
+            "end": 125.91,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "But not excessive use of energy. We wouldn't think, it's a lot higher than where we were before (um) so we'd we'd w~ rather see if we can get a home energy audit."
+        },
+        {
+            "start": 126.21,
+            "end": 140.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "The other thing I said I'd like to talk to you about Jim is (um) the cost involving for about installation of solar panels because that would definitely we presume will make things a lot cheaper in the long run."
+        },
+        {
+            "start": 140.34,
+            "end": 154.06,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah. Absolutely. (um) I could definitely have one of my colleagues (uh) come down and do a do a home energy audit or even just (um) so they have a look through your plan and your general usage and (um) sit down with you and sort of figure that out."
+        },
+        {
+            "start": 154.15,
+            "end": 156.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "In terms of solar,"
+        },
+        {
+            "start": 156.74,
+            "end": 157.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Solar"
+        },
+        {
+            "start": 158.44,
+            "end": 160.4,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "You got to think of it as an investment, basically."
+        },
+        {
+            "start": 160.4,
+            "end": 183.42,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So it's quite a bit upfront (um) but there are government subsidies to help you get the initial solar solar panel an the (um) cells installed and once those are installed, some customers have seen you know up to a sixty percent reduction in their (um) in their power bill (uh) quarterly or monthly whatever whatever pay cycle they're on."
+        },
+        {
+            "start": 183.84,
+            "end": 191.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So it it really is worth the investment and pays off in the long run so is that something that you would be interested in looking at today?"
+        },
+        {
+            "start": 191.94,
+            "end": 209.76,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Yeah (um) definitely would like to install solar panels. Now w~ when it comes to the solar panels location on our on our on our roof innit, (um) (uh) what is the base rate, w~ how do we know which w~ what's the best location for them?"
+        },
+        {
+            "start": 211.64,
+            "end": 224.75,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah. Good question. So (um) that's not really something that you as the the homeowner would have to worry about too much. Our installers are really really good at what they do but (uh) just to give you some general information."
+        },
+        {
+            "start": 225.04,
+            "end": 250.8,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "We naturally want them to catch as much sunlight as possible, so we'll have them facing towards the east and the west side of your house if possible. Naturally, it depends on (um) sort of where your location is and the the shape of your roof and how your face (uh) not your face how your house faces (um) in comparison to the sun's (um) travel but yeah, our our installers will ha~ handle all of that sort of stuff for you."
+        },
+        {
+            "start": 251.64,
+            "end": 252.23,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "OK."
+        },
+        {
+            "start": 252.55,
+            "end": 262.56,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um) Now I'd like to g~ go a little bit in depth here (um) regarding your (um) your energy saving plans."
+        },
+        {
+            "start": 262.63,
+            "end": 271.45,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um) How do they work, do they, because we're getting billed quarterly, do your energy saving plans are with monthly yearly. How is the breakdown of them?"
+        },
+        {
+            "start": 273.24,
+            "end": 289.11,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah. (um) I can totally go through that for you. So, if you would prefer to keep your billing cycle (um) the same, so have a have a quarterly payment, we could absolutely do that, and that saves you about ten percent compared to paying monthly or bi-weekly."
+        },
+        {
+            "start": 289.41,
+            "end": 309.77,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "We do also offer a yearly (um) a yearly (uh) billing cycle and it saves you about fifteen percent compared to bi-weekly or monthly (um) and on top of that, if you install solar through us, we give you a little bit of a subsidy (um) for that so."
+        },
+        {
+            "start": 310.24,
+            "end": 319.01,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(uh) Really really good reasons to switch over to us and start saving on your power bill. We want wanna put we want to put as much money as we can back in your pockets."
+        },
+        {
+            "start": 320.34,
+            "end": 344.09,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "OK, and what's, now what timeframe are we talking about (um) that you could be doing this I mean (uh) (uh) I do I do believe that the government as you were saying of (um) not only have they have put out an incentive there for people to go solar but also (um) they reduce the price a lot so there's a lot of people installing."
+        },
+        {
+            "start": 344.09,
+            "end": 350.93,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Are y~ you guys fully booked or, (um) is it a monthly that we have to wait six weeks, two months, how long would we have to wait?"
+        },
+        {
+            "start": 352.74,
+            "end": 362.12,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So you've kind of hit the nail on the head there. Like because our prices and our savings are so competitive, we're pretty pretty busy, pretty booked."
+        },
+        {
+            "start": 362.41,
+            "end": 372.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) I can see on our portal we do have some availability coming up in the next six weeks or so."
+        },
+        {
+            "start": 372.74,
+            "end": 375.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So if that works for you, we could have the (um)"
+        },
+        {
+            "start": 375.68,
+            "end": 390.87,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Like one of our representatives come down do a home energy audit and and just sort of coach you through ways you could save and if you're willing to sort of go in on solar now, we could have the installer come out with them as well and just do the installation there."
+        },
+        {
+            "start": 392.54,
+            "end": 395.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "OK. (um) It's yeah that sounds pretty good."
+        },
+        {
+            "start": 396.28,
+            "end": 405.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "So (um) I'm just a little bit I'm not very sure ve~ not very clear in my head of in terms of your billing cycles."
+        },
+        {
+            "start": 405.28,
+            "end": 415.13,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um) Where we came from before it was on a a monthly basis (um) this one's the first and we've just moved yeah and this is now quarterly."
+        },
+        {
+            "start": 415.64,
+            "end": 419.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "T~ is it an option for us to go either way to monthly, quarterly,"
+        },
+        {
+            "start": 421.2,
+            "end": 433.55,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah. Absolutely. So, we do have incentives for people to to to go with the (um) the lower recurring billing cycle. So (uh) yearly and quarterly and such."
+        },
+        {
+            "start": 433.7,
+            "end": 439.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "But absolutely, if your preference would be to go monthly, bi-weekly, even we offer even weekly."
+        },
+        {
+            "start": 439.53,
+            "end": 454.81,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) We absolutely have the the the option there, and our payment options are actually quite varied as well. We have (um) bpay, we have direct debit, we have bpoint, we have like pay ID, you name it, we probably have it."
+        },
+        {
+            "start": 455.53,
+            "end": 460.08,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "OK. Now this might be a little bit of a strange question to ask you"
+        },
+        {
+            "start": 460.41,
+            "end": 481.27,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um,) If we did install the solar panels, and (um) after I don't know say six months to a year, we didn't find that they were cost effective, do yo~ do you have like a warranty that it will be a~ and if not that you will take them away and w~ we'll get refunded?"
+        },
+        {
+            "start": 481.94,
+            "end": 482.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Is that an option?"
+        },
+        {
+            "start": 483.74,
+            "end": 508.63,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah, so really really really good question. (um) Especially, I'm not sure, I assume that you'd be the homeowner. But basically the way that our installation works we we would never take the solar panels off or the cells out because that would just be removing value from your house, and as I said before, we wanna keep as much money in your pockets and and make the house as valuable (um) to yourself."
+        },
+        {
+            "start": 508.96,
+            "end": 530.62,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So we actually have a guarantee, and that is that if within six months of us installing the panel and the cells and having your service turned on (uh) you don't save forty percent on your power bill, then we will give you a refund of eighty percent of the install and the purchasing price of the actual units."
+        },
+        {
+            "start": 531.01,
+            "end": 542.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So (um) I feel like that's quite generous in terms of protection against (um) not getting your money's worth for the installation and (uh) the cells themselves."
+        },
+        {
+            "start": 543.64,
+            "end": 562.53,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "OK. Is there is there an option to pay a lump sum up front, and (um) you take out the money from a lump sum but because we've given you a lump sum, we get a discount? Is that an option?"
+        },
+        {
+            "start": 563.26,
+            "end": 568.77,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah. Absolutely. So it u~ as you describe, it works similar to sort of prepaying for it."
+        },
+        {
+            "start": 569.2,
+            "end": 592.49,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "We actually have a, currently we have a plan going where if you lump sum in a thousand dollars, we'll give you five hundred dollars worth of energy for free with us (um) and that's, I'll just double check with my manager before I confirm for you, but (uh) as far as I'm aware, that plan is continuing for the long term."
+        },
+        {
+            "start": 592.75,
+            "end": 608.78,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So it can be a really really good (um) option for people that like to pay up front and get value out of their money and and for families and stuff so if you~ if you're considering you know, having more people around or expanding your family, it could be a good option that way as well."
+        },
+        {
+            "start": 609.84,
+            "end": 612.12,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "OK. No, it's it's sounding really good."
+        },
+        {
+            "start": 612.12,
+            "end": 634.6,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Now, the other thing would be (um) with the billing cycles, (um) would you, how often do they change the billing cycles and do you let (um) people who are in an existing plan change to your your new billing cycle if it's (uh) a benefit to them?"
+        },
+        {
+            "start": 636.01,
+            "end": 651.81,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah, absolutely, so like I said, we really want a hop on about saving money and putting money in your pocket. So, if you if you're on a current plan and you know, you wanna (uh) change to a plan that will save you more money, we're just gonna do that for you. We'll switch you over no questions asked."
+        },
+        {
+            "start": 652.24,
+            "end": 670.58,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "There will be no lost to your service as you switch over to the plan. Just savings, (um) and in terms of switching from another plan, sometimes there can be an outage of up to generally we give the range of twelve to twenty four hours in like (uh) energy outage."
+        },
+        {
+            "start": 671.03,
+            "end": 677.06,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "However, it in in (uh) in practice is a lot shorter than that most of the time."
+        },
+        {
+            "start": 678.54,
+            "end": 679.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "OK."
+        },
+        {
+            "start": 679.58,
+            "end": 700.17,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Now with the in regards to the installation of the solar panels, u~ does it have a detrimental effect on (um) the housing and the car where they're where they're located (um) do you, how how safe are they you know high winds and rains and hail innit."
+        },
+        {
+            "start": 701.14,
+            "end": 715.72,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah, so really good question about longevity so, all of our units are designed and tested against extreme conditions, especially considering we are in Australia, so high wind rated high (um) rain rated high temperature rated."
+        },
+        {
+            "start": 716.28,
+            "end": 723.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "The the storage cells themselves generally last ten to fifteen years if well (um) maintained. So yeah."
+        },
+        {
+            "start": 723.64,
+            "end": 733.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "OK. Now you've given us a a lot to go on there and (um) we're pretty sure we'll go ahead but we'll have a chat about it and and get back to your organization if it's OK with you."
+        },
+        {
+            "start": 734.54,
+            "end": 742.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah, wonderful. I'll (um) I'll forward through our conversation to the the installation and the sales team and we'll be in touch with you."
+        },
+        {
+            "start": 742.44,
+            "end": 744.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Excellent. Thank you very much for your time, man."
+        },
+        {
+            "start": 745.34,
+            "end": 746.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "No problem, have a good day!"
+        },
+        {
+            "start": 746.84,
+            "end": 747.83,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "You too. Thanks, bye."
+        },
+        {
+            "start": 760.27,
+            "end": 761.4,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Hey."
+        }
+    ]
+}

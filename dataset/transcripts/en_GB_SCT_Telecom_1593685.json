@@ -1,0 +1,1299 @@
+{
+  "file_name": "en_GB_SCT_Telecom_1593685.wav",
+  "domain": "telecom",
+  "accent": "en-GB_SCT",
+  "duration": 842.325,
+  "escalation_label": 1,
+  "segments": [
+    {
+      "start": 12.94,
+      "end": 17.34,
+      "role": "agent",
+      "text": "Hi, are you through to Virgin Media customer service? How can I help you today?"
+    },
+    {
+      "start": 12.94,
+      "end": 13.54,
+      "role": "customer",
+      "text": "Hello"
+    },
+    {
+      "start": 17.54,
+      "end": 21.94,
+      "role": "customer",
+      "text": "Hi, I making a call to complain about my Internet it's very, very slow."
+    },
+    {
+      "start": 22.74,
+      "end": 24.74,
+      "role": "agent",
+      "text": "All right, okay, wh~ what's been going on?"
+    },
+    {
+      "start": 25.84,
+      "end": 33.94,
+      "role": "customer",
+      "text": "It's just I work from home and at the moment it's just seem. Doesn't seem to be working. It's very, very slow and when I'm on video calls and it's freezing during."
+    },
+    {
+      "start": 34.54,
+      "end": 35.84,
+      "role": "customer",
+      "text": "When I'm on working."
+    },
+    {
+      "start": 37.74,
+      "end": 39.14,
+      "role": "agent",
+      "text": "All right. Do you work from home?"
+    },
+    {
+      "start": 39.34,
+      "end": 40.34,
+      "role": "customer",
+      "text": "Yes, I do."
+    },
+    {
+      "start": 40.74,
+      "end": 46.74,
+      "role": "agent",
+      "text": "Right? Okay, let me just check a few details. Then, first of all, can you confirm your name for me there?"
+    },
+    {
+      "start": 47.74,
+      "end": 49.41,
+      "role": "customer",
+      "text": "It's Mrs. Ann Smith."
+    },
+    {
+      "start": 50.14,
+      "end": 51.54,
+      "role": "agent",
+      "text": "and is that Anne with an E?"
+    },
+    {
+      "start": 52.34,
+      "end": 54.04,
+      "role": "customer",
+      "text": "No, there's no E."
+    },
+    {
+      "start": 53.64,
+      "end": 57.64,
+      "role": "agent",
+      "text": "So A for alpha, N for November, N for November, is that correct?"
+    },
+    {
+      "start": 57.67,
+      "end": 58.04,
+      "role": "customer",
+      "text": "Yes."
+    },
+    {
+      "start": 58.54,
+      "end": 63.24,
+      "role": "agent",
+      "text": "And Smith, S for Sierra, M for Mike, I for India, T for tango, H for hotel?"
+    },
+    {
+      "start": 63.54,
+      "end": 64.04,
+      "role": "customer",
+      "text": "Yes."
+    },
+    {
+      "start": 64.64,
+      "end": 67.54,
+      "role": "agent",
+      "text": "perfect. And do you have your account number there?"
+    },
+    {
+      "start": 68.24,
+      "end": 69.74,
+      "role": "customer",
+      "text": "one zero six"
+    },
+    {
+      "start": 70.64,
+      "end": 72.74,
+      "role": "agent",
+      "text": "Sorry, I didn't hear that. One, zero"
+    },
+    {
+      "start": 70.64,
+      "end": 71.34,
+      "role": "customer",
+      "text": "three five"
+    },
+    {
+      "start": 72.61,
+      "end": 76.34,
+      "role": "customer",
+      "text": "one zero six three five two eight four"
+    },
+    {
+      "start": 74.34,
+      "end": 74.64,
+      "role": "agent",
+      "text": "Yeah"
+    },
+    {
+      "start": 75.84,
+      "end": 76.04,
+      "role": "agent",
+      "text": "Yeah."
+    },
+    {
+      "start": 77.24,
+      "end": 83.44,
+      "role": "agent",
+      "text": "Perfect. And also, what is the postcode where the internet is registered to?"
+    },
+    {
+      "start": 83.84,
+      "end": 86.09,
+      "role": "customer",
+      "text": "G twenty-one four Y H"
+    },
+    {
+      "start": 86.74,
+      "end": 92.74,
+      "role": "agent",
+      "text": "So, can I confirm is that G for golf, twenty four, Y for Yankee, H for hotel"
+    },
+    {
+      "start": 92.91,
+      "end": 93.54,
+      "role": "customer",
+      "text": "Yes."
+    },
+    {
+      "start": 93.94,
+      "end": 95.74,
+      "role": "agent",
+      "text": "and the first line of that address."
+    },
+    {
+      "start": 95.84,
+      "end": 97.44,
+      "role": "customer",
+      "text": "Hundred by Malloc Road."
+    },
+    {
+      "start": 98.04,
+      "end": 103.94,
+      "role": "agent",
+      "text": "Perfect. And lastly, for security, eh (um) can you confirm your date of birth for me there, please?"
+    },
+    {
+      "start": 104.14,
+      "end": 106.04,
+      "role": "customer",
+      "text": "twenty of the third seventy."
+    },
+    {
+      "start": 106.64,
+      "end": 114.24,
+      "role": "agent",
+      "text": "Perfect. Okay, so just having a look, I can see you paid your last bill with us on the tenth of December, yeah."
+    },
+    {
+      "start": 114.51,
+      "end": 115.04,
+      "role": "customer",
+      "text": "Yeah."
+    },
+    {
+      "start": 115.64,
+      "end": 121.34,
+      "role": "agent",
+      "text": "You've got the hundred and twenty five megabytes fiber,"
+    },
+    {
+      "start": 120.54,
+      "end": 122.44,
+      "role": "customer",
+      "text": "Yes, yes."
+    },
+    {
+      "start": 123.54,
+      "end": 124.24,
+      "role": "agent",
+      "text": "(um)"
+    },
+    {
+      "start": 125.44,
+      "end": 127.74,
+      "role": "agent",
+      "text": "right? Let me just have a wee look."
+    },
+    {
+      "start": 129.32,
+      "end": 134.34,
+      "role": "customer",
+      "text": "Could you tell me if there's any ongoing issues in the area I'm in?"
+    },
+    {
+      "start": 134.74,
+      "end": 138.34,
+      "role": "agent",
+      "text": "Yeah, yeah, I'm going to (um) just do a quick speed test just now,"
+    },
+    {
+      "start": 138.94,
+      "end": 142.74,
+      "role": "agent",
+      "text": "(um) and I'm also going to check the area see if there's any outages for you, Okay."
+    },
+    {
+      "start": 144.04,
+      "end": 148.44,
+      "role": "agent",
+      "text": "So, this is the , yeah, in Glasgow."
+    },
+    {
+      "start": 148.14,
+      "end": 149.04,
+      "role": "customer",
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 150.64,
+      "end": 151.44,
+      "role": "agent",
+      "text": "(um)"
+    },
+    {
+      "start": 153.64,
+      "end": 157.94,
+      "role": "agent",
+      "text": "to be on honest with you, we we did actually have an issue with the internet,"
+    },
+    {
+      "start": 158.54,
+      "end": 163.14,
+      "role": "agent",
+      "text": "(um) quite recently, with the speed. So that's maybe why you have been experiencing, for"
+    },
+    {
+      "start": 162.14,
+      "end": 165.64,
+      "role": "customer",
+      "text": "Yeah. Well, it's still ongoing and as I said I work from home."
+    },
+    {
+      "start": 166.09,
+      "end": 169.94,
+      "role": "customer",
+      "text": "And that's just no use. So, I'm wondering if (um)"
+    },
+    {
+      "start": 168.24,
+      "end": 168.54,
+      "role": "agent",
+      "text": "Yeah."
+    },
+    {
+      "start": 170.54,
+      "end": 173.64,
+      "role": "customer",
+      "text": "If you could help me with the troubleshooting for the modem."
+    },
+    {
+      "start": 174.54,
+      "end": 178.44,
+      "role": "agent",
+      "text": "Yeah, so you're looking for some help to maybe reset that. Yeah."
+    },
+    {
+      "start": 178.66,
+      "end": 179.21,
+      "role": "customer",
+      "text": "Yeah."
+    },
+    {
+      "start": 179.74,
+      "end": 188.64,
+      "role": "agent",
+      "text": "Okay, so I've had a wee look like I said, there have been some ongoing issues, and we're hoping for everything to be resolved within the next twenty four hours. but"
+    },
+    {
+      "start": 188.64,
+      "end": 192.14,
+      "role": "agent",
+      "text": "if you reset your modem or router, that's probably"
+    },
+    {
+      "start": 192.34,
+      "end": 195.54,
+      "role": "agent",
+      "text": "a good thing to do, because it might help speed up the process. So,"
+    },
+    {
+      "start": 195.84,
+      "end": 201.84,
+      "role": "customer",
+      "text": "Right. I'll just write down, and I'll go and try. If you give me the what I got to do, and I'll give that a shot."
+    },
+    {
+      "start": 202.34,
+      "end": 207.24,
+      "role": "agent",
+      "text": "All right, okay, so first of all, (um) what I would like you to do is"
+    },
+    {
+      "start": 208.44,
+      "end": 212.74,
+      "role": "agent",
+      "text": "turn off the switch for me and wait ten seconds,"
+    },
+    {
+      "start": 212.94,
+      "end": 214.84,
+      "role": "customer",
+      "text": "Right, I've wrote that down. What else?"
+    },
+    {
+      "start": 214.74,
+      "end": 216.14,
+      "role": "agent",
+      "text": "like we're done"
+    },
+    {
+      "start": 216.84,
+      "end": 223.04,
+      "role": "agent",
+      "text": "(um) then what I would like to do is, after ten seconds, put the switch back on, where the plugs at."
+    },
+    {
+      "start": 223.36,
+      "end": 224.04,
+      "role": "customer",
+      "text": "Huh-uh"
+    },
+    {
+      "start": 224.84,
+      "end": 229.24,
+      "role": "agent",
+      "text": "Then you should see a wee button in the left hand corner, and it will be a reset button."
+    },
+    {
+      "start": 229.96,
+      "end": 230.44,
+      "role": "customer",
+      "text": "Yeah."
+    },
+    {
+      "start": 230.64,
+      "end": 234.14,
+      "role": "agent",
+      "text": "I'd like you to hold that in for fifteen seconds,"
+    },
+    {
+      "start": 234.34,
+      "end": 234.74,
+      "role": "customer",
+      "text": "Uhuh"
+    },
+    {
+      "start": 234.94,
+      "end": 236.64,
+      "role": "agent",
+      "text": "then you'll see a red light flash."
+    },
+    {
+      "start": 237.04,
+      "end": 239.44,
+      "role": "customer",
+      "text": "right, right, I'll go and do that now. If"
+    },
+    {
+      "start": 238.44,
+      "end": 239.04,
+      "role": "agent",
+      "text": "then,"
+    },
+    {
+      "start": 240.14,
+      "end": 242.54,
+      "role": "agent",
+      "text": "Yeah, yeah I'll guide you through it."
+    },
+    {
+      "start": 240.14,
+      "end": 240.74,
+      "role": "customer",
+      "text": "Sorry."
+    },
+    {
+      "start": 243.04,
+      "end": 247.44,
+      "role": "customer",
+      "text": "Right, okay right. If you give me a few minutes. Right. Just doing that just now."
+    },
+    {
+      "start": 260.91,
+      "end": 262.64,
+      "role": "customer",
+      "text": "Right. Just turn it back on."
+    },
+    {
+      "start": 263.24,
+      "end": 263.54,
+      "role": "agent",
+      "text": "Okay,"
+    },
+    {
+      "start": 266.44,
+      "end": 268.34,
+      "role": "customer",
+      "text": "So it takes a while to come back on."
+    },
+    {
+      "start": 268.64,
+      "end": 269.54,
+      "role": "agent",
+      "text": "Yeah, I know."
+    },
+    {
+      "start": 287.36,
+      "end": 288.94,
+      "role": "customer",
+      "text": "Right. That says back on."
+    },
+    {
+      "start": 289.54,
+      "end": 298.24,
+      "role": "agent",
+      "text": "Perfect. So, that light should flash red once you reset successfully. And then what will happen is it will go"
+    },
+    {
+      "start": 293.41,
+      "end": 294.04,
+      "role": "customer",
+      "text": "Yeah."
+    },
+    {
+      "start": 299.44,
+      "end": 301.64,
+      "role": "agent",
+      "text": "It will go like an orangey, yellowy color."
+    },
+    {
+      "start": 302.44,
+      "end": 307.34,
+      "role": "agent",
+      "text": "And then, when it's fully resettled, turn green. Tell me when you see it go green?"
+    },
+    {
+      "start": 308.04,
+      "end": 308.74,
+      "role": "customer",
+      "text": "Right."
+    },
+    {
+      "start": 311.34,
+      "end": 312.74,
+      "role": "customer",
+      "text": "It's just flashing at the moment."
+    },
+    {
+      "start": 313.64,
+      "end": 314.34,
+      "role": "agent",
+      "text": "Yeah, that's normal."
+    },
+    {
+      "start": 331.89,
+      "end": 333.34,
+      "role": "customer",
+      "text": "Right, that's it, back on."
+    },
+    {
+      "start": 334.04,
+      "end": 335.44,
+      "role": "agent",
+      "text": "Okay, so has it went green,"
+    },
+    {
+      "start": 335.84,
+      "end": 336.54,
+      "role": "customer",
+      "text": "Yes."
+    },
+    {
+      "start": 336.94,
+      "end": 343.94,
+      "role": "agent",
+      "text": "okay, so that's us, (um) reset your modem or router, whatever one you've got."
+    },
+    {
+      "start": 345.34,
+      "end": 347.54,
+      "role": "agent",
+      "text": "Is there anything else I can help you with today?"
+    },
+    {
+      "start": 347.16,
+      "end": 348.74,
+      "role": "customer",
+      "text": "Yes (um)"
+    },
+    {
+      "start": 350.14,
+      "end": 353.84,
+      "role": "customer",
+      "text": "Can I ask about a long-term solution for this for the speeds?"
+    },
+    {
+      "start": 354.94,
+      "end": 364.44,
+      "role": "agent",
+      "text": "So long term solutions, like I said. There there have been some issues, but the engineers are working really hard on that, and we're hoping for that to be resolved in the next twenty four hours."
+    },
+    {
+      "start": 364.64,
+      "end": 366.34,
+      "role": "agent",
+      "text": "and then that should be everything up"
+    },
+    {
+      "start": 366.34,
+      "end": 367.14,
+      "role": "agent",
+      "text": "and running."
+    },
+    {
+      "start": 367.84,
+      "end": 368.44,
+      "role": "agent",
+      "text": "(um)"
+    },
+    {
+      "start": 369.69,
+      "end": 371.34,
+      "role": "customer",
+      "text": "(um) could you"
+    },
+    {
+      "start": 372.24,
+      "end": 380.84,
+      "role": "customer",
+      "text": "I'm asking about (um) upgrading to a faster speed. As I said I work from home, so I really need my Internet up running fast."
+    },
+    {
+      "start": 381.44,
+      "end": 385.94,
+      "role": "agent",
+      "text": "Okay, so you're looking to see if we've got a faster speed. Yeah,"
+    },
+    {
+      "start": 385.94,
+      "end": 386.54,
+      "role": "customer",
+      "text": "Yeah."
+    },
+    {
+      "start": 386.94,
+      "end": 396.14,
+      "role": "agent",
+      "text": "right. We do have different packages, but there are different prices. Okay? So I'll just look for you just now, at the moment, you're on hundred and twenty five megabytes."
+    },
+    {
+      "start": 391.19,
+      "end": 391.84,
+      "role": "customer",
+      "text": "Yeah."
+    },
+    {
+      "start": 396.54,
+      "end": 399.14,
+      "role": "agent",
+      "text": "We do have a two hundred megabyte package,"
+    },
+    {
+      "start": 399.34,
+      "end": 404.74,
+      "role": "agent",
+      "text": "and that's all includes your TV that you've got at your basic package, and your phone line."
+    },
+    {
+      "start": 404.81,
+      "end": 406.64,
+      "role": "customer",
+      "text": "Is that including the sports?"
+    },
+    {
+      "start": 407.24,
+      "end": 412.84,
+      "role": "agent",
+      "text": "(um) yeah, yeah (ah) the moment, I know that you're currently paying as a sixty two pound a month,"
+    },
+    {
+      "start": 413.24,
+      "end": 414.24,
+      "role": "customer",
+      "text": "sixty-six"
+    },
+    {
+      "start": 414.34,
+      "end": 422.04,
+      "role": "agent",
+      "text": "sixty six sorry. (um) Well, what we can do actually, I can see here that you're a very loyal customer, and you've been with us for"
+    },
+    {
+      "start": 422.64,
+      "end": 432.04,
+      "role": "agent",
+      "text": "a number of years. So, what I can do is pop in a little promotional code for you, and I can actually upgrade your speed, and you can get it for sixty two pound a month. How does that sound?"
+    },
+    {
+      "start": 431.54,
+      "end": 437.44,
+      "role": "customer",
+      "text": "Ohh no, it's. It's not much off it, is it? Could you if you know get a bit cheaper."
+    },
+    {
+      "start": 435.64,
+      "end": 437.34,
+      "role": "agent",
+      "text": "A month?"
+    },
+    {
+      "start": 438.04,
+      "end": 442.94,
+      "role": "agent",
+      "text": "That's fo~ like forty eight pound a year. You're saving and you're getting a faster speed."
+    },
+    {
+      "start": 443.54,
+      "end": 447.94,
+      "role": "customer",
+      "text": "No, because I had had to come off from working from home"
+    },
+    {
+      "start": 448.54,
+      "end": 455.04,
+      "role": "customer",
+      "text": "I was unable this and and it has cut me off that many times. And actually, I'm getting into trouble with my manager."
+    },
+    {
+      "start": 452.34,
+      "end": 453.24,
+      "role": "agent",
+      "text": "right, okay."
+    },
+    {
+      "start": 454.74,
+      "end": 454.94,
+      "role": "agent",
+      "text": "right."
+    },
+    {
+      "start": 455.94,
+      "end": 456.54,
+      "role": "agent",
+      "text": "Sorry."
+    },
+    {
+      "start": 455.94,
+      "end": 458.34,
+      "role": "customer",
+      "text": "Because I've lost customers through this."
+    },
+    {
+      "start": 458.44,
+      "end": 466.74,
+      "role": "agent",
+      "text": "Right Okay, okay. So, what I can do for you, there's an extra code here, and I can actually get it down to sixty pound a monthly, okay,"
+    },
+    {
+      "start": 467.16,
+      "end": 470.04,
+      "role": "customer",
+      "text": "about fifty nothing then, about fifty"
+    },
+    {
+      "start": 468.74,
+      "end": 474.54,
+      "role": "agent",
+      "text": "(uh) It's sixty pound a month. And that'll that'll go live, and that'll be on your next bill, two hundred megabytes. Okay?"
+    },
+    {
+      "start": 474.86,
+      "end": 481.54,
+      "role": "customer",
+      "text": "Right, and what about a refund during a (um) compensation for me losing customers?"
+    },
+    {
+      "start": 482.44,
+      "end": 483.14,
+      "role": "agent",
+      "text": "(um)"
+    },
+    {
+      "start": 484.04,
+      "end": 490.84,
+      "role": "agent",
+      "text": "Compensation? What I'll do, I'll send an email to the relevant team regarding compensation. Okay, (um)"
+    },
+    {
+      "start": 491.04,
+      "end": 494.44,
+      "role": "agent",
+      "text": "understand where you're coming from. I would feel the same. And they will actually get back."
+    },
+    {
+      "start": 493.76,
+      "end": 498.54,
+      "role": "customer",
+      "text": "No you's are able to do that yourselves. I know that my I know that myself."
+    },
+    {
+      "start": 497.64,
+      "end": 497.84,
+      "role": "agent",
+      "text": "Okay."
+    },
+    {
+      "start": 498.54,
+      "end": 503.14,
+      "role": "agent",
+      "text": "(um) I'm not trained in the compensation, unfortunately, so I'll need to escalate it."
+    },
+    {
+      "start": 504.01,
+      "end": 506.84,
+      "role": "customer",
+      "text": "Right, well, can you do that then for me just now?"
+    },
+    {
+      "start": 505.84,
+      "end": 506.34,
+      "role": "agent",
+      "text": "Yeah."
+    },
+    {
+      "start": 507.04,
+      "end": 512.74,
+      "role": "agent",
+      "text": "I'll escalate it for you, and the team will get back to you with like by the end of close today. Okay,"
+    },
+    {
+      "start": 514.79,
+      "end": 520.84,
+      "role": "customer",
+      "text": "Right, well, so how long is this going to take for my speed to be up and running?"
+    },
+    {
+      "start": 522.24,
+      "end": 531.74,
+      "role": "agent",
+      "text": "So, for your speed to be up and running (um) on the new two hundred megabytes that will activate within the next twenty four hours for you. Okay,"
+    },
+    {
+      "start": 531.31,
+      "end": 535.04,
+      "role": "customer",
+      "text": "I really need that on fast. I need it for tomorrow morning."
+    },
+    {
+      "start": 535.54,
+      "end": 545.44,
+      "role": "agent",
+      "text": "Yeah, yeah, so it it will be on within the next twenty four hours, but we we need to say that. But normally, if I'm honest with you, it only takes a couple of hours."
+    },
+    {
+      "start": 547.14,
+      "end": 551.74,
+      "role": "customer",
+      "text": "Right, so that's sixty pound a month, so I'm only really saving six pounds."
+    },
+    {
+      "start": 551.64,
+      "end": 559.64,
+      "role": "agent",
+      "text": "Yes, but if you think about that, six pound a month is quite a lot of money. ten times six is sixty pound and another twelve pound is seventy two pounds"
+    },
+    {
+      "start": 556.36,
+      "end": 564.74,
+      "role": "customer",
+      "text": "Well, can you have a wee look again? See, can you have sorry, can you have a wee look again, see if you've got a different package, maybe a wee bit cheaper?"
+    },
+    {
+      "start": 562.64,
+      "end": 563.14,
+      "role": "agent",
+      "text": "there's"
+    },
+    {
+      "start": 563.84,
+      "end": 570.94,
+      "role": "agent",
+      "text": "I'm sorry, there's nothing else I can do for you with the cost of living, sixty pound a month is a fantastic deal. for two hundred megabytes,"
+    },
+    {
+      "start": 569.39,
+      "end": 577.24,
+      "role": "customer",
+      "text": "Well, can you put me through. Can you put me through to your manager? Because I want to complain because I've lost customers and I'm getting into trouble with my work."
+    },
+    {
+      "start": 577.74,
+      "end": 583.64,
+      "role": "agent",
+      "text": "Right? What I will do for you then as I will give you the phone number, and you can phone the complaints team,"
+    },
+    {
+      "start": 584.44,
+      "end": 585.04,
+      "role": "agent",
+      "text": "and"
+    },
+    {
+      "start": 585.64,
+      "end": 587.74,
+      "role": "agent",
+      "text": "they can then forward the complaint for you."
+    },
+    {
+      "start": 588.26,
+      "end": 589.59,
+      "role": "customer",
+      "text": "And how long will that take?"
+    },
+    {
+      "start": 590.04,
+      "end": 593.54,
+      "role": "agent",
+      "text": "I'm not sure cos I don't work in that department, okay, but I'll give you the number."
+    },
+    {
+      "start": 594.56,
+      "end": 596.94,
+      "role": "customer",
+      "text": "Right, okay. If you just get me it and I'll write it down"
+    },
+    {
+      "start": 597.34,
+      "end": 598.64,
+      "role": "agent",
+      "text": "Right, Ohh, one, four, one"
+    },
+    {
+      "start": 599.04,
+      "end": 599.54,
+      "role": "customer",
+      "text": "Huh-uh"
+    },
+    {
+      "start": 600.04,
+      "end": 601.04,
+      "role": "agent",
+      "text": "five, seven, two"
+    },
+    {
+      "start": 601.76,
+      "end": 602.34,
+      "role": "customer",
+      "text": "Yeah."
+    },
+    {
+      "start": 602.74,
+      "end": 603.54,
+      "role": "agent",
+      "text": "six thousand."
+    },
+    {
+      "start": 604.99,
+      "end": 607.94,
+      "role": "customer",
+      "text": "And I just explained to them what's happened with this issue."
+    },
+    {
+      "start": 608.34,
+      "end": 614.74,
+      "role": "agent",
+      "text": "Yeah, and give them a call. They're open till five pm you will get an email regarding our conversation today, and I mean I sh~"
+    },
+    {
+      "start": 613.61,
+      "end": 616.14,
+      "role": "customer",
+      "text": "Well can you do a test run on it, please?"
+    },
+    {
+      "start": 617.14,
+      "end": 617.94,
+      "role": "agent",
+      "text": "What do you mean?"
+    },
+    {
+      "start": 618.56,
+      "end": 622.14,
+      "role": "customer",
+      "text": "Now you can test it, actually. Test the speed from your."
+    },
+    {
+      "start": 621.24,
+      "end": 622.94,
+      "role": "agent",
+      "text": "I've already tested your speed"
+    },
+    {
+      "start": 624.19,
+      "end": 625.44,
+      "role": "customer",
+      "text": "You've tested that."
+    },
+    {
+      "start": 625.94,
+      "end": 630.24,
+      "role": "agent",
+      "text": "Yeah, I done that at the start of the call. I, I ran a speed test for you like I"
+    },
+    {
+      "start": 628.59,
+      "end": 637.91,
+      "role": "customer",
+      "text": "Well, can you do another one, if you don't mind, to see if it's up and running perfectly because you see this all the time. And then when I come after call, if I get back on it tomorrow, do my work."
+    },
+    {
+      "start": 638.04,
+      "end": 638.54,
+      "role": "agent",
+      "text": "Listen."
+    },
+    {
+      "start": 638.16,
+      "end": 640.04,
+      "role": "customer",
+      "text": "same issue is going to happen again."
+    },
+    {
+      "start": 640.84,
+      "end": 642.24,
+      "role": "agent",
+      "text": "Is it okay to call you Anne today,"
+    },
+    {
+      "start": 643.06,
+      "end": 643.64,
+      "role": "customer",
+      "text": "Yes."
+    },
+    {
+      "start": 644.04,
+      "end": 646.74,
+      "role": "agent",
+      "text": "Anne, I've already explained to you, right?"
+    },
+    {
+      "start": 647.94,
+      "end": 653.94,
+      "role": "agent",
+      "text": "the engineers are fixing the issue, which will be resolved regarding your new speed"
+    },
+    {
+      "start": 651.89,
+      "end": 658.04,
+      "role": "customer",
+      "text": "No, no, you said to you said no, no You said to me there was an issue, but it's been resolved."
+    },
+    {
+      "start": 658.46,
+      "end": 659.84,
+      "role": "customer",
+      "text": "So you're contradicting"
+    },
+    {
+      "start": 658.54,
+      "end": 659.44,
+      "role": "agent",
+      "text": "No, I said,"
+    },
+    {
+      "start": 660.24,
+      "end": 668.44,
+      "role": "agent",
+      "text": "No, no, no. I said, there was an issue that I said that, everything should be fully resolved within the next twenty four hours, right"
+    },
+    {
+      "start": 668.94,
+      "end": 670.34,
+      "role": "agent",
+      "text": "Regarding your new speed,"
+    },
+    {
+      "start": 670.54,
+      "end": 679.94,
+      "role": "agent",
+      "text": "I popped you onto the two hundred megabytes, and I said to you within twenty hours. But most of the time, it only takes two hours to be up and running, right? So, what to do"
+    },
+    {
+      "start": 672.89,
+      "end": 673.64,
+      "role": "customer",
+      "text": "Right."
+    },
+    {
+      "start": 680.64,
+      "end": 681.14,
+      "role": "agent",
+      "text": "is"
+    },
+    {
+      "start": 682.54,
+      "end": 685.24,
+      "role": "agent",
+      "text": "call the complaints department. If you want to raise a complaint,"
+    },
+    {
+      "start": 686.04,
+      "end": 688.24,
+      "role": "agent",
+      "text": "I'll email regarding compensation. Okay"
+    },
+    {
+      "start": 688.83,
+      "end": 689.8,
+      "role": "customer",
+      "text": "(Ah,) so"
+    },
+    {
+      "start": 689.14,
+      "end": 691.24,
+      "role": "agent",
+      "text": "And if your internet"
+    },
+    {
+      "start": 691.94,
+      "end": 699.74,
+      "role": "agent",
+      "text": "is not up and running at two hundred megabytes tomorrow, then give us a call back, but it should be up and running."
+    },
+    {
+      "start": 699.84,
+      "end": 703.84,
+      "role": "agent",
+      "text": "You can also do a speed test yourself, if you g~ log into your virtual media account."
+    },
+    {
+      "start": 702.51,
+      "end": 709.14,
+      "role": "customer",
+      "text": "Alright, alright, alright well just talk me through the, how to do the troubleshooting if you don't mind?"
+    },
+    {
+      "start": 709.54,
+      "end": 710.54,
+      "role": "agent",
+      "text": "I already did that."
+    },
+    {
+      "start": 711.14,
+      "end": 713.46,
+      "role": "customer",
+      "text": "Ohh, if you don't mind, could you repeat it , please?"
+    },
+    {
+      "start": 713.24,
+      "end": 714.44,
+      "role": "agent",
+      "text": "at you wrote it down"
+    },
+    {
+      "start": 715.06,
+      "end": 720.54,
+      "role": "customer",
+      "text": "of c~ I'm awfully sorry, but sometimes I'm hard of hearing"
+    },
+    {
+      "start": 715.24,
+      "end": 716.34,
+      "role": "agent",
+      "text": "and you wrote the steps out."
+    },
+    {
+      "start": 721.64,
+      "end": 726.94,
+      "role": "agent",
+      "text": "No Anne, you don't I, I'm really sorry, but you you wrote steps down"
+    },
+    {
+      "start": 725.04,
+      "end": 729.84,
+      "role": "customer",
+      "text": "Ohh, I, I wrote I wrote down how to sort the router"
+    },
+    {
+      "start": 730.31,
+      "end": 733.84,
+      "role": "customer",
+      "text": "I turn it off and turned it back on again, but if you not got"
+    },
+    {
+      "start": 730.44,
+      "end": 730.94,
+      "role": "agent",
+      "text": "Anne,"
+    },
+    {
+      "start": 733.04,
+      "end": 733.64,
+      "role": "agent",
+      "text": "That's it,"
+    },
+    {
+      "start": 734.31,
+      "end": 738.74,
+      "role": "customer",
+      "text": "But, but, but but does Virgin Media not have a troubleshooting"
+    },
+    {
+      "start": 734.44,
+      "end": 735.44,
+      "role": "agent",
+      "text": "That's"
+    },
+    {
+      "start": 739.44,
+      "end": 748.94,
+      "role": "customer",
+      "text": "On the actual, you know if you need to go online and you not got that online when you can press a button and it just tests yo~ tests all your equipment?"
+    },
+    {
+      "start": 748.94,
+      "end": 752.84,
+      "role": "agent",
+      "text": "Yeah. Like, we do have the Internet Speed Test, and we do have, like,"
+    },
+    {
+      "start": 752.06,
+      "end": 752.74,
+      "role": "customer",
+      "text": "Yeah."
+    },
+    {
+      "start": 753.64,
+      "end": 763.14,
+      "role": "agent",
+      "text": "troubleshooting. If you log into your account and it can tell you things there, yeah, but you r~ you've reset it so that should be everything fine now, okay, and"
+    },
+    {
+      "start": 757.8,
+      "end": 758.39,
+      "role": "customer",
+      "text": "Right"
+    },
+    {
+      "start": 763.24,
+      "end": 765.44,
+      "role": "agent",
+      "text": "while you're on the phone, you said you're hard of hearing,"
+    },
+    {
+      "start": 765.54,
+      "end": 771.44,
+      "role": "agent",
+      "text": "Just to check, is there anyone in the house that is like disabled, chronically ill, vulnerable?"
+    },
+    {
+      "start": 770.79,
+      "end": 772.74,
+      "role": "customer",
+      "text": "Yes, I am. Myself, yeah"
+    },
+    {
+      "start": 772.94,
+      "end": 782.94,
+      "role": "agent",
+      "text": "What I'll do in that case, I wasn't aware of that, so I'll pop you on our priority services register, (um) that way, that you're a priority customer,"
+    },
+    {
+      "start": 779.86,
+      "end": 780.44,
+      "role": "customer",
+      "text": "Aha"
+    },
+    {
+      "start": 783.44,
+      "end": 784.44,
+      "role": "agent",
+      "text": "(um) and I'll also,"
+    },
+    {
+      "start": 783.56,
+      "end": 784.34,
+      "role": "customer",
+      "text": "what does that?"
+    },
+    {
+      "start": 784.54,
+      "end": 788.14,
+      "role": "agent",
+      "text": "then I'll send you an email, and that will let you know, right, some~"
+    },
+    {
+      "start": 787.56,
+      "end": 789.54,
+      "role": "customer",
+      "text": "So what does the priority do for me?"
+    },
+    {
+      "start": 790.04,
+      "end": 798.04,
+      "role": "agent",
+      "text": "It just means that, for example, like, if there's a real problem, we can get an engineer out to you faster, and things like that, because you're on the priority service."
+    },
+    {
+      "start": 798.81,
+      "end": 801.44,
+      "role": "customer",
+      "text": "Right, that's great. Thank you very much."
+    },
+    {
+      "start": 801.84,
+      "end": 809.54,
+      "role": "agent",
+      "text": "(um) regarding the priority just so I can mark it down. You said you're hard of hearing. Is there any other problems or disabilities or health problems?"
+    },
+    {
+      "start": 809.34,
+      "end": 811.84,
+      "role": "customer",
+      "text": "I don't really want to go into it if you don't mind."
+    },
+    {
+      "start": 812.24,
+      "end": 814.74,
+      "role": "agent",
+      "text": "That's okay. I'll just pop you on the list then, okay?"
+    },
+    {
+      "start": 814.89,
+      "end": 817.84,
+      "role": "customer",
+      "text": "Right, that's great. Thank you very much for your help."
+    },
+    {
+      "start": 818.34,
+      "end": 820.04,
+      "role": "agent",
+      "text": "right? Thank you so much for your time."
+    },
+    {
+      "start": 819.54,
+      "end": 821.64,
+      "role": "customer",
+      "text": "Thank you. Bye bye."
+    },
+    {
+      "start": 820.94,
+      "end": 821.44,
+      "role": "agent",
+      "text": "Take care. Bye."
+    }
+  ]
+}

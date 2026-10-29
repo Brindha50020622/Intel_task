@@ -1,0 +1,616 @@
+{
+    "file_name": "en_AU_Aviation_1593397.wav",
+    "duration": 908.383,
+    "accent": "en-AU",
+    "domain": "aviation",
+    "segments": [
+        {
+            "start": 13.84,
+            "end": 14.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Good afternoon."
+        },
+        {
+            "start": 17.24,
+            "end": 20.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "You're speaking with Maria, how can I assist you today?"
+        },
+        {
+            "start": 22.84,
+            "end": 32.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Hi, my name is Jordan. (Um,) I was just hoping to (uh) change my meal request and change my seat if that's all right?"
+        },
+        {
+            "start": 34.39,
+            "end": 41.59,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Of course, I'd be happy to help you with all of that. Before we begin can I please have your booking reference code?"
+        },
+        {
+            "start": 43.34,
+            "end": 47.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "It's L D nine seven G D"
+        },
+        {
+            "start": 50.19,
+            "end": 54.09,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Perfect, just give me one second, I'll type that in my system."
+        },
+        {
+            "start": 55.34,
+            "end": 61.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Thank you, and for security purposes as well, could you please confirm your full name as it appears on the booking?"
+        },
+        {
+            "start": 62.94,
+            "end": 64.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "It's Jordan Miller."
+        },
+        {
+            "start": 67.79,
+            "end": 76.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Certainly Jordan. Let me just check that spelling of the last name. Is it M I double L E R?"
+        },
+        {
+            "start": 78.64,
+            "end": 79.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yep, that's correct"
+        },
+        {
+            "start": 81.44,
+            "end": 85.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Perfect. One second while I pull up your itinerary."
+        },
+        {
+            "start": 85.84,
+            "end": 95.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "All right, here you are. I have your reservation here, you're traveling from New York to Tokyo on the twenty eighth of March, is that correct?"
+        },
+        {
+            "start": 96.04,
+            "end": 97.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, that's the one."
+        },
+        {
+            "start": 100.39,
+            "end": 106.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Perfect, and I see it's an overnight, leaving at eleven P.M.. What would you like to start with today?"
+        },
+        {
+            "start": 108.24,
+            "end": 113.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(Um) could I change my meal to be dairy free and egg free, is that all right?"
+        },
+        {
+            "start": 116.24,
+            "end": 123.49,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely, I can do a special request for you. We have a couple of separate meals options that might work for you."
+        },
+        {
+            "start": 123.49,
+            "end": 136.06,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "We've got the Vegetarian Lacto-Ovo, which includes eggs and dairy, but because you're wanting to avoid that I'd recommend our Vegetarian Vegan meal which has no animal products at all."
+        },
+        {
+            "start": 136.06,
+            "end": 139.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "And that would be the safest choice for you to have. Would you~"
+        },
+        {
+            "start": 144.24,
+            "end": 146.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, that would be great. I love the vegan option please."
+        },
+        {
+            "start": 148.34,
+            "end": 152.72,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Perfect, I'll Vegan meal into your booking."
+        },
+        {
+            "start": 154.04,
+            "end": 161.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Right. Now that, that's confirmed you'll receive your vegan meal for both breakfast and dinner services on your flight."
+        },
+        {
+            "start": 162.84,
+            "end": 169.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, beautiful. That's perfect, thank you. And can I also (um,) can I also book in my seat, is that all right?"
+        },
+        {
+            "start": 172.58,
+            "end": 178.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely. I can do a seat selection for you, now let me pull up our seat map and see what we've currently got available."
+        },
+        {
+            "start": 179.94,
+            "end": 183.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Do you have a preference on whereabouts you'd like to sit in the plane?"
+        },
+        {
+            "start": 184.24,
+            "end": 192.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(uh) I don't like to be at the back and I don't like to be near the toilet and, I probably don't want the middle seat. So anything else, outside of that, would be great."
+        },
+        {
+            "start": 196.62,
+            "end": 203.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Easy, so not at the back of the plane, not near the lavatories, and no middle seat"
+        },
+        {
+            "start": 203.44,
+            "end": 209.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "So I've currently got some aisle seats available in rows twenty two, twenty four and twenty seven."
+        },
+        {
+            "start": 204.64,
+            "end": 204.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yip."
+        },
+        {
+            "start": 209.34,
+            "end": 219.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Twenty two and twenty four are in a quiet zone, and they're typically a little bit more comfortable with less foot traffic and they're located in the middle of the plane. You happy with one of these options?"
+        },
+        {
+            "start": 220.39,
+            "end": 223.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, can I get row twenty two please?"
+        },
+        {
+            "start": 224.68,
+            "end": 233.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yeah, absolutely. I can book you into seat twenty two C if you'd like. It's an aisle seat on the left hand side of the aircraft."
+        },
+        {
+            "start": 233.74,
+            "end": 242.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "It's close to the front of the economy cabin. Economy cabin is also part of the group that also de-planes early, so you'll get off the aircraft faster."
+        },
+        {
+            "start": 243.74,
+            "end": 245.52,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, that would be perfect, thank you. Okay, thank you."
+        },
+        {
+            "start": 251.04,
+            "end": 254.2,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yeah. Is there anything else I can help you with today, Jordan?"
+        },
+        {
+            "start": 255.49,
+            "end": 261.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(Ah) could I also (um) inquire about booking another flight for something else?"
+        },
+        {
+            "start": 264.54,
+            "end": 271.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely, what are you wanting to book and what location airports are you wanting to fly between?"
+        },
+        {
+            "start": 272.79,
+            "end": 283.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "I'm hoping to book between, (ah) I'm thinking New York and I want to go have, go down south somewhere, where it's a bit warmer, so maybe to Mexico City."
+        },
+        {
+            "start": 285.4,
+            "end": 294.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Certainly, a flight from New York, you've got multiple options out of New York. (Um) New York to Mexico City,"
+        },
+        {
+            "start": 294.44,
+            "end": 303.12,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "One of our best options we could do would be out of JFK to New York City. (um) When abouts are you wanting to fly?"
+        },
+        {
+            "start": 304.74,
+            "end": 308.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Could I fly maybe"
+        },
+        {
+            "start": 309.94,
+            "end": 312.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "thinking maybe November the twenty third."
+        },
+        {
+            "start": 314.44,
+            "end": 316.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "And then return fly on the twenty seventh."
+        },
+        {
+            "start": 314.62,
+            "end": 316.5,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Certainly, twentieth of~"
+        },
+        {
+            "start": 319.54,
+            "end": 323.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yeah, certainly let me have a look now at some of our possible options for you."
+        },
+        {
+            "start": 325.44,
+            "end": 334.49,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Here we go, I have, we have four different flight times out of New York to Mexico City. We've got a six A.M. flight."
+        },
+        {
+            "start": 334.49,
+            "end": 341.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "A nine-thirty, two P.M. or eight P.M. Which one works best for you?"
+        },
+        {
+            "start": 340.74,
+            "end": 344.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(uh) I think an eight P.M. would be good, thank you."
+        },
+        {
+            "start": 345.94,
+            "end": 347.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Certainly."
+        },
+        {
+            "start": 348.24,
+            "end": 359.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yep, I can select that for you, eight P.M. on the twenty third to Mexico City. And what time would you probably like to fly back on the twenty seventh?"
+        },
+        {
+            "start": 360.04,
+            "end": 367.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(uh) could I fly back, mm, I wanna get back before, cause I don't wanna be too late in New York so maybe,"
+        },
+        {
+            "start": 368.84,
+            "end": 373.59,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "maybe if I come back in and land in New York by nine P.M.?"
+        },
+        {
+            "start": 375.26,
+            "end": 380.48,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Certainly. So coming back from Mexico City, we've got six flight options available."
+        },
+        {
+            "start": 380.88,
+            "end": 394.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(Um) we have a three P.M. option out of Mexico City, that should have you landing in New York about eight o'clock at night, into JFK again."
+        },
+        {
+            "start": 391.94,
+            "end": 393.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yup, that would be perfect."
+        },
+        {
+            "start": 395.04,
+            "end": 396.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, that would be perfect."
+        },
+        {
+            "start": 398.24,
+            "end": 406.46,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Wonderful, that's all selected for you. Now I just want to confirm your baggage allowance, how much baggage are you seeking to take with you?"
+        },
+        {
+            "start": 407.64,
+            "end": 412.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(Ah) can I get, ohh, maybe fifteen kilograms, if that's all right?"
+        },
+        {
+            "start": 415.04,
+            "end": 423.26,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "So we offer fifteen kilos, twenty three kilos or thirty two kilos. So you're happy to proceed with fifteen kilograms?"
+        },
+        {
+            "start": 424.74,
+            "end": 425.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "How much would that be?"
+        },
+        {
+            "start": 428.74,
+            "end": 440.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Fifteen kilograms is the base limit which is included with all basic economy fare tickets so that's included, but if you'd like to upgrade to twenty three kilograms, the starting price is"
+        },
+        {
+            "start": 444.64,
+            "end": 445.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, that's perfect."
+        },
+        {
+            "start": 450.04,
+            "end": 456.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "just wanting to confirm, are you happy to proceed with Would you like me to the upgrade it to twenty-three kilos?"
+        },
+        {
+            "start": 458.24,
+            "end": 460.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Fifteen kilos is enough I think, thank you."
+        },
+        {
+            "start": 462.84,
+            "end": 465.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Perfect. I'll proceed forth and add that to your itinerary."
+        },
+        {
+            "start": 466.54,
+            "end": 477.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Since you've purchased the standard long-haul economy fare, you also inc~ have one personal item and one standard carry on item. Anything beyond that would incur in excess fees."
+        },
+        {
+            "start": 477.54,
+            "end": 487.0,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "If you do decide to upgrade your baggage, you can do that now up until three hours before your flight. Or you can do it at the airport but it will incur an additional fee as well."
+        },
+        {
+            "start": 488.94,
+            "end": 491.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Beautiful, that sounds all good to me."
+        },
+        {
+            "start": 495.17,
+            "end": 496.12,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Perfect."
+        },
+        {
+            "start": 496.94,
+            "end": 507.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "I'd just like to re-cap everything for you. (Um) would you also like me to book you the Vegan Vegetarian meal as well for your New York to Mexico flight return?"
+        },
+        {
+            "start": 509.34,
+            "end": 510.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, that would be really good, thanks."
+        },
+        {
+            "start": 514.06,
+            "end": 524.0,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Wonderful. That's all confirmed so that Vegan meal is confirmed and from your New York to Tokyo flight and then also from your flight from New York to Mexico City."
+        },
+        {
+            "start": 524.08,
+            "end": 533.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Mexico City upon landing back in New York. Would you also like to proceed with booking a seat with you Mexico flights as well?"
+        },
+        {
+            "start": 535.84,
+            "end": 545.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, that'd be good, I think maybe like the same type of situation, either a window or and aisle seat and mm probably like the middle of the plane maybe?"
+        },
+        {
+            "start": 548.84,
+            "end": 555.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Let me give you, just give me one second and I'll pull up our seat maps to see what is still available for you."
+        },
+        {
+            "start": 597.49,
+            "end": 598.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Hello?"
+        },
+        {
+            "start": 600.34,
+            "end": 601.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Hello?"
+        }
+    ]
+}

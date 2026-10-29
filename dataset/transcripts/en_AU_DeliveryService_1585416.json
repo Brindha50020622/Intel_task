@@ -1,0 +1,664 @@
+{
+    "file_name": "en_AU_DeliveryService_1585416.wav",
+    "duration": 834.854,
+    "accent": "en-AU",
+    "domain": "deliveryservice",
+    "segments": [
+        {
+            "start": 13.64,
+            "end": 17.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Hey there, this is Jim from ATP Delivery Services."
+        },
+        {
+            "start": 18.94,
+            "end": 31.85,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Hi there Jim, (um) I've been calling around and (um) I got a really very sensitive and fragile package that I need to get across Australia (um.)"
+        },
+        {
+            "start": 32.1,
+            "end": 40.83,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "You're not the first set I've called because (um) I've had pa~ in the past I've had incidences where my packages haven't got through,"
+        },
+        {
+            "start": 40.93,
+            "end": 48.85,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "then I've had dramas about the insurance coverage, and sometimes they've been very sensitive family heirlooms and they then y~ you can't replace them."
+        },
+        {
+            "start": 49.1,
+            "end": 60.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "So (um) really really wanna know just how protective you your company the ATP is on fragile packages."
+        },
+        {
+            "start": 61.49,
+            "end": 75.71,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Ah) absolutely. I can understand your (um) apprehension there John and I~ I~ n~ I can know that (um,) I know that some other companies don't take, you know, the~ their shipping as seriously, not to throw dirt on the competition."
+        },
+        {
+            "start": 75.71,
+            "end": 87.69,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Um) in terms of our services for fragile packages, we really want to go above and beyond, just for c~ (um) circumstances like yourself where the items, if they were damaged, are irreplaceable."
+        },
+        {
+            "start": 87.99,
+            "end": 92.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So, it does depend on the size of the package naturally,"
+        },
+        {
+            "start": 92.14,
+            "end": 104.96,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "but all of our packaging is triple insulated against (um) both temperature, moisture, (um) and sort of (uh) (uh,) what's it called, force as well."
+        },
+        {
+            "start": 105.16,
+            "end": 114.53,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So we have a specially designed corrugated cardboard which (um) compresses in a way to mitigate force and to be (um)"
+        },
+        {
+            "start": 114.93,
+            "end": 120.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(uh) airtight, watertight, and heat resistant once fully sealed."
+        },
+        {
+            "start": 120.14,
+            "end": 127.81,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "We will also wrap your package in multiple layers of our specially patented bubble wrap."
+        },
+        {
+            "start": 128.11,
+            "end": 134.12,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Um) and the way our bubble wrap is different is we have much smaller"
+        },
+        {
+            "start": 134.82,
+            "end": 143.33,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) bubbles in the actual wrap itself, and that allows the force to be absorbed over a larger surface area but broken into smaller pieces,"
+        },
+        {
+            "start": 143.53,
+            "end": 152.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "which means that the force is absorbed more efficiently (um.) Is there any other sort of quer~ queries you have at the, the moment?"
+        },
+        {
+            "start": 151.94,
+            "end": 161.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Well do your fragile packages go separately to the other ones, or they all pack all together?"
+        },
+        {
+            "start": 162.71,
+            "end": 171.85,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So we really do pride ourselves on our drivers and our freighting services (um) treating every package as if it were fragile."
+        },
+        {
+            "start": 171.85,
+            "end": 185.3,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So, we have expertly (um) specialized trained drivers and freight operators, so they are not packaged (um) separately but they are packaged individually."
+        },
+        {
+            "start": 185.3,
+            "end": 200.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "This is to protect (um) against smaller items being crushed and things like that, but all of our drivers take (uh) e~ exceptional care to not damage any of the of the deliveries (um) on their on their journey."
+        },
+        {
+            "start": 201.69,
+            "end": 211.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "What is, what is, and in all honesty here what would be your percentage of in a year of damaged product?"
+        },
+        {
+            "start": 213.49,
+            "end": 219.31,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Really really good question and a really good to bre~ way to break it down is that percentage statistic."
+        },
+        {
+            "start": 219.51,
+            "end": 234.03,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So, we send around three and a half million packages per calendar year, and of those packages probably about one and a half million of them are labeled and registered as fragile."
+        },
+        {
+            "start": 235.38,
+            "end": 245.79,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "And of the fragile items, less than one percent of one percent, so point oh oh one percent of them arrived"
+        },
+        {
+            "start": 246.59,
+            "end": 254.81,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "in any any sort of damaged state. And of the the broader (um) packages that we that we freight, (um)"
+        },
+        {
+            "start": 255.86,
+            "end": 264.6,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "the statistic goes up by a magnitude of ten, so point oh oh one percent of the total packages arrived in a damaged state."
+        },
+        {
+            "start": 264.6,
+            "end": 271.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So, there's very little (um) concern for your package being damaged."
+        },
+        {
+            "start": 273.74,
+            "end": 279.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay and do you have different insurance coverage rates?"
+        },
+        {
+            "start": 280.29,
+            "end": 286.59,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely, so in the (um) in the fragile label for your package,"
+        },
+        {
+            "start": 287.84,
+            "end": 300.4,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(uh) damage~ (uh) insurance against damages during transit are actually covered in there, and that's completely comprehensive. So, if your item does not arrive in the exact same state that you sent it in,"
+        },
+        {
+            "start": 300.85,
+            "end": 313.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "then we give you a full refund of the shipping, plus the plus the value of the item, plus ten percent of the item."
+        },
+        {
+            "start": 315.39,
+            "end": 323.77,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay so obviously you guys hav~ have a great track record when it comes to (um) delivering the goods as they left."
+        },
+        {
+            "start": 324.42,
+            "end": 335.79,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Now the next qu~ question I want to would like to know is (um) so in the past I've given a company a package and you don't hear from them again,"
+        },
+        {
+            "start": 336.09,
+            "end": 342.62,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "and (um) whoever receives it will let me know that they've got it, or I have to phone them to ask them if they've got it."
+        },
+        {
+            "start": 342.97,
+            "end": 355.89,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "What is your tracking procedure and your your u~ updating as you go along like? How do you how do you guys operate in terms of giving us updates on the the product?"
+        },
+        {
+            "start": 357.64,
+            "end": 368.71,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely, a good question and it's a very good way of keeping (um) of keeping the tracking, (uh) not the tracking sorry, the (um) the freight company responsible for the stages of the transit of your item."
+        },
+        {
+            "start": 368.96,
+            "end": 379.72,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So, our tracking (um) is down to within ten meters of accuracy once you get your tracking link, your tracking code,"
+        },
+        {
+            "start": 379.97,
+            "end": 387.6,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "and that is from the immediate moment that it is deposited in our depot, until it arrives at your door."
+        },
+        {
+            "start": 387.7,
+            "end": 397.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So we have very very accurate, very very (um) consistent tracking options, and we'll update you in every single major stage of the transit as well."
+        },
+        {
+            "start": 399.04,
+            "end": 400.59,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "And how do you do that?"
+        },
+        {
+            "start": 401.64,
+            "end": 411.93,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So this is done with our (um) our tracking label itself has a small (um) microchip and it also has a barcode."
+        },
+        {
+            "start": 411.93,
+            "end": 422.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So when the package arrives as each major (um) depot or switchover or whatever stage it may be, they need it to be scanned into our system."
+        },
+        {
+            "start": 422.79,
+            "end": 434.59,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "And, assuming that the driver for whatever reason didn't scan it into the system, that little microchip in the label allows us to track it to within that ten meter of accuracy to know"
+        },
+        {
+            "start": 435.24,
+            "end": 442.29,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "at real time exactly where your package is. So there is no risk of your package being lost,"
+        },
+        {
+            "start": 442.29,
+            "end": 454.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "unless there was a catastrophic failure and there was no microchip and no barcode scanned, which as far as my knowledge goes, I've been with the company for four years now, there has never been a package that has been lost completely."
+        },
+        {
+            "start": 456.04,
+            "end": 461.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "And how do you notify as you go along, is it by text or is it by email?"
+        },
+        {
+            "start": 461.74,
+            "end": 468.95,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Uh) it's up to the customer's preference. So originally we do email them and we do send them a text via SMS,"
+        },
+        {
+            "start": 468.95,
+            "end": 477.32,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "but (um) you can customize it to your preference, so if you only want email updates we can do that, (uh) if you only want text (uh) updates we can do that."
+        },
+        {
+            "start": 477.32,
+            "end": 489.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "We can even give you a call once it's arrived in you state or country, so (um) it it's totally up to the preference of the customer, but by default we notify them by both SMS and by email."
+        },
+        {
+            "start": 490.69,
+            "end": 504.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Ohh okay that's good. Now what about (um) delivery times? Y~ I guessing y~ what's your standard delivery time and then how does that compare to your expre~ express shipping options?"
+        },
+        {
+            "start": 506.09,
+            "end": 508.62,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah, really good question there as well so"
+        },
+        {
+            "start": 509.27,
+            "end": 519.01,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "i~ our standard delivery rate for (um) deliveries within Australia is seven days, (uh) seven business days."
+        },
+        {
+            "start": 519.26,
+            "end": 531.41,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So, most packages arrive sooner than that, but our standard fare is (um) is about seven business days. We do also have the option to express ship."
+        },
+        {
+            "start": 531.66,
+            "end": 544.41,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Now, just because it's faster does not mean it is any less safe. All of the drivers are held to an extremely high standard and given (uh) rigorous rigorous expertise (um) training."
+        },
+        {
+            "start": 544.41,
+            "end": 555.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So just because it's coming faster, doesn't necessarily mean (uh) it's coming any more dangerous or any less safely, it just is the (um) the mode of transport that it is used."
+        },
+        {
+            "start": 558.04,
+            "end": 563.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Yeah and your the express shipping costs a lot more?"
+        },
+        {
+            "start": 564.64,
+            "end": 570.58,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Uh) it does cost more, I wouldn't necessarily say a lot more."
+        },
+        {
+            "start": 570.58,
+            "end": 581.71,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So, (uh) for our standard (um) package, so that's packages within (um) thirty cubed centimeters (um) for surface area,"
+        },
+        {
+            "start": 582.31,
+            "end": 593.02,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "the the shipping on that is about twelve dollars or thirteen dollars sorry, twelve ninety-nine (um) for our standard (uh) standard (uh) delivery."
+        },
+        {
+            "start": 593.02,
+            "end": 606.96,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "For the express it's seventeen ninety-nine, so eighteen dollars, (um) and the delivery time expectation is within three business days of (uh) placing the order, so yeah."
+        },
+        {
+            "start": 608.34,
+            "end": 616.97,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "If you if you say to us your customers, it'll be there in the express time, say two three days or whatever time is,"
+        },
+        {
+            "start": 616.97,
+            "end": 624.5,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "if you do not deliver on that th~, sorry I'm just going off previous experience with this, been promised express and it hasn't quite happened."
+        },
+        {
+            "start": 624.65,
+            "end": 633.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "What do you how do you compensate your customers if it doesn't get there within the the specific time you've designated it?"
+        },
+        {
+            "start": 634.66,
+            "end": 645.57,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Really awesome question once again, (um) I can totally understand why this would be important to you because of your past experience, but we really do pride ourselves on making promises that we keep."
+        },
+        {
+            "start": 645.77,
+            "end": 653.36,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So if your delivery is not delivered within the expected time frame, especially for express,"
+        },
+        {
+            "start": 653.61,
+            "end": 665.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "if express (um) we'll refund you the full shipping amount plus reimburse you ten percent of the item's value. If it is the standard shipping, we just give you a full refund of the shipping cost."
+        },
+        {
+            "start": 667.84,
+            "end": 672.01,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay all right, so that's sounding very good, (um)"
+        },
+        {
+            "start": 672.56,
+            "end": 683.46,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "now you mentioned earlier about packagi~ if I do not use your your express packagi~ (uh) your express delivery,"
+        },
+        {
+            "start": 683.91,
+            "end": 696.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "does that change the packaging the type of packaging you use between the normal delivery and the express, is it the same packaging for both?"
+        },
+        {
+            "start": 697.49,
+            "end": 706.58,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely, so as I was saying previously, (uh) it doesn't matter (um) how quickly you want the package, we care about getting it to you safely."
+        },
+        {
+            "start": 706.78,
+            "end": 716.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "We want no damage, we want (um) you know, in case like yourself it's a priceless family heirloom or just irreplaceable, we don't want it to be damaged."
+        },
+        {
+            "start": 716.64,
+            "end": 727.3,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So we package all of the items (um) per the mode of transport, but all of them go through (uh) the stages that I previously explained with the corrugated cardboard and the bubble wrap,"
+        },
+        {
+            "start": 727.45,
+            "end": 731.21,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um) and the heas~ heat resistance and and all of that (um.)"
+        },
+        {
+            "start": 731.21,
+            "end": 743.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "All of it's packaged the same way, cause we found that if we don't compromise on the packaging, it shouldn't matter you know how it's transported, and it seems to be the case with our (um) statistics for package damage."
+        },
+        {
+            "start": 745.14,
+            "end": 756.92,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay, no that's sounding very good. (Um) I think I've covered everything in my mind, there's only one thing that I'd like to know is do you only use your drivers, your ATP drivers"
+        },
+        {
+            "start": 756.92,
+            "end": 767.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "or do you give it to, in areas where you do not have ATP drivers, do you give it to somebody else to transport and therefore it'll change your whole dynamics of your company?"
+        },
+        {
+            "start": 768.24,
+            "end": 776.79,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Ah) Absolutely, really really really good question there, so we do not compromise on the quality and the safety of your packages."
+        },
+        {
+            "start": 776.94,
+            "end": 788.72,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So, we will not deliver to areas that do not have access, within a within a radius, of our ATP drivers, so (um) yeah."
+        },
+        {
+            "start": 788.72,
+            "end": 799.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So that is probably the one limiting factor of our company that (um) we are actively working to improve and as we expand will diminish, but we only use our own drivers."
+        },
+        {
+            "start": 800.34,
+            "end": 813.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Well, I'll use you guys, I'm glad I don't have to keep calling around now, that sounds a~ actually fantastic. Good work from ATP, well done. Thank you very much for all your information today."
+        },
+        {
+            "start": 810.84,
+            "end": 811.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely."
+        },
+        {
+            "start": 813.54,
+            "end": 817.69,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "No problem mate, I'm glad to have you as an ATP customer. You have a great rest of your day."
+        },
+        {
+            "start": 818.64,
+            "end": 819.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Thank you, you too."
+        }
+    ]
+}

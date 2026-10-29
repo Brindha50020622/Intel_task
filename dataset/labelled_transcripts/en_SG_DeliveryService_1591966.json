@@ -1,0 +1,1169 @@
+{
+    "file_name": "en_SG_DeliveryService_1591966.wav",
+    "domain": "deliveryservice",
+    "accent": "en-SG",
+    "duration": 649.489,
+    "escalation_label": 1,
+    "segments": [
+        {
+            "start": 15.54,
+            "end": 16.14,
+            "role": "customer",
+            "text": "Hi",
+            "escalation_label": 0,
+            "label_reason": "Greeting."
+        },
+        {
+            "start": 16.94,
+            "end": 17.64,
+            "role": "customer",
+            "text": "this is Grab.",
+            "escalation_label": 0,
+            "label_reason": "Identifying self."
+        },
+        {
+            "start": 18.14,
+            "end": 19.44,
+            "role": "agent",
+            "text": "Yes, this is Grab.",
+            "escalation_label": 0,
+            "label_reason": "Agent greeting."
+        },
+        {
+            "start": 20.04,
+            "end": 20.34,
+            "role": "agent",
+            "text": "What",
+            "escalation_label": 0,
+            "label_reason": "Agent prompting for issue."
+        },
+        {
+            "start": 21.26,
+            "end": 22.14,
+            "role": "customer",
+            "text": "Is overdue",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly states a problem."
+        },
+        {
+            "start": 23.34,
+            "end": 26.44,
+            "role": "agent",
+            "text": "(uh,) what what parcel are you referring to?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for clarification."
+        },
+        {
+            "start": 30.34,
+            "end": 31.54,
+            "role": "customer",
+            "text": "The one for the cosmetic.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides details."
+        },
+        {
+            "start": 32.24,
+            "end": 35.84,
+            "role": "agent",
+            "text": "Okay. Can you tell me more? Do you have your tracking number?",
+            "escalation_label": 0,
+            "label_reason": "Agent requests more information."
+        },
+        {
+            "start": 39.84,
+            "end": 42.24,
+            "role": "customer",
+            "text": "My tracking number, (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer attempts to recall information."
+        },
+        {
+            "start": 41.74,
+            "end": 44.74,
+            "role": "agent",
+            "text": "Or is your tracking number showing any updates?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for more detail about the tracking."
+        },
+        {
+            "start": 47.54,
+            "end": 48.74,
+            "role": "customer",
+            "text": "Or the tracking is stuck.",
+            "escalation_label": 0,
+            "label_reason": "Customer describes the problem with tracking."
+        },
+        {
+            "start": 48.94,
+            "end": 49.54,
+            "role": "agent",
+            "text": "Okay",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 50.14,
+            "end": 54.54,
+            "role": "agent",
+            "text": "So, can you (uh) please give me an order ID please?",
+            "escalation_label": 0,
+            "label_reason": "Agent requests an order ID."
+        },
+        {
+            "start": 59.64,
+            "end": 61.44,
+            "role": "customer",
+            "text": "A D five four",
+            "escalation_label": 0,
+            "label_reason": "Customer provides order ID."
+        },
+        {
+            "start": 62.04,
+            "end": 62.84,
+            "role": "customer",
+            "text": "one two nine",
+            "escalation_label": 0,
+            "label_reason": "Customer provides order ID."
+        },
+        {
+            "start": 63.04,
+            "end": 64.54,
+            "role": "agent",
+            "text": "Okay, let me repeat one more",
+            "escalation_label": 0,
+            "label_reason": "Agent confirming information."
+        },
+        {
+            "start": 64.54,
+            "end": 65.44,
+            "role": "customer",
+            "text": "C I D",
+            "escalation_label": 0,
+            "label_reason": "Customer provides more of the ID."
+        },
+        {
+            "start": 65.94,
+            "end": 66.84,
+            "role": "agent",
+            "text": "AD",
+            "escalation_label": 0,
+            "label_reason": "Agent confirming information."
+        },
+        {
+            "start": 67.84,
+            "end": 69.54,
+            "role": "agent",
+            "text": "five D one four five",
+            "escalation_label": 0,
+            "label_reason": "Agent confirming information."
+        },
+        {
+            "start": 72.14,
+            "end": 72.74,
+            "role": "agent",
+            "text": "Is that right?",
+            "escalation_label": 0,
+            "label_reason": "Agent seeking confirmation."
+        },
+        {
+            "start": 74.14,
+            "end": 75.04,
+            "role": "customer",
+            "text": "Yes",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms."
+        },
+        {
+            "start": 75.54,
+            "end": 76.44,
+            "role": "agent",
+            "text": "Okay",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 79.04,
+            "end": 88.94,
+            "role": "agent",
+            "text": "Let me enter. Check out the system. Okay. It shows that there's this order. So (uh,) may I know when was the last time that you have checked",
+            "escalation_label": 0,
+            "label_reason": "Agent checks system and asks clarifying question."
+        },
+        {
+            "start": 89.14,
+            "end": 90.04,
+            "role": "agent",
+            "text": "on the tracking?",
+            "escalation_label": 0,
+            "label_reason": "Agent completes question."
+        },
+        {
+            "start": 92.34,
+            "end": 93.44,
+            "role": "customer",
+            "text": "I just checked this morning.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides information."
+        },
+        {
+            "start": 94.54,
+            "end": 95.24,
+            "role": "agent",
+            "text": "Okay",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 95.14,
+            "end": 96.34,
+            "role": "customer",
+            "text": "And then now I try again.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides information."
+        },
+        {
+            "start": 96.94,
+            "end": 99.04,
+            "role": "customer",
+            "text": "I can't check because it's stuck already.",
+            "escalation_label": 0,
+            "label_reason": "Customer reiterates the problem calmly."
+        },
+        {
+            "start": 99.54,
+            "end": 101.04,
+            "role": "agent",
+            "text": "Okay, so",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 101.74,
+            "end": 103.34,
+            "role": "customer",
+            "text": "It's already overdue, you know",
+            "escalation_label": 0,
+            "label_reason": "Customer states the problem, indicating concern, but not strong frustration."
+        },
+        {
+            "start": 104.04,
+            "end": 105.84,
+            "role": "customer",
+            "text": "it's very urgent for me. I need it.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses urgency but still calmly explaining the impact."
+        },
+        {
+            "start": 107.34,
+            "end": 110.94,
+            "role": "agent",
+            "text": "Okay, I'm very sorry about this situation happening.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers an apology and acknowledgment of the issue."
+        },
+        {
+            "start": 112.04,
+            "end": 114.14,
+            "role": "agent",
+            "text": "Let me look at the system right now.",
+            "escalation_label": 0,
+            "label_reason": "Agent states action to resolve."
+        },
+        {
+            "start": 115.04,
+            "end": 116.14,
+            "role": "agent",
+            "text": "Okay",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 116.74,
+            "end": 119.24,
+            "role": "agent",
+            "text": "It's six four, okay system",
+            "escalation_label": 0,
+            "label_reason": "Agent checking system."
+        },
+        {
+            "start": 119.84,
+            "end": 127.84,
+            "role": "agent",
+            "text": "Okay, it shows that it has left. The seller has shipped out. Okay, shows that it has arrived at their warehouse.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides update from system."
+        },
+        {
+            "start": 128.04,
+            "end": 129.64,
+            "role": "customer",
+            "text": "But why there's no update?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks a question, indicating confusion about conflicting information, but not strong frustration."
+        },
+        {
+            "start": 130.14,
+            "end": 133.34,
+            "role": "agent",
+            "text": "Okay, I think, I believe this is (uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent attempts to provide an explanation."
+        },
+        {
+            "start": 133.94,
+            "end": 137.04,
+            "role": "agent",
+            "text": "This might be due to the recent flooding in",
+            "escalation_label": 0,
+            "label_reason": "Agent explains a potential reason for delay."
+        },
+        {
+            "start": 141.24,
+            "end": 141.74,
+            "role": "agent",
+            "text": "Sorry",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes for a verbal pause or interruption."
+        },
+        {
+            "start": 142.34,
+            "end": 145.74,
+            "role": "agent",
+            "text": "So, there (uh) disconnection. So, this might be any",
+            "escalation_label": 0,
+            "label_reason": "Agent continues explanation about potential issues."
+        },
+        {
+            "start": 146.44,
+            "end": 156.24,
+            "role": "agent",
+            "text": "Issue due to the flooding area, so because I believe the seller is from Thailand. So, you are buying this cosmetic from Thailand, and we have received multiple",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the cause of delay."
+        },
+        {
+            "start": 156.34,
+            "end": 156.94,
+            "role": "agent",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Agent verbal pause."
+        },
+        {
+            "start": 157.34,
+            "end": 164.24,
+            "role": "agent",
+            "text": "Feedback regarding this issue from this seller or from parcels from Thailand. So",
+            "escalation_label": 0,
+            "label_reason": "Agent continues explanation about the cause of delay."
+        },
+        {
+            "start": 165.14,
+            "end": 168.24,
+            "role": "agent",
+            "text": "This might be the issue due to the heavy flood.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates the cause of delay."
+        },
+        {
+            "start": 169.34,
+            "end": 176.54,
+            "role": "agent",
+            "text": "the transportation and delivery are badly affected. Which is why they are now misrouting the",
+            "escalation_label": 0,
+            "label_reason": "Agent explains impact of the flood."
+        },
+        {
+            "start": 178.44,
+            "end": 180.44,
+            "role": "agent",
+            "text": "Usual routes and",
+            "escalation_label": 0,
+            "label_reason": "Agent continues explanation."
+        },
+        {
+            "start": 181.84,
+            "end": 188.34,
+            "role": "agent",
+            "text": "May I ask if the indicated dates in your tracking order shows that the delivery should be",
+            "escalation_label": 0,
+            "label_reason": "Agent asks clarifying question."
+        },
+        {
+            "start": 189.04,
+            "end": 189.54,
+            "role": "agent",
+            "text": "today",
+            "escalation_label": 0,
+            "label_reason": "Agent completes question."
+        },
+        {
+            "start": 193.54,
+            "end": 194.34,
+            "role": "customer",
+            "text": "Okay, just let me check.",
+            "escalation_label": 0,
+            "label_reason": "Customer complies with agent's request."
+        },
+        {
+            "start": 200.94,
+            "end": 203.54,
+            "role": "customer",
+            "text": "Although there~ there's no indication. So (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer states lack of information."
+        },
+        {
+            "start": 204.54,
+            "end": 206.24,
+            "role": "customer",
+            "text": "Will the driver attend the delivery?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks a question for clarification."
+        },
+        {
+            "start": 210.44,
+            "end": 210.94,
+            "role": "agent",
+            "text": "Yes",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 211.74,
+            "end": 217.54,
+            "role": "agent",
+            "text": "It shows that the driver is on the way to deliver and he's already out for delivery.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides update from system."
+        },
+        {
+            "start": 219.04,
+            "end": 220.54,
+            "role": "agent",
+            "text": "It shows that in the system.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies information source."
+        },
+        {
+            "start": 224.94,
+            "end": 225.84,
+            "role": "customer",
+            "text": "Okay",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgment."
+        },
+        {
+            "start": 226.54,
+            "end": 230.94,
+            "role": "customer",
+            "text": "But I I didn't receive any SMS or any updates",
+            "escalation_label": 0,
+            "label_reason": "Customer states a new problem (lack of communication), but calmly."
+        },
+        {
+            "start": 231.34,
+            "end": 231.94,
+            "role": "agent",
+            "text": "I see",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 232.64,
+            "end": 233.74,
+            "role": "agent",
+            "text": "Let me check the",
+            "escalation_label": 0,
+            "label_reason": "Agent states action to resolve."
+        },
+        {
+            "start": 234.44,
+            "end": 238.64,
+            "role": "agent",
+            "text": "(uh,) system over here, regarding the SMS. Okay",
+            "escalation_label": 0,
+            "label_reason": "Agent states action to resolve."
+        },
+        {
+            "start": 239.84,
+            "end": 244.04,
+            "role": "agent",
+            "text": "May I (uh) verify your phone number please? Is it",
+            "escalation_label": 0,
+            "label_reason": "Agent requests verification of information."
+        },
+        {
+            "start": 245.24,
+            "end": 247.84,
+            "role": "agent",
+            "text": "Eight nine three six",
+            "escalation_label": 0,
+            "label_reason": "Agent verifies phone number."
+        },
+        {
+            "start": 248.54,
+            "end": 249.84,
+            "role": "agent",
+            "text": "Four one two",
+            "escalation_label": 0,
+            "label_reason": "Agent verifies phone number."
+        },
+        {
+            "start": 252.84,
+            "end": 255.54,
+            "role": "customer",
+            "text": "Eight nine three six four one, yes",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms phone number."
+        },
+        {
+            "start": 255.94,
+            "end": 263.44,
+            "role": "agent",
+            "text": "Ohh, okay. So, it seems that there has been a SMS sent yesterday regarding this.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information from system."
+        },
+        {
+            "start": 266.14,
+            "end": 270.84,
+            "role": "agent",
+            "text": "It says that (um) the delivery. yes it It indicated that (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent explains contents of SMS."
+        },
+        {
+            "start": 267.44,
+            "end": 268.04,
+            "role": "customer",
+            "text": "release",
+            "escalation_label": 0,
+            "label_reason": "Customer interjection, likely trying to understand or repeat."
+        },
+        {
+            "start": 271.84,
+            "end": 274.94,
+            "role": "agent",
+            "text": "There is there is a delay due to the.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains contents of SMS."
+        },
+        {
+            "start": 276.04,
+            "end": 278.24,
+            "role": "agent",
+            "text": "Flooding situation in Thailand.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains contents of SMS."
+        },
+        {
+            "start": 279.34,
+            "end": 281.74,
+            "role": "agent",
+            "text": "So, they wanted to give you an update.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains contents of SMS."
+        },
+        {
+            "start": 283.64,
+            "end": 284.44,
+            "role": "agent",
+            "text": "You might have it.",
+            "escalation_label": 0,
+            "label_reason": "Agent implies customer might have received it."
+        },
+        {
+            "start": 284.04,
+            "end": 287.54,
+            "role": "customer",
+            "text": "Okay, I didn't I didn't actually receive it. So, what happens next?",
+            "escalation_label": 0,
+            "label_reason": "Customer states not receiving SMS and asks for next steps, calmly seeking a solution."
+        },
+        {
+            "start": 287.84,
+            "end": 288.64,
+            "role": "agent",
+            "text": "Ohh, okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 289.84,
+            "end": 294.04,
+            "role": "agent",
+            "text": "So, I will try to expedite and contact the delivery company.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers a solution."
+        },
+        {
+            "start": 295.14,
+            "end": 300.64,
+            "role": "agent",
+            "text": "Which is Ninja Ben. I believe Ninja Ben is the delivery company responsible for this.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides details of the solution."
+        },
+        {
+            "start": 303.34,
+            "end": 307.24,
+            "role": "agent",
+            "text": "So, I will I will quickly expedite this situation.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms action to expedite."
+        },
+        {
+            "start": 307.84,
+            "end": 315.84,
+            "role": "agent",
+            "text": "and get them to give me an update internally so, that our system can send you another SMS",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the steps for the solution."
+        },
+        {
+            "start": 316.44,
+            "end": 318.74,
+            "role": "agent",
+            "text": "to inform you of the most updated",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the steps for the solution."
+        },
+        {
+            "start": 319.64,
+            "end": 320.64,
+            "role": "agent",
+            "text": "Delivery time",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the steps for the solution."
+        },
+        {
+            "start": 324.14,
+            "end": 327.94,
+            "role": "customer",
+            "text": "So, what if (um) around the time I don't I don't receive the thing. Will there be a refund?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about potential resolution (refund) for an unresolved issue, still calmly seeking information."
+        },
+        {
+            "start": 329.24,
+            "end": 338.04,
+            "role": "agent",
+            "text": "Yes, definitely. we will we will investigate this situation. And if it is more than seventy-two hours of the.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about refund policy."
+        },
+        {
+            "start": 338.74,
+            "end": 342.34,
+            "role": "agent",
+            "text": "(um,) intended required delivery time,",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about refund policy."
+        },
+        {
+            "start": 343.44,
+            "end": 345.34,
+            "role": "agent",
+            "text": "Grab will definitely.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about refund policy."
+        },
+        {
+            "start": 346.54,
+            "end": 352.24,
+            "role": "agent",
+            "text": "Refund without questions asked. So, I will I have escalated this in my system.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a solution and internally escalates the case (agent action)."
+        },
+        {
+            "start": 352.84,
+            "end": 362.64,
+            "role": "agent",
+            "text": "We hire UPS as a memo so that they will put this case in priority and we will track this system very carefully.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains internal escalation process."
+        },
+        {
+            "start": 362.94,
+            "end": 363.84,
+            "role": "agent",
+            "text": "and if",
+            "escalation_label": 0,
+            "label_reason": "Agent continues explanation."
+        },
+        {
+            "start": 364.54,
+            "end": 366.04,
+            "role": "agent",
+            "text": "after seventy-two hours.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues explanation of policy."
+        },
+        {
+            "start": 368.04,
+            "end": 372.24,
+            "role": "agent",
+            "text": "The updates in our system has not been reflected as delivered",
+            "escalation_label": 0,
+            "label_reason": "Agent continues explanation of policy."
+        },
+        {
+            "start": 373.04,
+            "end": 381.24,
+            "role": "agent",
+            "text": "to customer, we would definitely automatically (um) send you the refund back into your Grab account.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the resolution process."
+        },
+        {
+            "start": 384.04,
+            "end": 388.64,
+            "role": "customer",
+            "text": "Ohh, so, what is the difference between a refund and",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for clarification on resolution options."
+        },
+        {
+            "start": 389.24,
+            "end": 390.54,
+            "role": "customer",
+            "text": "resending me the items?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for clarification on resolution options."
+        },
+        {
+            "start": 391.04,
+            "end": 394.04,
+            "role": "agent",
+            "text": "So, when it comes to refunding.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains policy."
+        },
+        {
+            "start": 396.74,
+            "end": 400.84,
+            "role": "agent",
+            "text": "Whether you will eventually receive the parcel",
+            "escalation_label": 0,
+            "label_reason": "Agent explains refund details."
+        },
+        {
+            "start": 401.84,
+            "end": 403.04,
+            "role": "agent",
+            "text": "You will receive the money.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains refund details."
+        },
+        {
+            "start": 403.64,
+            "end": 407.94,
+            "role": "agent",
+            "text": "So, the money will immediately go back into your system into your account.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains refund details."
+        },
+        {
+            "start": 409.44,
+            "end": 414.84,
+            "role": "agent",
+            "text": "And if the parcel were to arrive today, tomorrow or",
+            "escalation_label": 0,
+            "label_reason": "Agent explains refund details."
+        },
+        {
+            "start": 415.54,
+            "end": 423.54,
+            "role": "agent",
+            "text": "I mean definitely after seventy-two hours later or next week, you will keep the parcel as well. We do not require any return from you.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains refund details."
+        },
+        {
+            "start": 423.94,
+            "end": 425.64,
+            "role": "agent",
+            "text": "So that is the refund",
+            "escalation_label": 0,
+            "label_reason": "Agent summarizes refund explanation."
+        },
+        {
+            "start": 425.94,
+            "end": 435.84,
+            "role": "agent",
+            "text": "And when it comes to resend, resend is we will still hold on, Grab will still hold on to the funding and we would request for the seller,",
+            "escalation_label": 0,
+            "label_reason": "Agent explains resend policy."
+        },
+        {
+            "start": 436.74,
+            "end": 443.74,
+            "role": "agent",
+            "text": "to resend out the parcel one more time, because of the situation that the customer did not receive this parcel",
+            "escalation_label": 0,
+            "label_reason": "Agent explains resend policy."
+        },
+        {
+            "start": 444.64,
+            "end": 448.04,
+            "role": "agent",
+            "text": "and the delivery team also did not receive the parcel.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains resend policy."
+        },
+        {
+            "start": 449.04,
+            "end": 450.34,
+            "role": "agent",
+            "text": "But there is the difference.",
+            "escalation_label": 0,
+            "label_reason": "Agent summarizes difference."
+        },
+        {
+            "start": 452.04,
+            "end": 456.24,
+            "role": "customer",
+            "text": "Okay. That's all? There's no compensation? I've waited for so long.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses clear dissatisfaction with the proposed resolution and questions the lack of additional compensation, indicating strong frustration over the prolonged wait."
+        },
+        {
+            "start": 456.84,
+            "end": 465.04,
+            "role": "agent",
+            "text": "All right. So (um,) may I know what kind of compensation I'm looking for like so that I can check into our SOP and",
+            "escalation_label": 0,
+            "label_reason": "Agent responds to customer's dissatisfaction by asking for clarification to find a suitable solution, aiming to de-escalate."
+        },
+        {
+            "start": 465.74,
+            "end": 470.14,
+            "role": "agent",
+            "text": "find (uh) compensations that is suitable for you",
+            "escalation_label": 0,
+            "label_reason": "Agent responds to customer's dissatisfaction by offering to find a suitable solution."
+        },
+        {
+            "start": 470.84,
+            "end": 472.04,
+            "role": "agent",
+            "text": "For your situation.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies intention to find suitable compensation."
+        },
+        {
+            "start": 473.64,
+            "end": 475.04,
+            "role": "customer",
+            "text": "I don't know. I don't know why your company.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses continued frustration and implies the company should proactively offer solutions, showing dissatisfaction with the service."
+        },
+        {
+            "start": 476.74,
+            "end": 479.04,
+            "role": "agent",
+            "text": "Sorry, could you repeat one more time please?",
+            "escalation_label": 0,
+            "label_reason": "Agent requests clarification."
+        },
+        {
+            "start": 480.04,
+            "end": 486.24,
+            "role": "customer",
+            "text": "I don't know because I don't know what your company can offer me. Because I have never experienced this situation before.",
+            "escalation_label": 1,
+            "label_reason": "Customer reiterates their frustration and lack of knowledge regarding compensation, expressing serious dissatisfaction with the unprecedented negative experience."
+        },
+        {
+            "start": 487.24,
+            "end": 491.94,
+            "role": "agent",
+            "text": "Okay. So, (uh) when it comes to late delivery",
+            "escalation_label": 0,
+            "label_reason": "Agent begins to explain company policy regarding compensation."
+        },
+        {
+            "start": 493.04,
+            "end": 495.84,
+            "role": "agent",
+            "text": "especially when the clients",
+            "escalation_label": 0,
+            "label_reason": "Agent explains company policy regarding compensation."
+        },
+        {
+            "start": 496.44,
+            "end": 500.54,
+            "role": "agent",
+            "text": "has not received the parcel seventy-two hours after the",
+            "escalation_label": 0,
+            "label_reason": "Agent explains company policy regarding compensation."
+        },
+        {
+            "start": 501.44,
+            "end": 510.74,
+            "role": "agent",
+            "text": "stated delivery time, not only will we give you a full refund of the amount that you have paid for this delivered parcel",
+            "escalation_label": 0,
+            "label_reason": "Agent offers a specific compensation solution (full refund)."
+        },
+        {
+            "start": 511.44,
+            "end": 514.54,
+            "role": "agent",
+            "text": "we would also include a twenty dollars",
+            "escalation_label": 0,
+            "label_reason": "Agent offers additional compensation (voucher)."
+        },
+        {
+            "start": 515.24,
+            "end": 515.94,
+            "role": "agent",
+            "text": "voucher",
+            "escalation_label": 0,
+            "label_reason": "Agent completes compensation offer."
+        },
+        {
+            "start": 516.54,
+            "end": 518.84,
+            "role": "agent",
+            "text": "that you can use for your next order.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the use of the voucher."
+        },
+        {
+            "start": 519.94,
+            "end": 520.54,
+            "role": "agent",
+            "text": "So",
+            "escalation_label": 0,
+            "label_reason": "Agent verbal connector."
+        },
+        {
+            "start": 521.44,
+            "end": 522.84,
+            "role": "agent",
+            "text": "We have definitely",
+            "escalation_label": 0,
+            "label_reason": "Agent reinforces commitment to service."
+        },
+        {
+            "start": 524.84,
+            "end": 533.24,
+            "role": "agent",
+            "text": "our customers satisfaction as a priority. So, I'm very we are very sorry that this happened to you. So",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses apology and commitment to customer satisfaction, aiming to de-escalate."
+        },
+        {
+            "start": 534.64,
+            "end": 536.94,
+            "role": "agent",
+            "text": "Could you please call",
+            "escalation_label": 0,
+            "label_reason": "Agent provides instructions for follow-up."
+        },
+        {
+            "start": 537.64,
+            "end": 541.64,
+            "role": "agent",
+            "text": "If in after seventy-two- hours, if you still have not receive it,",
+            "escalation_label": 0,
+            "label_reason": "Agent provides instructions for follow-up."
+        },
+        {
+            "start": 543.14,
+            "end": 544.74,
+            "role": "agent",
+            "text": "could you please call me again?",
+            "escalation_label": 0,
+            "label_reason": "Agent provides instructions for follow-up."
+        },
+        {
+            "start": 545.74,
+            "end": 549.44,
+            "role": "agent",
+            "text": "You have the same number, and my extension number is forty-five",
+            "escalation_label": 0,
+            "label_reason": "Agent provides direct contact for follow-up."
+        },
+        {
+            "start": 550.04,
+            "end": 556.54,
+            "role": "agent",
+            "text": "So, you could call when you call in again, you just press extension number forty-five, you will reach me.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains how to use the extension number."
+        },
+        {
+            "start": 557.24,
+            "end": 558.54,
+            "role": "agent",
+            "text": "and I will definitely.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides assurance."
+        },
+        {
+            "start": 559.64,
+            "end": 564.14,
+            "role": "agent",
+            "text": "assure that the refund goes through and you will also receive the",
+            "escalation_label": 0,
+            "label_reason": "Agent provides assurance of resolution."
+        },
+        {
+            "start": 564.74,
+            "end": 568.34,
+            "role": "agent",
+            "text": "additional voucher to compensate for your troubles.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates compensation details."
+        },
+        {
+            "start": 570.74,
+            "end": 571.34,
+            "role": "customer",
+            "text": "All right.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the resolution."
+        },
+        {
+            "start": 573.24,
+            "end": 574.14,
+            "role": "customer",
+            "text": "It should be okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses acceptance of the resolution."
+        },
+        {
+            "start": 574.24,
+            "end": 578.54,
+            "role": "agent",
+            "text": "Okay. So, (uh) is there anything else I can help you with?",
+            "escalation_label": 0,
+            "label_reason": "Agent checks for further assistance."
+        },
+        {
+            "start": 582.64,
+            "end": 583.84,
+            "role": "customer",
+            "text": "Ohh",
+            "escalation_label": 0,
+            "label_reason": "Customer verbal filler."
+        },
+        {
+            "start": 584.84,
+            "end": 587.34,
+            "role": "customer",
+            "text": "Well, okay. Not really, yeah, just",
+            "escalation_label": 0,
+            "label_reason": "Customer indicates no further immediate requests."
+        },
+        {
+            "start": 589.74,
+            "end": 592.54,
+            "role": "customer",
+            "text": "Keep me updated for the delivery.",
+            "escalation_label": 0,
+            "label_reason": "Customer states a final request."
+        },
+        {
+            "start": 594.84,
+            "end": 595.34,
+            "role": "agent",
+            "text": "Okay",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgment."
+        },
+        {
+            "start": 595.24,
+            "end": 596.84,
+            "role": "customer",
+            "text": "Delivery thing, okay",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms request."
+        },
+        {
+            "start": 597.14,
+            "end": 598.04,
+            "role": "agent",
+            "text": "Okay, sure",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 598.74,
+            "end": 606.54,
+            "role": "agent",
+            "text": "(uh,) thank you mam, (uh) I have recorded this and set it into a high priority system.",
+            "escalation_label": 0,
+            "label_reason": "Agent summarizes actions taken and confirms high priority for the case."
+        },
+        {
+            "start": 607.34,
+            "end": 610.04,
+            "role": "agent",
+            "text": "And if the parcel",
+            "escalation_label": 0,
+            "label_reason": "Agent continues explaining next steps."
+        },
+        {
+            "start": 610.64,
+            "end": 617.44,
+            "role": "agent",
+            "text": "And the delivery team give us an update, I will we will definitely send out the same as the,",
+            "escalation_label": 0,
+            "label_reason": "Agent promises updates."
+        },
+        {
+            "start": 617.64,
+            "end": 622.74,
+            "role": "agent",
+            "text": "most updated information to your SMS using the same number that you have verified earlier.",
+            "escalation_label": 0,
+            "label_reason": "Agent specifies how updates will be provided."
+        },
+        {
+            "start": 623.04,
+            "end": 627.44,
+            "role": "agent",
+            "text": "So, we are sorry for the inconvenience caused and thank you for calling in.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers apology and expresses gratitude."
+        },
+        {
+            "start": 628.74,
+            "end": 632.74,
+            "role": "agent",
+            "text": "Have a nice day. Yeah, thank you. Yeah. Bye bye.",
+            "escalation_label": 0,
+            "label_reason": "Agent closes the call with a farewell."
+        },
+        {
+            "start": 629.84,
+            "end": 630.54,
+            "role": "customer",
+            "text": "All right, sure",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges and responds."
+        },
+        {
+            "start": 631.44,
+            "end": 632.34,
+            "role": "customer",
+            "text": "Thank you, bye",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses gratitude and says goodbye."
+        },
+        {
+            "start": 634.34,
+            "end": 634.64,
+            "role": "customer",
+            "text": "bye",
+            "escalation_label": 0,
+            "label_reason": "Customer says goodbye."
+        }
+    ]
+}

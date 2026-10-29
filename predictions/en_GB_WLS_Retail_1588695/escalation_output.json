@@ -1,0 +1,881 @@
+{
+  "file_name": "en_GB_WLS_Retail_1588695.wav",
+  "threshold": 0.14,
+  "segments": [
+    {
+      "start": 11.66,
+      "end": 19.66,
+      "text": "Hello. Hi, this is Daniel from Cartref Home Furnishings. How can I help you today?",
+      "escalation_probability": 0.0239,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 19.66,
+      "end": 29.66,
+      "text": "Well, I ordered a jacuzzi bath three weeks ago now and I'm still waiting for the estimated delivery",
+      "escalation_probability": 0.0606,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 29.66,
+      "end": 36.66,
+      "text": "and I need to know whether or not there's any extra shipping fees that I haven't considered.",
+      "escalation_probability": 0.0658,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 36.66,
+      "end": 38.66,
+      "text": "Can you tell me a bit more?",
+      "escalation_probability": 0.0097,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 38.66,
+      "end": 45.66,
+      "text": "Yeah, absolutely. I can get that up for you. Do you have an order number?",
+      "escalation_probability": 0.0381,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 45.66,
+      "end": 56.74,
+      "text": "Yeah, it's P58476.",
+      "escalation_probability": 0.0839,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 56.74,
+      "end": 59.74,
+      "text": "Yeah, can I just confirm your name?",
+      "escalation_probability": 0.0287,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 59.74,
+      "end": 65.74,
+      "text": "Is Jane Williams? Do you need my postcode?",
+      "escalation_probability": 0.0476,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 65.74,
+      "end": 70.74,
+      "text": "Yes, that would be great. And your full address as well, if that's possible.",
+      "escalation_probability": 0.0542,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 70.74,
+      "end": 81.74,
+      "text": "It's 38 Greenacre Drive CF3280U.",
+      "escalation_probability": 0.083,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 81.74,
+      "end": 84.74,
+      "text": "Perfect. I can see that on here. Okay, brilliant.",
+      "escalation_probability": 0.023,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 84.74,
+      "end": 91.74,
+      "text": "So I can see that you made your purchase and it is in our system.",
+      "escalation_probability": 0.0461,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 91.74,
+      "end": 97.74,
+      "text": "I think there may be a problem with the card used.",
+      "escalation_probability": 0.0236,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 97.74,
+      "end": 104.74,
+      "text": "Or did you use a Clana or a similar Binau Pay later skin?",
+      "escalation_probability": 0.0471,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 104.74,
+      "end": 112.74,
+      "text": "Yeah, it was a Clana. I paid one-third of it now and I got paid the other two-thirds.",
+      "escalation_probability": 0.0647,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 112.74,
+      "end": 119.74,
+      "text": "But obviously, I'm coming up to the second payment now and I still haven't heard when the bath is arriving.",
+      "escalation_probability": 0.078,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 120.74,
+      "end": 127.75,
+      "text": "Okay, let me just take a look.",
+      "escalation_probability": 0.033,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 127.75,
+      "end": 133.75,
+      "text": "I see the first payment has gone through.",
+      "escalation_probability": 0.0233,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 133.75,
+      "end": 138.75,
+      "text": "Yes, there may be a supply issue.",
+      "escalation_probability": 0.0282,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 138.75,
+      "end": 148.75,
+      "text": "There have been a few of the Jacuzzi baths that have had a supply issue because we get a lot of the parts from China.",
+      "escalation_probability": 0.054,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 148.75,
+      "end": 156.75,
+      "text": "And there has been, obviously, you must have heard about the tariffs between...",
+      "escalation_probability": 0.0236,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 156.75,
+      "end": 162.75,
+      "text": "Yeah, yeah. Have you got a date of when it's arriving? Is it going to be long?",
+      "escalation_probability": 0.0622,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 162.75,
+      "end": 168.45,
+      "text": "Because I need to arrange somebody to plumb it in, see?",
+      "escalation_probability": 0.0803,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 168.45,
+      "end": 175.45,
+      "text": "Yes, hold on. Let me just see if I can investigate this further.",
+      "escalation_probability": 0.028,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 175.45,
+      "end": 181.35,
+      "text": "Thank you.",
+      "escalation_probability": 0.0605,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 181.35,
+      "end": 194.35,
+      "text": "Okay, so I can see that we should be getting them in stock in around 10 days.",
+      "escalation_probability": 0.0183,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 194.35,
+      "end": 204.35,
+      "text": "And once we get it in the warehouse, we should be able to get it to you at your address.",
+      "escalation_probability": 0.0371,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 204.35,
+      "end": 208.35,
+      "text": "We should take about three to five working days.",
+      "escalation_probability": 0.0493,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 208.35,
+      "end": 214.35,
+      "text": "Is there any other taxes because it's coming through Europe?",
+      "escalation_probability": 0.0576,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 214.35,
+      "end": 222.35,
+      "text": "No, that should have been included into your price. We wouldn't charge you anything extra.",
+      "escalation_probability": 0.0823,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 222.35,
+      "end": 228.35,
+      "text": "It should have been included in the price. It will have been included in the price, sorry.",
+      "escalation_probability": 0.015,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 228.35,
+      "end": 232.35,
+      "text": "We won't be charging you any extra fees or anything like that.",
+      "escalation_probability": 0.0146,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 232.35,
+      "end": 235.35,
+      "text": "You won't have to pick it up. It will be delivered to you.",
+      "escalation_probability": 0.0379,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 236.35,
+      "end": 244.35,
+      "text": "Also, we offer a service that can help you have it plumbed in.",
+      "escalation_probability": 0.0437,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 244.35,
+      "end": 246.35,
+      "text": "Oh, right.",
+      "escalation_probability": 0.0288,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 246.35,
+      "end": 251.35,
+      "text": "The only thing is that we do charge extra for it.",
+      "escalation_probability": 0.0723,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 251.35,
+      "end": 258.35,
+      "text": "Yes, and I've got to pay a plumber anyway, but I need to know exactly when the bath is coming",
+      "escalation_probability": 0.1164,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 258.35,
+      "end": 261.35,
+      "text": "so I can arrange for the plumber to arrive.",
+      "escalation_probability": 0.0819,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 261.35,
+      "end": 270.35,
+      "text": "Yeah, exactly. So in that case, we can arrange for on the same day that the plumber brings it to you,",
+      "escalation_probability": 0.0378,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 270.35,
+      "end": 273.35,
+      "text": "essentially our plumber.",
+      "escalation_probability": 0.01,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 273.35,
+      "end": 278.35,
+      "text": "But I'm just taking a look.",
+      "escalation_probability": 0.0087,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 278.35,
+      "end": 283.35,
+      "text": "Our warehouse and our plumbers are in North Wales.",
+      "escalation_probability": 0.0804,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 283.35,
+      "end": 291.35,
+      "text": "The majority of the time, they cater to clients in North Wales and the North of England.",
+      "escalation_probability": 0.0239,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 291.35,
+      "end": 302.35,
+      "text": "So I'm just going to just see if we can have one available for when we should be getting it to you.",
+      "escalation_probability": 0.0287,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 302.35,
+      "end": 309.58,
+      "text": "Let me just double check what our plumbers' availabilities are.",
+      "escalation_probability": 0.0327,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 309.58,
+      "end": 315.58,
+      "text": "Yeah, it looks like we should be able to get one to you. That shouldn't be a problem really.",
+      "escalation_probability": 0.0239,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 315.58,
+      "end": 317.58,
+      "text": "Is there anything else that I can help you?",
+      "escalation_probability": 0.0292,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 317.58,
+      "end": 321.58,
+      "text": "Is there anything I can check on the dimensions of the bath?",
+      "escalation_probability": 0.1351,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 321.58,
+      "end": 325.58,
+      "text": "Because I've measured the bath so it's going to fit in the bathroom,",
+      "escalation_probability": 0.0831,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 325.58,
+      "end": 330.93,
+      "text": "but I'm concerned is it going to fit through the door?",
+      "escalation_probability": 0.0234,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 330.93,
+      "end": 332.93,
+      "text": "I see, yeah.",
+      "escalation_probability": 0.0288,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 332.93,
+      "end": 341.66,
+      "text": "Hold on, let me just see if I can check that for you.",
+      "escalation_probability": 0.0456,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 341.66,
+      "end": 348.66,
+      "text": "It should have, when you had the purchase on the website,",
+      "escalation_probability": 0.0327,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 348.66,
+      "end": 351.66,
+      "text": "it should have had the dimensions on there.",
+      "escalation_probability": 0.005,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 351.66,
+      "end": 360.58,
+      "text": "Let me just double check.",
+      "escalation_probability": 0.075,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 360.58,
+      "end": 379.0,
+      "text": "Yes, so from what I can see, it would be 100 and 250 centimetres width.",
+      "escalation_probability": 0.0512,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 379.0,
+      "end": 384.34,
+      "text": "I don't know if that's going to fit through my door.",
+      "escalation_probability": 0.0192,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 384.34,
+      "end": 391.94,
+      "text": "It should be coming in parts.",
+      "escalation_probability": 0.0048,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 391.94,
+      "end": 396.54,
+      "text": "Do you mean the tap would be attached?",
+      "escalation_probability": 0.032,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 396.54,
+      "end": 400.92,
+      "text": "Yeah, let me just think.",
+      "escalation_probability": 0.0604,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 400.92,
+      "end": 402.92,
+      "text": "How big is your door?",
+      "escalation_probability": 0.0633,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 402.92,
+      "end": 407.2,
+      "text": "It's just a normal standard door.",
+      "escalation_probability": 0.0682,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 407.2,
+      "end": 410.2,
+      "text": "Well, if it's a normal standard door,",
+      "escalation_probability": 0.0532,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 410.2,
+      "end": 415.2,
+      "text": "we would have heard of this issue many times.",
+      "escalation_probability": 0.0235,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 415.2,
+      "end": 419.2,
+      "text": "If it's a standard door, mind you,",
+      "escalation_probability": 0.0332,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 419.2,
+      "end": 424.2,
+      "text": "there have been times where we have had to have the crane.",
+      "escalation_probability": 0.0563,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 424.2,
+      "end": 431.2,
+      "text": "What kind of a house is it?",
+      "escalation_probability": 0.0376,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 431.2,
+      "end": 435.2,
+      "text": "Just a terrace house.",
+      "escalation_probability": 0.0526,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 435.2,
+      "end": 440.2,
+      "text": "Okay, is it standalone or attached?",
+      "escalation_probability": 0.0184,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 440.2,
+      "end": 443.2,
+      "text": "Semi-attached.",
+      "escalation_probability": 0.0143,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 443.2,
+      "end": 446.2,
+      "text": "Okay, and what side is the bathroom on?",
+      "escalation_probability": 0.048,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 446.2,
+      "end": 451.2,
+      "text": "The same one as the door, so it should be all right.",
+      "escalation_probability": 0.1321,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 451.2,
+      "end": 455.2,
+      "text": "I just want to check this all because I was a bit concerned.",
+      "escalation_probability": 0.0621,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 455.2,
+      "end": 458.2,
+      "text": "Because the measurements for the package are different",
+      "escalation_probability": 0.0857,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 458.2,
+      "end": 461.2,
+      "text": "to the measurements of the bath?",
+      "escalation_probability": 0.0422,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 461.2,
+      "end": 465.2,
+      "text": "Yeah, that makes sense.",
+      "escalation_probability": 0.0147,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 465.2,
+      "end": 469.2,
+      "text": "Because it comes in more than one box.",
+      "escalation_probability": 0.0417,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 469.2,
+      "end": 471.2,
+      "text": "Okay, all right.",
+      "escalation_probability": 0.0386,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 471.2,
+      "end": 472.2,
+      "text": "All that reason.",
+      "escalation_probability": 0.0436,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 472.2,
+      "end": 474.2,
+      "text": "All right, so that's all right then.",
+      "escalation_probability": 0.0667,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 474.2,
+      "end": 478.2,
+      "text": "Yeah, so I'm going to take a look now.",
+      "escalation_probability": 0.0191,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 478.2,
+      "end": 480.2,
+      "text": "It should be coming in free boxes.",
+      "escalation_probability": 0.0618,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 480.2,
+      "end": 483.2,
+      "text": "And that is the reason for the delay",
+      "escalation_probability": 0.0491,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 483.2,
+      "end": 487.2,
+      "text": "because one of those boxes hasn't arrived yet.",
+      "escalation_probability": 0.0486,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 487.2,
+      "end": 492.2,
+      "text": "So we've actually got half of your bath in our warehouse,",
+      "escalation_probability": 0.0194,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 492.2,
+      "end": 497.2,
+      "text": "but the other half is still in China.",
+      "escalation_probability": 0.0133,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 497.2,
+      "end": 505.2,
+      "text": "We have had this issue for maybe two weeks now,",
+      "escalation_probability": 0.0426,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 505.2,
+      "end": 509.2,
+      "text": "but we are slowly getting drips and drabs",
+      "escalation_probability": 0.0426,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 509.2,
+      "end": 513.2,
+      "text": "of the bath parts coming in.",
+      "escalation_probability": 0.0436,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 513.2,
+      "end": 517.2,
+      "text": "We are really, really sorry for the issue.",
+      "escalation_probability": 0.0335,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 517.2,
+      "end": 523.12,
+      "text": "Did there be any compensation?",
+      "escalation_probability": 0.0373,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 523.12,
+      "end": 530.12,
+      "text": "There may potentially be a compensation package",
+      "escalation_probability": 0.0557,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 530.12,
+      "end": 532.12,
+      "text": "that we can potentially arrange,",
+      "escalation_probability": 0.0583,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 532.12,
+      "end": 535.12,
+      "text": "but I'd have to check with my boss",
+      "escalation_probability": 0.0336,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 535.12,
+      "end": 538.12,
+      "text": "and see whether they can, with my manager,",
+      "escalation_probability": 0.044,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 538.12,
+      "end": 541.12,
+      "text": "whether they can do that for you.",
+      "escalation_probability": 0.0189,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 541.12,
+      "end": 545.5,
+      "text": "You were giving me a definite date now, though.",
+      "escalation_probability": 0.034,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 545.5,
+      "end": 550.5,
+      "text": "Not 100% definite, but a good estimate.",
+      "escalation_probability": 0.0478,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 550.5,
+      "end": 553.5,
+      "text": "And that's why we can arrange the plumber",
+      "escalation_probability": 0.0702,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 553.5,
+      "end": 556.5,
+      "text": "and everything for you.",
+      "escalation_probability": 0.0137,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 556.5,
+      "end": 559.5,
+      "text": "The only thing is obviously you're going to need",
+      "escalation_probability": 0.0328,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 559.5,
+      "end": 561.5,
+      "text": "to be there at the time as well.",
+      "escalation_probability": 0.0388,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 561.5,
+      "end": 563.5,
+      "text": "Yes, yeah.",
+      "escalation_probability": 0.0528,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 563.5,
+      "end": 567.5,
+      "text": "So I'll tell you what I can do.",
+      "escalation_probability": 0.0419,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 567.5,
+      "end": 570.5,
+      "text": "I can speak to my manager about whether or not",
+      "escalation_probability": 0.0393,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 570.5,
+      "end": 572.5,
+      "text": "we can do any compensation for you",
+      "escalation_probability": 0.0468,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 572.5,
+      "end": 574.5,
+      "text": "because obviously it is quite a delay.",
+      "escalation_probability": 0.0235,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 574.5,
+      "end": 576.5,
+      "text": "I can see from when you ordered.",
+      "escalation_probability": 0.0477,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 576.5,
+      "end": 581.5,
+      "text": "And I will finalize what date",
+      "escalation_probability": 0.0572,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 581.5,
+      "end": 584.5,
+      "text": "we can get the bath delivered to you",
+      "escalation_probability": 0.0292,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 584.5,
+      "end": 588.5,
+      "text": "and finalize where we can have the plumber arranged to you.",
+      "escalation_probability": 0.0526,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 588.5,
+      "end": 591.5,
+      "text": "And that way, you can know whether",
+      "escalation_probability": 0.0567,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 591.5,
+      "end": 594.5,
+      "text": "you've got to go into work or not.",
+      "escalation_probability": 0.0199,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 594.5,
+      "end": 596.5,
+      "text": "Great help that would be.",
+      "escalation_probability": 0.0377,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 596.5,
+      "end": 599.5,
+      "text": "OK, brilliant, brilliant.",
+      "escalation_probability": 0.0381,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 599.5,
+      "end": 602.5,
+      "text": "I'm going to send that over to you on an email.",
+      "escalation_probability": 0.0424,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 602.5,
+      "end": 607.5,
+      "text": "So after this call, if there isn't anything else,",
+      "escalation_probability": 0.0235,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 607.5,
+      "end": 609.5,
+      "text": "I can get that emailed over to you.",
+      "escalation_probability": 0.0479,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 609.5,
+      "end": 613.5,
+      "text": "It may take me to the end of the day today,",
+      "escalation_probability": 0.0527,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 613.5,
+      "end": 616.5,
+      "text": "but I'll get that over to you.",
+      "escalation_probability": 0.0281,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 616.5,
+      "end": 618.5,
+      "text": "All right.",
+      "escalation_probability": 0.0244,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 618.5,
+      "end": 620.5,
+      "text": "OK, thank you.",
+      "escalation_probability": 0.0417,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 620.5,
+      "end": 622.5,
+      "text": "No problem. Hope you have a good day.",
+      "escalation_probability": 0.0191,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 622.5,
+      "end": 624.5,
+      "text": "All right, thank you.",
+      "escalation_probability": 0.0289,
+      "predicted_escalation": 0
+    },
+    {
+      "start": 624.5,
+      "end": 626.5,
+      "text": "Bye.",
+      "escalation_probability": 0.0331,
+      "predicted_escalation": 0
+    }
+  ]
+}

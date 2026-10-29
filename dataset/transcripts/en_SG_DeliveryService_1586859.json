@@ -1,0 +1,513 @@
+{
+  "file_name": "en_SG_DeliveryService_1586859.wav",
+  "domain": "deliveryservice",
+  "accent": "en-SG",
+  "duration": 623.992,
+  "escalation_label": 1,
+  "segments": [
+    {
+      "start": 14.14,
+      "end": 20.79,
+      "role": "agent",
+      "text": "Good afternoon, thank you for calling Swift Parcels Singapore this is Claire speaking, how may I help you today?"
+    },
+    {
+      "start": 22.46,
+      "end": 30.54,
+      "role": "customer",
+      "text": "Yeah hey good afternoon. I'm calling about a parcel that hasn't arrived yet it was supposed to come yesterday but I checked but there wasn't anything."
+    },
+    {
+      "start": 31.94,
+      "end": 38.04,
+      "role": "agent",
+      "text": "Ohh dear okay sorry to hear that sir, could I have your tracking number please so I can track for you?"
+    },
+    {
+      "start": 38.84,
+      "end": 41.89,
+      "role": "customer",
+      "text": "Wait hold on let me check from my phone (um)"
+    },
+    {
+      "start": 43.54,
+      "end": 47.24,
+      "role": "customer",
+      "text": "It's (uh) S for Singapore, P for Poland."
+    },
+    {
+      "start": 47.84,
+      "end": 50.54,
+      "role": "customer",
+      "text": "Then two three seven nine five eight."
+    },
+    {
+      "start": 51.84,
+      "end": 53.94,
+      "role": "agent",
+      "text": "Okay give me your number now."
+    },
+    {
+      "start": 55.84,
+      "end": 60.56,
+      "role": "agent",
+      "text": "OK so it's a delivery to Tampines Street eighty two card."
+    },
+    {
+      "start": 61.84,
+      "end": 62.56,
+      "role": "customer",
+      "text": "Yeah, correct."
+    },
+    {
+      "start": 63.84,
+      "end": 66.28,
+      "role": "agent",
+      "text": "And it's under your name Alex."
+    },
+    {
+      "start": 67.64,
+      "end": 68.14,
+      "role": "customer",
+      "text": "Yes, correct."
+    },
+    {
+      "start": 69.54,
+      "end": 71.24,
+      "role": "agent",
+      "text": "Okay let me check the status."
+    },
+    {
+      "start": 75.64,
+      "end": 85.04,
+      "role": "agent",
+      "text": "Okay it shows the parcel already left our hub on Tuesday morning but there is no scan for delivery yet."
+    },
+    {
+      "start": 86.16,
+      "end": 92.04,
+      "role": "customer",
+      "text": "Yeah loh it's Friday already and these are quite important documents it's not just some shopping item."
+    },
+    {
+      "start": 93.34,
+      "end": 97.84,
+      "role": "agent",
+      "text": "Ohh OK OK understand OK. Let me trace with this track lah."
+    },
+    {
+      "start": 101.68,
+      "end": 111.51,
+      "role": "agent",
+      "text": "Okay It's with our east hub courier it says (uh) attempted delivery recipient not available on Wednesday."
+    },
+    {
+      "start": 112.52,
+      "end": 112.94,
+      "role": "customer",
+      "text": "(ah)"
+    },
+    {
+      "start": 113.58,
+      "end": 117.84,
+      "role": "customer",
+      "text": "Actually not possible lah, I was home the whole day, nobody called nobody came, are you sure now?"
+    },
+    {
+      "start": 118.94,
+      "end": 129.74,
+      "role": "agent",
+      "text": "Mm there's sometimes drivers do not check that we, the, (uh) couldn't locate the unit or if like maybe your gate was closed."
+    },
+    {
+      "start": 131.24,
+      "end": 134.36,
+      "role": "customer",
+      "text": "No lah it can't be lah, it's a walk up block no gate also."
+    },
+    {
+      "start": 136.27,
+      "end": 142.54,
+      "role": "agent",
+      "text": "Mm okay, let me see, if"
+    },
+    {
+      "start": 145.14,
+      "end": 153.4,
+      "role": "agent",
+      "text": "Okay okay it says (uh) re-attempt scheduled for Thursday but there's no Thursday scan also actually."
+    },
+    {
+      "start": 154.64,
+      "end": 158.44,
+      "role": "customer",
+      "text": "E~ exactly I waited at home yesterday morning and afternoon."
+    },
+    {
+      "start": 159.74,
+      "end": 169.6,
+      "role": "agent",
+      "text": "I, I really apologize for this so looks like it might be a routeing delay (uh) let me contact the hub and then we'll see if we can speed this up today."
+    },
+    {
+      "start": 170.74,
+      "end": 177.64,
+      "role": "customer",
+      "text": "(uh) can you please do that, it's actually very urgent nah these are contract papers, I need to sign and return by tomorrow."
+    },
+    {
+      "start": 178.84,
+      "end": 184.84,
+      "role": "agent",
+      "text": "Okay I understand (uh) do you mind if I put you on hold for a minute while I call the hub directly?"
+    },
+    {
+      "start": 186.04,
+      "end": 187.08,
+      "role": "customer",
+      "text": "Sure sure no problem."
+    },
+    {
+      "start": 192.84,
+      "end": 203.25,
+      "role": "agent",
+      "text": "Okay thank you for holding Mr. (uh) I spoke to the hub supervisor they found your parcel is still in the driver's van from yesterday."
+    },
+    {
+      "start": 204.74,
+      "end": 208.04,
+      "role": "customer",
+      "text": "Why it's been sitting there all this while."
+    },
+    {
+      "start": 209.64,
+      "end": 222.19,
+      "role": "agent",
+      "text": "Yeah so apparently he had like too many stops yesterday and he couldn't finish the route so I've I've escalated them to send out the remaining parcels by this afternoon lah."
+    },
+    {
+      "start": 223.94,
+      "end": 225.74,
+      "role": "customer",
+      "text": "Yeah but seriously lah."
+    },
+    {
+      "start": 226.44,
+      "end": 230.34,
+      "role": "customer",
+      "text": "Can you confirm that I can get it today lah? I don't mind paying a bit extra also."
+    },
+    {
+      "start": 231.64,
+      "end": 243.38,
+      "role": "agent",
+      "text": "Okay we actually have two options (uh) one is (um) priority you so basically you push the driver to deliver before the end today."
+    },
+    {
+      "start": 244.14,
+      "end": 250.32,
+      "role": "agent",
+      "text": "Second option is that you can self-collect at our hub after booking."
+    },
+    {
+      "start": 251.62,
+      "end": 255.19,
+      "role": "customer",
+      "text": "Okay no lah but also far for me, I paid for delivery."
+    },
+    {
+      "start": 255.72,
+      "end": 259.84,
+      "role": "customer",
+      "text": "Priority the one you've shared there's no, no extra charge, no?"
+    },
+    {
+      "start": 261.09,
+      "end": 267.55,
+      "role": "agent",
+      "text": "Normally yes but it seems this was our delay, yeah can waive the fee for you."
+    },
+    {
+      "start": 269.34,
+      "end": 271.74,
+      "role": "customer",
+      "text": "OK lah, OK lah, that one is a bigger, thank you."
+    },
+    {
+      "start": 272.65,
+      "end": 280.17,
+      "role": "agent",
+      "text": "Okay no problem I've marked it as (uh) they can let, the driver will redeliver by today."
+    },
+    {
+      "start": 281.52,
+      "end": 286.74,
+      "role": "customer",
+      "text": "Okay can can, thanks for that but actually why is there a delay in the first place?"
+    },
+    {
+      "start": 289.54,
+      "end": 299.34,
+      "role": "agent",
+      "text": "Okay lah according to the hub, what they said just now was that (uh) one driver was on medical leave and sick, so they had to combine routes."
+    },
+    {
+      "start": 299.34,
+      "end": 309.0,
+      "role": "agent",
+      "text": "So because of that (uh) there's still some areas were delayed one or two days lah so unfortunately it included (um) yours."
+    },
+    {
+      "start": 311.94,
+      "end": 314.24,
+      "role": "customer",
+      "text": "Ohh, OK lah, at least now I know."
+    },
+    {
+      "start": 316.74,
+      "end": 323.34,
+      "role": "agent",
+      "text": "Okay so so sorry for the trouble that was caused also and shouldn't have been the case lah."
+    },
+    {
+      "start": 324.84,
+      "end": 331.94,
+      "role": "customer",
+      "text": "I'm worried lah, actually I told myself can't promise that it comes today because you know I will lose the contract and all a very important one, it's very urgent."
+    },
+    {
+      "start": 333.34,
+      "end": 341.84,
+      "role": "agent",
+      "text": "Yes yes OK (uh) yeah I've spoken to the hub and they confirmed that it will go out on the next trip."
+    },
+    {
+      "start": 342.24,
+      "end": 349.34,
+      "role": "agent",
+      "text": "So you should be able to get it (um) somewhere maybe between four and six p.m."
+    },
+    {
+      "start": 350.34,
+      "end": 355.14,
+      "role": "customer",
+      "text": "Okay lah can I was thinking three but now four to six even better, I should be home by then."
+    },
+    {
+      "start": 356.34,
+      "end": 363.84,
+      "role": "agent",
+      "text": "OK good good so I will s~ send you an SMS (uh) o~ once the parcel is,"
+    },
+    {
+      "start": 364.64,
+      "end": 371.64,
+      "role": "agent",
+      "text": "scanned out for delivery lah so you won't be too anxious waiting for it also."
+    },
+    {
+      "start": 372.62,
+      "end": 376.65,
+      "role": "customer",
+      "text": "(uh) then if you are then good luck, maybe if I can track properly this time."
+    },
+    {
+      "start": 378.44,
+      "end": 381.94,
+      "role": "agent",
+      "text": "Yeah so hopefully the tracking also should be"
+    },
+    {
+      "start": 382.54,
+      "end": 390.74,
+      "role": "agent",
+      "text": "updated live lah so if anything or so I can correctly call or sms you so you will be informed"
+    },
+    {
+      "start": 394.16,
+      "end": 400.52,
+      "role": "customer",
+      "text": "Actually I asked you, if next time I got this kind of urgent document can I just straight away use the priority option?"
+    },
+    {
+      "start": 401.94,
+      "end": 411.24,
+      "role": "agent",
+      "text": "Yes yes you can so (uh) when you book on our website or app you can actually choose priority service."
+    },
+    {
+      "start": 411.74,
+      "end": 422.14,
+      "role": "agent",
+      "text": "Basically that's guaranteed same-day delivery if you book it before noon lah so if you book after after noon, it will be the next working day."
+    },
+    {
+      "start": 424.54,
+      "end": 428.64,
+      "role": "customer",
+      "text": "Can can can you tell me how much is the cost? What's the extra cost?"
+    },
+    {
+      "start": 430.44,
+      "end": 437.54,
+      "role": "agent",
+      "text": "Usually it's normal but there will, there'll be some extra ten dollars top up on top of the normal work."
+    },
+    {
+      "start": 437.84,
+      "end": 446.68,
+      "role": "agent",
+      "text": "So for really urgent like maybe you need like two hours express or earlier then (uh) it will be an additional fifteen dollars."
+    },
+    {
+      "start": 448.24,
+      "end": 451.54,
+      "role": "customer",
+      "text": "Okay now I know better then maybe next time once I'll go for that instead."
+    },
+    {
+      "start": 453.04,
+      "end": 460.77,
+      "role": "agent",
+      "text": "Yeah I think that what you could do lah especially you mention it's important documents that will ensure you have not more wait"
+    },
+    {
+      "start": 462.04,
+      "end": 463.0,
+      "role": "agent",
+      "text": "in time to come."
+    },
+    {
+      "start": 463.94,
+      "end": 468.84,
+      "role": "customer",
+      "text": "Now lah I was quite fine from just now plus my client actually already waiting for the document."
+    },
+    {
+      "start": 470.63,
+      "end": 474.24,
+      "role": "agent",
+      "text": "Totally understand so I will make sure that you get it today."
+    },
+    {
+      "start": 475.94,
+      "end": 483.34,
+      "role": "customer",
+      "text": "Okay thank, thank you very much hey by the way while I actually have you, if by chance I'm not home and someone else receives on my behalf you can then"
+    },
+    {
+      "start": 485.04,
+      "end": 490.93,
+      "role": "agent",
+      "text": "Mm yes yes so basically they will just need to sign or take a photo acknowledgment."
+    },
+    {
+      "start": 491.74,
+      "end": 503.73,
+      "role": "agent",
+      "text": "So in that case if nobody home (uh) the driver may just call you for proper instructions lah so ideally if you are not home, you can still take the call."
+    },
+    {
+      "start": 505.34,
+      "end": 512.64,
+      "role": "customer",
+      "text": "Okay lah cause I won't know lah if they think I got something urgent I want I need to out but later my wife"
+    },
+    {
+      "start": 514.14,
+      "end": 525.44,
+      "role": "agent",
+      "text": "Yeah that sounds so good for you sounds good (uh) I'll email you the updated confirmation mm right after we end this call so you will have (uh) everything in writing so."
+    },
+    {
+      "start": 526.54,
+      "end": 528.44,
+      "role": "customer",
+      "text": "Yeah that good to know thank you."
+    },
+    {
+      "start": 529.84,
+      "end": 537.71,
+      "role": "agent",
+      "text": "No problem, okay if you don't see the email within ten minutes you can check your spam folder."
+    },
+    {
+      "start": 539.12,
+      "end": 545.04,
+      "role": "customer",
+      "text": "Ohh okay lah I always sometimes get random emails in my spam and also important ones as well, later I go check."
+    },
+    {
+      "start": 545.74,
+      "end": 548.24,
+      "role": "agent",
+      "text": "yeah it's usually a system thing."
+    },
+    {
+      "start": 549.54,
+      "end": 556.24,
+      "role": "customer",
+      "text": "get back to the topic again. So I just want to confirm, delivery will be by today evening."
+    },
+    {
+      "start": 556.94,
+      "end": 558.24,
+      "role": "customer",
+      "text": "Between four to six, right?"
+    },
+    {
+      "start": 559.34,
+      "end": 569.44,
+      "role": "agent",
+      "text": "Yes correct. four p.m. to six p.m. in the day I'll be in to assist you so I mainly just to level with you and the hub supervisor so just"
+    },
+    {
+      "start": 569.44,
+      "end": 576.04,
+      "role": "agent",
+      "text": "To clarify again you will also get the SMS once it's already out for delivery and on the way."
+    },
+    {
+      "start": 576.98,
+      "end": 582.84,
+      "role": "customer",
+      "text": "(uh) okay well that's good to know okay thanks a lot, really appreciate your help lah, for checking this one."
+    },
+    {
+      "start": 583.84,
+      "end": 590.84,
+      "role": "agent",
+      "text": "Nowadays I can't waste your time, sorry again for the delay but (uh) we'll make sure that it reaches you today."
+    },
+    {
+      "start": 592.44,
+      "end": 595.64,
+      "role": "customer",
+      "text": "Okay lah can, I just got at home, thank you so much again Claire."
+    },
+    {
+      "start": 597.04,
+      "end": 599.43,
+      "role": "agent",
+      "text": "No worries is anything else?"
+    },
+    {
+      "start": 600.58,
+      "end": 604.51,
+      "role": "customer",
+      "text": "(ah) actually that's all lah hey thank you thank you thank you."
+    },
+    {
+      "start": 605.24,
+      "end": 606.57,
+      "role": "agent",
+      "text": "Thank you, bye bye."
+    },
+    {
+      "start": 606.98,
+      "end": 608.02,
+      "role": "customer",
+      "text": "Yeah goodbye."
+    }
+  ]
+}

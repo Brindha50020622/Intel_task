@@ -1,0 +1,1256 @@
+{
+    "file_name": "en_AU_Energy_1593471.wav",
+    "duration": 843.574,
+    "accent": "en-AU",
+    "domain": "energy",
+    "segments": [
+        {
+            "start": 12.54,
+            "end": 21.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Good morning. Thank you for calling Stemwell Services. This is Athea speaking. How can I help you today?"
+        },
+        {
+            "start": 22.34,
+            "end": 31.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Hi, Thea. (Um,) my name is Sharon. (um,) I've just moved into my my new home, and I was looking to set up a heating service for the winter. (Um)"
+        },
+        {
+            "start": 31.54,
+            "end": 33.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "could you help me get everything set up,"
+        },
+        {
+            "start": 33.04,
+            "end": 33.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "please?"
+        },
+        {
+            "start": 33.94,
+            "end": 43.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Of course. Congratulations on your new home. I'd be happy to assist you with setting up your new s~ heating services. To get started, can I have your address and"
+        },
+        {
+            "start": 43.34,
+            "end": 49.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "the name of the account holder? Are you a current account holder with us or would this be your first time using us?"
+        },
+        {
+            "start": 49.24,
+            "end": 51.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Be my first time using you."
+        },
+        {
+            "start": 51.84,
+            "end": 54.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(um) And the address is twelve Smith Street."
+        },
+        {
+            "start": 56.84,
+            "end": 65.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely. Sorry, Sharon, can I just get a last name and a phone number to put on file since this is will be your first account with us?"
+        },
+        {
+            "start": 64.74,
+            "end": 65.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah."
+        },
+        {
+            "start": 65.74,
+            "end": 68.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "It's so Sharon and then"
+        },
+        {
+            "start": 67.74,
+            "end": 68.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 69.34,
+            "end": 69.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Smith"
+        },
+        {
+            "start": 71.04,
+            "end": 74.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "and my phone number is zero four zero zero"
+        },
+        {
+            "start": 75.34,
+            "end": 76.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "zero zero"
+        },
+        {
+            "start": 77.24,
+            "end": 79.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "zero zero zero zero."
+        },
+        {
+            "start": 80.64,
+            "end": 90.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely. Sharon (uh) so just confirming, Sharon Smith and your address is twelve Smith Street. Was that intentional or"
+        },
+        {
+            "start": 90.44,
+            "end": 90.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "just"
+        },
+        {
+            "start": 90.74,
+            "end": 99.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Oddly enough, no. (um) Bought the house, saw it, I was even on Smith Street to be honest with you. So (um) just bought the house."
+        },
+        {
+            "start": 100.34,
+            "end": 104.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Ohh, lucky, makes it quite easy to rem~ remember the address then."
+        },
+        {
+            "start": 103.94,
+            "end": 105.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Exactly, exactly."
+        },
+        {
+            "start": 106.44,
+            "end": 114.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Certainly. So since you're setting up services for the winter, can we schedule an installational service activation? (um)"
+        },
+        {
+            "start": 115.24,
+            "end": 115.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yep."
+        },
+        {
+            "start": 115.94,
+            "end": 117.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yep, certainly."
+        },
+        {
+            "start": 117.74,
+            "end": 125.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Which one would you like to proceed with? So we can either do an installation or service activation. So a new"
+        },
+        {
+            "start": 125.94,
+            "end": 132.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "installation would be we install a new heating system or an activation would just be someone coming out to set it up."
+        },
+        {
+            "start": 133.64,
+            "end": 136.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(uh) Can I just get someone to come out and set it up for me?"
+        },
+        {
+            "start": 137.54,
+            "end": 139.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely!"
+        },
+        {
+            "start": 141.54,
+            "end": 141.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yeah."
+        },
+        {
+            "start": 143.54,
+            "end": 152.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Okay, got it. I've got everything set up for you. Before we schedule your appointment, I'd also like to mention that we offer a range of energy saving plans to help you save on heating costs"
+        },
+        {
+            "start": 153.14,
+            "end": 158.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "during the me~ winter months. Would you be interested in learning more about the options that our company provides?"
+        },
+        {
+            "start": 158.14,
+            "end": 166.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, that'd be great, but I just don't wanna like be told that they're really good for me if they're not very good for me, you know. So do you reckon you can tell me the truth?"
+        },
+        {
+            "start": 166.84,
+            "end": 176.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely. So I'll talk you through, (um,) the design options that we offer. So we have a fixed-rate plan. With this plan, your heating costs are locked"
+        },
+        {
+            "start": 176.44,
+            "end": 178.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "locked in at a fixed rate for the entire winter."
+        },
+        {
+            "start": 179.04,
+            "end": 187.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "This way you way you don't have to worry about pl~ price fluctuations due to market changes. It's a great option if you pre~ prefer predictable costs."
+        },
+        {
+            "start": 187.34,
+            "end": 191.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Another option that we have is pay-as-you-go. This plan allows you to pay"
+        },
+        {
+            "start": 191.34,
+            "end": 198.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "more for your fuel as you use it. It's more flexible, but the f~ price can fluctuate based on market conditions. This is good if you're looking for"
+        },
+        {
+            "start": 199.04,
+            "end": 202.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "more flexibility and don't mind some variation in your costs."
+        },
+        {
+            "start": 202.34,
+            "end": 210.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "So this one's a bit more if you're not at home a lot, (uh,) and you only use your h~ heating periodically rather than all the time."
+        },
+        {
+            "start": 211.24,
+            "end": 214.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Another option that we offer is the energy efficiency program."
+        },
+        {
+            "start": 215.14,
+            "end": 222.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "We also offer an energy-saving device and services such as installation checks or system maintenance to your home for more"
+        },
+        {
+            "start": 222.94,
+            "end": 225.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "energy saving efficiency and reduced heating cost."
+        },
+        {
+            "start": 226.04,
+            "end": 229.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Would any of these three options sound good for you?"
+        },
+        {
+            "start": 229.64,
+            "end": 231.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(um) Based on previous like"
+        },
+        {
+            "start": 233.54,
+            "end": 236.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "like (um) data (um)"
+        },
+        {
+            "start": 236.74,
+            "end": 244.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "do which plan gives the most savings, like, based on data collection that I know you'll have?"
+        },
+        {
+            "start": 245.04,
+            "end": 249.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "We do have data, but it comes down to personal use. Are you"
+        },
+        {
+            "start": 249.04,
+            "end": 257.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "do you use the heating a lot? Would you say you use the heating for multiple hours a day or would you only just pop it on for maybe an hour or two each day?"
+        },
+        {
+            "start": 257.84,
+            "end": 259.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Depends on my feelings and how I feel."
+        },
+        {
+            "start": 260.74,
+            "end": 265.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(um) Do you work from home or are you out of the house most of the day?"
+        },
+        {
+            "start": 266.64,
+            "end": 275.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "I guess that depends on the day. (um) I guess I have, like, my friends come over for a cup of tea sometimes, and I don't work anymore, so (um)"
+        },
+        {
+            "start": 276.14,
+            "end": 277.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "I just kinda sit at home"
+        },
+        {
+            "start": 278.24,
+            "end": 287.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "a lot of the day and then I go out for a walk. And (um) I like to get my coffee outside too. (uh) Don't don't make the coffee at home. Can't make"
+        },
+        {
+            "start": 287.34,
+            "end": 288.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "coffee to save my life."
+        },
+        {
+            "start": 289.04,
+            "end": 289.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(um)"
+        },
+        {
+            "start": 290.84,
+            "end": 292.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "So I'm not too sure."
+        },
+        {
+            "start": 293.24,
+            "end": 293.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(uh) I"
+        },
+        {
+            "start": 295.04,
+            "end": 301.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Based on what you've advised me, Sharon, I'd proceed to go with our fixed hate, (uh,) fixed-rate plan system."
+        },
+        {
+            "start": 301.94,
+            "end": 305.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "With this plan, we can lock in your heating costs now,"
+        },
+        {
+            "start": 305.14,
+            "end": 312.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "so it doesn't matter with (um) how much you have your heating on, your bill will will remain the same the the next quarter."
+        },
+        {
+            "start": 313.54,
+            "end": 323.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "So it will be the same amount each month, so you know exactly how much you're paying so it doesn't matter if you have your heating on for only two hours a day or twenty hours a day, the price will remain the same."
+        },
+        {
+            "start": 323.74,
+            "end": 325.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay, but like what if"
+        },
+        {
+            "start": 326.04,
+            "end": 333.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "that doesn't actually save me money? Will I know after the first quarter if that saves me money or will I and will I get like a"
+        },
+        {
+            "start": 333.84,
+            "end": 336.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "a cost benefit analysis of that"
+        },
+        {
+            "start": 336.34,
+            "end": 342.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "with the pay-as-you-go versus the fixed-rate plan or will I just kind of have it thrown at me, and I won't know any of that?"
+        },
+        {
+            "start": 343.54,
+            "end": 350.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "So (um,) each winter we offer these (uh) services to our clients."
+        },
+        {
+            "start": 350.54,
+            "end": 355.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "So you'll know after your first winter with us. So we lock in for the entire duration of winter."
+        },
+        {
+            "start": 355.74,
+            "end": 363.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "So we'll lock it in for the three months of winter for this, (um) but at any time you can call and change your services."
+        },
+        {
+            "start": 363.34,
+            "end": 366.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "So if you feel like you what you're paying for is pay"
+        },
+        {
+            "start": 366.64,
+            "end": 372.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(uh) as the fixed-rate and turns out you're not using it as much, you can always switch it to pay-as-you-go."
+        },
+        {
+            "start": 372.94,
+            "end": 376.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay, and how many customers are on fixed-rate plans?"
+        },
+        {
+            "start": 376.94,
+            "end": 378.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(um) We"
+        },
+        {
+            "start": 377.74,
+            "end": 378.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "What percentage?"
+        },
+        {
+            "start": 379.44,
+            "end": 388.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "I would say sixty-five precent of our customers are on fixed plan. A lot of people work (um) hybrid days or are just at home sort of a lot more during winter."
+        },
+        {
+            "start": 389.04,
+            "end": 391.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "So the heating is on a lot more 'cause most people"
+        },
+        {
+            "start": 391.94,
+            "end": 400.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(um) are not venturing out as much. So I would say sixty-five percent of our customers are on fixed-rate. (uh) We have another ten percent that are our"
+        },
+        {
+            "start": 401.14,
+            "end": 402.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "are on pay-as-you-go"
+        },
+        {
+            "start": 402.74,
+            "end": 407.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "and the rest are on our energy saving, our energy efficiency program."
+        },
+        {
+            "start": 408.74,
+            "end": 416.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay, and with your customers, how many of them switch from fixed rate to pay as you go or vice-versa?"
+        },
+        {
+            "start": 417.14,
+            "end": 426.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(uh) So most customers that lock in with us at the start of each winter, (um) it varies year to year based on people's personal circumstances that"
+        },
+        {
+            "start": 426.54,
+            "end": 428.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "what they switch to,"
+        },
+        {
+            "start": 428.14,
+            "end": 437.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "but most people (um) in this day and age do stick with fixed-rate plans (um) as they know what their entire cost will be."
+        },
+        {
+            "start": 437.94,
+            "end": 441.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay, all right. I'll go with the fixed rate then. You've convinced me."
+        },
+        {
+            "start": 443.44,
+            "end": 452.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely. So I've signed you up for the fixed-rate heating systems. Your heating costs will be fixed for you the winter season, and we'll make sure you get the best price available."
+        },
+        {
+            "start": 452.44,
+            "end": 454.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(um) Is there anything else I can help you with?"
+        },
+        {
+            "start": 454.74,
+            "end": 463.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Yeah, (um) when I pay my first bill and how do I and with reading my first bill, (um) what's it gonna look like and what should I expect from it?"
+        },
+        {
+            "start": 464.24,
+            "end": 472.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Great question. When you receive your first bill that will include the typical following sections, the meter reading, so this shows your fuel consumption for the billing period."
+        },
+        {
+            "start": 472.44,
+            "end": 475.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "It will include the current and previous readings."
+        },
+        {
+            "start": 475.74,
+            "end": 477.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "But as this is the first one"
+        },
+        {
+            "start": 479.24,
+            "end": 486.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(uh) with us (um,) it will not have any previous amounts on it. The amount due, so this section will show your fixed amount payment"
+        },
+        {
+            "start": 487.24,
+            "end": 491.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "as you're on the fixed-rate plan. If you're on the pay-as-you-go plan, it will reflect the cost"
+        },
+        {
+            "start": 491.84,
+            "end": 500.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "based on your usage, and you'll see the payment due dates (um) at the top right hand corner. So (um) it will show you when it is due."
+        },
+        {
+            "start": 500.64,
+            "end": 503.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(um) So you can pay your energy bills in several ways. We have"
+        },
+        {
+            "start": 503.84,
+            "end": 509.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "online through our website or mobile app. We have by phone using a credit card or debit card"
+        },
+        {
+            "start": 509.74,
+            "end": 514.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "or we do offer in-person at any of our authorized payment locations."
+        },
+        {
+            "start": 514.24,
+            "end": 523.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "First bill should arrive in a couple of weeks after you're locked into the fixed-rate plan. If you ever have any questions about the charges, our customer service team is here to help."
+        },
+        {
+            "start": 523.94,
+            "end": 532.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay, (um) so with my fixed-rate plan is that contract just quarterly or like do I have to lock in for a few years and then get stuck in that?"
+        },
+        {
+            "start": 532.84,
+            "end": 542.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(uh) So, as this is your first time with us, we only offer it for the first winter. And then after your first (um) winter with us, we do offer the option to lock in"
+        },
+        {
+            "start": 542.94,
+            "end": 546.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "for either a two-year or four-year plan."
+        },
+        {
+            "start": 546.54,
+            "end": 550.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay, okay. I get it. And with your"
+        },
+        {
+            "start": 551.34,
+            "end": 557.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "with the contract (um,) do I get to see and sign that before I agree to all of this?"
+        },
+        {
+            "start": 558.04,
+            "end": 566.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely. So upon (uh) booking in an appointment for us when you come out for the fixed-rate"
+        },
+        {
+            "start": 566.24,
+            "end": 571.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "based on your fixed rate, (um) when our technician comes out to set up your heating,"
+        },
+        {
+            "start": 571.24,
+            "end": 581.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(uh) based on the details, (um) we can create a contract based on that. And then that will be sent to you to sign before we take any payment from you."
+        },
+        {
+            "start": 581.34,
+            "end": 582.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Ohh yeah that sounds good."
+        },
+        {
+            "start": 584.14,
+            "end": 586.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Certainly. Is there anything else I can help you with for today?"
+        },
+        {
+            "start": 586.94,
+            "end": 592.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(um) If there's something go~ that goes wrong with the heating (um) ,"
+        },
+        {
+            "start": 593.24,
+            "end": 601.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "what do I do? Like if there's an emergency or something, is there something that I can do or do I contact like you for emergency services or do I contact triple zero?"
+        },
+        {
+            "start": 602.74,
+            "end": 608.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely, you do not need to call the emergency services at all. So we have"
+        },
+        {
+            "start": 609.14,
+            "end": 614.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "(um) if you ever experience a heating emergency, such as a gas leak, system malfunction, or no heat at all,"
+        },
+        {
+            "start": 614.34,
+            "end": 623.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "you can reach us through our twenty-four seven emergency services. (uh) That phone number will be emailed to you, and the phone number is"
+        },
+        {
+            "start": 624.14,
+            "end": 625.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "eight one three"
+        },
+        {
+            "start": 625.74,
+            "end": 627.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "two four"
+        },
+        {
+            "start": 628.04,
+            "end": 629.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "O double nine."
+        },
+        {
+            "start": 630.14,
+            "end": 639.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "It's available at all times, including weekends and holidays. If the situation is urgent (um) please don't hesitate to call us immediately, and we'll dispatch"
+        },
+        {
+            "start": 639.74,
+            "end": 641.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "a technician as soon as we can."
+        },
+        {
+            "start": 642.24,
+            "end": 643.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay, that sounds good."
+        },
+        {
+            "start": 644.44,
+            "end": 651.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "And (um) with the installation, when is the earliest time that you can install it for me?"
+        },
+        {
+            "start": 651.24,
+            "end": 654.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely. Are you currently living in your new house, Sharon?"
+        },
+        {
+            "start": 654.74,
+            "end": 662.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(uh) I will move in next week, so preferably I'd like to get it done before I move in, you know. I don't wanna be cold on arrival."
+        },
+        {
+            "start": 660.74,
+            "end": 661.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Abs~"
+        },
+        {
+            "start": 662.44,
+            "end": 670.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "absolutely not and not in this weather. (um) Based on your location with your new house address,"
+        },
+        {
+            "start": 670.84,
+            "end": 675.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "we can have someone on either Tuesday afternoon. We have"
+        },
+        {
+            "start": 675.84,
+            "end": 682.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "availability or we have most of the day on Thursday. (uh) We can schedule"
+        },
+        {
+            "start": 681.84,
+            "end": 683.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Do you have any availability on Friday?"
+        },
+        {
+            "start": 685.04,
+            "end": 694.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "We have a limited availability on Friday. We either have so it's approximately a two-hour instillation. So we can have someone there"
+        },
+        {
+            "start": 694.34,
+            "end": 698.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "from either seven thirty until approximately nine thirty"
+        },
+        {
+            "start": 698.34,
+            "end": 707.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "or we have a three till five o'clock option or five thirty till seven thirty option."
+        },
+        {
+            "start": 707.34,
+            "end": 712.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "I'll definitely have to go with the Friday option. (uh) Did you say three till five?"
+        },
+        {
+            "start": 713.04,
+            "end": 713.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yes."
+        },
+        {
+            "start": 713.94,
+            "end": 722.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay, I might be a little late, but I'll leave the keys under the mat cause I've got my meeting group, and I need to go to my meeting group before I come see the installers."
+        },
+        {
+            "start": 723.04,
+            "end": 724.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(um) Is that all right?"
+        },
+        {
+            "start": 725.04,
+            "end": 735.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Unfortunately, we cannot (uh) have our technicians open up ourselves, but (um) we do say a lot two hours, but it shouldn't take two hours."
+        },
+        {
+            "start": 735.04,
+            "end": 737.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "At most it's usually an hour, an hour and twenty,"
+        },
+        {
+            "start": 738.14,
+            "end": 745.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "but that's okay if you're a little bit late. (um) Once we have the time booked in, you will receive our technician's number. So if you are running late,"
+        },
+        {
+            "start": 745.54,
+            "end": 749.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "please just advise him. But we can note that down that you might be a little bit rate"
+        },
+        {
+            "start": 749.34,
+            "end": 749.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "late."
+        },
+        {
+            "start": 750.14,
+            "end": 751.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay, that sounds good."
+        },
+        {
+            "start": 752.14,
+            "end": 758.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Yeah. Is there anything else with you today, Sharon, I can help you with? Just before I confirm all your details?"
+        },
+        {
+            "start": 758.84,
+            "end": 764.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(uh) No I think that's all right, thank you. Could you just confirm everything that's happening?"
+        },
+        {
+            "start": 764.44,
+            "end": 771.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Absolutely. So we've got your account details Sharon Smith, with your address of twelve Smith Street."
+        },
+        {
+            "start": 771.94,
+            "end": 776.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "We've got you locked on fo~ to our fixed-rate plan and your service appointment is scheduled"
+        },
+        {
+            "start": 777.04,
+            "end": 779.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "for Friday between three till five o'clock."
+        },
+        {
+            "start": 780.34,
+            "end": 781.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "Is there anything else?"
+        },
+        {
+            "start": 782.44,
+            "end": 783.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "(uh)"
+        },
+        {
+            "start": 784.44,
+            "end": 792.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "No I don't think so. I don't have to provide the technician with anything do I? or anything like that."
+        },
+        {
+            "start": 788.64,
+            "end": 792.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "No, absolutely, we just need you to be present in the house."
+        },
+        {
+            "start": 793.14,
+            "end": 794.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "I don't need to give them water?"
+        },
+        {
+            "start": 794.74,
+            "end": 800.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "No, absolutely not. Our technicians are are a all covered. All we need is for you to be present."
+        },
+        {
+            "start": 800.84,
+            "end": 805.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Okay, as long as I don't have to provide them with anything 'cause this is gonna cost me a bit . So (um)"
+        },
+        {
+            "start": 806.74,
+            "end": 809.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "as long as I don't have to give them anything then I should be all good."
+        },
+        {
+            "start": 810.54,
+            "end": 820.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "No, that's absolutely fine. All right. Thank you, Sharon. Have a lovely day, and thank you for calling us, and (um) we'll be in touch following"
+        },
+        {
+            "start": 820.54,
+            "end": 822.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "our technicians instillation with"
+        },
+        {
+            "start": 822.84,
+            "end": 825.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_6",
+            "gender": "female",
+            "text": "your fix term rate plan. Have a lovely day."
+        },
+        {
+            "start": 825.84,
+            "end": 826.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Thank you. You too."
+        },
+        {
+            "start": 842.04,
+            "end": 843.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_7",
+            "gender": "female",
+            "text": "Did you like my new character?"
+        }
+    ]
+}

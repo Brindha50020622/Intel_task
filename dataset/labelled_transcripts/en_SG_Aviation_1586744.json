@@ -1,0 +1,1865 @@
+{
+    "file_name": "en_SG_Aviation_1586744.wav",
+    "domain": "aviation",
+    "accent": "en-SG",
+    "duration": 907.0,
+    "escalation_label": 1,
+    "segments": [
+        {
+            "start": 13.26,
+            "end": 15.91,
+            "role": "agent",
+            "text": "Hi, this is Good Airlines.",
+            "escalation_label": 0,
+            "label_reason": "Agent greeting."
+        },
+        {
+            "start": 16.94,
+            "end": 17.9,
+            "role": "agent",
+            "text": "This is Lenie speak.",
+            "escalation_label": 0,
+            "label_reason": "Agent greeting."
+        },
+        {
+            "start": 17.44,
+            "end": 18.24,
+            "role": "customer",
+            "text": "Hello",
+            "escalation_label": 0,
+            "label_reason": "Customer greeting."
+        },
+        {
+            "start": 19.04,
+            "end": 20.75,
+            "role": "agent",
+            "text": "Hi how may I help you sir?",
+            "escalation_label": 0,
+            "label_reason": "Agent greeting and offer of help."
+        },
+        {
+            "start": 19.64,
+            "end": 22.14,
+            "role": "customer",
+            "text": "Hello, hello, who is there speaking?",
+            "escalation_label": 0,
+            "label_reason": "Customer greeting and asking for agent's name."
+        },
+        {
+            "start": 22.84,
+            "end": 23.39,
+            "role": "agent",
+            "text": "To Lenie.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides name."
+        },
+        {
+            "start": 24.24,
+            "end": 32.34,
+            "role": "customer",
+            "text": "Lenie. Hi Lenie, I, I am calling you because I want to inquire about a seat change. Is that possible?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains the reason for calling (seat change inquiry)."
+        },
+        {
+            "start": 25.34,
+            "end": 25.8,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's inquiry."
+        },
+        {
+            "start": 32.94,
+            "end": 35.14,
+            "role": "customer",
+            "text": "For my, for my flight upcoming.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides further detail about the inquiry."
+        },
+        {
+            "start": 36.24,
+            "end": 37.24,
+            "role": "customer",
+            "text": "To Thailand.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides further detail about the inquiry."
+        },
+        {
+            "start": 38.24,
+            "end": 43.62,
+            "role": "agent",
+            "text": "Mm okay, can I check with you (um) your booking details? And may I know who am I speaking to?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for booking details and customer's name to assist."
+        },
+        {
+            "start": 43.94,
+            "end": 49.14,
+            "role": "customer",
+            "text": "My, my my booking details.",
+            "escalation_label": 0,
+            "label_reason": "Customer responds to agent's request for booking details."
+        },
+        {
+            "start": 50.74,
+            "end": 52.04,
+            "role": "customer",
+            "text": "Six, five.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides booking details."
+        },
+        {
+            "start": 53.14,
+            "end": 57.84,
+            "role": "customer",
+            "text": "Seven, S, N, Zero, Zero, Zero, Four, X",
+            "escalation_label": 0,
+            "label_reason": "Customer provides booking details."
+        },
+        {
+            "start": 60.04,
+            "end": 60.54,
+            "role": "agent",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges receipt of information."
+        },
+        {
+            "start": 61.64,
+            "end": 65.55,
+            "role": "agent",
+            "text": "And I believe I'm speaking to Mr. Jack?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms customer's name."
+        },
+        {
+            "start": 66.74,
+            "end": 68.84,
+            "role": "customer",
+            "text": "Yes, the name is Jack, Jack Kwa",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms name."
+        },
+        {
+            "start": 69.84,
+            "end": 74.14,
+            "role": "agent",
+            "text": "Okay hi (uh) Mr. Kwon so I see that.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges and confirms they have retrieved the booking."
+        },
+        {
+            "start": 73.14,
+            "end": 77.14,
+            "role": "customer",
+            "text": "You can call me Jack.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides preferred name."
+        },
+        {
+            "start": 78.14,
+            "end": 84.36,
+            "role": "agent",
+            "text": "Okay yeah so hi Jack (um) so I can see that you actually have not",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges preferred name and summarizes booking status."
+        },
+        {
+            "start": 85.14,
+            "end": 89.44,
+            "role": "agent",
+            "text": "you actually have not (um) included a seat into your ticket yet.",
+            "escalation_label": 0,
+            "label_reason": "Agent summarizes booking status regarding seating."
+        },
+        {
+            "start": 90.14,
+            "end": 93.73,
+            "role": "agent",
+            "text": "So you are calling to request for a seat change, right?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms understanding of customer's request."
+        },
+        {
+            "start": 90.2,
+            "end": 91.04,
+            "role": "customer",
+            "text": "Ohh.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild surprise or acknowledgment."
+        },
+        {
+            "start": 93.64,
+            "end": 100.64,
+            "role": "customer",
+            "text": "Guys, it is for me and my kids. We are flying together. I am trying to show him how to become a man in Thailand.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains context for seat change, no frustration."
+        },
+        {
+            "start": 98.14,
+            "end": 98.66,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgement."
+        },
+        {
+            "start": 101.74,
+            "end": 114.29,
+            "role": "agent",
+            "text": "Ohh okay so (uh) you are traveling with a child and you are requesting for a seat change because of any particular reasons? So that I can better assist you.",
+            "escalation_label": 0,
+            "label_reason": "Agent seeks clarification on reasons for seat change to assist better."
+        },
+        {
+            "start": 106.14,
+            "end": 106.54,
+            "role": "customer",
+            "text": "Hmm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 112.74,
+            "end": 113.74,
+            "role": "customer",
+            "text": "Prophecy.",
+            "escalation_label": 0,
+            "label_reason": "Customer utterance, likely acknowledgement or filler."
+        },
+        {
+            "start": 114.54,
+            "end": 125.94,
+            "role": "customer",
+            "text": "Right, I understand, thank thanks lady. Obviously because I am a bit of a I am a bit tall, so my legs are a bit longer, maybe a seat with more leg leg space would be good.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains personal reason for needing more leg space."
+        },
+        {
+            "start": 126.34,
+            "end": 130.84,
+            "role": "customer",
+            "text": "At the same time because my child is a little bit he has some.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains concern for child's needs."
+        },
+        {
+            "start": 131.94,
+            "end": 138.24,
+            "role": "customer",
+            "text": "Some complications you know? (uh) Like so (uh) low (uh) which will be he he he will be great.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains child's complications and need for more space."
+        },
+        {
+            "start": 138.24,
+            "end": 144.24,
+            "role": "customer",
+            "text": "If we can get a seat whereby this b~ bigger space so that it is easier for me to manage him when if complications arise.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains need for more space to manage child's complications."
+        },
+        {
+            "start": 145.64,
+            "end": 155.29,
+            "role": "agent",
+            "text": "Mm okay, understand (um) so (uh) let me have a look on our seating plan, okay and see where I can actually help you with",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges and states intention to check seating plan."
+        },
+        {
+            "start": 146.74,
+            "end": 147.24,
+            "role": "customer",
+            "text": "Hmm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 153.34,
+            "end": 153.94,
+            "role": "customer",
+            "text": "Mhm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 155.82,
+            "end": 156.24,
+            "role": "customer",
+            "text": "Sure.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 156.54,
+            "end": 158.35,
+            "role": "agent",
+            "text": "Okay (uh) just give me a second.",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for a moment to check."
+        },
+        {
+            "start": 159.14,
+            "end": 159.54,
+            "role": "customer",
+            "text": "Hm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 162.14,
+            "end": 165.12,
+            "role": "agent",
+            "text": "Okay (uh) Jack hello?",
+            "escalation_label": 0,
+            "label_reason": "Agent calls customer's name."
+        },
+        {
+            "start": 164.14,
+            "end": 164.74,
+            "role": "customer",
+            "text": "Hm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 165.64,
+            "end": 166.54,
+            "role": "customer",
+            "text": "Yes, yeah hello.",
+            "escalation_label": 0,
+            "label_reason": "Customer responds to agent's call."
+        },
+        {
+            "start": 167.14,
+            "end": 173.85,
+            "role": "agent",
+            "text": "Yeah so (um) I actually have (uh) two seats available at the front row.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers available seats at the front row."
+        },
+        {
+            "start": 174.84,
+            "end": 185.85,
+            "role": "agent",
+            "text": "Okay like right at the front row, on the first row actually (um) that's where we actually have (uh) bigger leg space for yourself and also (um) since you're also traveling with a child.",
+            "escalation_label": 0,
+            "label_reason": "Agent describes benefits of the front row seats (leg space, child assistance)."
+        },
+        {
+            "start": 175.04,
+            "end": 175.54,
+            "role": "customer",
+            "text": "Mhm",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 177.24,
+            "end": 177.84,
+            "role": "customer",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 178.84,
+            "end": 179.34,
+            "role": "customer",
+            "text": "All right",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 186.04,
+            "end": 194.33,
+            "role": "agent",
+            "text": "(um) It's at the front row so the stewards and stewardess is able to actually assist your child better as well (um) is that,",
+            "escalation_label": 0,
+            "label_reason": "Agent further explains benefits of front row seats for child assistance."
+        },
+        {
+            "start": 195.14,
+            "end": 196.44,
+            "role": "agent",
+            "text": "a good option for you?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks if the proposed option is suitable."
+        },
+        {
+            "start": 197.04,
+            "end": 198.24,
+            "role": "customer",
+            "text": "That sounds great lady.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses satisfaction with the proposed solution."
+        },
+        {
+            "start": 199.24,
+            "end": 208.53,
+            "role": "agent",
+            "text": "Okay yeah (uh) so I also need to let you know as well because (um) on our first row is actually our premium economy seats.",
+            "escalation_label": 0,
+            "label_reason": "Agent informs customer that the seats are premium economy."
+        },
+        {
+            "start": 200.4,
+            "end": 201.04,
+            "role": "customer",
+            "text": "Hm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 208.94,
+            "end": 216.18,
+            "role": "agent",
+            "text": "So which means that there would actually have to be an additional payment for these two seats, is that okay for you?",
+            "escalation_label": 0,
+            "label_reason": "Agent informs customer about the additional payment requirement."
+        },
+        {
+            "start": 216.94,
+            "end": 219.14,
+            "role": "customer",
+            "text": "Ohh really? How much? I mean,",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild surprise and asks about the cost, but not with strong frustration."
+        },
+        {
+            "start": 218.24,
+            "end": 218.61,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms previous statement."
+        },
+        {
+            "start": 219.94,
+            "end": 228.54,
+            "role": "customer",
+            "text": "(uh) I don't want to spend more money I guess so how much is it? I mean",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses a desire not to spend more money and asks for the cost, no strong frustration."
+        },
+        {
+            "start": 227.94,
+            "end": 228.42,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgement."
+        },
+        {
+            "start": 229.54,
+            "end": 236.98,
+            "role": "agent",
+            "text": "Yeah so, it's actually twenty dollars extra per seat so since it's two seats it's actually forty dollars.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the additional cost for the seats."
+        },
+        {
+            "start": 237.94,
+            "end": 241.74,
+            "role": "customer",
+            "text": "Twenty dollars a travel seat, two seats forty dollars.",
+            "escalation_label": 0,
+            "label_reason": "Customer repeats the cost for clarification, no frustration."
+        },
+        {
+            "start": 243.14,
+            "end": 248.84,
+            "role": "customer",
+            "text": "(Um,) okay cool, I think I can do forty dollars. That should be no problem.",
+            "escalation_label": 0,
+            "label_reason": "Customer accepts the additional cost for the seats."
+        },
+        {
+            "start": 249.74,
+            "end": 256.32,
+            "role": "agent",
+            "text": "Okay okay (um) I'll include that into your ticket and anything else that I can help you with, Jack?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the addition and asks if further assistance is needed."
+        },
+        {
+            "start": 250.34,
+            "end": 251.64,
+            "role": "customer",
+            "text": "Mhm",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 254.29,
+            "end": 254.94,
+            "role": "customer",
+            "text": "(Um)",
+            "escalation_label": 0,
+            "label_reason": "Customer utterance."
+        },
+        {
+            "start": 257.19,
+            "end": 266.04,
+            "role": "customer",
+            "text": "Basically, (uh) so a so like I said. My kid has some complications. (uh) Some medical complications.",
+            "escalation_label": 0,
+            "label_reason": "Customer reiterates concern about child's medical complications."
+        },
+        {
+            "start": 266.04,
+            "end": 266.84,
+            "role": "customer",
+            "text": "Might arise.",
+            "escalation_label": 0,
+            "label_reason": "Customer reiterates concern about child's medical complications."
+        },
+        {
+            "start": 267.14,
+            "end": 274.14,
+            "role": "customer",
+            "text": "So if anything you'll be able to help me with it?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks if assistance will be provided for medical events."
+        },
+        {
+            "start": 274.74,
+            "end": 275.68,
+            "role": "agent",
+            "text": "Yes, correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms assistance will be provided."
+        },
+        {
+            "start": 276.64,
+            "end": 285.94,
+            "role": "customer",
+            "text": "Ohh right okay, That would be great, but I should work for a few more inquiries I need to make.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses satisfaction and indicates more inquiries."
+        },
+        {
+            "start": 286.64,
+            "end": 287.06,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgement."
+        },
+        {
+            "start": 286.84,
+            "end": 289.54,
+            "role": "customer",
+            "text": "And then, OK, I I mean, I got time right?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about available time, no frustration."
+        },
+        {
+            "start": 290.04,
+            "end": 291.7,
+            "role": "agent",
+            "text": "Yeah this is my job",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms availability."
+        },
+        {
+            "start": 291.74,
+            "end": 299.84,
+            "role": "customer",
+            "text": "cool Thank you thank you so anyway I just want to ask (uh) so about some about the baggage allowing (ah)",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses gratitude and moves to a new inquiry about baggage allowance."
+        },
+        {
+            "start": 299.84,
+            "end": 302.44,
+            "role": "customer",
+            "text": "(um) I do wanna know so for me and my kid, right? (uh,)",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for baggage allowance details for himself and his kid."
+        },
+        {
+            "start": 302.44,
+            "end": 307.84,
+            "role": "customer",
+            "text": "Sorry I did not read lines and the fine print. For me and my kid, how m~ how much baggage do we get?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for baggage allowance details, admitting not reading fine print."
+        },
+        {
+            "start": 304.94,
+            "end": 305.34,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgement."
+        },
+        {
+            "start": 308.74,
+            "end": 315.08,
+            "role": "agent",
+            "text": "Okay so for us, Good Airlines, we actually allow seven kilos carry-on per passenger.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information on carry-on allowance."
+        },
+        {
+            "start": 315.64,
+            "end": 319.75,
+            "role": "agent",
+            "text": "So meaning to say you have seven kilo on for yourself and seven kilos for your kid.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies carry-on allowance per passenger."
+        },
+        {
+            "start": 316.24,
+            "end": 316.64,
+            "role": "customer",
+            "text": "Mhm",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 320.54,
+            "end": 322.67,
+            "role": "agent",
+            "text": "Do you actually need extra check-in?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks about need for extra check-in."
+        },
+        {
+            "start": 321.14,
+            "end": 322.04,
+            "role": "customer",
+            "text": "Ohh.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild surprise or acknowledgement."
+        },
+        {
+            "start": 324.34,
+            "end": 326.64,
+            "role": "customer",
+            "text": "Sorry I didn't I didn't have any (uh) check-in baggage.",
+            "escalation_label": 0,
+            "label_reason": "Customer states they didn't have check-in baggage."
+        },
+        {
+            "start": 327.74,
+            "end": 331.87,
+            "role": "agent",
+            "text": "(um) from what I see, you actually don't have it on your ticket when you booked it.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms check-in baggage is not on the ticket."
+        },
+        {
+            "start": 331.56,
+            "end": 333.94,
+            "role": "customer",
+            "text": "(uh) That is good, I thought I clicked on it.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild disbelief or confusion, thinking they had added it."
+        },
+        {
+            "start": 335.34,
+            "end": 336.88,
+            "role": "agent",
+            "text": "Mm yeah I think.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgement."
+        },
+        {
+            "start": 335.84,
+            "end": 339.14,
+            "role": "customer",
+            "text": "I could have swore I clicked on it lady. I think you better check.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild disbelief and asks the agent to re-check, not yet strong frustration."
+        },
+        {
+            "start": 340.44,
+            "end": 344.44,
+            "role": "agent",
+            "text": "Yeah it's actually (um) yeah it's not included in your ticket.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms check-in baggage is not included."
+        },
+        {
+            "start": 344.78,
+            "end": 345.44,
+            "role": "customer",
+            "text": "What?!",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses strong surprise or disbelief with 'What?!'."
+        },
+        {
+            "start": 346.04,
+            "end": 346.96,
+            "role": "agent",
+            "text": "Yeah probably.",
+            "escalation_label": 0,
+            "label_reason": "Agent attempts to explain."
+        },
+        {
+            "start": 346.14,
+            "end": 348.74,
+            "role": "customer",
+            "text": "Are you sure there's not not a system glitch or something like that.",
+            "escalation_label": 0,
+            "label_reason": "Customer questions if it's a system glitch, seeking clarification, not hostile."
+        },
+        {
+            "start": 350.14,
+            "end": 355.89,
+            "role": "agent",
+            "text": "(uh) No, yeah I think it's probably in the like, maybe you unclick it.",
+            "escalation_label": 0,
+            "label_reason": "Agent suggests customer might have unchecked it."
+        },
+        {
+            "start": 351.52,
+            "end": 352.28,
+            "role": "customer",
+            "text": "Really?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses disbelief."
+        },
+        {
+            "start": 356.94,
+            "end": 358.63,
+            "role": "agent",
+            "text": "when you actually booked the ticket.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies when it might have been unchecked."
+        },
+        {
+            "start": 359.84,
+            "end": 366.54,
+            "role": "customer",
+            "text": "(Hm) So, then how much I mean for the the minimum baggage allowance.",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about the cost for minimum baggage allowance."
+        },
+        {
+            "start": 367.74,
+            "end": 372.94,
+            "role": "agent",
+            "text": "Okay so, if let's say you need extra (uh) check-in luggage that will be",
+            "escalation_label": 0,
+            "label_reason": "Agent prepares to provide cost for extra check-in luggage."
+        },
+        {
+            "start": 371.94,
+            "end": 373.34,
+            "role": "customer",
+            "text": "Four percent, (ah) four percent.",
+            "escalation_label": 0,
+            "label_reason": "Customer interjection, possibly confused."
+        },
+        {
+            "start": 373.84,
+            "end": 380.95,
+            "role": "agent",
+            "text": "okay so per piece maximum twenty kilos is actually an additional eighty-two dollars",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the cost for one piece of check-in luggage."
+        },
+        {
+            "start": 382.14,
+            "end": 383.89,
+            "role": "agent",
+            "text": "So if let's say you and your kid",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain pricing."
+        },
+        {
+            "start": 382.84,
+            "end": 385.84,
+            "role": "customer",
+            "text": "Eighty two dollars, woah that is too expensive.",
+            "escalation_label": 1,
+            "label_reason": "Customer shows clear, strong frustration and dissatisfaction with the price ('too expensive')."
+        },
+        {
+            "start": 386.54,
+            "end": 387.68,
+            "role": "agent",
+            "text": "Yes correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly confirms the price, not displaying escalation-related content."
+        },
+        {
+            "start": 388.84,
+            "end": 395.14,
+            "role": "customer",
+            "text": "Eighty two dollars for two persons",
+            "escalation_label": 1,
+            "label_reason": "Customer reiterates the high cost, expressing ongoing dissatisfaction."
+        },
+        {
+            "start": 395.94,
+            "end": 396.64,
+            "role": "customer",
+            "text": "screw that",
+            "escalation_label": 1,
+            "label_reason": "Customer uses strong language ('screw that'), indicating clear and strong frustration."
+        },
+        {
+            "start": 396.34,
+            "end": 398.04,
+            "role": "agent",
+            "text": "Yes",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly confirms a detail, not displaying escalation-related content."
+        },
+        {
+            "start": 399.04,
+            "end": 401.74,
+            "role": "customer",
+            "text": "So it supposed to be budget airlines. So that means",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses serious dissatisfaction, questioning the 'budget airlines' claim due to high costs."
+        },
+        {
+            "start": 403.74,
+            "end": 410.14,
+            "role": "customer",
+            "text": "(Ah,) twenty kilos sir",
+            "escalation_label": 1,
+            "label_reason": "Customer is still in the process of clarifying the frustrating baggage cost information."
+        },
+        {
+            "start": 418.44,
+            "end": 420.44,
+            "role": "customer",
+            "text": "It is a checkin yeah.",
+            "escalation_label": 1,
+            "label_reason": "Customer is still in the process of clarifying the frustrating baggage cost information."
+        },
+        {
+            "start": 423.04,
+            "end": 423.44,
+            "role": "customer",
+            "text": "Hello",
+            "escalation_label": 0,
+            "label_reason": "Customer checks if the agent is still on the line."
+        },
+        {
+            "start": 423.34,
+            "end": 424.47,
+            "role": "agent",
+            "text": "Yeah, yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms they are listening."
+        },
+        {
+            "start": 424.74,
+            "end": 426.94,
+            "role": "customer",
+            "text": "(Uh) Are you hearing me miss Lenie?",
+            "escalation_label": 0,
+            "label_reason": "Customer explicitly asks if the agent is hearing them, a technical check, not an escalation."
+        },
+        {
+            "start": 427.84,
+            "end": 429.89,
+            "role": "agent",
+            "text": "Yeah yeah I can hear you.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms they can hear the customer."
+        },
+        {
+            "start": 429.14,
+            "end": 434.74,
+            "role": "customer",
+            "text": "Okay So I get I get exactly twenty kilos for eighty two bucks per pax.Is it?",
+            "escalation_label": 1,
+            "label_reason": "Customer reconfirms the details of the expensive baggage, still reflecting frustration about the cost."
+        },
+        {
+            "start": 435.64,
+            "end": 436.81,
+            "role": "agent",
+            "text": "Yes correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent calmly confirms information."
+        },
+        {
+            "start": 438.04,
+            "end": 445.14,
+            "role": "customer",
+            "text": "Okay, okay, (ah,) let me do some calculations.",
+            "escalation_label": 0,
+            "label_reason": "Customer calculates and considers options, indicating a de-escalation of frustration."
+        },
+        {
+            "start": 445.94,
+            "end": 447.04,
+            "role": "customer",
+            "text": "Okay, I think.",
+            "escalation_label": 0,
+            "label_reason": "Customer indicates acceptance of the price and solution."
+        },
+        {
+            "start": 447.64,
+            "end": 454.04,
+            "role": "customer",
+            "text": "You be alright, (ah) yeah I think I can do eighty dollar",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses willingness to accept the forty dollar cost."
+        },
+        {
+            "start": 454.44,
+            "end": 458.04,
+            "role": "customer",
+            "text": "I start checking my list squeeze his stuff into my",
+            "escalation_label": 0,
+            "label_reason": "Customer talks about managing luggage within carry-on limits, showing acceptance and problem-solving."
+        },
+        {
+            "start": 459.14,
+            "end": 460.9,
+            "role": "agent",
+            "text": "Okay, so.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgement."
+        },
+        {
+            "start": 459.84,
+            "end": 464.64,
+            "role": "customer",
+            "text": "I mean you does have a servant, you know carry on back. really shouldn't be a problem",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to express how they will manage baggage, indicating acceptance."
+        },
+        {
+            "start": 465.34,
+            "end": 468.64,
+            "role": "customer",
+            "text": "But I do have a",
+            "escalation_label": 0,
+            "label_reason": "Customer leads into next question about carry-on dimensions."
+        },
+        {
+            "start": 465.64,
+            "end": 466.04,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgement."
+        },
+        {
+            "start": 468.24,
+            "end": 469.31,
+            "role": "agent",
+            "text": "Yes correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms carry-on information."
+        },
+        {
+            "start": 469.94,
+            "end": 474.64,
+            "role": "customer",
+            "text": "How big is the dimension of the carry on? Could you you you you could you inform me?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for carry-on baggage dimensions."
+        },
+        {
+            "start": 475.54,
+            "end": 476.14,
+            "role": "customer",
+            "text": "Double",
+            "escalation_label": 0,
+            "label_reason": "Customer utterance."
+        },
+        {
+            "start": 477.84,
+            "end": 478.56,
+            "role": "agent",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Agent utterance."
+        },
+        {
+            "start": 478.04,
+            "end": 484.84,
+            "role": "customer",
+            "text": "I mean can I bring a huge whole IP bag shoulder for everything I put inside?",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies intent to maximize carry-on capacity, no frustration."
+        },
+        {
+            "start": 484.54,
+            "end": 486.01,
+            "role": "agent",
+            "text": "Sorry, what would you like to bring?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for clarification."
+        },
+        {
+            "start": 487.34,
+            "end": 495.74,
+            "role": "customer",
+            "text": "I try to squeeze as many things as possible. I need to know how big the bag is of dimensions.",
+            "escalation_label": 0,
+            "label_reason": "Customer reiterates need for bag dimensions to pack efficiently."
+        },
+        {
+            "start": 491.74,
+            "end": 492.22,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgement."
+        },
+        {
+            "start": 496.24,
+            "end": 497.54,
+            "role": "customer",
+            "text": "Can be for the carry on.",
+            "escalation_label": 0,
+            "label_reason": "Customer completes the question about carry-on dimensions."
+        },
+        {
+            "start": 498.64,
+            "end": 505.99,
+            "role": "agent",
+            "text": "Okay (um) for the carry-on it's (uh) forty by twenty by thirty.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the dimensions for carry-on luggage."
+        },
+        {
+            "start": 507.24,
+            "end": 513.74,
+            "role": "customer",
+            "text": "(Ah) (ah) Very hard for me to achieve any way give me a rough idea exactly what kind of bag.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses difficulty understanding dimensions and asks for a rough idea of bag type, no frustration."
+        },
+        {
+            "start": 514.94,
+            "end": 518.54,
+            "role": "agent",
+            "text": "(um) okay ususally people bring like a laptop bag.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides examples of typical bag types that fit the dimensions."
+        },
+        {
+            "start": 519.64,
+            "end": 525.95,
+            "role": "agent",
+            "text": "(uh) otherwise (um) you can also do, if you do like a hiking bag maybe about thirty-five liters.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides further examples of suitable bag types."
+        },
+        {
+            "start": 527.44,
+            "end": 530.54,
+            "role": "customer",
+            "text": "(ah) So if I Could I find the time, make should be okay, yeah?",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks confirmation about bag type suitability."
+        },
+        {
+            "start": 530.84,
+            "end": 540.62,
+            "role": "agent",
+            "text": "Yes or if you're bringing (uh) a suitcase, then it can be (uh) eighteen inch luggage yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms and provides another example of suitable luggage size."
+        },
+        {
+            "start": 541.74,
+            "end": 543.24,
+            "role": "customer",
+            "text": "Language",
+            "escalation_label": 0,
+            "label_reason": "Customer repeats a word from the agent's response."
+        },
+        {
+            "start": 544.04,
+            "end": 544.54,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 545.84,
+            "end": 555.54,
+            "role": "customer",
+            "text": "You've been a great help so far. So is my ticket refundable?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses appreciation and asks about ticket refundability."
+        },
+        {
+            "start": 557.04,
+            "end": 561.18,
+            "role": "agent",
+            "text": "(um) what I see over here is actually non-refundable.",
+            "escalation_label": 0,
+            "label_reason": "Agent informs customer that the ticket is non-refundable."
+        },
+        {
+            "start": 561.74,
+            "end": 562.74,
+            "role": "customer",
+            "text": "Non-refundable?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild surprise or confirms the non-refundable status."
+        },
+        {
+            "start": 562.14,
+            "end": 562.74,
+            "role": "agent",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Agent utterance."
+        },
+        {
+            "start": 563.34,
+            "end": 564.38,
+            "role": "agent",
+            "text": "Yes correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the non-refundable status."
+        },
+        {
+            "start": 563.94,
+            "end": 572.54,
+            "role": "customer",
+            "text": "I cannot fly I cannot fly because of any medical events or any emergencies",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains potential reasons for needing a refundable ticket (medical, emergencies)."
+        },
+        {
+            "start": 576.04,
+            "end": 584.78,
+            "role": "agent",
+            "text": "Mm understand sir (uh) so over here if let's say you want to change it to a refundable ticket, it's actually twenty dollars extra per ticket.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges and offers option to change to a refundable ticket for an extra fee."
+        },
+        {
+            "start": 584.74,
+            "end": 586.94,
+            "role": "customer",
+            "text": "I must pay .",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild concern or asks for confirmation about having to pay."
+        },
+        {
+            "start": 585.74,
+            "end": 586.39,
+            "role": "agent",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Agent utterance."
+        },
+        {
+            "start": 587.64,
+            "end": 596.46,
+            "role": "agent",
+            "text": "Yes correct (uh) but I also want to let you know about the terms and conditions for this refundable option so meaning to say yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms additional payment and offers to explain terms and conditions."
+        },
+        {
+            "start": 594.14,
+            "end": 595.14,
+            "role": "customer",
+            "text": "it is suitable.",
+            "escalation_label": 0,
+            "label_reason": "Customer utterance, possibly in agreement."
+        },
+        {
+            "start": 596.64,
+            "end": 600.56,
+            "role": "agent",
+            "text": "So meaning to say if (uh) you cancel it",
+            "escalation_label": 0,
+            "label_reason": "Agent begins to explain conditions for cancellation."
+        },
+        {
+            "start": 601.54,
+            "end": 610.89,
+            "role": "agent",
+            "text": "twenty-four hours before the flight we can actually provide a partial refund for your ticket and then if let's say you",
+            "escalation_label": 0,
+            "label_reason": "Agent explains partial refund terms for cancellation."
+        },
+        {
+            "start": 611.74,
+            "end": 612.54,
+            "role": "agent",
+            "text": "inform",
+            "escalation_label": 0,
+            "label_reason": "Agent continues explanation."
+        },
+        {
+            "start": 613.84,
+            "end": 614.51,
+            "role": "agent",
+            "text": "Sorry?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for clarification."
+        },
+        {
+            "start": 617.64,
+            "end": 618.6,
+            "role": "agent",
+            "text": "Sorry, what do you mean?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for clarification again."
+        },
+        {
+            "start": 620.64,
+            "end": 626.39,
+            "role": "agent",
+            "text": "Partial (um) partial is about, it's fifty percent",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies the percentage of partial refund."
+        },
+        {
+            "start": 622.04,
+            "end": 622.84,
+            "role": "customer",
+            "text": "How many percent?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for clarification on the percentage."
+        },
+        {
+            "start": 627.08,
+            "end": 628.34,
+            "role": "customer",
+            "text": "Or half",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms understanding of the percentage."
+        },
+        {
+            "start": 628.34,
+            "end": 629.75,
+            "role": "agent",
+            "text": "Yeah, half, yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 629.04,
+            "end": 633.44,
+            "role": "customer",
+            "text": "before I cut in?",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies the condition for the refund percentage."
+        },
+        {
+            "start": 633.14,
+            "end": 638.66,
+            "role": "agent",
+            "text": "OK so if you cancel seventy-two hours before the flight,",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the conditions for a full refund."
+        },
+        {
+            "start": 639.74,
+            "end": 647.53,
+            "role": "agent",
+            "text": "then it's full refund of your ticket however the taxes paid for this ticket is non-refundable.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies that taxes are non-refundable even with a full refund option."
+        },
+        {
+            "start": 649.14,
+            "end": 651.94,
+            "role": "customer",
+            "text": "Ohh. So the keep that.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges understanding of the non-refundable taxes."
+        },
+        {
+            "start": 652.64,
+            "end": 653.19,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 653.92,
+            "end": 655.14,
+            "role": "customer",
+            "text": "I see, I see.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges understanding."
+        },
+        {
+            "start": 655.84,
+            "end": 659.24,
+            "role": "customer",
+            "text": "So that means in total I have to pay.",
+            "escalation_label": 0,
+            "label_reason": "Customer begins to summarize the total costs."
+        },
+        {
+            "start": 660.14,
+            "end": 668.44,
+            "role": "customer",
+            "text": "The seat is thirty dollars per seat and the baggage I have to pay eighty two bucks right?",
+            "escalation_label": 0,
+            "label_reason": "Customer summarizes the costs for seats and baggage."
+        },
+        {
+            "start": 665.14,
+            "end": 665.57,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms a detail."
+        },
+        {
+            "start": 669.14,
+            "end": 669.63,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms a detail."
+        },
+        {
+            "start": 670.34,
+            "end": 674.54,
+            "role": "customer",
+            "text": "(Uh) Eighty two bucks",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to summarize costs."
+        },
+        {
+            "start": 674.04,
+            "end": 675.34,
+            "role": "agent",
+            "text": "One two two yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the total or a specific cost."
+        },
+        {
+            "start": 675.34,
+            "end": 680.74,
+            "role": "customer",
+            "text": "For this refundable and non refundable option.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to summarize costs for refundable/non-refundable options."
+        },
+        {
+            "start": 681.54,
+            "end": 682.52,
+            "role": "agent",
+            "text": "Yes correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 683.74,
+            "end": 692.54,
+            "role": "customer",
+            "text": "For me and my kids tickets refundable non-refundable for my my for my tickets and my kids .",
+            "escalation_label": 0,
+            "label_reason": "Customer further clarifies the application of refundable/non-refundable options to their tickets."
+        },
+        {
+            "start": 689.84,
+            "end": 690.39,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 693.24,
+            "end": 693.67,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 693.94,
+            "end": 695.64,
+            "role": "customer",
+            "text": ".",
+            "escalation_label": 0,
+            "label_reason": "Customer utterance."
+        },
+        {
+            "start": 694.74,
+            "end": 696.62,
+            "role": "agent",
+            "text": "Then that will be one six two.",
+            "escalation_label": 0,
+            "label_reason": "Agent states a total cost."
+        },
+        {
+            "start": 703.74,
+            "end": 705.15,
+            "role": "agent",
+            "text": "(um) okay so twenty.",
+            "escalation_label": 0,
+            "label_reason": "Agent begins to clarify the cost for refundable option."
+        },
+        {
+            "start": 704.04,
+            "end": 706.44,
+            "role": "customer",
+            "text": "You see me and my kid refundable, is thirty dollars worth.",
+            "escalation_label": 0,
+            "label_reason": "Customer states their understanding of the refundable option cost."
+        },
+        {
+            "start": 707.44,
+            "end": 708.37,
+            "role": "agent",
+            "text": "No per ticket.",
+            "escalation_label": 0,
+            "label_reason": "Agent corrects the customer's understanding regarding per ticket basis."
+        },
+        {
+            "start": 712.84,
+            "end": 715.14,
+            "role": "agent",
+            "text": "Yeah my apologies",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes for previous miscommunication."
+        },
+        {
+            "start": 715.34,
+            "end": 717.14,
+            "role": "customer",
+            "text": "So is thirty dollars per tequila.",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks clarification on the per ticket cost."
+        },
+        {
+            "start": 717.94,
+            "end": 718.81,
+            "role": "agent",
+            "text": "Yes correct.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the per ticket cost."
+        },
+        {
+            "start": 718.24,
+            "end": 719.54,
+            "role": "customer",
+            "text": "For the refundable option",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies that it's for the refundable option."
+        },
+        {
+            "start": 720.04,
+            "end": 720.47,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledgement."
+        },
+        {
+            "start": 722.74,
+            "end": 724.24,
+            "role": "agent",
+            "text": "Yes that's right.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 723.34,
+            "end": 725.34,
+            "role": "customer",
+            "text": "That's a that's a lot, man.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses that the cost is high ('that's a lot, man') but this is a complaint about cost, not strong frustration or a demand for resolution."
+        },
+        {
+            "start": 728.04,
+            "end": 736.96,
+            "role": "agent",
+            "text": "Yes understand yeah but unless you think that (um) there are certain things that you are able to forego.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's sentiment and suggests alternatives."
+        },
+        {
+            "start": 729.44,
+            "end": 730.64,
+            "role": "customer",
+            "text": "Hmm.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledgement."
+        },
+        {
+            "start": 737.94,
+            "end": 738.49,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent utterance."
+        },
+        {
+            "start": 739.74,
+            "end": 740.84,
+            "role": "customer",
+            "text": "Like what? For example.",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for clarification on alternatives."
+        },
+        {
+            "start": 741.74,
+            "end": 744.06,
+            "role": "agent",
+            "text": "Like if you know for sure that you're going for",
+            "escalation_label": 0,
+            "label_reason": "Agent provides examples for decision-making."
+        },
+        {
+            "start": 745.04,
+            "end": 750.41,
+            "role": "agent",
+            "text": "The trip then you can actually yeah it, it's entirely up to you sir.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains that the choice is up to the customer."
+        },
+        {
+            "start": 751.24,
+            "end": 753.32,
+            "role": "agent",
+            "text": "I'm just here to assist you with (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies their role as assisting with the ticket."
+        },
+        {
+            "start": 754.14,
+            "end": 755.11,
+            "role": "agent",
+            "text": "your ticket yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies their role as assisting with the ticket."
+        },
+        {
+            "start": 759.84,
+            "end": 760.94,
+            "role": "customer",
+            "text": "Ah!",
+            "escalation_label": 0,
+            "label_reason": "Customer utterance."
+        },
+        {
+            "start": 764.44,
+            "end": 765.38,
+            "role": "agent",
+            "text": "(um) yes",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms their role."
+        },
+        {
+            "start": 764.94,
+            "end": 771.94,
+            "role": "customer",
+            "text": "(uh,) You are like some (uh) customer service agent from",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms agent's role as customer service agent."
+        },
+        {
+            "start": 772.74,
+            "end": 773.43,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms their role."
+        },
+        {
+            "start": 776.94,
+            "end": 777.53,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms their role."
+        },
+        {
+            "start": 778.2,
+            "end": 785.74,
+            "role": "customer",
+            "text": "Alright great. So you know how how we like deals and we like good meals and stuff like that right?",
+            "escalation_label": 0,
+            "label_reason": "Customer makes a general statement about liking deals and good meals, setting up a request for discount."
+        },
+        {
+            "start": 784.04,
+            "end": 785.1,
+            "role": "agent",
+            "text": "Yes totally.",
+            "escalation_label": 0,
+            "label_reason": "Agent agrees with the general statement."
+        },
+        {
+            "start": 786.14,
+            "end": 790.04,
+            "role": "customer",
+            "text": "So try to bit of discount or something like that",
+            "escalation_label": 0,
+            "label_reason": "Customer politely requests a discount or similar deal."
+        },
+        {
+            "start": 792.24,
+            "end": 792.72,
+            "role": "agent",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Agent utterance."
+        },
+        {
+            "start": 793.34,
+            "end": 796.92,
+            "role": "agent",
+            "text": "Okay I understand where you're coming from sir but I",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's request."
+        },
+        {
+            "start": 797.74,
+            "end": 799.3,
+            "role": "agent",
+            "text": "am not able to do so.",
+            "escalation_label": 0,
+            "label_reason": "Agent states inability to provide a discount."
+        },
+        {
+            "start": 800.54,
+            "end": 800.95,
+            "role": "agent",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent utterance."
+        },
+        {
+            "start": 800.54,
+            "end": 807.14,
+            "role": "customer",
+            "text": "Have a you can do a, you are doing great so far, I will write a great review for you.",
+            "escalation_label": 0,
+            "label_reason": "Customer attempts to persuade the agent by offering a good review, no frustration."
+        },
+        {
+            "start": 808.04,
+            "end": 816.04,
+            "role": "agent",
+            "text": "Ohh thank you so much for that (uh) but also because I think (uh) when you actually booked the ticket, it was during our sales season.",
+            "escalation_label": 0,
+            "label_reason": "Agent thanks customer for compliment and explains why a discount isn't possible (sales season)."
+        },
+        {
+            "start": 816.34,
+            "end": 821.44,
+            "role": "agent",
+            "text": "And honestly for that price (um) it's also a steal for you when you actually booked it.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains that the original price was already a good deal."
+        },
+        {
+            "start": 822.14,
+            "end": 822.54,
+            "role": "customer",
+            "text": "Really?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses surprise."
+        },
+        {
+            "start": 823.14,
+            "end": 823.92,
+            "role": "agent",
+            "text": "Yeah yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms."
+        },
+        {
+            "start": 827.58,
+            "end": 828.07,
+            "role": "agent",
+            "text": "Sorry?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for clarification."
+        },
+        {
+            "start": 828.24,
+            "end": 831.14,
+            "role": "customer",
+            "text": "A private school. .",
+            "escalation_label": 0,
+            "label_reason": "Customer utterance, possibly clarifying a previous attempt at persuasion."
+        },
+        {
+            "start": 832.54,
+            "end": 839.11,
+            "role": "agent",
+            "text": "Yeah unfortunately (um) we are not able to do so over here and (um) I think",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates inability to provide a discount."
+        },
+        {
+            "start": 837.64,
+            "end": 844.44,
+            "role": "customer",
+            "text": "Come on miss Lenie, I am sure you can do it. Only you can speak to your (uh) your supervisor or your manager.",
+            "escalation_label": 1,
+            "label_reason": "Customer demands agent speak to a supervisor or manager to get a discount, explicitly requesting higher-level intervention."
+        },
+        {
+            "start": 844.94,
+            "end": 851.74,
+            "role": "customer",
+            "text": "A test bit more, ten percent I mean I appreciate the the the service.",
+            "escalation_label": 1,
+            "label_reason": "Customer continues to demand higher-level intervention to get a discount."
+        },
+        {
+            "start": 852.64,
+            "end": 861.61,
+            "role": "agent",
+            "text": "Yeah totally understand but I don't think we are able to do that over here (um) would you like to proceed with the additional add-ons that you mentioned?",
+            "escalation_label": 1,
+            "label_reason": "Agent's response directly addresses the customer's demand for a supervisor and discount, reflecting escalation-related content by reiterating policy and asking to proceed."
+        },
+        {
+            "start": 861.34,
+            "end": 861.74,
+            "role": "customer",
+            "text": "Yeah",
+            "escalation_label": 0,
+            "label_reason": "Customer's brief acknowledgement, possibly a sigh of resignation."
+        },
+        {
+            "start": 863.24,
+            "end": 865.74,
+            "role": "customer",
+            "text": "Ohh,",
+            "escalation_label": 0,
+            "label_reason": "Customer utterance, possibly a sigh."
+        },
+        {
+            "start": 866.34,
+            "end": 866.98,
+            "role": "agent",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Agent utterance."
+        },
+        {
+            "start": 867.54,
+            "end": 868.04,
+            "role": "customer",
+            "text": "Really",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses mild disbelief or hope, but not a demand."
+        },
+        {
+            "start": 868.04,
+            "end": 869.34,
+            "role": "agent",
+            "text": "Yeah yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms inability to provide discount."
+        },
+        {
+            "start": 869.44,
+            "end": 870.74,
+            "role": "customer",
+            "text": "Really, please.",
+            "escalation_label": 0,
+            "label_reason": "Customer makes a plea, but not a demand for supervisor or clear strong frustration."
+        },
+        {
+            "start": 870.64,
+            "end": 873.15,
+            "role": "agent",
+            "text": "Yes thank you so much sir",
+            "escalation_label": 0,
+            "label_reason": "Agent responds to customer's plea, trying to move the conversation forward."
+        },
+        {
+            "start": 873.34,
+            "end": 880.64,
+            "role": "customer",
+            "text": "No I'm fine, , what what I need to do now. What do you need?",
+            "escalation_label": 0,
+            "label_reason": "Customer gives up on the discount request ('No I'm fine') and shifts focus back to proceeding, indicating de-escalation."
+        },
+        {
+            "start": 881.54,
+            "end": 887.85,
+            "role": "agent",
+            "text": "Okay (um) I'll just confirm your credit card details, the last four digits is three four two one.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms payment details to process the add-ons."
+        },
+        {
+            "start": 888.84,
+            "end": 889.24,
+            "role": "customer",
+            "text": "Yeah",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms payment detail."
+        },
+        {
+            "start": 889.74,
+            "end": 894.53,
+            "role": "agent",
+            "text": "Okay then I will just (um) put it on charge to your credit card, is that okay?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for confirmation to charge the credit card."
+        },
+        {
+            "start": 894.64,
+            "end": 895.94,
+            "role": "customer",
+            "text": "Yes",
+            "escalation_label": 0,
+            "label_reason": "Customer agrees to the charge."
+        },
+        {
+            "start": 896.84,
+            "end": 900.72,
+            "role": "agent",
+            "text": "Okay (uh) that's all (uh) anything else that I can help you with?",
+            "escalation_label": 0,
+            "label_reason": "Agent concludes the transaction and asks for any further assistance."
+        },
+        {
+            "start": 901.09,
+            "end": 903.34,
+            "role": "customer",
+            "text": "Nice job miss Lenie, Thank you so much.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses gratitude, indicating a positive conclusion."
+        },
+        {
+            "start": 902.84,
+            "end": 904.31,
+            "role": "agent",
+            "text": "Okay thank you.",
+            "escalation_label": 0,
+            "label_reason": "Agent thanks the customer."
+        },
+        {
+            "start": 904.34,
+            "end": 905.94,
+            "role": "customer",
+            "text": "Hmm, bye bye",
+            "escalation_label": 0,
+            "label_reason": "Customer bids farewell."
+        },
+        {
+            "start": 906.04,
+            "end": 906.58,
+            "role": "agent",
+            "text": "Bye bye.",
+            "escalation_label": 0,
+            "label_reason": "Agent bids farewell."
+        }
+    ]
+}

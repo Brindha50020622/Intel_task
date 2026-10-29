@@ -1,0 +1,675 @@
+{
+  "file_name": "en_ZA_Entertainment_1582977.wav",
+  "domain": "entertainment",
+  "accent": "en-ZA",
+  "duration": 618.162,
+  "escalation_label": 1,
+  "segments": [
+    {
+      "start": 10.74,
+      "end": 13.84,
+      "role": "agent",
+      "text": "Hi this is Daniel from Computicket, how may I help you?"
+    },
+    {
+      "start": 15.94,
+      "end": 20.44,
+      "role": "customer",
+      "text": "(Um) hi Daniel my name is Jessica Moore. I purchased"
+    },
+    {
+      "start": 20.44,
+      "end": 26.34,
+      "role": "customer",
+      "text": "Two E-tickets for the upcoming neon night (uh) night concert this Saturday."
+    },
+    {
+      "start": 26.54,
+      "end": 36.24,
+      "role": "customer",
+      "text": "But I never receive them in my e-mail address and the event is in two days time, so I'm really worried. Perhaps they won't allow me to go in (um)"
+    },
+    {
+      "start": 35.84,
+      "end": 49.04,
+      "role": "agent",
+      "text": "I am ter~ I'm terribly sorry to hear that Jessica, so lets just get this sorted out for you. Could you please confirm the email address you used to purchase the tickets and if you do have the order number as well please?"
+    },
+    {
+      "start": 37.44,
+      "end": 37.84,
+      "role": "customer",
+      "text": "Can you"
+    },
+    {
+      "start": 47.34,
+      "end": 47.84,
+      "role": "customer",
+      "text": "I can"
+    },
+    {
+      "start": 51.14,
+      "end": 59.34,
+      "role": "customer",
+      "text": "(Uh) I'm gonna give you the e-mail address I have do not have the order number on hand, but I can go ask for it if it's necessary."
+    },
+    {
+      "start": 58.04,
+      "end": 62.64,
+      "role": "agent",
+      "text": "(uh) If you don't have it on hand, I can just trace it on my system with your email address."
+    },
+    {
+      "start": 64.34,
+      "end": 69.74,
+      "role": "customer",
+      "text": "I'm gonna spell the e-mail address for you. It is Jess J E S S"
+    },
+    {
+      "start": 69.14,
+      "end": 70.74,
+      "role": "agent",
+      "text": "J E S S"
+    },
+    {
+      "start": 73.04,
+      "end": 76.84,
+      "role": "customer",
+      "text": "Dot Moore M O O R E"
+    },
+    {
+      "start": 75.64,
+      "end": 82.42,
+      "role": "agent",
+      "text": "dot moore M O O R E ninety two"
+    },
+    {
+      "start": 80.34,
+      "end": 81.44,
+      "role": "customer",
+      "text": "Nine two"
+    },
+    {
+      "start": 84.54,
+      "end": 99.39,
+      "role": "agent",
+      "text": "at gmail dot com perfect thank you so much. Okay, so I see that you order for the two general admission tickets (uh) were purchased on October the first. Is that correct?"
+    },
+    {
+      "start": 84.64,
+      "end": 86.44,
+      "role": "customer",
+      "text": "At Gmail dot com."
+    },
+    {
+      "start": 101.25,
+      "end": 112.4,
+      "role": "agent",
+      "text": "Okay so, seems like the email that (um) with your e tickets hav~ have been sent through but it might have been caught in your spam or promotions folder. Would you kindly just check that for me?"
+    },
+    {
+      "start": 101.44,
+      "end": 102.64,
+      "role": "customer",
+      "text": "That's correct."
+    },
+    {
+      "start": 114.64,
+      "end": 123.74,
+      "role": "customer",
+      "text": "I'm gonna quickly check for you Daniel I have I have checked ya you never know maybe I'll I'll missed it so just give me a minute let me quickly go through them again."
+    },
+    {
+      "start": 123.24,
+      "end": 124.44,
+      "role": "agent",
+      "text": "Thank you so much."
+    },
+    {
+      "start": 124.64,
+      "end": 125.44,
+      "role": "customer",
+      "text": "Not this."
+    },
+    {
+      "start": 126.24,
+      "end": 132.24,
+      "role": "customer",
+      "text": "Not this. Can you perhaps tell me on which date it was in do it would've been sent to first of October is that correct?"
+    },
+    {
+      "start": 131.04,
+      "end": 139.24,
+      "role": "agent",
+      "text": "(uh) So, it was purchased on the first of October, so you should have received that on the same date. That's correct."
+    },
+    {
+      "start": 141.44,
+      "end": 146.84,
+      "role": "customer",
+      "text": "No I will search it now there's nothing that date except the banking confirmation that I've got."
+    },
+    {
+      "start": 146.08,
+      "end": 156.14,
+      "role": "agent",
+      "text": "Okay, thank you for having a look for me. So I can resend it (uh) the e tickets (um) s~ (uh) apologies. I ca~ can resend you the e ticket if you'd like."
+    },
+    {
+      "start": 158.84,
+      "end": 160.64,
+      "role": "customer",
+      "text": "Yes that would be great"
+    },
+    {
+      "start": 159.74,
+      "end": 165.24,
+      "role": "agent",
+      "text": "Also, would you be able to provide me with an alternate (uh) email address for incase it doesn't go through again?"
+    },
+    {
+      "start": 167.24,
+      "end": 173.34,
+      "role": "customer",
+      "text": "Yeah I think perhaps we should do that. I'm gonna give you my alternative e-mail address. I'm I'm gonna spell."
+    },
+    {
+      "start": 172.44,
+      "end": 179.54,
+      "role": "agent",
+      "text": "That would be perfect. Thank you so much. jay"
+    },
+    {
+      "start": 178.14,
+      "end": 179.14,
+      "role": "customer",
+      "text": "It is J"
+    },
+    {
+      "start": 181.24,
+      "end": 184.84,
+      "role": "customer",
+      "text": "Dot Moore M O O R E"
+    },
+    {
+      "start": 183.94,
+      "end": 186.14,
+      "role": "agent",
+      "text": "dot M O O R E"
+    },
+    {
+      "start": 188.14,
+      "end": 188.84,
+      "role": "customer",
+      "text": "Dot"
+    },
+    {
+      "start": 188.24,
+      "end": 191.14,
+      "role": "agent",
+      "text": "dot A R T"
+    },
+    {
+      "start": 189.54,
+      "end": 190.74,
+      "role": "customer",
+      "text": "A L T"
+    },
+    {
+      "start": 192.94,
+      "end": 196.14,
+      "role": "customer",
+      "text": "You have alternative at Gmail dot com."
+    },
+    {
+      "start": 195.14,
+      "end": 203.04,
+      "role": "agent",
+      "text": "at gmail dot com perfect. Thank you so much. So, I have sent them through to you. Could you kindly check if you received it?"
+    },
+    {
+      "start": 204.94,
+      "end": 212.04,
+      "role": "customer",
+      "text": "(Um) lemme just quickly check (um) out of curiosity while we waiting (um)"
+    },
+    {
+      "start": 209.74,
+      "end": 212.34,
+      "role": "agent",
+      "text": "Yes"
+    },
+    {
+      "start": 214.44,
+      "end": 220.44,
+      "role": "customer",
+      "text": "(Um) let me I'm just complete checking your (um) if for some reason I still don't get"
+    },
+    {
+      "start": 220.44,
+      "end": 225.84,
+      "role": "customer",
+      "text": "Them by e-mail can I go and pick them the physical tickets up at the venue."
+    },
+    {
+      "start": 224.44,
+      "end": 236.04,
+      "role": "agent",
+      "text": "Yes, you would be able to do that for you. We have a welco counter at the entrance were customers can collect physical tickets by showing valid IDs so you have to remember to take your ID document with you."
+    },
+    {
+      "start": 236.08,
+      "end": 241.05,
+      "role": "agent",
+      "text": "(uh) As well as your credit card that you used to make the purchase of the tickets."
+    },
+    {
+      "start": 243.04,
+      "end": 247.74,
+      "role": "customer",
+      "text": "Now then that's in that's good information to have (um)"
+    },
+    {
+      "start": 249.04,
+      "end": 257.24,
+      "role": "customer",
+      "text": "If I still for some other reason murphy's law you know do not get my tickets. (um) Are they refundable?"
+    },
+    {
+      "start": 256.54,
+      "end": 267.53,
+      "role": "agent",
+      "text": "So, the tickets truly felt deliver and you're unable to collect them at welco. (uh) We can process a full refund with~ within five business days after the event."
+    },
+    {
+      "start": 267.57,
+      "end": 272.6,
+      "role": "agent",
+      "text": "But don't worry. Since I've confirmed your orders valid, you'll differently have access one way or another."
+    },
+    {
+      "start": 274.64,
+      "end": 284.14,
+      "role": "customer",
+      "text": "Well that is reassuring at least (um) just to confirm if I show up with my I D and the confirmation e-mail (um) can I get in without"
+    },
+    {
+      "start": 284.54,
+      "end": 285.44,
+      "role": "customer",
+      "text": "The tickets."
+    },
+    {
+      "start": 286.74,
+      "end": 298.04,
+      "role": "agent",
+      "text": "(uh) The staff at the entrance can verify your purchase through the system using your IDs. So if you do take your ID along and you don't have to prove with you may will be able to pick it up by your ID document."
+    },
+    {
+      "start": 300.04,
+      "end": 301.54,
+      "role": "customer",
+      "text": "(um) Okay that's relief."
+    },
+    {
+      "start": 300.34,
+      "end": 308.04,
+      "role": "agent",
+      "text": "That will also, that will also allow you to (um) into the event."
+    },
+    {
+      "start": 302.14,
+      "end": 302.74,
+      "role": "customer",
+      "text": "(Um)"
+    },
+    {
+      "start": 310.54,
+      "end": 317.74,
+      "role": "customer",
+      "text": "Well that's good to know it it here I worried too much Daniel you know everything sometimes everything happens on"
+    },
+    {
+      "start": 316.94,
+      "end": 320.24,
+      "role": "agent",
+      "text": "(uh) I I do fully understand."
+    },
+    {
+      "start": 318.54,
+      "end": 319.94,
+      "role": "customer",
+      "text": "Weird place."
+    },
+    {
+      "start": 322.89,
+      "end": 324.54,
+      "role": "customer",
+      "text": "Great (um)"
+    },
+    {
+      "start": 326.04,
+      "end": 331.64,
+      "role": "customer",
+      "text": "You do confirm that my issue will be resolved before Fri~ Saturday then am I right?"
+    },
+    {
+      "start": 330.14,
+      "end": 339.25,
+      "role": "agent",
+      "text": "Yes, that is a it would be absolutely be resolved. (uh) Escalated your case to ensure delivery confirmation and you will receive a follow up email from us."
+    },
+    {
+      "start": 339.28,
+      "end": 350.79,
+      "role": "agent",
+      "text": "Within the next few hours, verifying that the ticket have been successfully delivered and then the case that yo~ yo~ you still haven't received verification. You can just phone me again on this number."
+    },
+    {
+      "start": 350.88,
+      "end": 355.94,
+      "role": "agent",
+      "text": "(uh) Zero one two five five five seven three two four. Can I repeat that for you?"
+    },
+    {
+      "start": 357.64,
+      "end": 359.54,
+      "role": "customer",
+      "text": "Please that was a bit quick, because zero."
+    },
+    {
+      "start": 358.64,
+      "end": 363.14,
+      "role": "agent",
+      "text": "Zero one two five five five"
+    },
+    {
+      "start": 361.64,
+      "end": 362.94,
+      "role": "customer",
+      "text": "Zero one two"
+    },
+    {
+      "start": 365.14,
+      "end": 366.94,
+      "role": "customer",
+      "text": "Five five five."
+    },
+    {
+      "start": 365.64,
+      "end": 367.24,
+      "role": "agent",
+      "text": "One seven three two."
+    },
+    {
+      "start": 369.04,
+      "end": 376.34,
+      "role": "customer",
+      "text": "One seven three two, Daniel if there's reference number or address number for this specific quote that I can have?"
+    },
+    {
+      "start": 375.14,
+      "end": 381.14,
+      "role": "agent",
+      "text": "There is differently a trace number that I can provide you with it is C M T"
+    },
+    {
+      "start": 383.04,
+      "end": 384.64,
+      "role": "customer",
+      "text": "C M T"
+    },
+    {
+      "start": 383.74,
+      "end": 385.34,
+      "role": "agent",
+      "text": "One zero zero"
+    },
+    {
+      "start": 387.04,
+      "end": 388.54,
+      "role": "customer",
+      "text": "One zero zero"
+    },
+    {
+      "start": 387.54,
+      "end": 390.64,
+      "role": "agent",
+      "text": "Two five"
+    },
+    {
+      "start": 390.64,
+      "end": 391.54,
+      "role": "customer",
+      "text": "Two five"
+    },
+    {
+      "start": 393.14,
+      "end": 395.74,
+      "role": "agent",
+      "text": "One zero zero nine"
+    },
+    {
+      "start": 396.54,
+      "end": 397.04,
+      "role": "customer",
+      "text": "One z~"
+    },
+    {
+      "start": 397.94,
+      "end": 401.84,
+      "role": "customer",
+      "text": "Zero okay that's great. Are you going to the show Saturday?"
+    },
+    {
+      "start": 400.84,
+      "end": 406.94,
+      "role": "agent",
+      "text": "Unfortunately, I'll be working on that day."
+    },
+    {
+      "start": 405.74,
+      "end": 407.24,
+      "role": "customer",
+      "text": "Ah shame man"
+    },
+    {
+      "start": 409.04,
+      "end": 411.34,
+      "role": "agent",
+      "text": "Okay, so"
+    },
+    {
+      "start": 409.74,
+      "end": 411.04,
+      "role": "customer",
+      "text": "Well that was"
+    },
+    {
+      "start": 411.94,
+      "end": 412.44,
+      "role": "customer",
+      "text": "Yeah"
+    },
+    {
+      "start": 413.54,
+      "end": 419.44,
+      "role": "agent",
+      "text": "So, apologies, so is there anything else I can assist you with?"
+    },
+    {
+      "start": 415.04,
+      "end": 415.54,
+      "role": "customer",
+      "text": "Yeah you got it."
+    },
+    {
+      "start": 421.84,
+      "end": 430.14,
+      "role": "customer",
+      "text": "(Ah) there is nothing that I can think of I just wanted say that thank you, you have helped me so much and now my nerves are a little bit more calmer."
+    },
+    {
+      "start": 429.84,
+      "end": 437.64,
+      "role": "agent",
+      "text": "You are most welcome and if there's anything that anything that you further require can always just have a look on our (um)"
+    },
+    {
+      "start": 438.19,
+      "end": 445.79,
+      "role": "agent",
+      "text": "On our website, (uh) under the FAQS. So if you got any questions regarding (um)"
+    },
+    {
+      "start": 446.14,
+      "end": 460.08,
+      "role": "agent",
+      "text": "Upcoming shows, if you've got any question regarding the refund policy like you had today you can just also log on our website and chat with one of our agents who will be able to assist you with any questions or any"
+    },
+    {
+      "start": 460.24,
+      "end": 461.94,
+      "role": "agent",
+      "text": "Answers you are looking for."
+    },
+    {
+      "start": 463.74,
+      "end": 465.64,
+      "role": "customer",
+      "text": "So you do have an online chat?"
+    },
+    {
+      "start": 465.04,
+      "end": 474.83,
+      "role": "agent",
+      "text": "That is correct, we do have a bot that works (uh) you know these days everything is running with AI (um) So we do have an online bots that has been trained to deal with"
+    },
+    {
+      "start": 472.44,
+      "end": 472.84,
+      "role": "customer",
+      "text": "Yeah."
+    },
+    {
+      "start": 475.05,
+      "end": 483.13,
+      "role": "agent",
+      "text": "Customer cruise ranging from upcoming shows to date to refunds and (uh) even to"
+    },
+    {
+      "start": 483.96,
+      "end": 490.54,
+      "role": "agent",
+      "text": "To give you information pertaining to transportation if you won't be able if you don't want to drive late to anything like that."
+    },
+    {
+      "start": 490.59,
+      "end": 499.08,
+      "role": "agent",
+      "text": "And then you also have the option to request to speak to an agent and usually what happens is if you speak to an agent, that agent will acctually"
+    },
+    {
+      "start": 499.34,
+      "end": 510.15,
+      "role": "agent",
+      "text": "(um) I'd phone you back if you aren't able to type lets say for instance you are driving then you ca~ you can request them to call you back or you can (uh) basically just."
+    },
+    {
+      "start": 510.93,
+      "end": 516.71,
+      "role": "agent",
+      "text": "The agents basically is (uh) ready at your beck and call"
+    },
+    {
+      "start": 518.44,
+      "end": 527.44,
+      "role": "customer",
+      "text": "But that sounds like a butler that sound great. (Um) I had actually just thought of something about the concert (um) tell me about food and drink am I allo~"
+    },
+    {
+      "start": 527.84,
+      "end": 531.44,
+      "role": "customer",
+      "text": "taking my own bag, with my own snacks and everything or is it only"
+    },
+    {
+      "start": 531.64,
+      "end": 533.64,
+      "role": "customer",
+      "text": "(uh) at the venue?"
+    },
+    {
+      "start": 533.74,
+      "end": 547.28,
+      "role": "agent",
+      "text": "Okay, so food and snacks unfortunately, aren't allowed to be taken to be brought in from the outside so you only be able to purchase the food and drinks at the event itself (uh) we do have strict security (um)"
+    },
+    {
+      "start": 548.11,
+      "end": 559.02,
+      "role": "agent",
+      "text": "Per~ Pert~ Pertaining to any outside items being brought inside. So, there is a security search (uh) I don't know if you (uh) if the visited monte casino you see they."
+    },
+    {
+      "start": 559.31,
+      "end": 566.28,
+      "role": "agent",
+      "text": "They used that wand in order to swipe to see whether there are any items that aren't allowed to into into the casino."
+    },
+    {
+      "start": 566.34,
+      "end": 576.61,
+      "role": "agent",
+      "text": "(uh) In the same way at the theater, you won't be able to enter with anything else either than your (um) pre husband wallet and phone and for you"
+    },
+    {
+      "start": 576.65,
+      "end": 583.85,
+      "role": "agent",
+      "text": "Your purse and your valuables basically. So, any food and drink or anything else is not allowed inside."
+    },
+    {
+      "start": 586.24,
+      "end": 589.34,
+      "role": "customer",
+      "text": "Okay that's that's great to know. Thank you so much."
+    },
+    {
+      "start": 588.44,
+      "end": 591.54,
+      "role": "agent",
+      "text": "Your most welcome. Is there anything else I can assist you with?"
+    },
+    {
+      "start": 593.94,
+      "end": 595.74,
+      "role": "customer",
+      "text": "No that's all for today thank you."
+    },
+    {
+      "start": 594.94,
+      "end": 598.14,
+      "role": "agent",
+      "text": "Perfect. Thank you so much. Have a lovely afternoon."
+    },
+    {
+      "start": 599.74,
+      "end": 601.14,
+      "role": "customer",
+      "text": "Thank you you too Daniel."
+    },
+    {
+      "start": 600.34,
+      "end": 601.64,
+      "role": "agent",
+      "text": "Thank you. Goodbye"
+    },
+    {
+      "start": 603.44,
+      "end": 603.94,
+      "role": "customer",
+      "text": "Bye bye."
+    }
+  ]
+}

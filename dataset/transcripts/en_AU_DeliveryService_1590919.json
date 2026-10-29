@@ -1,0 +1,627 @@
+{
+  "file_name": "en_AU_DeliveryService_1590919.wav",
+  "domain": "deliveryservice",
+  "accent": "en-AU",
+  "duration": 625.114,
+  "escalation_label": 1,
+  "segments": [
+    {
+      "start": 12.54,
+      "end": 17.54,
+      "role": "agent",
+      "text": "Good evening. Welcome to Harbin Women Customer Support. You're speaking with Tom. How can I help you today?"
+    },
+    {
+      "start": 19.14,
+      "end": 28.34,
+      "role": "customer",
+      "text": "Tom, I'm a bit stressed out and annoyed to be honest with you . I've ordered a TV from you guys, got a big Seventy Five inch TV,"
+    },
+    {
+      "start": 28.84,
+      "end": 30.14,
+      "role": "customer",
+      "text": "had it delivered,"
+    },
+    {
+      "start": 30.34,
+      "end": 33.34,
+      "role": "customer",
+      "text": "I've opened it up, and you're never going to believe what I've found."
+    },
+    {
+      "start": 34.74,
+      "end": 41.74,
+      "role": "agent",
+      "text": "Ohh, well, first of all, I'd just like to ask how your day was, but we'll start there, and then we'll move into the (um) issue there."
+    },
+    {
+      "start": 41.14,
+      "end": 44.94,
+      "role": "customer",
+      "text": "Ohh, well, it's not very good, Tom, I'll tell you that much. It's not very good."
+    },
+    {
+      "start": 45.64,
+      "end": 52.84,
+      "role": "customer",
+      "text": "So the reason it's not good is cause I've finally got my TV delivered. I've been waiting, been on backlog"
+    },
+    {
+      "start": 53.04,
+      "end": 58.44,
+      "role": "customer",
+      "text": "for weeks and weeks and I've had to sit by and be in my new place with no TV,"
+    },
+    {
+      "start": 58.74,
+      "end": 62.04,
+      "role": "customer",
+      "text": "and now it's got a crack in it. Can you believe it?"
+    },
+    {
+      "start": 62.24,
+      "end": 71.84,
+      "role": "agent",
+      "text": "Ohh, Ohh, I would have absolutely crapped if that happened to me. No pun intended . But I am extremely sorry that that has happened (um.) What we,"
+    },
+    {
+      "start": 72.14,
+      "end": 74.34,
+      "role": "agent",
+      "text": "At Harbin Women, we pride ourselves on"
+    },
+    {
+      "start": 74.44,
+      "end": 82.74,
+      "role": "agent",
+      "text": "good customer service as well as the (ah) proficiency of our delivery staff, even though it is by a third party."
+    },
+    {
+      "start": 82.74,
+      "end": 86.14,
+      "role": "agent",
+      "text": "Just so I can bring up your order, and we'll get this sorted right away for you,"
+    },
+    {
+      "start": 86.34,
+      "end": 89.14,
+      "role": "agent",
+      "text": "(um) could you please tell me what the"
+    },
+    {
+      "start": 89.94,
+      "end": 92.24,
+      "role": "agent",
+      "text": "(uh) Eighteenth letter of your"
+    },
+    {
+      "start": 92.94,
+      "end": 95.34,
+      "role": "agent",
+      "text": "email address from last year was?"
+    },
+    {
+      "start": 96.24,
+      "end": 97.04,
+      "role": "customer",
+      "text": "Zed"
+    },
+    {
+      "start": 98.64,
+      "end": 103.64,
+      "role": "agent",
+      "text": "Great. Thank you very much. And just your postcode, ending in"
+    },
+    {
+      "start": 104.54,
+      "end": 105.74,
+      "role": "agent",
+      "text": "One from Queensland."
+    },
+    {
+      "start": 108.54,
+      "end": 111.34,
+      "role": "customer",
+      "text": "(Uh,) Four O One One."
+    },
+    {
+      "start": 111.94,
+      "end": 122.54,
+      "role": "agent",
+      "text": "Perfect. Thanks very much. I appreciate you confirming that. I do understand this is a very frustrating time, particularly, as I can see, yeah (um) you were on backlog for Twelve weeks there."
+    },
+    {
+      "start": 123.04,
+      "end": 132.14,
+      "role": "agent",
+      "text": "(um) Yeah, it has been a long time. Before we do get stuck into the issue of the crack in the screen, was"
+    },
+    {
+      "start": 123.04,
+      "end": 123.94,
+      "role": "customer",
+      "text": "Yeah"
+    },
+    {
+      "start": 132.24,
+      "end": 136.34,
+      "role": "agent",
+      "text": "everything else okay with it? Did it fit in the space okay? And how was the"
+    },
+    {
+      "start": 136.34,
+      "end": 137.64,
+      "role": "agent",
+      "text": "the delivery agent?"
+    },
+    {
+      "start": 139.14,
+      "end": 146.94,
+      "role": "customer",
+      "text": "Well, the delivery agent wasn't great because they cracked the screen, or someone's cracked the screen. Everything fits fine, I just ugh."
+    },
+    {
+      "start": 147.04,
+      "end": 150.34,
+      "role": "customer",
+      "text": "I can't believe how frustrated I am after waiting so long."
+    },
+    {
+      "start": 150.64,
+      "end": 154.34,
+      "role": "customer",
+      "text": "And if you tell me I have to wait another Twelve weeks, I think I might lose my mind."
+    },
+    {
+      "start": 154.94,
+      "end": 164.14,
+      "role": "agent",
+      "text": "Okay, I'm just having a look here . Because we do pride ourselves on our delivery service, we did get voted number one by choice last year ."
+    },
+    {
+      "start": 164.14,
+      "end": 169.14,
+      "role": "agent",
+      "text": "(uh) We do take photos of the product before it leaves the distribution center and"
+    },
+    {
+      "start": 169.64,
+      "end": 179.44,
+      "role": "agent",
+      "text": "actually when it's delivered. And I can see here that, it, there's a photo, and it was actually in good condition (um) when the delivery agents"
+    },
+    {
+      "start": 178.74,
+      "end": 179.94,
+      "role": "customer",
+      "text": "No, it was fast."
+    },
+    {
+      "start": 180.34,
+      "end": 186.64,
+      "role": "agent",
+      "text": "dropped it off (um) . You are se~, sending in the photo (um) with the uncracked TV."
+    },
+    {
+      "start": 188.14,
+      "end": 197.44,
+      "role": "customer",
+      "text": "It's not an uncracked TV. You've only got a photo of the box and then they left. They didn't help us unpack it at all, and as soon as we opened it, there's a crack in the screen."
+    },
+    {
+      "start": 197.64,
+      "end": 199.74,
+      "role": "customer",
+      "text": "And I don't appreciate that you're trying to,"
+    },
+    {
+      "start": 199.94,
+      "end": 206.54,
+      "role": "customer",
+      "text": "you know, act as if we've done it or something, because we seriously just opened up the box, huge crack."
+    },
+    {
+      "start": 207.44,
+      "end": 217.74,
+      "role": "agent",
+      "text": "Okay (um) , I'm really sorry about the confusion here. I'm absolutely not trying to lay blame (um) at all, (ah) because we do have a video of you and"
+    },
+    {
+      "start": 218.34,
+      "end": 226.14,
+      "role": "agent",
+      "text": "a photo with you from the (ah) the dash cam of the driver and you lifting it out, unpacking it from the box and lifting it into your house."
+    },
+    {
+      "start": 227.64,
+      "end": 230.34,
+      "role": "customer",
+      "text": "Hmmm, No, they delivered it into my lounge room."
+    },
+    {
+      "start": 231.14,
+      "end": 232.94,
+      "role": "customer",
+      "text": "Are you sure you're looking at the right account?"
+    },
+    {
+      "start": 232.84,
+      "end": 246.44,
+      "role": "agent",
+      "text": "Yeah like, I, I, I, I definitely am, (ah) because that you confirmed your details . The box was unpacked at the bottom of your front steps and you both carried it in to the living room (ah.)"
+    },
+    {
+      "start": 245.94,
+      "end": 248.94,
+      "role": "customer",
+      "text": "No, I don't have steps, so you're definitely looking at the wrong place."
+    },
+    {
+      "start": 248.64,
+      "end": 258.64,
+      "role": "agent",
+      "text": "(uh) Sorry, steps is probably the wrong term to use. O~, over the, well, into the front door, there is a step, I should have said. (ah) Yeah, because we do have"
+    },
+    {
+      "start": 258.64,
+      "end": 259.34,
+      "role": "agent",
+      "text": "(um)"
+    },
+    {
+      "start": 259.44,
+      "end": 268.44,
+      "role": "agent",
+      "text": "(uh) the, the, cameras on all of our agents, (ah) just to make sure these things don't happen. So, (um) I'm just wondering, potentially,"
+    },
+    {
+      "start": 268.44,
+      "end": 272.94,
+      "role": "agent",
+      "text": "have you been out of the house since it was delivered, or has there been any guests around?"
+    },
+    {
+      "start": 273.84,
+      "end": 274.54,
+      "role": "customer",
+      "text": "No"
+    },
+    {
+      "start": 275.44,
+      "end": 276.84,
+      "role": "agent",
+      "text": "OK (um.)"
+    },
+    {
+      "start": 277.64,
+      "end": 288.14,
+      "role": "agent",
+      "text": "This is a bit of an unfortunate one. (um) I will have to escalate this, (um) just to see what we could do . Could I book in (uh) time for one of our"
+    },
+    {
+      "start": 288.34,
+      "end": 291.74,
+      "role": "agent",
+      "text": "service teams to come out to your property to take a look at that?"
+    },
+    {
+      "start": 293.64,
+      "end": 300.34,
+      "role": "customer",
+      "text": "To come and look at the TV, I've never heard of anything like this before. I can send you photos, I can send you videos of what it looks like."
+    },
+    {
+      "start": 300.74,
+      "end": 309.64,
+      "role": "agent",
+      "text": "Well, it's not something that we do usually offer, because I can see you're quite a loyal customer with us, and I completely understand the issue here (um.)"
+    },
+    {
+      "start": 309.84,
+      "end": 318.94,
+      "role": "agent",
+      "text": "We would absolutely love to give you that in-person service and just be able to deal with this face-to-face, (um) rather than having to (um) make you"
+    },
+    {
+      "start": 318.94,
+      "end": 322.34,
+      "role": "agent",
+      "text": "pack it up, send it off, and wait even longer. Like, we'll be able to"
+    },
+    {
+      "start": 322.44,
+      "end": 329.64,
+      "role": "agent",
+      "text": "send somebody out in the next Twenty Four hours. Just have a quick chat with you and take a look at it, to see if it's something that can be repaired (um,) perhaps on-site."
+    },
+    {
+      "start": 331.24,
+      "end": 340.34,
+      "role": "customer",
+      "text": "I'm so confused . I've ordered something from you guys, I've had it delivered. There's a huge crack in the screen. You're going to send someone out here"
+    },
+    {
+      "start": 340.64,
+      "end": 344.84,
+      "role": "customer",
+      "text": "and possibly repair something that's broken. I haven't used it for five minutes. Like,"
+    },
+    {
+      "start": 345.04,
+      "end": 354.64,
+      "role": "customer",
+      "text": "we haven't even got it out of the box yet. It hasn't even been turned on. The stickers are still all over it. So, I just don't understand why we wouldn't just replace it, because"
+    },
+    {
+      "start": 355.04,
+      "end": 360.64,
+      "role": "customer",
+      "text": "it's bad enough that we've waited Twelve weeks. It's bad enough that the delivery drivers have come through and just left it."
+    },
+    {
+      "start": 361.34,
+      "end": 362.04,
+      "role": "customer",
+      "text": "Like,"
+    },
+    {
+      "start": 363.04,
+      "end": 363.64,
+      "role": "agent",
+      "text": "I, I"
+    },
+    {
+      "start": 363.14,
+      "end": 366.44,
+      "role": "customer",
+      "text": "I'm a bit, I'm a bit frustrated, to be honest with you."
+    },
+    {
+      "start": 365.94,
+      "end": 374.94,
+      "role": "agent",
+      "text": "I, I completely understand (um,) and I am sorry that (ah) this is how you're feeling over the situation . But because we do have"
+    },
+    {
+      "start": 375.44,
+      "end": 380.84,
+      "role": "agent",
+      "text": "have those photos and the video o~, of the installation, that's why (um) we just needed to"
+    },
+    {
+      "start": 380.84,
+      "end": 387.64,
+      "role": "customer",
+      "text": "I don't think you're looking at my account, it's nothing was installed and it wasn't, like (um,) like my place is in a lift."
+    },
+    {
+      "start": 389.24,
+      "end": 393.94,
+      "role": "agent",
+      "text": "Okay, so yeah, and tha~, tha~, and thats what I mean. And you~, You've gone"
+    },
+    {
+      "start": 394.74,
+      "end": 400.24,
+      "role": "agent",
+      "text": "through the front door with our a driver . But that's okay, (um) and that's why we'd like to send s~, somebody out to"
+    },
+    {
+      "start": 400.44,
+      "end": 404.84,
+      "role": "agent",
+      "text": "just show you the footage (um) and just investigate it together, (um) just so we can work out."
+    },
+    {
+      "start": 404.94,
+      "end": 418.04,
+      "role": "agent",
+      "text": "Where along the way (um) it's gone wrong. (um) Obviously, (ah) what I'm seeing here is, isn't of an acceptable level, and I completely agree. If it's, if you're saying it's not right, (ah)"
+    },
+    {
+      "start": 418.64,
+      "end": 424.64,
+      "role": "agent",
+      "text": "We, that's why we'd like to escalate this further (um) and just send out one of our representatives to look at it further."
+    },
+    {
+      "start": 425.34,
+      "end": 428.44,
+      "role": "customer",
+      "text": "Yeah, I think it definitely does need to be escalated."
+    },
+    {
+      "start": 428.44,
+      "end": 437.34,
+      "role": "agent",
+      "text": "Thank you. (um) Yeah, It's, I mean especially since the new Stranger Things came out, I can only imagine that's what you're"
+    },
+    {
+      "start": 437.64,
+      "end": 440.34,
+      "role": "agent",
+      "text": "(ah) jumping at the bit to start watching. So"
+    },
+    {
+      "start": 440.44,
+      "end": 452.74,
+      "role": "agent",
+      "text": "We can get a, a representative out. Actually, we've got a, we've got some time within the (ah) within the next three hours (um,) if you're at home at the moment. We can get someone out there almost straight away."
+    },
+    {
+      "start": 453.74,
+      "end": 455.14,
+      "role": "customer",
+      "text": "Yeah, that's fine."
+    },
+    {
+      "start": 455.34,
+      "end": 462.04,
+      "role": "agent",
+      "text": "Okay, perfect. (ah) So, I've got your address here. Could you just (ah) confirm the street name for me?"
+    },
+    {
+      "start": 463.14,
+      "end": 464.74,
+      "role": "customer",
+      "text": "Yeah, it's McGrath Street."
+    },
+    {
+      "start": 464.74,
+      "end": 474.44,
+      "role": "agent",
+      "text": "Grass Street, perfect . So, I've booked in Daniel. So, Daniel will be coming out to (ah) have a chat to you about this one. (ah)"
+    },
+    {
+      "start": 474.74,
+      "end": 476.54,
+      "role": "agent",
+      "text": "Potentially, if it is just a cracked screen,"
+    },
+    {
+      "start": 476.84,
+      "end": 486.34,
+      "role": "agent",
+      "text": "it's actually not as hard to replace as it used to be. So, potentially, (ah) we may be able to fix that for you on site. Otherwise, we'll be able to solve"
+    },
+    {
+      "start": 486.44,
+      "end": 488.64,
+      "role": "agent",
+      "text": "talk next steps when (uh) Daniel gets there."
+    },
+    {
+      "start": 488.64,
+      "end": 497.94,
+      "role": "customer",
+      "text": "Yeah, I don't want it fixed. I want a brand new TV like I paid for. So that's just kind of where I'm at. So what you guys decide to do after that is"
+    },
+    {
+      "start": 498.34,
+      "end": 499.84,
+      "role": "customer",
+      "text": "like on you guys."
+    },
+    {
+      "start": 500.04,
+      "end": 507.94,
+      "role": "customer",
+      "text": "But I will take this to the A triple C because you can't just deliver me something that's cracked and expect me to have a repaired item."
+    },
+    {
+      "start": 508.14,
+      "end": 510.24,
+      "role": "customer",
+      "text": "Like that just goes against all"
+    },
+    {
+      "start": 510.74,
+      "end": 518.54,
+      "role": "customer",
+      "text": "All the laws in Victoria. So I'm not taking anything. But you can send your, your little man out here and he can come and have a look at it."
+    },
+    {
+      "start": 518.74,
+      "end": 523.74,
+      "role": "customer",
+      "text": "But the end result is going to be a new TV to replace what the damage has made done."
+    },
+    {
+      "start": 523.84,
+      "end": 528.94,
+      "role": "customer",
+      "text": "Because I haven't even looked at this TV for more than two seconds without it being ruined. Do you know what I mean?"
+    },
+    {
+      "start": 528.94,
+      "end": 538.34,
+      "role": "agent",
+      "text": "(uh) I absolutely know what you mean. And that's why we do have these protocols in place for us to (uh) video and take photos of the delivery in action. (ah)"
+    },
+    {
+      "start": 538.94,
+      "end": 542.44,
+      "role": "agent",
+      "text": "So, we don't end up in situations similar to this."
+    },
+    {
+      "start": 541.24,
+      "end": 548.94,
+      "role": "customer",
+      "text": "Yep, I've got cameras too. We'll, we'll compare notes. We'll be able to have a look. And I bet you've got the wrong account there, young man."
+    },
+    {
+      "start": 550.74,
+      "end": 560.74,
+      "role": "agent",
+      "text": "Well, I do apologize. (ah) in It's, It's a very stressful situation, particularly for having such a high-value item damaged before you've even been able to take the stickers off it ."
+    },
+    {
+      "start": 560.84,
+      "end": 569.04,
+      "role": "agent",
+      "text": "(um) Please rest assured, we are getting somebody out there (ah) within the next three hours, and we're going to do everything we can to make this right for you, Laura."
+    },
+    {
+      "start": 570.84,
+      "end": 572.14,
+      "role": "customer",
+      "text": "All right, sounds good."
+    },
+    {
+      "start": 572.84,
+      "end": 582.64,
+      "role": "agent",
+      "text": "Thanks very much. And I can see (ah) that you actually received a Hundred Dollar credit with the purchase activity, but you haven't activated that yet. So ,"
+    },
+    {
+      "start": 582.64,
+      "end": 586.54,
+      "role": "agent",
+      "text": "I'll just get Daniel to talk you through how to access that when he gets there."
+    },
+    {
+      "start": 587.24,
+      "end": 588.24,
+      "role": "customer",
+      "text": "All righties."
+    },
+    {
+      "start": 589.04,
+      "end": 596.24,
+      "role": "agent",
+      "text": "(ah) Outside of that (uh) quite big issue, is there anything else I can help you with before we end the call today?"
+    },
+    {
+      "start": 597.24,
+      "end": 602.74,
+      "role": "customer",
+      "text": "Ugh, Look, we'd better not get stuck into anything else. Let's just get this one sorted and we can go from there."
+    },
+    {
+      "start": 603.34,
+      "end": 607.14,
+      "role": "agent",
+      "text": "Alright, well, Daniel has your number, he has your address, and he'll be with you shortly."
+    },
+    {
+      "start": 608.04,
+      "end": 609.54,
+      "role": "customer",
+      "text": "All righties. Thank you."
+    },
+    {
+      "start": 609.74,
+      "end": 610.64,
+      "role": "agent",
+      "text": "Thanks for calling, Laura."
+    },
+    {
+      "start": 611.84,
+      "end": 612.44,
+      "role": "customer",
+      "text": "Take care."
+    }
+  ]
+}

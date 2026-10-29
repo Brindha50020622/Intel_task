@@ -1,0 +1,696 @@
+{
+    "file_name": "en_AU_Banking_1586330.wav",
+    "duration": 420.0,
+    "accent": "en-AU",
+    "domain": "banking",
+    "segments": [
+        {
+            "start": 12.44,
+            "end": 19.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Good morning. Thanks for contacting the Bank of Queensland. My name is Alice and how can I help you today?"
+        },
+        {
+            "start": 20.34,
+            "end": 27.93,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Hi, Allison. My name's Jenny and I'm just requesting I need to transfer some money from my savings to my checking account urgently."
+        },
+        {
+            "start": 29.14,
+            "end": 38.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "No problem with that, Jenny. I can help you so I understand you would like to transfer funds from your saving account to your credit or checking?"
+        },
+        {
+            "start": 39.91,
+            "end": 41.7,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Uh) to my checking."
+        },
+        {
+            "start": 40.64,
+            "end": 50.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Checking account. Okay. Before I proceed, I would just need to confirm your identity. Can you please verify your full name and your date of birth for me?"
+        },
+        {
+            "start": 52.14,
+            "end": 54.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yes, Sarah McPherson."
+        },
+        {
+            "start": 55.04,
+            "end": 57.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Eight of July nineteen eighty-four."
+        },
+        {
+            "start": 58.14,
+            "end": 61.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thank you for that and do you have a security code?"
+        },
+        {
+            "start": 63.14,
+            "end": 65.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "I do. Eight seven eight three."
+        },
+        {
+            "start": 65.64,
+            "end": 69.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Six seven eight, three. Perfect, thank you very much."
+        },
+        {
+            "start": 69.74,
+            "end": 77.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So I can see that you have both your savings and checking accounts here (um.)"
+        },
+        {
+            "start": 77.94,
+            "end": 79.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "How much would you like to transfer today?"
+        },
+        {
+            "start": 82.24,
+            "end": 86.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Um) I'm gonna need probab~ six hundred dollars."
+        },
+        {
+            "start": 86.64,
+            "end": 91.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay, that's not a problem and in terms of the transfer, (um.)"
+        },
+        {
+            "start": 92.24,
+            "end": 99.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "I will be able to process that transfer for you, but just so that you know the r~"
+        },
+        {
+            "start": 99.64,
+            "end": 103.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "at the moment you have a daily transfer limit of five hundred"
+        },
+        {
+            "start": 104.04,
+            "end": 106.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(uh) on your saving account."
+        },
+        {
+            "start": 107.14,
+            "end": 111.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So your transfer will take up to three days"
+        },
+        {
+            "start": 108.24,
+            "end": 108.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh yeah."
+        },
+        {
+            "start": 112.24,
+            "end": 115.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(uh,) if you are increasing that limit. Is that okay?"
+        },
+        {
+            "start": 113.04,
+            "end": 113.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh okay."
+        },
+        {
+            "start": 117.01,
+            "end": 122.81,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Um) we might go down to just five hundred because the th~ the mo~ money's urgently needed for bills."
+        },
+        {
+            "start": 123.14,
+            "end": 124.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yes, correct. Okay."
+        },
+        {
+            "start": 124.84,
+            "end": 132.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Well I can't really wait three days so I'll go down to the five hundred limit and that should tie me over until my next pay hopefully."
+        },
+        {
+            "start": 132.34,
+            "end": 139.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Absolutely, that's not a problem and before I go ahead with that transfer, can I confirm your phone number please?"
+        },
+        {
+            "start": 140.77,
+            "end": 142.7,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Ah) yeah. O two one"
+        },
+        {
+            "start": 143.34,
+            "end": 143.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Mhm."
+        },
+        {
+            "start": 143.84,
+            "end": 146.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "one nine two eight five four five."
+        },
+        {
+            "start": 145.94,
+            "end": 150.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Apologies, I will need your mobile number that has been listed on here."
+        },
+        {
+            "start": 151.44,
+            "end": 153.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Your Australian mobile number?"
+        },
+        {
+            "start": 154.14,
+            "end": 159.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Ah) (um) O four five one nine six one nine two."
+        },
+        {
+            "start": 159.94,
+            "end": 166.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thank you very much. So, bear with me while I process this payment for you."
+        },
+        {
+            "start": 166.84,
+            "end": 174.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "You should receive a code on your mobile number in the next minute or so and once"
+        },
+        {
+            "start": 174.94,
+            "end": 177.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "you receive that, please read that up for me."
+        },
+        {
+            "start": 179.24,
+            "end": 182.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And just a second, I will send that one through in a second."
+        },
+        {
+            "start": 185.94,
+            "end": 187.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Can you read the code for me?"
+        },
+        {
+            "start": 188.54,
+            "end": 190.57,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah, it's (ah) four five six."
+        },
+        {
+            "start": 190.64,
+            "end": 192.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Fantastic, okay."
+        },
+        {
+            "start": 195.34,
+            "end": 203.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So, the transfer has now been completed successfully and the funds should appear in your checking account within the next"
+        },
+        {
+            "start": 203.74,
+            "end": 207.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "few minutes, depending on the system processing times."
+        },
+        {
+            "start": 207.44,
+            "end": 213.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "You will be able to see the updated balance right away through the mobile app or internet banking."
+        },
+        {
+            "start": 215.24,
+            "end": 215.63,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Ah) yeah."
+        },
+        {
+            "start": 216.17,
+            "end": 217.83,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Ah.)"
+        },
+        {
+            "start": 216.54,
+            "end": 217.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And"
+        },
+        {
+            "start": 218.14,
+            "end": 219.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "sorry, say that again?"
+        },
+        {
+            "start": 219.81,
+            "end": 220.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Sorry."
+        },
+        {
+            "start": 220.81,
+            "end": 226.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Um) just wondering, in the future, can I set up tran~ automatic transfers?"
+        },
+        {
+            "start": 226.14,
+            "end": 235.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yes, absolutely and setting that one up will be a lot easier, but when you say it's automatic transfers (um)"
+        },
+        {
+            "start": 235.54,
+            "end": 241.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "you mean setting it up that it transfers a certain amount of money on a particular date of the month?"
+        },
+        {
+            "start": 242.34,
+            "end": 245.17,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yes, yeah. So I don't have to worry about the bills yeah."
+        },
+        {
+            "start": 244.84,
+            "end": 249.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yeah, absolutely. I can help you with that if you want or I can tell you where you need to do it."
+        },
+        {
+            "start": 250.24,
+            "end": 256.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Um,) depending on which device you use, whether you are doing it on your phone or you are doing it on the website."
+        },
+        {
+            "start": 257.81,
+            "end": 259.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "I'd be doing it on the website."
+        },
+        {
+            "start": 259.34,
+            "end": 264.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "On the website, okay, no problem. When you log in, you need to go to the accounts"
+        },
+        {
+            "start": 265.84,
+            "end": 271.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "and then under the accounts, you will be using your (um,) preferences."
+        },
+        {
+            "start": 273.34,
+            "end": 273.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh yeah."
+        },
+        {
+            "start": 275.94,
+            "end": 280.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "You will see under there, there is a section called scheduled transfers."
+        },
+        {
+            "start": 282.84,
+            "end": 283.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh yep."
+        },
+        {
+            "start": 283.44,
+            "end": 291.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Yep, when you select the scheduled transfers, you will see that you can select the exact amount and the date of transfers."
+        },
+        {
+            "start": 291.84,
+            "end": 299.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And then you also have the option of putting an end to it, that for how long you would like these transfers to be continued."
+        },
+        {
+            "start": 300.77,
+            "end": 302.78,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh yeah."
+        },
+        {
+            "start": 301.14,
+            "end": 310.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Well I'll just m~ mention that (um) , since we just processed this payment for you, I would suggest not doing it straight away."
+        },
+        {
+            "start": 314.67,
+            "end": 315.51,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Okay."
+        },
+        {
+            "start": 314.94,
+            "end": 322.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "And if you could do that (uh,) at a later date (uh,) just to ensure that we are not doubling up with today's schedule."
+        },
+        {
+            "start": 323.14,
+            "end": 330.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "You can also do a future scheduled transfers, but just to be insure, I would suggest you doing that."
+        },
+        {
+            "start": 323.94,
+            "end": 324.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Ohh yeah."
+        },
+        {
+            "start": 331.44,
+            "end": 339.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Uh,) as part of the transfer, you will, I believe you will also receive another code for (um,) security reasons on your phone."
+        },
+        {
+            "start": 340.04,
+            "end": 345.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "You will need to provide that code on the website, so your transfers gets booked."
+        },
+        {
+            "start": 345.94,
+            "end": 347.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(Um.)"
+        },
+        {
+            "start": 347.74,
+            "end": 351.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Was there anything else that I can help you with tod~ today, Jenny?"
+        },
+        {
+            "start": 351.91,
+            "end": 356.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "(Um) no I think that's about it for the moment."
+        },
+        {
+            "start": 357.34,
+            "end": 359.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Sure, thank you so much and"
+        },
+        {
+            "start": 359.54,
+            "end": 367.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "(um,) can I confirm, since it's been a couple of minutes, that the funds have been transferred successfully through your account or you don't have the app"
+        },
+        {
+            "start": 367.94,
+            "end": 369.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "for checking that one right now?"
+        },
+        {
+            "start": 370.68,
+            "end": 372.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "All right, I'll just check to make sure."
+        },
+        {
+            "start": 373.64,
+            "end": 374.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay, all right."
+        },
+        {
+            "start": 375.24,
+            "end": 378.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "So just confirm with me so we can close this."
+        },
+        {
+            "start": 378.31,
+            "end": 381.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Yeah, yeah, (uh) the money is in there ."
+        },
+        {
+            "start": 380.24,
+            "end": 388.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Okay, fantastic, thank you so much for calling (uh,) Bank of Queensland today, I hope you have a great day and if you don't mind,"
+        },
+        {
+            "start": 388.64,
+            "end": 393.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "please stay on the line because we have a short survey for all the customers contacting us"
+        },
+        {
+            "start": 393.64,
+            "end": 397.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "this month to complete and that would be much appreciated."
+        },
+        {
+            "start": 399.14,
+            "end": 399.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "That'd be great."
+        },
+        {
+            "start": 399.84,
+            "end": 406.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Thank you so much, Jenny. Just hold on the line and you will hear the survey in the next five seconds."
+        },
+        {
+            "start": 407.31,
+            "end": 407.82,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "Okay."
+        },
+        {
+            "start": 408.94,
+            "end": 409.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_5",
+            "gender": "female",
+            "text": "Have a great day."
+        },
+        {
+            "start": 411.1,
+            "end": 411.57,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_4",
+            "gender": "female",
+            "text": "You too."
+        }
+    ]
+}

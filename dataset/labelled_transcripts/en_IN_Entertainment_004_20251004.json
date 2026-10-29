@@ -1,0 +1,721 @@
+{
+    "file_name": "en_IN_Entertainment_004_20251004.wav",
+    "domain": "entertainment",
+    "accent": "en-IN",
+    "duration": 693.803,
+    "escalation_label": 1,
+    "segments": [
+        {
+            "start": 4.92,
+            "end": 11.96,
+            "role": "agent",
+            "text": "Hello. Good evening. Thank you for calling Anex (uh) help service. This is Rohini. How can I help you?",
+            "escalation_label": 0,
+            "label_reason": "Agent's initial greeting and offer of help."
+        },
+        {
+            "start": 13.22,
+            "end": 26.09,
+            "role": "customer",
+            "text": "Hi Rohini, good evening. (uh) Yesterday (uh) we went for a movie and it was (ah) I was very disappointed (uh) there. The whole situation was very terrible.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains initial problem and disappointment, not yet strong frustration."
+        },
+        {
+            "start": 26.71,
+            "end": 28.41,
+            "role": "agent",
+            "text": "Sorry to hear",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses sympathy."
+        },
+        {
+            "start": 27.04,
+            "end": 30.99,
+            "role": "customer",
+            "text": "So, that is why I thought to I should call you.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains reason for calling."
+        },
+        {
+            "start": 30.93,
+            "end": 37.27,
+            "role": "agent",
+            "text": "Yeah, sorry to hear that ma'am. (um) I can definitely help you. Can I have your booking ID first?",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses sympathy and asks for necessary information."
+        },
+        {
+            "start": 38.28,
+            "end": 48.17,
+            "role": "customer",
+            "text": "(uh) Yeah yeah. Wait a second. (um) Write please, it is C W double five six seven eight.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides requested information."
+        },
+        {
+            "start": 49.18,
+            "end": 62.4,
+            "role": "agent",
+            "text": "Okay. One moment. C W double five six seven eight. I can see that you had four premium seats in row G, seven to ten. (uh) Can you tell me what went wrong?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms details and asks for clarification on the problem."
+        },
+        {
+            "start": 63.61,
+            "end": 70.13,
+            "role": "customer",
+            "text": "(uh) Yeah, we, when we reached (uh) our seats were (uh) occupied already.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains the core issue of occupied seats."
+        },
+        {
+            "start": 70.7,
+            "end": 72.34,
+            "role": "agent",
+            "text": "Ohh. Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the information."
+        },
+        {
+            "start": 71.28,
+            "end": 80.45,
+            "role": "customer",
+            "text": "And one of your, one of your start telling us, ma'am please adjust in this row, adjust in this row. Why should I adjust in another row when I have booked the row G?",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses clear frustration and dissatisfaction with staff asking them to adjust seats, questioning why they should."
+        },
+        {
+            "start": 81.04,
+            "end": 90.63,
+            "role": "agent",
+            "text": "I understand ma'am. I understand. And sorry (uh) she~ (uh) these sh~ (uh) seats should never be double allocated.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's point and apologizes for the incorrect seat allocation."
+        },
+        {
+            "start": 90.63,
+            "end": 98.81,
+            "role": "agent",
+            "text": "(uh) I am taking it as a serious problem, (um) did yo~, did the staff tried to clear those seats for you?",
+            "escalation_label": 0,
+            "label_reason": "Agent takes the problem seriously and asks about staff actions to resolve it."
+        },
+        {
+            "start": 99.6,
+            "end": 110.13,
+            "role": "customer",
+            "text": "No no, they were keep telling me, please adjust in the row H. Why should I adjust in the row H? I have kids with me, I have kids with me.",
+            "escalation_label": 1,
+            "label_reason": "Customer reiterates frustration about being asked to adjust and emphasizes the presence of kids, indicating increasing emotional impact and dissatisfaction."
+        },
+        {
+            "start": 106.67,
+            "end": 108.09,
+            "role": "agent",
+            "text": "(uh) I understand ma'am.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's statement."
+        },
+        {
+            "start": 111.95,
+            "end": 115.21,
+            "role": "agent",
+            "text": "I understand ma'am. (uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's statement."
+        },
+        {
+            "start": 116.81,
+            "end": 121.27,
+            "role": "agent",
+            "text": "So, (uh) were you able to get your seats later?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for more information about the resolution at the venue."
+        },
+        {
+            "start": 122.91,
+            "end": 128.5,
+            "role": "customer",
+            "text": "No no. (uh) Yeah we get our seats later but after arguing so much.",
+            "escalation_label": 1,
+            "label_reason": "Customer states they got seats 'after arguing so much,' indicating significant frustration and difficulty in resolving the issue on site."
+        },
+        {
+            "start": 128.95,
+            "end": 138.02,
+            "role": "customer",
+            "text": "What is the fun, we (uh) the whole mood was spoiled. Movie had started very early. We have lost our trailer also.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses strong dissatisfaction, stating 'the whole mood was spoiled' and the overall negative impact on their experience."
+        },
+        {
+            "start": 138.91,
+            "end": 143.17,
+            "role": "agent",
+            "text": "Ohh, sorry. Sorry to hear that ma'am. (uh) Anything else?",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes and asks if there are other issues."
+        },
+        {
+            "start": 144.5,
+            "end": 157.97,
+            "role": "customer",
+            "text": "Yeah (uh) by the, the sound was too bad. In the hall, the dialogs were muffled and the dialogs were muffled and the also the AC was not working well.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains additional problems (sound and AC), which are complaints but not yet escalating in tone."
+        },
+        {
+            "start": 152.14,
+            "end": 152.98,
+            "role": "agent",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the information."
+        },
+        {
+            "start": 158.44,
+            "end": 160.98,
+            "role": "agent",
+            "text": "Okay. (uh) I am",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the information."
+        },
+        {
+            "start": 160.07,
+            "end": 164.97,
+            "role": "customer",
+            "text": "Sometimes the volume of volume was very low and sometime it was distorted.",
+            "escalation_label": 0,
+            "label_reason": "Customer elaborates on the sound issue."
+        },
+        {
+            "start": 165.48,
+            "end": 171.84,
+            "role": "agent",
+            "text": "Okay, so sorry to hear that ma'am. (uh) (uh) That must have been c~ uncomfortable. I am very sorry.",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes and acknowledges the discomfort."
+        },
+        {
+            "start": 172.34,
+            "end": 181.12,
+            "role": "agent",
+            "text": "(um) Okay, so I will write down in my report that the dialog channel was low and it affects the high channel and the HVAC was not cooling adequately.",
+            "escalation_label": 0,
+            "label_reason": "Agent notes down the issues for a report."
+        },
+        {
+            "start": 181.52,
+            "end": 184.41,
+            "role": "agent",
+            "text": "(uh) Did you speak to the duty manager during the show?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks if customer spoke to the duty manager."
+        },
+        {
+            "start": 186.08,
+            "end": 193.53,
+            "role": "customer",
+            "text": "(uh) Yes yes. We tried jo hai but (uh) he came after the interval, and (uh) he said I will look into it.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the interaction with the manager."
+        },
+        {
+            "start": 194.23,
+            "end": 203.46,
+            "role": "customer",
+            "text": "And instead he (uh) he offered us a comple~ complementary bottle. What does it mean, you are offering (uh) water to us instead of our seats.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses strong indignation and dissatisfaction with the manager's inadequate offer ('complementary bottle' instead of resolving seating issues)."
+        },
+        {
+            "start": 194.44,
+            "end": 195.18,
+            "role": "agent",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's statement."
+        },
+        {
+            "start": 204.11,
+            "end": 213.24,
+            "role": "customer",
+            "text": "We have paid almost two thousand rupees and I was expecting at least basic rights, our seats, clear sound, decent cooling. Everything was missing.",
+            "escalation_label": 1,
+            "label_reason": "Customer highlights serious dissatisfaction by contrasting the amount paid with the lack of basic services ('Everything was missing'), indicating a significant breach of expectation."
+        },
+        {
+            "start": 211.94,
+            "end": 223.02,
+            "role": "agent",
+            "text": "I understand ma'am. I understand ma'am. (uh) If may I propose and feel free to interrupt me, I can issue complementary vouchers to you (uh) which will equal to your ticket amount",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges and proposes a solution."
+        },
+        {
+            "start": 223.02,
+            "end": 234.8,
+            "role": "agent",
+            "text": "that you have already paid and I, because you had so much problem and you f~ (uh) you did not enjoy so I will add a snack combo voucher for your next visit.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to elaborate on the proposed solution."
+        },
+        {
+            "start": 234.8,
+            "end": 243.15,
+            "role": "agent",
+            "text": "I can also like partially refund (uh) some of the convenience charges as a gesture.",
+            "escalation_label": 0,
+            "label_reason": "Agent adds another component to the proposed solution."
+        },
+        {
+            "start": 244.27,
+            "end": 251.07,
+            "role": "customer",
+            "text": "Hmm, okay vouchers are okay, but how do I know next time it would not happen?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks a question about preventing future issues, which is a reasonable concern, not escalation."
+        },
+        {
+            "start": 251.59,
+            "end": 263.74,
+            "role": "agent",
+            "text": "Fair point ma'am. I will add the priority seating assurance note, for your profile so that (um) (uh) whenever you go (uh) the staff over there will make sure that you will get your seats.",
+            "escalation_label": 0,
+            "label_reason": "Agent addresses the customer's concern with a preventative measure."
+        },
+        {
+            "start": 265.19,
+            "end": 277.82,
+            "role": "customer",
+            "text": "(uh) Now that sounds like a plan. (uh) But yesterday, I kept telling the sir, just check the system, he said the scanner is glitching. So, this type of inco~ inconvenience should not be there.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides additional context about past staff interaction, expressing general dissatisfaction but not escalating in tone."
+        },
+        {
+            "start": 278.59,
+            "end": 291.89,
+            "role": "agent",
+            "text": "I totally agree with you ma'am. (uh) I will have my ID check the QR devices and the seat map sync and we (uh) and I will also request for an internal audit so that we can see that",
+            "escalation_label": 0,
+            "label_reason": "Agent agrees and outlines internal actions to prevent recurrence of technical issues."
+        },
+        {
+            "start": 291.89,
+            "end": 297.76,
+            "role": "agent",
+            "text": "how (uh) we can (uh) improve ourselves. (uh) Is there anything else ma'am?",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain improvement plans and asks if there's anything else."
+        },
+        {
+            "start": 298.92,
+            "end": 304.99,
+            "role": "customer",
+            "text": "(uh) Yes please. (uh) Train your staff also. So that they can handle the families better.",
+            "escalation_label": 0,
+            "label_reason": "Customer makes a constructive suggestion about staff training."
+        },
+        {
+            "start": 302.98,
+            "end": 303.58,
+            "role": "agent",
+            "text": "Sure.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the suggestion."
+        },
+        {
+            "start": 305.39,
+            "end": 318.36,
+            "role": "customer",
+            "text": "Kids become anxious when they, they are, their parents are arguing with the staff. It is very stressful for everyone. We went to the movie to light our mood but after going there, the mood was very off.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the reasoning behind the staff training suggestion, focusing on the impact on family experience rather than escalating frustration."
+        },
+        {
+            "start": 305.8,
+            "end": 306.52,
+            "role": "agent",
+            "text": "Sure.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's statement."
+        },
+        {
+            "start": 311.66,
+            "end": 313.66,
+            "role": "agent",
+            "text": "Sure ma'am I understand.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges and expresses understanding."
+        },
+        {
+            "start": 319.3,
+            "end": 331.47,
+            "role": "agent",
+            "text": "Sure ma'am sure. (uh) I assure you, we will train our team to have family first seating protocol so that every one with a family can enjoy and not get disturbed.",
+            "escalation_label": 0,
+            "label_reason": "Agent assures the customer regarding staff training and a family-first protocol."
+        },
+        {
+            "start": 332.74,
+            "end": 342.62,
+            "role": "customer",
+            "text": "Good good and one thing also (uh) (uh) the food we (ah) take from the, your stall, (uh) stall were very stale. They were not fresh.",
+            "escalation_label": 0,
+            "label_reason": "Customer introduces a new complaint about stale food."
+        },
+        {
+            "start": 343.42,
+            "end": 351.04,
+            "role": "customer",
+            "text": "So, please be ensure that haan yeah we ensure (um) you should ensure that the at least the food should not be stale there.",
+            "escalation_label": 0,
+            "label_reason": "Customer emphasizes the importance of food freshness."
+        },
+        {
+            "start": 343.7,
+            "end": 344.84,
+            "role": "agent",
+            "text": "Ohh really?",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses surprise and acknowledges the complaint."
+        },
+        {
+            "start": 352.06,
+            "end": 361.29,
+            "role": "agent",
+            "text": "Ohh thank you for bringing that (uh) into my knowledge, I will inform our F and B manager, (ah) they will check the batch fresheners and",
+            "escalation_label": 0,
+            "label_reason": "Agent promises to inform the F&B manager and address the issue."
+        },
+        {
+            "start": 361.59,
+            "end": 372.26,
+            "role": "agent",
+            "text": "warming setting, (uh) we want everyone to have some, (uh) fresh food, for sure. So (uh) sir (uh) (uh) sorry ma'am, (uh) here is what I will do",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to outline steps for resolution."
+        },
+        {
+            "start": 372.61,
+            "end": 385.22,
+            "role": "agent",
+            "text": "I will create a formal complaint ticket and share the ticket number by SMS and email with you. I will issue complementary ticket vouchers (uh) equal to your four seats, and plus (uh) snack combo voucher.",
+            "escalation_label": 0,
+            "label_reason": "Agent summarizes the comprehensive resolution package (complaint ticket, vouchers, snack combo)."
+        },
+        {
+            "start": 385.92,
+            "end": 396.21,
+            "role": "agent",
+            "text": "I will also process partial refund of the convenience fee and will add the priority seating assurance note to your profi~",
+            "escalation_label": 0,
+            "label_reason": "Agent continues summarizing the resolution (refund, priority seating)."
+        },
+        {
+            "start": 396.66,
+            "end": 408.49,
+            "role": "agent",
+            "text": "So, that the next time you come and visit Anex (uh) you can get your priority seating (uh) and I will also reach out for the technical issue about the audio and the HVAC team.",
+            "escalation_label": 0,
+            "label_reason": "Agent finishes summarizing the resolution (technical issues)."
+        },
+        {
+            "start": 409.41,
+            "end": 415.95,
+            "role": "customer",
+            "text": "(uh) Good (uh) but please share everything in writing so that I ke~ (uh) keep it for a record.",
+            "escalation_label": 0,
+            "label_reason": "Customer makes a reasonable request for written confirmation, not indicating escalation."
+        },
+        {
+            "start": 416.03,
+            "end": 419.99,
+            "role": "agent",
+            "text": "Sure ma'am, sure. Can you please confirm your email and phone number?",
+            "escalation_label": 0,
+            "label_reason": "Agent agrees and asks for contact details."
+        },
+        {
+            "start": 420.97,
+            "end": 432.97,
+            "role": "customer",
+            "text": "Yes yes. (uh) My email is, write down please. Singh dot R at the rate of Gmail dot com. And my phone yeah, note down my",
+            "escalation_label": 0,
+            "label_reason": "Customer provides contact information."
+        },
+        {
+            "start": 428.63,
+            "end": 429.57,
+            "role": "agent",
+            "text": "mhm",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the information."
+        },
+        {
+            "start": 431.61,
+            "end": 439.95,
+            "role": "agent",
+            "text": "And is your phone, yeah (uh) I have that, thankyou and is your phone number still (uh) the one ending with nine eight zero one?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms phone number details."
+        },
+        {
+            "start": 440.67,
+            "end": 453.39,
+            "role": "customer",
+            "text": "Yeah, this is correct. (uh) Sorry to interrupt, (uh) when will the vouchers be re-usable? (uh) We are thinking to try again next weekend. (uh) Maybe the Sunday Matinee.",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about voucher usability, indicating a willingness to return and planning for future visits, showing de-escalation."
+        },
+        {
+            "start": 443.14,
+            "end": 443.84,
+            "role": "agent",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's statement."
+        },
+        {
+            "start": 453.47,
+            "end": 463.9,
+            "role": "agent",
+            "text": "Sure ma'am and thank you for considering ag~ (uh) again after everything. (ah) the vouchers, they will be active immediately, like (uh) upon the email delivery.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about voucher activation and expresses gratitude for customer's continued consideration."
+        },
+        {
+            "start": 465.35,
+            "end": 479.01,
+            "role": "agent",
+            "text": "And (ah) they will be valid for ninety days. So, for Sunday Matinee, (uh) I can also pre-book (uh) the row and release it to you once you decide on the exact show time.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers to pre-book seats for the next visit."
+        },
+        {
+            "start": 480.8,
+            "end": 488.76,
+            "role": "customer",
+            "text": "Please do that, pre-blocking of the seats give peace of mind. I will confirm you after, after talking to my husband.",
+            "escalation_label": 0,
+            "label_reason": "Customer accepts the pre-booking offer positively."
+        },
+        {
+            "start": 484.75,
+            "end": 486.11,
+            "role": "agent",
+            "text": "Sure ma'am. Sure.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's acceptance."
+        },
+        {
+            "start": 488.61,
+            "end": 502.92,
+            "role": "agent",
+            "text": "Sure, definitely ma'am. And I will place a courtesy hold for row F seat eight to eleven for the Sunday Matinee, there will be no charges and you can confirm anytime within the next twenty-four hours.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the details of the courtesy hold for pre-booking."
+        },
+        {
+            "start": 504.28,
+            "end": 514.99,
+            "role": "customer",
+            "text": "Perfect perfect. (uh) By the way, one suggestion (um) put, can you put a small sign near the entrance that says, your seats are occupied contact supervisor immediately,",
+            "escalation_label": 0,
+            "label_reason": "Customer offers a constructive suggestion for a sign at the entrance."
+        },
+        {
+            "start": 515.34,
+            "end": 520.44,
+            "role": "customer",
+            "text": "because people should have to argue (um) should not argue with each other inside the hall.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues explaining the reasoning for their suggestion."
+        },
+        {
+            "start": 520.98,
+            "end": 533.73,
+            "role": "agent",
+            "text": "Definitely ma'am, (um) that is a very practical suggestion. I will write it down in my complaint that I will make, that there should be something that (uh) can help people for that.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the suggestion as practical and promises to include it in the report."
+        },
+        {
+            "start": 536.97,
+            "end": 542.54,
+            "role": "customer",
+            "text": "Nice, and please add that also, early entry means less chaos.",
+            "escalation_label": 0,
+            "label_reason": "Customer adds another suggestion."
+        },
+        {
+            "start": 543.15,
+            "end": 553.53,
+            "role": "agent",
+            "text": "True. I, I really appreciate your patience ma'am and thankyou for (uh) trying us again and we value, we so value your time and feedback.",
+            "escalation_label": 0,
+            "label_reason": "Agent appreciates the customer's patience and feedback."
+        },
+        {
+            "start": 553.88,
+            "end": 565.73,
+            "role": "agent",
+            "text": "And it genuinely help us to improve and I am truly again I am truly sorry for the, all the poor experience you had yesterday. I want your next visit yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes again and expresses hope for a better future experience."
+        },
+        {
+            "start": 562.73,
+            "end": 565.95,
+            "role": "customer",
+            "text": "It is okay. It is okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly accepts the apology."
+        },
+        {
+            "start": 566.13,
+            "end": 570.35,
+            "role": "agent",
+            "text": "Yeah. I want your next visit to go effortless.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates the desire for an effortless next visit."
+        },
+        {
+            "start": 571.75,
+            "end": 574.43,
+            "role": "customer",
+            "text": "mm, thank you. Maybe.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the agent's statement."
+        },
+        {
+            "start": 575.23,
+            "end": 586.35,
+            "role": "agent",
+            "text": "(uh) For families ma'am we can also arrange early entry by five minutes, just to settle in, if that helps and I can add it to your note that they can let you enter early.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers an additional perk (early entry for families)."
+        },
+        {
+            "start": 589.01,
+            "end": 591.91,
+            "role": "customer",
+            "text": "Okay. Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the offer."
+        },
+        {
+            "start": 594.0,
+            "end": 600.71,
+            "role": "agent",
+            "text": "Okay. So, I have updated your profile with early sitting assistance and a priority seating assurance.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the profile updates."
+        },
+        {
+            "start": 602.65,
+            "end": 605.35,
+            "role": "customer",
+            "text": "Got it. Got it. I will keep an eye.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the updates."
+        },
+        {
+            "start": 606.29,
+            "end": 618.58,
+            "role": "agent",
+            "text": "Okay. So, ma'am I am generating (uh) your complaint ticket as we are speaking right now. Your ticket number is E N four seven two eight one.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the complaint ticket number."
+        },
+        {
+            "start": 620.22,
+            "end": 628.23,
+            "role": "agent",
+            "text": "You can write it down, but you will also receive it in a SMS in the next few (uh) minutes, and email shortly after that.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains how the customer will receive the ticket number."
+        },
+        {
+            "start": 620.62,
+            "end": 621.68,
+            "role": "customer",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the information."
+        },
+        {
+            "start": 630.5,
+            "end": 637.99,
+            "role": "customer",
+            "text": "Okay. (uh) If the email does not come (uh) should I call you back? Or should I trust you will send it?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for reassurance regarding email delivery, which is a minor concern, not strong frustration or lack of trust."
+        },
+        {
+            "start": 635.59,
+            "end": 637.11,
+            "role": "agent",
+            "text": "Have my assurance.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides assurance."
+        },
+        {
+            "start": 638.61,
+            "end": 646.86,
+            "role": "agent",
+            "text": "(uh) have my assurance ma'am, (uh) before I let you go (uh) you will receive the SMS for sure.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates assurance about receiving the SMS."
+        },
+        {
+            "start": 647.26,
+            "end": 655.07,
+            "role": "agent",
+            "text": "And you will receive the email and (uh) may I check if there is anything else that I can help you with today?",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates assurance about email and asks for any further assistance."
+        },
+        {
+            "start": 656.76,
+            "end": 667.49,
+            "role": "customer",
+            "text": "No, no. I think you have covered everything. I feel heard and the plan, your plan sounds so solid. So, I am satisfied with the help you have done today.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses satisfaction with the resolution and feeling heard, indicating successful de-escalation."
+        },
+        {
+            "start": 665.28,
+            "end": 666.29,
+            "role": "agent",
+            "text": "Thank you ma'am.",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses gratitude."
+        },
+        {
+            "start": 667.99,
+            "end": 677.18,
+            "role": "agent",
+            "text": "Thank you, thank you ma'am. We are here to help and, we truly appreciate the another chance that you are giving us and thank you for calling us.",
+            "escalation_label": 0,
+            "label_reason": "Agent thanks the customer and appreciates the second chance."
+        },
+        {
+            "start": 677.63,
+            "end": 686.8,
+            "role": "agent",
+            "text": "(um) I hope (uh) we were able to help you today and make sure your next visit is smooth and enjoyable. Have a peaceful evening ma'am.",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses hope for a smooth next visit and wishes the customer well."
+        },
+        {
+            "start": 688.38,
+            "end": 690.74,
+            "role": "customer",
+            "text": "Thank you, thank you Rohini. Good bye.",
+            "escalation_label": 0,
+            "label_reason": "Customer thanks the agent and says goodbye."
+        }
+    ]
+}

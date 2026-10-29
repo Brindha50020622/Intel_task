@@ -1,0 +1,696 @@
+{
+    "file_name": "en_AU_Entertainment_1585414.wav",
+    "duration": 874.698,
+    "accent": "en-AU",
+    "domain": "entertainment",
+    "segments": [
+        {
+            "start": 15.44,
+            "end": 20.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Hello there, I was wondering if I could speak to Steven about some potential (uh) concert tickets."
+        },
+        {
+            "start": 22.34,
+            "end": 30.75,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Hi there. Yea you've Steven. You've got Steven here. And (um,) thank you very much for calling me. Now I've got (um,)"
+        },
+        {
+            "start": 30.75,
+            "end": 43.11,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "i've got some inquiries to make about getting tickets for this this concert. (um,) I'm not aware of the the group (uh,) some friends (uh,) already came and (um.)"
+        },
+        {
+            "start": 43.11,
+            "end": 53.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Yeah (uh) they, I'm not too sure if you've ever even heard of the group that you probably have, it's (um,) very new on the Australian"
+        },
+        {
+            "start": 53.34,
+            "end": 66.31,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Circuit. And (um,) they've been playing in a lot of (um) pubs and (um,) older-aged, pensioner and all that, and they've just been sort of working their way up. (um,)"
+        },
+        {
+            "start": 66.31,
+            "end": 77.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "I think I I think I think it's gorillas or monkeys or or something like that. Are you aware of them? I mean, have you got them on your (um) list for upcoming events?"
+        },
+        {
+            "start": 79.04,
+            "end": 83.68,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah, absolutely. I'm really glad that you brought up the (uh,) the Arctic Gorillas there"
+        },
+        {
+            "start": 83.68,
+            "end": 95.65,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "because (um,) they're a really awesome local band and like you said, they've been playing at pubs been getting everyone hype getting really good energy Having drinks thrown at them in a good way in a good way (um,)"
+        },
+        {
+            "start": 95.65,
+            "end": 109.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "yeah, they've been really rocking the local scene. So (um,) Now would be an awesome time to to book them in before, the you know they start really blowing up and ticket prices become exorbitant (um,) but we could absolutely have a look"
+        },
+        {
+            "start": 109.14,
+            "end": 120.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "at booking you in for one of the festivals that they are playing at. Maybe (um,) maybe the Arctic Circle event that could be that could be something (uh,) that might interest you"
+        },
+        {
+            "start": 121.74,
+            "end": 132.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "The Arctic Circle event. Can you (um,) yea, (um) that one isn't from (uh,) can you tell us a little bit more about the (uh) Arctic (uh) Arctic Circle did you say? Can you tell me more about that please."
+        },
+        {
+            "start": 133.54,
+            "end": 139.8,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely. So the Arctic Circle event is (um,) it's a it's a multi-artist event"
+        },
+        {
+            "start": 139.8,
+            "end": 151.11,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(uh,) held in the (uh,) the sunset view amphitheater. So it's a really really awesome venue. Very natural (um,) very open"
+        },
+        {
+            "start": 151.11,
+            "end": 164.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "and especially, you know being in the season that we're in absolutely wha~ wonderful weather for it. Gorgeous views of the sunset over the valley as well. (Um,) but to tell you a bit more about the Arctic Circle event"
+        },
+        {
+            "start": 165.14,
+            "end": 177.22,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "It's (uh,) As I said before multi artists, so we've got (uh,) Arctic Gorillas. We have the ant~ (uh) Antarctic Seals (um,) we also have the (um,) the Polar Bears, I know"
+        },
+        {
+            "start": 177.22,
+            "end": 186.51,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "all all sort of like (uh,) snow themed artists, but all very different genres as well So as I was speaking about (uh,) for the Arctic Gorillas,"
+        },
+        {
+            "start": 186.51,
+            "end": 197.0,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "very rocky, very high energy, very (um,) in your face really wicked performers bring awesome energy and doesn't sound like the studio version that you'd s~ s~"
+        },
+        {
+            "start": 197.06,
+            "end": 203.7,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "You know here on on vinyl or on Spotify (um) And then the Polar Bears are a lot more"
+        },
+        {
+            "start": 203.7,
+            "end": 218.35,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "kind of surf rocky maybe psychedelic rock might be a better way to describe their music, bit more laid-back a little bit more experimental (um,) bit of a longer longer song but has multiple sort of tone shifts in it"
+        },
+        {
+            "start": 218.35,
+            "end": 227.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "and then the Antarctic Seals are very sort of funky and seventies, eighties (um,) like heavy funk so"
+        },
+        {
+            "start": 227.84,
+            "end": 231.35,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "A really good mix of music there (uh,)"
+        },
+        {
+            "start": 231.35,
+            "end": 243.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "so yeah, wonderful venue, awesome artists and pretty reasonable price as well. So (um,) we do have different sort of packages. Is that something that you might be interested in looking into?"
+        },
+        {
+            "start": 242.84,
+            "end": 254.0,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um) (uh,) It sounds fantastic. I mean, the the enthusiasm that I'm getting from you makes you really want to get get the guys together and come around to this festival."
+        },
+        {
+            "start": 254.0,
+            "end": 266.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Now what I'd like to know is that there is a bunch of us that are keen. (um,) Do you have VIP courses for your for this (um,) the arctic for the Arctic Festival?"
+        },
+        {
+            "start": 267.84,
+            "end": 281.68,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely, so for Arctic Circle we have (um,) individual backstage passes so if you only really want to meet and greet with one of the one of the artists one of the bands (um,) we could do that there's also a (um,)"
+        },
+        {
+            "start": 281.68,
+            "end": 290.67,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "a full VIP access to to meet and greet with all of the artists and those VIP tickets include"
+        },
+        {
+            "start": 290.67,
+            "end": 300.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "the absolute best seats in the house at the very front near the stage (um,) on the amphitheater as well as (um,) exclusive signed merch"
+        },
+        {
+            "start": 300.64,
+            "end": 309.67,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "from each of the the artists which includes a vinyl and a shirt as well as obviously a a meet and greet getting a chance to go backstage and"
+        },
+        {
+            "start": 309.67,
+            "end": 323.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "hang out with them (um,) you can be there for the for the sound check before everyone arrives (um,) yeah, it's a really really awesome awesome package and just a totally (uh,) one of a kind experience"
+        },
+        {
+            "start": 324.54,
+            "end": 338.63,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "This sounds really exceptional. (um,) i've got a (um,) One of the guys that is keen to come along to this festival, (um,) he plays in a band as well. What is your procedure? (um,)"
+        },
+        {
+            "start": 338.63,
+            "end": 350.55,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "You know that we've been to some concerts where the band picks somebody from the audience and they come up on the stage. Can we be maybe like, if we wear certain"
+        },
+        {
+            "start": 350.55,
+            "end": 356.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "top or shirt or something like that, get picked out, so a friend who's, (um,) he's not very well."
+        },
+        {
+            "start": 356.34,
+            "end": 363.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um,) I don't wanna get too much into that, but is it possible he could be picked out to go on stage? What's your procedure there?"
+        },
+        {
+            "start": 365.04,
+            "end": 368.9,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely, so (um,)"
+        },
+        {
+            "start": 368.9,
+            "end": 381.39,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "first (uh) firstly I'd like to give condolences for your friends. It's (uh,) it's it's awful (um) That he's that he's sick, but we can a hundred percent sort of liaise with the with the artists (um,)"
+        },
+        {
+            "start": 381.39,
+            "end": 388.2,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "And and maybe work something out so that he could come up and play. I know that the Arctic Gorillas are very open"
+        },
+        {
+            "start": 388.2,
+            "end": 395.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "To picking audience members to play. They've done it with multiple of their their previous sets, (um,) especially in pubs"
+        },
+        {
+            "start": 395.74,
+            "end": 405.31,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "They like to do this this thing where they spin around and point at a random person and then they get them up on the drums or something. It's it's it's hilarious, but it's it's really good"
+        },
+        {
+            "start": 405.31,
+            "end": 417.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Um,) we could absolutely work something out for your friend group and and your your friend as well (Um,) And you could maybe garner a closer relationship with that VIP package if that's something you were interested in as well"
+        },
+        {
+            "start": 419.14,
+            "end": 427.62,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Ohh, that that's sounds absolutely fantastic. Thanks for that. (um,) can you give me a breakdown then on your processing"
+        },
+        {
+            "start": 427.62,
+            "end": 434.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(um) on your processing and also with the availability of the in the certain areas I presume you also have a mosh pit"
+        },
+        {
+            "start": 436.14,
+            "end": 448.4,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah, absolutely. So the (uh,) the sunset view amphitheater, It's sort of set as a semicircle so you have these built-in stone steps (um,) which act as the seats"
+        },
+        {
+            "start": 448.4,
+            "end": 453.57,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "and Then in the middle the center of the stage in front of the the fence"
+        },
+        {
+            "start": 453.57,
+            "end": 463.8,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um,) there's this awesome sort of recessed area we could really like get around each other and really mosh and go crazy, especially to some of Arctic Gorillas' (um,)"
+        },
+        {
+            "start": 463.8,
+            "end": 468.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "songs like they get pretty heavy. So definitely lots of opportunity for that"
+        },
+        {
+            "start": 468.54,
+            "end": 481.0,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Um,) in terms of pricing, there's, we sort of do it in like five row groups. So as the furthest row back, which is like row twenty to fifteen they go for about"
+        },
+        {
+            "start": 481.0,
+            "end": 493.28,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "thirty to forty dollars and then as you get closer (um,) it kind of it goes up in about fifty, fifty dollar increments. So by the time you're at the VIP seats (um,)"
+        },
+        {
+            "start": 493.28,
+            "end": 498.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "You're getting, you know, maybe like two hundred dollar seats included in your"
+        },
+        {
+            "start": 498.74,
+            "end": 507.86,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um,) all-access bundle. In terms of availability The Arctic Circle event is only on"
+        },
+        {
+            "start": 507.86,
+            "end": 519.82,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "for the weekend after this weekend, so we would say (uh,) I think it's the third the Friday the third up to the Sunday the fifth"
+        },
+        {
+            "start": 519.82,
+            "end": 531.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Um,) So that's the only days they're playing and (um,) It is sort of in the local area naturally, so does that work for you in terms of (um,) planning?"
+        },
+        {
+            "start": 531.9,
+            "end": 540.05,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "And (uh,) absolutely. I have no problem at all. Yea the guys are really keen to get out there. And (um,) so the the"
+        },
+        {
+            "start": 540.05,
+            "end": 548.41,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "VIP ticket enables us just a clarification to get onto the backstage and meet up (um,)"
+        },
+        {
+            "start": 548.41,
+            "end": 560.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "with the (um,) with the Arctic Gorillas, the arctic The arctic I think you said that were there. (um) We can meet up with them and just"
+        },
+        {
+            "start": 560.24,
+            "end": 564.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "hang out with them for a period time is there a time limit to it? Yea (um,)"
+        },
+        {
+            "start": 566.74,
+            "end": 579.36,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah, a really good question there, so (um) I think one of the really awesome parts about that is you get early access to the venue when no one else will be there. So it'll just be you"
+        },
+        {
+            "start": 579.36,
+            "end": 591.99,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(um,) like the the obviously the audio engineers and all the people (um,) staff for the show, but it'll just be you and your group with the artists themselves and that's an hour access early"
+        },
+        {
+            "start": 591.99,
+            "end": 597.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So you can spend an hour (um,) with those artists sort of talking and hanging out,"
+        },
+        {
+            "start": 597.24,
+            "end": 602.5,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "You know, maybe your friend wants to jam with them a little bit I think that would be a really wicked experience"
+        },
+        {
+            "start": 602.5,
+            "end": 614.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Um,) but yeah, you get exclusive access to them for that full hour basically, and then after that (um) you can still hang out backstage but naturally the artists will be getting ready and doing sound checks and things like that."
+        },
+        {
+            "start": 615.84,
+            "end": 629.09,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Ohh fantastic, this is getting better all the time. Okay, now the guys are keen. What about (um,) seating around a like if we can get up and you know,"
+        },
+        {
+            "start": 629.09,
+            "end": 641.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "get walk around as the seats, as the seats fall back. (um) Is it danger? I mean, what is it like if we take a seat rather than a mosh pit or somewhere else where you can stand on a bench or something after that?"
+        },
+        {
+            "start": 643.54,
+            "end": 650.38,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yeah, so really good question there as well so as I was saying before the seats are kind of like stone cut outs"
+        },
+        {
+            "start": 650.38,
+            "end": 662.62,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "In the sort of semi-circular shape of the amphitheater, but on the bands that we'll be assigning to people it there's like (uh,) a numbering system. So you'll have a band that corresponds to the seat."
+        },
+        {
+            "start": 662.62,
+            "end": 672.69,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Unfortunately, because they are set in stone li~ literally speaking (um) we can't do folding or sort of like seat (um,) changes and things like that."
+        },
+        {
+            "start": 672.95,
+            "end": 680.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Uh,) in terms of safety, we have a really really good (um,) medical team on site. (Uh,) we've done all of our fire prep."
+        },
+        {
+            "start": 680.54,
+            "end": 687.2,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Um,) And we have really really good security on board as well. I can personally vouch for the security team"
+        },
+        {
+            "start": 687.2,
+            "end": 697.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "I've i've worked with them on on multiple events in multiple venues. These guys are (um,) absolute class. So yeah, no worries in that (um,) in that regard"
+        },
+        {
+            "start": 698.34,
+            "end": 710.61,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Okay. Now, that sounded good. What about, you know, like as I said, we keen, but what happens if we need to cancel for, you know, something unexpected is happening?"
+        },
+        {
+            "start": 710.61,
+            "end": 724.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "(Um,) I What happens if we have to cancel? Do we get refunded? Do, z~ will it be rescheduled? W~ (uh) Scheduling will you be able to rescheduled if it rains. All these unknowns, How are the unknowns covered?"
+        },
+        {
+            "start": 725.04,
+            "end": 732.8,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Really really good question there as well. I think (uh) the refund and exchange policy is something that we can be really proud of here (um)"
+        },
+        {
+            "start": 732.8,
+            "end": 743.65,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "So in terms of personal personal scheduling issues we'll give you a full refund up to twenty four hours (uh) Before the the day"
+        },
+        {
+            "start": 743.65,
+            "end": 755.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "that it starts So if you had issues and you notified us about them on the Thursday before the start of the event hundred percent refund no questions asked your money back, you know happy days"
+        },
+        {
+            "start": 756.14,
+            "end": 768.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Um,) if there is severe weather and we have to (um) reschedule the actual event itself (uh) We'll give you a couple of different options. We'll give you the option to have a full refund"
+        },
+        {
+            "start": 768.74,
+            "end": 777.95,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Um,) we could give you the option to refund in sort of like a store credit so you can buy tickets equal to the value of the tickets that you purchased originally"
+        },
+        {
+            "start": 777.95,
+            "end": 786.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "or we can just transfer your tickets to the the rescheduled date So you're pretty well covered (um,) for any sort of unexpected circumstances"
+        },
+        {
+            "start": 787.44,
+            "end": 795.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "That's fantastic. (Um,) Yea, I'm going to confirm in a sec, but just who's the main band, who's the last group up on that stage?"
+        },
+        {
+            "start": 796.74,
+            "end": 807.77,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Yes, that would be the Arctic Gorillas they're the main main show (um) for this event we have (uh,) forty five minutes from door opening where people can kind of like"
+        },
+        {
+            "start": 807.77,
+            "end": 817.7,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "go around and get food and get merch and then the (um,) the (ah) Antarctic Seals will play and then after them there'll be a fifteen minute intermission"
+        },
+        {
+            "start": 817.7,
+            "end": 829.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "and then the (um,) Polar Bears and then they'll go for forty five minutes, fifteen minute intermission and then the Arctic Gorillas will play for an hour and forty five minutes with a fifteen minute intermission"
+        },
+        {
+            "start": 829.64,
+            "end": 834.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "(Um,) In the middle there as well, so all up about four or five hours all together."
+        },
+        {
+            "start": 835.44,
+            "end": 843.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "That's fantastic. Also, I'll just go ahead online here and (um,) pay for the ticket, and that's fine with you."
+        },
+        {
+            "start": 844.44,
+            "end": 851.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "Absolutely (um,) yeah, just go ahead and book in with you and your group and we'll send you a confirmation email as soon as we receive payment"
+        },
+        {
+            "start": 852.34,
+            "end": 855.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Excellent. Thank you very much for your all your the advice here is brilliant."
+        },
+        {
+            "start": 856.34,
+            "end": 858.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_male_2",
+            "gender": "male",
+            "text": "No worries, mate. Enjoy the event."
+        },
+        {
+            "start": 858.84,
+            "end": 859.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_male_3",
+            "gender": "male",
+            "text": "Thank you."
+        }
+    ]
+}

@@ -1,0 +1,1417 @@
+{
+    "file_name": "en_US_Aave_Hospitality_1591808.wav",
+    "domain": "hospitality",
+    "accent": "en-US_Aave",
+    "duration": 886.685,
+    "escalation_label": 1,
+    "segments": [
+        {
+            "start": 3.74,
+            "end": 4.34,
+            "role": "customer",
+            "text": "Girl, what",
+            "escalation_label": 0,
+            "label_reason": "Normal conversational opening."
+        },
+        {
+            "start": 11.84,
+            "end": 16.24,
+            "role": "agent",
+            "text": "Thank you for calling Motel Six. How can I help you?",
+            "escalation_label": 0,
+            "label_reason": "Agent greeting."
+        },
+        {
+            "start": 19.14,
+            "end": 27.54,
+            "role": "customer",
+            "text": "Hey. I have a question for you. I prepaid a hotel reservation, and I just wanna check",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains a problem about a reservation."
+        },
+        {
+            "start": 28.04,
+            "end": 29.84,
+            "role": "customer",
+            "text": "to see if I could cancel it",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains a problem about a reservation."
+        },
+        {
+            "start": 29.94,
+            "end": 31.74,
+            "role": "customer",
+            "text": "and what and what that means.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains a problem about a reservation."
+        },
+        {
+            "start": 31.84,
+            "end": 39.44,
+            "role": "agent",
+            "text": "If you prepaid it, ma'am, you most likely used a third party, so you have to contact them for your cancelation.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides initial information regarding cancellation."
+        },
+        {
+            "start": 41.64,
+            "end": 50.74,
+            "role": "customer",
+            "text": "I I don't think that's right because when I prepaid it, it said that if I had any problems that I was supposed to call this number.",
+            "escalation_label": 0,
+            "label_reason": "Customer disputes agent's information, but in a calm, explanatory manner, not expressing strong frustration."
+        },
+        {
+            "start": 52.54,
+            "end": 53.74,
+            "role": "agent",
+            "text": "Ma'am,",
+            "escalation_label": 0,
+            "label_reason": "Agent interjection."
+        },
+        {
+            "start": 52.54,
+            "end": 54.24,
+            "role": "customer",
+            "text": "So I don't call the motel?",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks clarification, not showing frustration."
+        },
+        {
+            "start": 54.54,
+            "end": 60.14,
+            "role": "agent",
+            "text": "did you did you pay us or did you pay Who did who did you pay your money to?",
+            "escalation_label": 0,
+            "label_reason": "Agent seeks clarification."
+        },
+        {
+            "start": 61.84,
+            "end": 63.24,
+            "role": "customer",
+            "text": "I paid it to y'all.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides clarification calmly."
+        },
+        {
+            "start": 63.24,
+            "end": 70.24,
+            "role": "agent",
+            "text": "Okay. Ma'am, did you go on to Expedia or Booking dot com",
+            "escalation_label": 0,
+            "label_reason": "Agent seeks further clarification about payment method."
+        },
+        {
+            "start": 70.34,
+            "end": 73.84,
+            "role": "agent",
+            "text": "or Tripadvisor or anything like that?",
+            "escalation_label": 0,
+            "label_reason": "Agent seeks further clarification about payment method."
+        },
+        {
+            "start": 77.24,
+            "end": 81.44,
+            "role": "customer",
+            "text": "I'm sorry, ma'am, maybe we got a bad connection. Hello.",
+            "escalation_label": 0,
+            "label_reason": "Customer mentions a possible bad connection, indicating a technical issue, not frustration about the service."
+        },
+        {
+            "start": 82.14,
+            "end": 83.04,
+            "role": "customer",
+            "text": "Do you hear me?",
+            "escalation_label": 0,
+            "label_reason": "Customer mentions a possible bad connection, indicating a technical issue, not frustration about the service."
+        },
+        {
+            "start": 85.04,
+            "end": 89.04,
+            "role": "agent",
+            "text": "Ma'am, I'm trying to help you.",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses intent to help, not indicating escalation."
+        },
+        {
+            "start": 87.64,
+            "end": 93.94,
+            "role": "customer",
+            "text": "I a~ I paid it to y'all. I went on Motel Six and paid it.",
+            "escalation_label": 0,
+            "label_reason": "Customer reiterates information calmly without strong frustration."
+        },
+        {
+            "start": 95.24,
+            "end": 98.94,
+            "role": "agent",
+            "text": "Well, ma'am, we don't have prepaid hotel rooms at Motel Six.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about company policy."
+        },
+        {
+            "start": 99.84,
+            "end": 104.44,
+            "role": "agent",
+            "text": "Wait a minute . Hold on. Let me see something.",
+            "escalation_label": 0,
+            "label_reason": "Agent indicates they are checking information."
+        },
+        {
+            "start": 100.14,
+            "end": 102.04,
+            "role": "customer",
+            "text": "Then how did I pay it?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks a question seeking clarification, not showing frustration."
+        },
+        {
+            "start": 106.64,
+            "end": 110.84,
+            "role": "agent",
+            "text": "You know what, you right. You right. You right. That's my bad. You right.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer was correct and apologizes for their error."
+        },
+        {
+            "start": 111.84,
+            "end": 116.94,
+            "role": "agent",
+            "text": "I'm sorry ma'am. This is a new system, and they they",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes and explains a new system, de-escalating the prior misunderstanding."
+        },
+        {
+            "start": 113.94,
+            "end": 114.74,
+            "role": "customer",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges agent's apology."
+        },
+        {
+            "start": 117.84,
+            "end": 119.64,
+            "role": "agent",
+            "text": "teaching me, so I'm sorry.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to apologize and explain."
+        },
+        {
+            "start": 120.34,
+            "end": 122.94,
+            "role": "agent",
+            "text": "So what's your name?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for customer's name to proceed."
+        },
+        {
+            "start": 122.34,
+            "end": 123.04,
+            "role": "customer",
+            "text": "It's cool.",
+            "escalation_label": 0,
+            "label_reason": "Customer responds to agent."
+        },
+        {
+            "start": 123.94,
+            "end": 126.04,
+            "role": "customer",
+            "text": "(uh) My name is Shamekka Thomas.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides their name."
+        },
+        {
+            "start": 127.64,
+            "end": 129.14,
+            "role": "customer",
+            "text": "Do you need me to spell that?",
+            "escalation_label": 0,
+            "label_reason": "Customer offers to spell name."
+        },
+        {
+            "start": 130.34,
+            "end": 139.54,
+            "role": "agent",
+            "text": "I think it's spelled just like my cousin name. It's S H A apostrophe M I C K K A.",
+            "escalation_label": 0,
+            "label_reason": "Agent attempts to spell name, engaging in casual conversation."
+        },
+        {
+            "start": 141.34,
+            "end": 142.54,
+            "role": "agent",
+            "text": "Is that right?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms spelling."
+        },
+        {
+            "start": 142.44,
+            "end": 143.64,
+            "role": "customer",
+            "text": "There's no I,",
+            "escalation_label": 0,
+            "label_reason": "Customer corrects spelling."
+        },
+        {
+            "start": 144.54,
+            "end": 145.14,
+            "role": "agent",
+            "text": "Ohh.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges correction."
+        },
+        {
+            "start": 145.74,
+            "end": 147.74,
+            "role": "agent",
+            "text": "Okay. Shamekka.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges correction."
+        },
+        {
+            "start": 146.64,
+            "end": 154.24,
+            "role": "customer",
+            "text": "but everything else is right. So your cousin name Shamekka too? Ohh, that's cool 'cause I spell mine with a K K too.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues friendly conversation about shared name spelling."
+        },
+        {
+            "start": 154.84,
+            "end": 159.14,
+            "role": "agent",
+            "text": "Ohh, okay. So she have a I after M.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues friendly conversation about name."
+        },
+        {
+            "start": 159.74,
+            "end": 164.74,
+            "role": "agent",
+            "text": "So what is that supposed to be Shamikka. How you say Mekka without the E in there?",
+            "escalation_label": 0,
+            "label_reason": "Agent continues friendly conversation about name."
+        },
+        {
+            "start": 166.44,
+            "end": 167.44,
+            "role": "customer",
+            "text": "What you mean?",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks clarification on agent's question, no frustration."
+        },
+        {
+            "start": 168.14,
+            "end": 170.24,
+            "role": "customer",
+            "text": "I told you my name Shamekka Thomas.",
+            "escalation_label": 0,
+            "label_reason": "Customer reiterates name clearly."
+        },
+        {
+            "start": 171.14,
+            "end": 171.84,
+            "role": "agent",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges."
+        },
+        {
+            "start": 172.44,
+            "end": 179.64,
+            "role": "agent",
+            "text": "Shamikka, so, you trying to cancel this reservation. It's already been prepaid.",
+            "escalation_label": 0,
+            "label_reason": "Agent brings the conversation back to the issue of cancellation and prepaid reservation."
+        },
+        {
+            "start": 181.24,
+            "end": 184.14,
+            "role": "agent",
+            "text": "(uh) Shamikka, you were supposed to cancel this yesterday",
+            "escalation_label": 0,
+            "label_reason": "Agent states the cancellation policy and condition for full refund."
+        },
+        {
+            "start": 184.74,
+            "end": 188.74,
+            "role": "agent",
+            "text": "if you wanted to get a hundred percent back.",
+            "escalation_label": 0,
+            "label_reason": "Agent states the cancellation policy and condition for full refund."
+        },
+        {
+            "start": 187.14,
+            "end": 190.94,
+            "role": "customer",
+            "text": "Yes. I understand ma'am. That's why I'm calling because",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly acknowledges the policy and explains why they are calling late."
+        },
+        {
+            "start": 190.94,
+            "end": 197.34,
+            "role": "customer",
+            "text": "I did not find out that the trip was canceled until like five minutes ago before I called you.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly acknowledges the policy and explains why they are calling late."
+        },
+        {
+            "start": 198.14,
+            "end": 207.84,
+            "role": "customer",
+            "text": "So I was calling to see what y'all could do for me because I know that it says I was supposed to cancel (uh) at least twenty four hours in advance.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly acknowledges the policy and explains why they are calling late, asking for possible solutions."
+        },
+        {
+            "start": 209.14,
+            "end": 214.64,
+            "role": "agent",
+            "text": "We can give you seventy-five percent of your (uh) your room fee back.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a potential solution (partial refund) based on policy."
+        },
+        {
+            "start": 216.74,
+            "end": 219.54,
+            "role": "agent",
+            "text": "We gonna keep twenty-five percent as a penalty.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the penalty for late cancellation."
+        },
+        {
+            "start": 220.64,
+            "end": 228.34,
+            "role": "customer",
+            "text": "Even though it's not my fault? I didn't cancel the trip ma'am. It's not like I'm calling because I don't wanna go.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses clear, strong frustration and dissatisfaction with the penalty, stating it's not their fault."
+        },
+        {
+            "start": 228.14,
+            "end": 230.94,
+            "role": "agent",
+            "text": "(uh) (uh) (uh)",
+            "escalation_label": 0,
+            "label_reason": "Agent's hesitant interjection, not contributing to escalation."
+        },
+        {
+            "start": 230.04,
+            "end": 237.94,
+            "role": "customer",
+            "text": "Something happened with the person who originated the trip, and they can't go, so I'm not going. So",
+            "escalation_label": 1,
+            "label_reason": "Customer continues to express serious dissatisfaction about the unresolved issue, emphasizing it's not their fault."
+        },
+        {
+            "start": 238.94,
+            "end": 241.14,
+            "role": "customer",
+            "text": "even if it's not my fault I still gotta pay?",
+            "escalation_label": 1,
+            "label_reason": "Customer continues to express serious dissatisfaction about the unresolved issue, emphasizing it's not their fault."
+        },
+        {
+            "start": 241.94,
+            "end": 246.14,
+            "role": "agent",
+            "text": "Yeah. I understand, but it it's not the hotel fault either,",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the hotel's perspective and responsibility."
+        },
+        {
+            "start": 247.44,
+            "end": 257.64,
+            "role": "agent",
+            "text": "and so I I when you booked this room it was a special rate, and it was said that any changes had to be before (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the booking conditions and why the penalty applies."
+        },
+        {
+            "start": 257.64,
+            "end": 266.34,
+            "role": "agent",
+            "text": "today at midnight. And so you calling me at four thirty the next day is a whole day passed.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the booking conditions and why the penalty applies, reiterating the timeline."
+        },
+        {
+            "start": 266.64,
+            "end": 267.84,
+            "role": "agent",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Agent's verbal filler."
+        },
+        {
+            "start": 269.14,
+            "end": 269.64,
+            "role": "customer",
+            "text": "Ma'am,",
+            "escalation_label": 0,
+            "label_reason": "Customer's interjection, not yet escalating."
+        },
+        {
+            "start": 270.24,
+            "end": 280.14,
+            "role": "customer",
+            "text": "I understand that it's not your fault, okay, you nor the hotel. There's a whole situation happening with the person who",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges agent's point about fault."
+        },
+        {
+            "start": 280.44,
+            "end": 282.14,
+            "role": "customer",
+            "text": "(uh) originated this trip,",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges agent's point about fault."
+        },
+        {
+            "start": 282.84,
+            "end": 291.04,
+            "role": "customer",
+            "text": "but it's not my fault either. And to be honest with you y'all not losing out on anything. You know doggone well",
+            "escalation_label": 1,
+            "label_reason": "Customer shows clear, strong frustration and expresses serious dissatisfaction by challenging the company's integrity and fairness regarding the penalty."
+        },
+        {
+            "start": 291.14,
+            "end": 299.84,
+            "role": "customer",
+            "text": "that the moment you cancel that somebody else gon' swoop that room up, and so y'all gon' make y'all money plus get my twenty-five percent. Is that what we doing nowadays?",
+            "escalation_label": 1,
+            "label_reason": "Customer shows clear, strong frustration and expresses serious dissatisfaction by challenging the company's integrity and fairness regarding the penalty, implying unfair profit."
+        },
+        {
+            "start": 299.54,
+            "end": 303.04,
+            "role": "agent",
+            "text": "I I know ma'am. (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's statement."
+        },
+        {
+            "start": 304.34,
+            "end": 312.34,
+            "role": "agent",
+            "text": "I there's nothing I could d~ It's built into the system. I can't even I can't I can't do anything about it. I",
+            "escalation_label": 0,
+            "label_reason": "Agent states inability to directly resolve the issue due to system limitations."
+        },
+        {
+            "start": 313.44,
+            "end": 316.14,
+            "role": "agent",
+            "text": "I could try to talk to my supervisor.",
+            "escalation_label": 1,
+            "label_reason": "Agent offers to consult a supervisor, indicating the issue has escalated beyond their capability to resolve."
+        },
+        {
+            "start": 317.34,
+            "end": 319.54,
+            "role": "customer",
+            "text": "Could you please? Because",
+            "escalation_label": 1,
+            "label_reason": "Customer explicitly demands supervisor intervention due to the unresolved issue and their urgent need for a full refund."
+        },
+        {
+            "start": 319.54,
+            "end": 328.34,
+            "role": "customer",
+            "text": "I need all my money. I actually would have canceled yesterday had I known this information. I don't typically ask for favors, but",
+            "escalation_label": 1,
+            "label_reason": "Customer explicitly demands supervisor intervention due to the unresolved issue and their urgent need for a full refund."
+        },
+        {
+            "start": 328.54,
+            "end": 336.44,
+            "role": "customer",
+            "text": "in this case ma'am, I it's the holidays, and I need all of my money. So if you could ask your supervisor, I would be grateful.",
+            "escalation_label": 1,
+            "label_reason": "Customer explicitly demands supervisor intervention due to the unresolved issue and their urgent need for a full refund."
+        },
+        {
+            "start": 336.74,
+            "end": 340.84,
+            "role": "agent",
+            "text": "I know what you mean. I know what you mean. (uh) It be like that.",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses empathy and understanding."
+        },
+        {
+            "start": 341.94,
+            "end": 343.04,
+            "role": "agent",
+            "text": "Tamika.",
+            "escalation_label": 0,
+            "label_reason": "Agent addresses supervisor."
+        },
+        {
+            "start": 343.84,
+            "end": 353.24,
+            "role": "agent",
+            "text": "I got another one. We we be having these problem Yeah. I need you to come over here and and take care of this and",
+            "escalation_label": 1,
+            "label_reason": "Agent is actively engaging with a supervisor to address the customer's escalated issue, reflecting higher-level intervention."
+        },
+        {
+            "start": 353.44,
+            "end": 355.04,
+            "role": "agent",
+            "text": "It's twenty-five percent.",
+            "escalation_label": 1,
+            "label_reason": "Agent is actively engaging with a supervisor to address the customer's escalated issue, reflecting higher-level intervention."
+        },
+        {
+            "start": 356.54,
+            "end": 357.84,
+            "role": "agent",
+            "text": "Huh.",
+            "escalation_label": 1,
+            "label_reason": "Agent is actively engaging with a supervisor to address the customer's escalated issue, reflecting higher-level intervention."
+        },
+        {
+            "start": 359.04,
+            "end": 362.34,
+            "role": "agent",
+            "text": "Okay. Hold on ma'am. I'm so sorry. What you say?",
+            "escalation_label": 1,
+            "label_reason": "Agent is actively engaging with a supervisor to address the customer's escalated issue, reflecting higher-level intervention."
+        },
+        {
+            "start": 361.74,
+            "end": 362.44,
+            "role": "customer",
+            "text": "No problem.",
+            "escalation_label": 0,
+            "label_reason": "Customer patiently waits for resolution."
+        },
+        {
+            "start": 364.94,
+            "end": 374.14,
+            "role": "agent",
+            "text": "Twenty What's the code? Okay. Thank you.",
+            "escalation_label": 1,
+            "label_reason": "Agent is actively engaging with a supervisor to address the customer's escalated issue, reflecting higher-level intervention."
+        },
+        {
+            "start": 374.44,
+            "end": 376.14,
+            "role": "agent",
+            "text": "Ma'am, you still there? Hello.",
+            "escalation_label": 0,
+            "label_reason": "Agent checks in with the customer after waiting."
+        },
+        {
+            "start": 376.54,
+            "end": 377.74,
+            "role": "customer",
+            "text": "Yes, I'm here.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms presence."
+        },
+        {
+            "start": 377.74,
+            "end": 387.84,
+            "role": "agent",
+            "text": "Ohh. Hey ma'am. Thank you so very much for holding. (um) My supervisor went ahead and she waived that twenty-five percent just this one time.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a solution to the escalated issue (waived fee), de-escalating the conversation."
+        },
+        {
+            "start": 388.74,
+            "end": 396.74,
+            "role": "customer",
+            "text": "Okay. Okay. Thank you. I appreciate it. Can you please tell her I appreciate her so much because, again,",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses gratitude for the resolved issue."
+        },
+        {
+            "start": 390.24,
+            "end": 392.94,
+            "role": "agent",
+            "text": "Ohh.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's gratitude."
+        },
+        {
+            "start": 396.74,
+            "end": 401.44,
+            "role": "customer",
+            "text": "this was not my fault, and I need all my money. So I appreciate you guys",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses gratitude for the resolved issue."
+        },
+        {
+            "start": 401.44,
+            "end": 407.54,
+            "role": "customer",
+            "text": "canceling it for me and and ge~ and refunding me. Now how long does it take for the refund to hit?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks a normal follow-up question about the refund process after the main issue is resolved."
+        },
+        {
+            "start": 406.74,
+            "end": 411.44,
+            "role": "agent",
+            "text": "It takes seven to ten business days.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about the refund timeline."
+        },
+        {
+            "start": 412.04,
+            "end": 414.44,
+            "role": "agent",
+            "text": "So it's it's not fast.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies the refund timeline."
+        },
+        {
+            "start": 414.94,
+            "end": 419.44,
+            "role": "customer",
+            "text": "Seven to ten? Y'all can't just like refund it and send it to the bank right now?",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses increasing frustration and dissatisfaction with the refund timeline, questioning its speed and efficiency."
+        },
+        {
+            "start": 420.64,
+            "end": 426.04,
+            "role": "agent",
+            "text": "That's not how it work. Because you put it on a credit card This how credit cards work.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the process behind the refund timeline."
+        },
+        {
+            "start": 426.54,
+            "end": 431.44,
+            "role": "agent",
+            "text": "And when you use a credit card, the credit card the the the companies,",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the process behind the refund timeline."
+        },
+        {
+            "start": 431.84,
+            "end": 440.24,
+            "role": "agent",
+            "text": "they take a long time. If you had used your debit card, it take like a day or two, but you used your",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the process behind the refund timeline, distinguishing credit from debit."
+        },
+        {
+            "start": 438.04,
+            "end": 438.84,
+            "role": "customer",
+            "text": "But I thought",
+            "escalation_label": 1,
+            "label_reason": "Customer disputes the agent's information about the payment method, linking it to the unsatisfactory refund delay."
+        },
+        {
+            "start": 440.44,
+            "end": 442.44,
+            "role": "customer",
+            "text": "I thought I used my debit card.",
+            "escalation_label": 1,
+            "label_reason": "Customer disputes the agent's information about the payment method, linking it to the unsatisfactory refund delay."
+        },
+        {
+            "start": 441.64,
+            "end": 448.14,
+            "role": "agent",
+            "text": "Yeah, but you used the credit side of your debit card.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies the distinction in payment methods."
+        },
+        {
+            "start": 446.54,
+            "end": 450.64,
+            "role": "customer",
+            "text": "It's still my debit card. It's all coming out the same account.",
+            "escalation_label": 1,
+            "label_reason": "Customer shows clear dissatisfaction, arguing the distinction is irrelevant as it all comes from the same account, indicating frustration with the unresolved refund speed."
+        },
+        {
+            "start": 451.24,
+            "end": 454.84,
+            "role": "agent",
+            "text": "I know, but that's that's not how we do it. That's not how it is.",
+            "escalation_label": 0,
+            "label_reason": "Agent states company policy, not escalating."
+        },
+        {
+            "start": 455.54,
+            "end": 463.44,
+            "role": "customer",
+            "text": "So because I used the credit, I have to wait until when? Who y'all verifying with? It's still coming back to the bank.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses serious dissatisfaction by questioning the logic and necessity of the prolonged refund process and who is responsible for the verification."
+        },
+        {
+            "start": 455.64,
+            "end": 457.04,
+            "role": "agent",
+            "text": "That's",
+            "escalation_label": 0,
+            "label_reason": "Agent's incomplete sentence."
+        },
+        {
+            "start": 463.44,
+            "end": 473.14,
+            "role": "agent",
+            "text": "I I understand ma'am. I don't I don't I don't make the rules. I just know that It it could take faster. You should call your bank",
+            "escalation_label": 0,
+            "label_reason": "Agent states they don't make rules and suggests customer call their bank for faster information, providing a potential avenue for resolution."
+        },
+        {
+            "start": 473.64,
+            "end": 476.24,
+            "role": "agent",
+            "text": "and see what they say on how long it",
+            "escalation_label": 0,
+            "label_reason": "Agent states they don't make rules and suggests customer call their bank for faster information, providing a potential avenue for resolution."
+        },
+        {
+            "start": 476.24,
+            "end": 481.64,
+            "role": "agent",
+            "text": "it takes it to come back because what I know for me,",
+            "escalation_label": 0,
+            "label_reason": "Agent states they don't make rules and suggests customer call their bank for faster information, providing a potential avenue for resolution."
+        },
+        {
+            "start": 482.44,
+            "end": 490.64,
+            "role": "agent",
+            "text": "and I I'm just speaking for myself, is that it takes seven to ten days. Sometimes it's five days",
+            "escalation_label": 0,
+            "label_reason": "Agent explains typical refund times and suggests checking with bank."
+        },
+        {
+            "start": 490.64,
+            "end": 494.14,
+            "role": "agent",
+            "text": "Samantha, i~ it be taking about seven to ten days, huh?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms information with a colleague."
+        },
+        {
+            "start": 494.14,
+            "end": 502.74,
+            "role": "agent",
+            "text": "Yeah, that's what they say. But you could call your bank. Maybe your like if you have a credit union. Do you have a credit union?",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to suggest customer call their bank, and asks about credit union."
+        },
+        {
+            "start": 502.84,
+            "end": 512.64,
+            "role": "customer",
+            "text": "I do have a credit union, but that's not the card I used. I I used my other card, but you know what, you gave me a great idea because",
+            "escalation_label": 0,
+            "label_reason": "Customer realizes agent's suggestion to call the bank might resolve their refund issue, de-escalating frustration."
+        },
+        {
+            "start": 512.64,
+            "end": 515.04,
+            "role": "customer",
+            "text": "I did have this happen before",
+            "escalation_label": 0,
+            "label_reason": "Customer recalls a past experience that validates the agent's suggestion."
+        },
+        {
+            "start": 515.04,
+            "end": 524.04,
+            "role": "customer",
+            "text": "where the bank just put a hold on it, and when I called them and they saw that the hold was released from the company then they just went on ahead and gave and just",
+            "escalation_label": 0,
+            "label_reason": "Customer recalls a past experience that validates the agent's suggestion, resolving the refund speed concern."
+        },
+        {
+            "start": 524.14,
+            "end": 525.74,
+            "role": "customer",
+            "text": "funded my account back.",
+            "escalation_label": 0,
+            "label_reason": "Customer recalls a past experience that validates the agent's suggestion, resolving the refund speed concern."
+        },
+        {
+            "start": 524.44,
+            "end": 528.74,
+            "role": "agent",
+            "text": "Ohh, okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's realization."
+        },
+        {
+            "start": 526.24,
+            "end": 534.64,
+            "role": "customer",
+            "text": "So I think that's I think that's what Imma do. Thank you. Thank you for reminding me of that 'cause that did happen before. So",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses gratitude, indicating the refund timeline issue is now resolved."
+        },
+        {
+            "start": 534.64,
+            "end": 538.94,
+            "role": "customer",
+            "text": "what I'd like to do now though, since you went on ahead and canceled that,",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly shifts to a new topic about future bookings."
+        },
+        {
+            "start": 539.74,
+            "end": 543.14,
+            "role": "customer",
+            "text": "(um) and Imma get a refund. I really appreciate you, but",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly shifts to a new topic about future bookings."
+        },
+        {
+            "start": 543.94,
+            "end": 551.14,
+            "role": "customer",
+            "text": "from what I understand, this trip is it's just postponed, so I may be calling making other reservations.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks a hypothetical question about future credit options."
+        },
+        {
+            "start": 552.44,
+            "end": 561.94,
+            "role": "customer",
+            "text": "If this was to happen again, not that it will 'cause, you know, I be on top of it, but if it was, just for my",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks a hypothetical question about future credit options."
+        },
+        {
+            "start": 562.14,
+            "end": 567.34,
+            "role": "customer",
+            "text": "curiosity, would I be able to If I had asked you for (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks a hypothetical question about future credit options."
+        },
+        {
+            "start": 567.84,
+            "end": 574.74,
+            "role": "customer",
+            "text": "a credit, would I have been able to just use that credit for future bookings at the hotel?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks a hypothetical question about future credit options."
+        },
+        {
+            "start": 575.34,
+            "end": 581.74,
+            "role": "agent",
+            "text": "Ohh, yeah. When you do that, they don't have I wouldn't even need no supervisor and stuff. You think you gon' do that again?",
+            "escalation_label": 0,
+            "label_reason": "Agent answers the hypothetical question and engages in friendly banter."
+        },
+        {
+            "start": 583.14,
+            "end": 588.94,
+            "role": "customer",
+            "text": "I don't think I don't know. I really can't say. I was gon' say, I don't think so, but you know, I don't know.",
+            "escalation_label": 0,
+            "label_reason": "Customer responds to banter, not escalating."
+        },
+        {
+            "start": 588.84,
+            "end": 590.34,
+            "role": "agent",
+            "text": "I know.",
+            "escalation_label": 0,
+            "label_reason": "Agent's brief acknowledgment."
+        },
+        {
+            "start": 591.14,
+            "end": 599.44,
+            "role": "customer",
+            "text": "let me tell you, the people who's planning this is just so disorganized, and I just don't like dealing with people like this, but, you know,",
+            "escalation_label": 0,
+            "label_reason": "Customer shares a lighthearted complaint about other people, not the service."
+        },
+        {
+            "start": 599.54,
+            "end": 605.94,
+            "role": "customer",
+            "text": "sometimes when you got when you wanna go and have yourself a good time you gotta deal with people you don't normally deal with.",
+            "escalation_label": 0,
+            "label_reason": "Customer shares a lighthearted complaint about other people, not the service."
+        },
+        {
+            "start": 604.94,
+            "end": 611.04,
+            "role": "agent",
+            "text": "You wanna get turned up. I know what you talking about. I know what you mean exactly.",
+            "escalation_label": 0,
+            "label_reason": "Agent relates to customer's personal comment, engaging in friendly conversation."
+        },
+        {
+            "start": 609.44,
+            "end": 610.64,
+            "role": "customer",
+            "text": "Yeah. So",
+            "escalation_label": 0,
+            "label_reason": "Customer's brief affirmation."
+        },
+        {
+            "start": 611.54,
+            "end": 621.54,
+            "role": "customer",
+            "text": "Yeah, so. But just for my just for my, you know, peace of mind, I wanna know because next time, if this happens again,",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses continued interest in the credit option for 'peace of mind'."
+        },
+        {
+            "start": 611.84,
+            "end": 612.34,
+            "role": "agent",
+            "text": "you",
+            "escalation_label": 0,
+            "label_reason": "Agent's verbal filler."
+        },
+        {
+            "start": 621.54,
+            "end": 624.34,
+            "role": "customer",
+            "text": "I would more likely do a credit",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses continued interest in the credit option for 'peace of mind'."
+        },
+        {
+            "start": 624.64,
+            "end": 633.14,
+            "role": "customer",
+            "text": "if I had some guarantee that my money would still be there. So tell me this, how long, if I could do if",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for details about the credit policy."
+        },
+        {
+            "start": 633.24,
+            "end": 635.04,
+            "role": "customer",
+            "text": "I could do a credit with your",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for details about the credit policy."
+        },
+        {
+            "start": 635.04,
+            "end": 643.44,
+            "role": "customer",
+            "text": "with your hotel, how long do y'all hold the credits? Like is it always there, or is there a time limit I have to spend it by?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for details about the credit policy (time limit)."
+        },
+        {
+            "start": 644.04,
+            "end": 653.84,
+            "role": "agent",
+            "text": "They give you a year. So you have a good year. So you have time to decide how you gon do it, like if you gon get turned up for your birthday, or you gon, you know",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about credit validity and engages in friendly banter."
+        },
+        {
+            "start": 653.84,
+            "end": 658.44,
+            "role": "agent",
+            "text": "go somewhere for the holidays. I don't know how you do it. I know for me, you know,",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to provide information and engage in friendly banter."
+        },
+        {
+            "start": 658.54,
+            "end": 665.74,
+            "role": "agent",
+            "text": "spring break is a big deal in Florida, Miami . You know how we do, and so",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to provide information and engage in friendly banter."
+        },
+        {
+            "start": 666.34,
+            "end": 667.84,
+            "role": "customer",
+            "text": "Girl, yes. Well",
+            "escalation_label": 0,
+            "label_reason": "Customer responds to agent's personal comment."
+        },
+        {
+            "start": 668.44,
+            "end": 678.14,
+            "role": "customer",
+            "text": "how I used to do. Now, I'm more I stick closer to home now. I don't be going all over to Florida and stuff. Last time I was over there, girl I almost got",
+            "escalation_label": 0,
+            "label_reason": "Customer shares a personal anecdote, engaging in friendly conversation."
+        },
+        {
+            "start": 678.14,
+            "end": 680.74,
+            "role": "customer",
+            "text": "bitten by a alligator. I kid you not.",
+            "escalation_label": 0,
+            "label_reason": "Customer shares a personal anecdote, engaging in friendly conversation."
+        },
+        {
+            "start": 681.24,
+            "end": 685.74,
+            "role": "agent",
+            "text": "Well (uh) (uh) you still got to get turned up. How old you is?",
+            "escalation_label": 0,
+            "label_reason": "Agent responds to anecdote with lighthearted banter."
+        },
+        {
+            "start": 686.64,
+            "end": 689.34,
+            "role": "customer",
+            "text": "Girl, I ain't gon be telling you all my business.",
+            "escalation_label": 0,
+            "label_reason": "Customer engages in playful refusal."
+        },
+        {
+            "start": 689.74,
+            "end": 691.64,
+            "role": "agent",
+            "text": "Girl. I ain't gon tell nobody.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues playful banter."
+        },
+        {
+            "start": 692.54,
+            "end": 694.94,
+            "role": "agent",
+            "text": "I done gave you this discount. You could tell me that.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues playful banter."
+        },
+        {
+            "start": 696.04,
+            "end": 698.94,
+            "role": "customer",
+            "text": "Well, let me tell you Imma tell you what happened.",
+            "escalation_label": 0,
+            "label_reason": "Customer agrees to share story."
+        },
+        {
+            "start": 699.04,
+            "end": 707.94,
+            "role": "customer",
+            "text": "So, I was hanging out. You know it was just us. We was hanging out. It was like, yes, queen, yes just hanging and chilling at the club in Miami.",
+            "escalation_label": 0,
+            "label_reason": "Customer tells a personal story."
+        },
+        {
+            "start": 706.04,
+            "end": 707.14,
+            "role": "agent",
+            "text": "Yes.",
+            "escalation_label": 0,
+            "label_reason": "Agent's verbal affirmation during story."
+        },
+        {
+            "start": 708.04,
+            "end": 715.64,
+            "role": "customer",
+            "text": "And what happened was is it was the middle of the night and we were walking and we decided we were just gon walk to our hotel.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues telling story."
+        },
+        {
+            "start": 716.24,
+            "end": 724.94,
+            "role": "customer",
+            "text": "And we had to walk by like this little park. It look like a little reservoir. You know, I didn't think anything of it. And I walked by",
+            "escalation_label": 0,
+            "label_reason": "Customer continues telling story."
+        },
+        {
+            "start": 723.94,
+            "end": 725.14,
+            "role": "agent",
+            "text": "A reser~ what?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for clarification."
+        },
+        {
+            "start": 725.94,
+            "end": 727.34,
+            "role": "agent",
+            "text": "What's a reservoir?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for clarification."
+        },
+        {
+            "start": 726.04,
+            "end": 726.64,
+            "role": "customer",
+            "text": "and",
+            "escalation_label": 0,
+            "label_reason": "Customer's brief interjection."
+        },
+        {
+            "start": 727.74,
+            "end": 735.04,
+            "role": "customer",
+            "text": "A reservoir. You Girl, where it has water in it. Usually sometimes if you",
+            "escalation_label": 0,
+            "label_reason": "Customer explains a term."
+        },
+        {
+            "start": 735.14,
+            "end": 738.14,
+            "role": "customer",
+            "text": "in another state, it got a fence around it,",
+            "escalation_label": 0,
+            "label_reason": "Customer explains a term."
+        },
+        {
+            "start": 738.14,
+            "end": 742.34,
+            "role": "customer",
+            "text": "but this one didn't have a fence. It's like a like a aqueduct.",
+            "escalation_label": 0,
+            "label_reason": "Customer explains a term."
+        },
+        {
+            "start": 739.34,
+            "end": 744.64,
+            "role": "agent",
+            "text": "Ohh, okay. You talking about that little channel thing. That little channel thing.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms understanding of the term."
+        },
+        {
+            "start": 743.74,
+            "end": 746.64,
+            "role": "customer",
+            "text": "Yes. Yes.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms agent's understanding."
+        },
+        {
+            "start": 745.54,
+            "end": 747.24,
+            "role": "agent",
+            "text": "Ohh, okay. I know what you talking about.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms understanding."
+        },
+        {
+            "start": 747.84,
+            "end": 758.84,
+            "role": "customer",
+            "text": "So we just walking, and it was it was me and it was probably like six of us at the time, and so we trying to get back to the hotel. And I have to admit, you know, it was loud, you know, we was",
+            "escalation_label": 0,
+            "label_reason": "Customer continues telling story."
+        },
+        {
+            "start": 759.14,
+            "end": 761.84,
+            "role": "customer",
+            "text": "we was doing our thing as we walk down the street.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues telling story."
+        },
+        {
+            "start": 762.24,
+            "end": 769.84,
+            "role": "customer",
+            "text": "Girl, let me tell you. I walked by and I s~ I saw the water move, but I wasn't tripping 'cause I thought,",
+            "escalation_label": 0,
+            "label_reason": "Customer continues telling story."
+        },
+        {
+            "start": 769.94,
+            "end": 773.34,
+            "role": "customer",
+            "text": "Ohh, okay. Maybe it's the wind is blowing. Whatever.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues telling story."
+        },
+        {
+            "start": 773.84,
+            "end": 783.14,
+            "role": "customer",
+            "text": "Girl, right when I walked by, this alligator jumped out and he didn't see me but I saw him. He jumped out right in front of me. Girl I think",
+            "escalation_label": 0,
+            "label_reason": "Customer continues telling story about an alligator."
+        },
+        {
+            "start": 784.34,
+            "end": 789.74,
+            "role": "customer",
+            "text": "if (uh) if I had on shoes 'cause I didn't. I was holding them in my hand.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues telling story."
+        },
+        {
+            "start": 790.54,
+            "end": 792.64,
+            "role": "customer",
+            "text": "I think I'd a jumped out my shoes.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues telling story."
+        },
+        {
+            "start": 792.94,
+            "end": 802.34,
+            "role": "agent",
+            "text": "(uh) (uh) No you didn't do that girl. (uh) (uh) No. So Imma need, you gon need to do better than that next time. What's your what's your name?",
+            "escalation_label": 0,
+            "label_reason": "Agent responds to the story with disbelief and banter."
+        },
+        {
+            "start": 802.54,
+            "end": 804.24,
+            "role": "agent",
+            "text": "What you say your name was?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks customer's name again, continuing friendly banter."
+        },
+        {
+            "start": 804.44,
+            "end": 809.54,
+            "role": "agent",
+            "text": "Shamikka. That's right. Just like my cousin. Shamikka. Do they call you Mekka? 'Cause they call my cousin Mekka.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues friendly conversation about names/nicknames."
+        },
+        {
+            "start": 809.94,
+            "end": 811.74,
+            "role": "customer",
+            "text": "Yes. They call me Meek Meek.",
+            "escalation_label": 0,
+            "label_reason": "Customer responds to nickname question."
+        },
+        {
+            "start": 812.34,
+            "end": 813.84,
+            "role": "customer",
+            "text": "Meek Meek.",
+            "escalation_label": 0,
+            "label_reason": "Customer responds to nickname question."
+        },
+        {
+            "start": 813.34,
+            "end": 815.84,
+            "role": "agent",
+            "text": "(ah) Wait. Ohh, no.",
+            "escalation_label": 0,
+            "label_reason": "Agent responds to nickname."
+        },
+        {
+            "start": 814.44,
+            "end": 816.34,
+            "role": "customer",
+            "text": "Meeka Muka Meeka.",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies nickname."
+        },
+        {
+            "start": 817.24,
+            "end": 821.94,
+            "role": "agent",
+            "text": "Ohh, no. They don't call They call her Meek. They don't call her Meek Meek, but",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies nickname similarity."
+        },
+        {
+            "start": 822.24,
+            "end": 827.64,
+            "role": "agent",
+            "text": "anyway, so I just want to let you know y~ it's canceled. I sent your cancelation to you.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the cancellation is complete and email sent, concluding the service request."
+        },
+        {
+            "start": 827.74,
+            "end": 836.14,
+            "role": "agent",
+            "text": "You get Did you get that? 'Cause you gon need that to make sure 'cause, you know, sometimes Just make sure you just have your receipt and call your bank.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides final instructions about the cancellation confirmation and contacting the bank."
+        },
+        {
+            "start": 836.14,
+            "end": 838.34,
+            "role": "agent",
+            "text": "Make sure you do that so they can give you your stuff.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides final instructions about the cancellation confirmation and contacting the bank."
+        },
+        {
+            "start": 839.64,
+            "end": 847.14,
+            "role": "customer",
+            "text": "Yes. I I see that you sent me the cancelation. Thank you. I'm going to call my bank",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms receipt of cancellation and intention to follow agent's advice."
+        },
+        {
+            "start": 848.44,
+            "end": 852.84,
+            "role": "customer",
+            "text": "What you think. I'm No, I'm a call them right now. I ain't gon let them hold my money.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses proactive intent to resolve the refund hold, showing resolution of prior frustration."
+        },
+        {
+            "start": 852.84,
+            "end": 859.24,
+            "role": "customer",
+            "text": "(um) I'm a call my bank and see if I could show bring this and show them and so that they can release the hold.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses proactive intent to resolve the refund hold, showing resolution of prior frustration."
+        },
+        {
+            "start": 853.34,
+            "end": 854.94,
+            "role": "agent",
+            "text": "That part.",
+            "escalation_label": 0,
+            "label_reason": "Agent's verbal affirmation."
+        },
+        {
+            "start": 858.84,
+            "end": 860.44,
+            "role": "agent",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's plan."
+        },
+        {
+            "start": 859.24,
+            "end": 861.14,
+            "role": "customer",
+            "text": "I appreciate you so much.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses appreciation, indicating a positive resolution."
+        },
+        {
+            "start": 861.14,
+            "end": 871.34,
+            "role": "agent",
+            "text": "All right. (um) Bet. That's bet. All right. I You have a good one, and Imma talk to you later. No, I ain't gon talk to you later, but you know what I mean. Bye girl.",
+            "escalation_label": 0,
+            "label_reason": "Agent gives a friendly farewell, concluding the conversation."
+        },
+        {
+            "start": 870.34,
+            "end": 873.64,
+            "role": "customer",
+            "text": "Girl, it's it's fine sis. Bye.",
+            "escalation_label": 0,
+            "label_reason": "Customer gives a friendly farewell."
+        },
+        {
+            "start": 873.14,
+            "end": 876.04,
+            "role": "agent",
+            "text": "Bye.",
+            "escalation_label": 0,
+            "label_reason": "Agent gives a friendly farewell."
+        }
+    ]
+}

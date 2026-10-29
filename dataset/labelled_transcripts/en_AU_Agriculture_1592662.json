@@ -1,0 +1,1578 @@
+{
+    "file_name": "en_AU_Agriculture_1592662.wav",
+    "duration": 889.2,
+    "accent": "en-AU",
+    "domain": "agriculture",
+    "segments": [
+        {
+            "start": 12.84,
+            "end": 18.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Good morning. Department of Agriculture, Water and the Environment. Danielle speaking, how can I help you today?",
+            "escalation_label": 0,
+            "label_reason": "Agent greeting and offer of assistance."
+        },
+        {
+            "start": 18.74,
+            "end": 27.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh hey Danielle, (uh) it's Maria here. (um,) I'm just calling cause I've got a property, kind of new Griffith",
+            "escalation_label": 0,
+            "label_reason": "Customer introduces themselves and the general topic of their call."
+        },
+        {
+            "start": 27.74,
+            "end": 32.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "and I've heard about these new government subsidies, (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly introduces the topic of government subsidies."
+        },
+        {
+            "start": 32.74,
+            "end": 39.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "and I've you know, the subsidies for drip irrigation systems and my neighbor was telling me about that",
+            "escalation_label": 0,
+            "label_reason": "Customer explains the type of subsidies they're interested in, based on information from a neighbor."
+        },
+        {
+            "start": 37.74,
+            "end": 38.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Mhh hmm.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a minimal affirmative acknowledgment."
+        },
+        {
+            "start": 39.54,
+            "end": 42.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) and I just wanted to get a little bit more information",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly states their request for more information."
+        },
+        {
+            "start": 44.44,
+            "end": 52.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yes, ah absolutely Maria. Look, you've called to the right place. (Um,) we've got the Australian Government on farm",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms they are in the right place and introduces the relevant program."
+        },
+        {
+            "start": 52.34,
+            "end": 55.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "irrigation efficiency program running at the moment.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to introduce the program."
+        },
+        {
+            "start": 55.74,
+            "end": 63.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(uh) it's designed to help farmers modernize their irrigation systems. So, just (um) would you like to tell me a bit about you know",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the program's purpose and asks about the customer's current irrigation system."
+        },
+        {
+            "start": 63.54,
+            "end": 67.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "the system you're using. Are you currently using flood irrigation on your property?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks a specific question about the customer's current system."
+        },
+        {
+            "start": 67.94,
+            "end": 77.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) yeah I am. So basically we've been using flood irrigation for years, but you know with the crops of water at the moment",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains their current situation and why they are seeking a change, citing drought conditions."
+        },
+        {
+            "start": 77.74,
+            "end": 80.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "you know, and drought conditions",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to calmly explain the challenging conditions."
+        },
+        {
+            "start": 80.74,
+            "end": 85.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "it's just not sustainable, so we're paying water",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly states that their current system is unsustainable."
+        },
+        {
+            "start": 86.24,
+            "end": 87.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um)",
+            "escalation_label": 0,
+            "label_reason": "Customer uses a filler word."
+        },
+        {
+            "start": 88.54,
+            "end": 90.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "you know, I just wanted to explore it.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly expresses their desire to explore new options."
+        },
+        {
+            "start": 93.64,
+            "end": 99.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Look, I completely understand Maria. A lot of farmers across the Murray Darling Basin are in the same boat.",
+            "escalation_label": 0,
+            "label_reason": "Agent expresses understanding and empathy, relating the customer's situation to others."
+        },
+        {
+            "start": 100.24,
+            "end": 106.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "No pun intended. The drip irrigation systems can reduce your water usage by forty percent",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about the benefits of drip irrigation systems."
+        },
+        {
+            "start": 106.24,
+            "end": 110.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "in some cases, which really adds up when you're looking at those allocation costs.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain the financial benefits of the new systems."
+        },
+        {
+            "start": 111.04,
+            "end": 111.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "What do you think?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks for the customer's opinion."
+        },
+        {
+            "start": 111.84,
+            "end": 117.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "You know what, that's exactly what I'm hoping for. So how does that subsidy actually work, so do I qualify?",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses enthusiasm and asks how the subsidy works and about eligibility, a normal inquiry."
+        },
+        {
+            "start": 118.94,
+            "end": 125.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah, look, we'll have to look into a few more details, (um) and I'll ask you a bit more for a bit more information. (Um)",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the need for more details and offers to run through eligibility criteria."
+        },
+        {
+            "start": 125.94,
+            "end": 129.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "So, let me run through the eligibility criteria with you.",
+            "escalation_label": 0,
+            "label_reason": "Agent sets the expectation for discussing eligibility criteria."
+        },
+        {
+            "start": 129.64,
+            "end": 134.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "First off, do you hold an Australian business number for your farming operation?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks the first eligibility question calmly."
+        },
+        {
+            "start": 134.54,
+            "end": 135.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah I do, yep.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides a calm affirmative answer."
+        },
+        {
+            "start": 136.94,
+            "end": 142.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, great. And is your property located within a regulated irrigation district?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks the second eligibility question calmly."
+        },
+        {
+            "start": 142.54,
+            "end": 148.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah we're a part of Murrumbidgee irrigation area, so I think that counts.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides a calm affirmative answer, stating their irrigation area."
+        },
+        {
+            "start": 149.64,
+            "end": 159.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Perfect. Okay, that definitely qualifies. Now, the subsidy covers up to fifty percent of eligible costs for irrigation infrastructure upgrades",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms eligibility and provides key details about the subsidy amount and maximum grant."
+        },
+        {
+            "start": 159.44,
+            "end": 162.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "with a maximum grant of a hundred and fifty thousand per applicant.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to provide details about the grant maximum."
+        },
+        {
+            "start": 163.54,
+            "end": 168.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "You'll need to demonstrate that the new system will result in measurable water savings.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains a key requirement for the subsidy."
+        },
+        {
+            "start": 167.84,
+            "end": 177.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Wow fifty percent, that's not bad at all. (um) what about the other half though, that's still a fair chunk of change, and you know there are",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses positive surprise about the subsidy amount and then asks about financing the remaining costs, not showing frustration."
+        },
+        {
+            "start": 177.04,
+            "end": 182.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "that has to come from somewhere. Are there loans available or anything that you can tell me that would help cover",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks about additional financial assistance like loans."
+        },
+        {
+            "start": 182.84,
+            "end": 183.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "the costs?",
+            "escalation_label": 0,
+            "label_reason": "Customer completes their question."
+        },
+        {
+            "start": 184.44,
+            "end": 193.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Actually, I'm so glad you asked, (uh) because there are (uh) there are some loans available. So the Regional Investment Corporation offers low interest loans",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the availability of loans and introduces the relevant organization."
+        },
+        {
+            "start": 193.54,
+            "end": 195.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "specifically for farm infrastructure improvements.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides further details on the purpose of the loans."
+        },
+        {
+            "start": 196.04,
+            "end": 204.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "They're running at about three and a half percent interest at the moment, so definitely below those commercial rates, (um) and you can borrow up to two million, with",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the favorable terms of the loans."
+        },
+        {
+            "start": 205.04,
+            "end": 206.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "terms up to ten years.",
+            "escalation_label": 0,
+            "label_reason": "Agent concludes the details of the loan terms."
+        },
+        {
+            "start": 206.74,
+            "end": 208.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Right, okay",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the information."
+        },
+        {
+            "start": 208.34,
+            "end": 217.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "So potentially I could get the subsidy to cover half and then finance the rest through the (uh) regional investment corporation",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly summarizes their understanding of combining the subsidy and loan."
+        },
+        {
+            "start": 217.34,
+            "end": 218.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "you mentioned.",
+            "escalation_label": 0,
+            "label_reason": "Customer concludes their summary."
+        },
+        {
+            "start": 219.14,
+            "end": 227.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Exactly right. So, a lot of farmers are doing exactly that. The loan application is separate, but I can give you their contact details before we finish up",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the customer's understanding and offers further assistance with contact details."
+        },
+        {
+            "start": 228.14,
+            "end": 230.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "and they're really easy to deal with.",
+            "escalation_label": 0,
+            "label_reason": "Agent reassures the customer about the ease of the process."
+        },
+        {
+            "start": 230.44,
+            "end": 235.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh really, okay. So what's the deadline for all this? Like I don't wanna miss out.",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about deadlines, showing concern about missing out but not frustration."
+        },
+        {
+            "start": 236.94,
+            "end": 241.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Of course. So the current round closes on March thirty-first twenty twenty-six.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the application closing date."
+        },
+        {
+            "start": 242.04,
+            "end": 247.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "However, I'd be recommending getting in your application well before then, because these grants are allocated on a first",
+            "escalation_label": 0,
+            "label_reason": "Agent advises applying early due to the nature of the grants."
+        },
+        {
+            "start": 247.64,
+            "end": 256.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "come first serve basis, and there's been a huge uptake, as you can imagine. Once the funding pool is exhausted, that's it until the next round.",
+            "escalation_label": 0,
+            "label_reason": "Agent emphasizes the urgency due to funding limitations."
+        },
+        {
+            "start": 256.84,
+            "end": 261.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Wow okay (um) so what was that date you just mentioned?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for clarification on the deadline date, a calm request for information."
+        },
+        {
+            "start": 262.54,
+            "end": 270.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah (um) of course. So, March thirty-first twenty twenty-six, so we're currently in December, you've got just under four months there.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates the deadline and provides a current time context."
+        },
+        {
+            "start": 270.44,
+            "end": 270.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the information."
+        },
+        {
+            "start": 270.94,
+            "end": 275.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "but as I said, I would certainly recommend particularly the Christmas New Year period and",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates the recommendation for early application."
+        },
+        {
+            "start": 275.64,
+            "end": 280.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Australian Day. You know how it is getting in that allocation as soon as possible.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to advise on submitting the application promptly."
+        },
+        {
+            "start": 280.04,
+            "end": 285.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Mhh okay you're right. Time really flies this time of the year. Okay, so I've got a few months",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the agent's advice and the passage of time."
+        },
+        {
+            "start": 286.44,
+            "end": 293.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um) all right. What kind of paperwork am I looking at? So, I'm really not the best with that kind of red tape to be honest.",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about paperwork requirements, expressing a mild, common aversion to 'red tape' but not frustration."
+        },
+        {
+            "start": 294.34,
+            "end": 304.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah of course, no worries (um) and it can get quite confusing I fully understand. So, I'll walk you through it. It's actually not as complicated as some of our other programs.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the customer's concern and offers to simplify the explanation."
+        },
+        {
+            "start": 304.34,
+            "end": 306.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you'll need to provide proof of ownership",
+            "escalation_label": 0,
+            "label_reason": "Agent lists the first required document."
+        },
+        {
+            "start": 306.94,
+            "end": 314.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "or lease of the property. So that's your title deed or lease agreement. Do you have those on you or around?",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies the document and asks about its availability."
+        },
+        {
+            "start": 314.34,
+            "end": 316.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Yeah I can I can get those, definitely.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly confirms they can obtain the documents."
+        },
+        {
+            "start": 317.64,
+            "end": 326.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay, perfect. You also need your ABN registration, proof of water entitlements from the murrumbinji irrigation and quotes from at least",
+            "escalation_label": 0,
+            "label_reason": "Agent lists additional required documents."
+        },
+        {
+            "start": 326.04,
+            "end": 330.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "two registered irrigation suppliers for the drip system installation.",
+            "escalation_label": 0,
+            "label_reason": "Agent specifies the number of required quotes."
+        },
+        {
+            "start": 330.04,
+            "end": 334.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(uh) two quotes. Okay, I've already been talking to a bloke from",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the two-quote requirement and mentions an existing contact."
+        },
+        {
+            "start": 335.04,
+            "end": 341.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(uh) net, a net of FEM in Griffith I don't know if you've heard of them, but do I need to get another one, definitely?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for clarification on needing a second quote, a neutral query."
+        },
+        {
+            "start": 342.84,
+            "end": 350.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Uhh yes, so I have heard of Nether Firm. We've had a few (um) you know, people submit applications with them",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the mentioned company and past applications."
+        },
+        {
+            "start": 350.24,
+            "end": 355.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) but yes, you'll definitely need at least two competitive quotes to show you",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the requirement for two competitive quotes."
+        },
+        {
+            "start": 355.24,
+            "end": 363.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you're getting value for money with the Commonwealth funds. There are several suppliers in your area though, Eurotech in Leeton is another good one",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the reason for two quotes and suggests alternative suppliers."
+        },
+        {
+            "start": 363.94,
+            "end": 367.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "and there's also Tucker Box AG Solutions in Wagga.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to suggest other suppliers."
+        },
+        {
+            "start": 367.14,
+            "end": 369.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay (um) I can do that, and what else?",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges and asks for the next requirement."
+        },
+        {
+            "start": 371.44,
+            "end": 378.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Uhh yes. So, you will need to complete our application form, which includes a water efficiency (uh) efficiency plan.",
+            "escalation_label": 0,
+            "label_reason": "Agent lists the next requirement, the application form and water efficiency plan."
+        },
+        {
+            "start": 378.94,
+            "end": 384.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Basically, you'll need to show your current water usage and demonstrate the expected savings with the new system.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the purpose of the water efficiency plan."
+        },
+        {
+            "start": 385.04,
+            "end": 388.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Most irrigation companies can help you with those calculations as part of their quote.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides helpful information about assistance with calculations."
+        },
+        {
+            "start": 388.94,
+            "end": 396.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, so (um) all right let me get let me get this down right, I'm gonna I'm gonna write this down. So I need proof of ownership",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly begins to recap the required documents, showing engagement."
+        },
+        {
+            "start": 397.54,
+            "end": 405.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "at the end yep, water entitlements (uh) the two quotes you just said",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to calmly recap the list of required documents."
+        },
+        {
+            "start": 398.04,
+            "end": 398.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a minimal affirmative acknowledgment."
+        },
+        {
+            "start": 399.54,
+            "end": 400.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a minimal affirmative acknowledgment."
+        },
+        {
+            "start": 403.04,
+            "end": 403.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a minimal affirmative acknowledgment."
+        },
+        {
+            "start": 406.24,
+            "end": 409.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "a water efficiency plan, is there anything else?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks if there are any further requirements."
+        },
+        {
+            "start": 411.34,
+            "end": 413.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "I yes, so Maria you might",
+            "escalation_label": 0,
+            "label_reason": "Agent signals there is more information to come."
+        },
+        {
+            "start": 414.34,
+            "end": 423.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "for your accountant on this one (um) I mean depending on how you do your taxes. You'll also need to provide your last two years of tax returns",
+            "escalation_label": 0,
+            "label_reason": "Agent lists the requirement for tax returns."
+        },
+        {
+            "start": 423.84,
+            "end": 426.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "to demonstrate the farming operation is ongoing",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the purpose of the tax return requirement."
+        },
+        {
+            "start": 426.74,
+            "end": 434.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "and photographs of your current irrigation set up. The photos just need to show the existing infrastructure so we can verify the upgrade.",
+            "escalation_label": 0,
+            "label_reason": "Agent lists the requirement for photographs and explains their purpose."
+        },
+        {
+            "start": 434.54,
+            "end": 444.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, yeah (um) I can do that pretty easily (um) so just basically snap some photos on my phone of the flood bays and the channels, would that be okay?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly confirms understanding and clarifies the nature of the photos needed."
+        },
+        {
+            "start": 445.84,
+            "end": 450.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Exactly, So even smartphone photos are fine, as long as they're clear.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the type of photos accepted."
+        },
+        {
+            "start": 450.34,
+            "end": 460.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "and if you're an indigenous land holder, or your property is in a drought declared area, you might be eligible for an additional ten percent on top of the standard subsidy.",
+            "escalation_label": 0,
+            "label_reason": "Agent introduces potential eligibility for an additional grant percentage."
+        },
+        {
+            "start": 460.74,
+            "end": 468.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh you raised a good point, yeah we were draft declared last year (um) but I think they lifted it this year after the",
+            "escalation_label": 0,
+            "label_reason": "Customer notes previous drought declaration status and its recent change."
+        },
+        {
+            "start": 468.64,
+            "end": 470.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "the decent rain that we had in winter",
+            "escalation_label": 0,
+            "label_reason": "Customer continues explaining the change in drought status."
+        },
+        {
+            "start": 472.64,
+            "end": 477.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) look, I can check that for you. So what local government area are you in again?",
+            "escalation_label": 0,
+            "label_reason": "Agent offers to check the drought status and asks for necessary information."
+        },
+        {
+            "start": 476.74,
+            "end": 479.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Griffith City Council.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly provides the requested local government area."
+        },
+        {
+            "start": 480.14,
+            "end": 486.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Okay. (uh) so Griffith came off the drought declaration in September twenty-five but",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the drought declaration status for the specified area."
+        },
+        {
+            "start": 486.64,
+            "end": 491.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "if your application references water efficiency improvements related to drought resilience",
+            "escalation_label": 0,
+            "label_reason": "Agent explains a potential loophole for eligibility based on application content."
+        },
+        {
+            "start": 492.24,
+            "end": 501.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "you might still be eligible for the enhanced rate. I'd recommend mentioning it in your application, and we'll assess it. (um) so when you do get that other quote",
+            "escalation_label": 0,
+            "label_reason": "Agent recommends including specific details in the application."
+        },
+        {
+            "start": 501.24,
+            "end": 506.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "certainly worth mentioning talking to them about it, and they can potentially, well they will include that for you.",
+            "escalation_label": 0,
+            "label_reason": "Agent suggests discussing the drought resilience aspect with irrigation suppliers for quotes."
+        },
+        {
+            "start": 507.24,
+            "end": 511.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay yeah, (um) I can't hurt to mention it I suppose so",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the advice, agreeing it's worth trying."
+        },
+        {
+            "start": 512.34,
+            "end": 519.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Where do I actually submit all these, like do I have to drive into Wagga or Sydney? Or is it all something that I can do online?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks about the method of submission."
+        },
+        {
+            "start": 520.84,
+            "end": 525.34,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "amazing news here. So, it's all done online through the MyGov portal.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides positive news that the process is entirely online."
+        },
+        {
+            "start": 525.64,
+            "end": 531.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "You'll need to link your MyGov account to the department of agriculture services, if you haven't already done so.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the requirement to link MyGov account to department services."
+        },
+        {
+            "start": 531.94,
+            "end": 536.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "And once you've set all of that up, you can upload your documents directly through the portal.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the process of uploading documents through the portal."
+        },
+        {
+            "start": 536.34,
+            "end": 544.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Uhh okay yeah. I've got a MyGov account for my Medicare and Centrelink stuff, but I don't think I've ever linked it to agriculture",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges having a MyGov account but notes the agriculture link isn't set up yet, a neutral statement."
+        },
+        {
+            "start": 546.14,
+            "end": 555.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah, that's no problem. So when you log in, there's an application, (uh) sorry, an option to link the services. Just search for the department of agriculture, water and the environment",
+            "escalation_label": 0,
+            "label_reason": "Agent provides instructions for linking MyGov to department services."
+        },
+        {
+            "start": 555.44,
+            "end": 556.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "follow the prompts.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues with instructions for linking services."
+        },
+        {
+            "start": 556.84,
+            "end": 562.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "It takes about five minutes. Once you're linked, your own form irrigation efficiency program",
+            "escalation_label": 0,
+            "label_reason": "Agent explains where the application will appear after linking."
+        },
+        {
+            "start": 562.54,
+            "end": 568.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "application is on your da~ dashboard. It's a similar process Maria to how you would have set up your (um) Centrelink",
+            "escalation_label": 0,
+            "label_reason": "Agent draws a helpful comparison to familiar MyGov processes."
+        },
+        {
+            "start": 568.94,
+            "end": 571.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "and your Medicare account.",
+            "escalation_label": 0,
+            "label_reason": "Agent completes the comparison."
+        },
+        {
+            "start": 570.84,
+            "end": 577.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, and like, is it okay if I just upload everything, as you know whatever, PDFs, JPEGs",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks about accepted file formats for uploading."
+        },
+        {
+            "start": 578.34,
+            "end": 579.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "that kind of thing.",
+            "escalation_label": 0,
+            "label_reason": "Customer completes their question about file formats."
+        },
+        {
+            "start": 579.24,
+            "end": 579.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a minimal affirmative acknowledgment."
+        },
+        {
+            "start": 580.44,
+            "end": 587.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Exactly, so look, PDFs' the best, but we also accept JPEGs for the photos and most common document formats.",
+            "escalation_label": 0,
+            "label_reason": "Agent specifies preferred and accepted file formats."
+        },
+        {
+            "start": 587.34,
+            "end": 592.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "The system will guide you through what needs to be uploaded at each step. It's actually pretty user friendly.",
+            "escalation_label": 0,
+            "label_reason": "Agent reassures the customer about the user-friendliness of the system."
+        },
+        {
+            "start": 592.84,
+            "end": 594.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ohh cool, all right. So",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses positive acknowledgment."
+        },
+        {
+            "start": 595.04,
+            "end": 604.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "what if I have trouble with the online system is there someone there to help me? I mean I'm all right with computers but sometimes, you know what these government websites can be like, they can be a bit tricky or",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about support for online system issues, expressing a mild, common concern about government websites, not strong frustration."
+        },
+        {
+            "start": 605.04,
+            "end": 606.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "you know, they sometimes have errors",
+            "escalation_label": 0,
+            "label_reason": "Customer continues expressing mild concern about online system errors."
+        },
+        {
+            "start": 607.94,
+            "end": 615.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah look, if you run into any issues, of course, we're on hands (um) to help out, you can call our helpline and we'll talk you through it step by step.",
+            "escalation_label": 0,
+            "label_reason": "Agent reassures the customer that help is available via a helpline."
+        },
+        {
+            "start": 616.24,
+            "end": 619.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(um) do you have a pen handy? I can give you the number.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers to provide the helpline number."
+        },
+        {
+            "start": 619.24,
+            "end": 625.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(um,) hang on just a sec. Let me just grab a pen. Yep, what's the number?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for time to get a pen and then requests the number."
+        },
+        {
+            "start": 627.04,
+            "end": 629.54,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah, so the number is one eight hundred",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the first part of the helpline number."
+        },
+        {
+            "start": 629.54,
+            "end": 630.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Mm.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides a minimal affirmative acknowledgment."
+        },
+        {
+            "start": 630.34,
+            "end": 631.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "zero zero four",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the second part of the helpline number."
+        },
+        {
+            "start": 631.54,
+            "end": 631.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Mm?",
+            "escalation_label": 0,
+            "label_reason": "Customer provides a minimal affirmative acknowledgment."
+        },
+        {
+            "start": 633.14,
+            "end": 634.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "nine eight nine.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the final part of the helpline number."
+        },
+        {
+            "start": 635.54,
+            "end": 639.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, got it. I think one eight hundred, double O four, nine eight nine",
+            "escalation_label": 0,
+            "label_reason": "Customer repeats the number for confirmation, showing engagement."
+        },
+        {
+            "start": 641.04,
+            "end": 649.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Perfect. We've also got a rule financial counseling service that offers free help with grant applications. There's an office in Griffith actually",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the number and introduces an additional helpful service (rural financial counseling)."
+        },
+        {
+            "start": 649.24,
+            "end": 651.74,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "(uh) that's really handy, do you have their number?",
+            "escalation_label": 0,
+            "label_reason": "Customer finds the additional service useful and asks for their number."
+        },
+        {
+            "start": 652.94,
+            "end": 661.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "I do and the Riverina branch is zero four, two eight, six nine zero, seven four nine.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the contact number for the rural financial counseling service."
+        },
+        {
+            "start": 662.94,
+            "end": 664.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Cool, okay thank you for that.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges and thanks the agent."
+        },
+        {
+            "start": 665.94,
+            "end": 671.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah they're fantastic. They really know their stuff, and they help with everything from filling out forms to financial planning for the farmyard.",
+            "escalation_label": 0,
+            "label_reason": "Agent praises the counseling service and explains their offerings."
+        },
+        {
+            "start": 671.84,
+            "end": 676.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Brilliant. Okay, so, once I submit everything, how long until I hear back?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks about the processing time after submission."
+        },
+        {
+            "start": 677.54,
+            "end": 687.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yep. So the assessment process usually takes six day weeks from the date of submission. If we need any additional information, we'll contact you by either email or phone.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides the typical assessment timeframe and communication method."
+        },
+        {
+            "start": 687.64,
+            "end": 697.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Once approved, you'll receive a grant agreement that you'll need to sign and return, and then you've got twelve months to complete the irrigation upgrade and submit your final plan.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the post-approval process, including grant agreement and project completion timeline."
+        },
+        {
+            "start": 697.84,
+            "end": 703.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ahh cool, okay. So, I have to do the work first and then claim the money back. Is that right?",
+            "escalation_label": 0,
+            "label_reason": "Customer clarifies their understanding of the payment process, a normal inquiry for complex grants."
+        },
+        {
+            "start": 704.94,
+            "end": 712.14,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Sort of, actually, it works it works in two stages. So you can claim fifty percent of the grant upfront, once the application is approved",
+            "escalation_label": 0,
+            "label_reason": "Agent corrects the customer's understanding and explains the two-stage payment, including an upfront portion."
+        },
+        {
+            "start": 712.54,
+            "end": 716.84,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "(Um) which would give you a book of class cashflow of course, to get the project started, and",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the benefit of the upfront payment for cash flow."
+        },
+        {
+            "start": 716.84,
+            "end": 725.44,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "signed the agreement. So, there's your initial cost kind of covered. Then you claim the remaining fifty percent once the work is completed and you've",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain the two-stage payment process."
+        },
+        {
+            "start": 725.44,
+            "end": 727.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "provided tax invoices and proof of installation.",
+            "escalation_label": 0,
+            "label_reason": "Agent outlines the requirements for the final payment claim."
+        },
+        {
+            "start": 727.84,
+            "end": 732.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay. Ahh. Okay, that'll that's much better than what I thought. So",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses satisfaction with the clarified payment process, indicating it's better than expected."
+        },
+        {
+            "start": 733.24,
+            "end": 736.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I can cough up front (uh) to help pay the contractors.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms understanding of the upfront payment benefit."
+        },
+        {
+            "start": 738.14,
+            "end": 744.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Exactly. We know these are big investments, so the upfront payment really helps to get the work started. (um) you'll just need to submit",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the benefit of upfront payment and a related requirement."
+        },
+        {
+            "start": 745.04,
+            "end": 749.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "sorry you'll just need to provide a project timeline and milestones when you submit your application.",
+            "escalation_label": 0,
+            "label_reason": "Agent concludes the requirement for a project timeline."
+        },
+        {
+            "start": 750.04,
+            "end": 758.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay. And and what counts as eligible costs, is it just the drip lines and fittings, or does it include labor in the whole installation?",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly asks for clarification on what costs are eligible for the subsidy."
+        },
+        {
+            "start": 759.64,
+            "end": 766.64,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah. So it includes the full installation cost, materials, labor, filtration system, pumps, if they're a part of the new system",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a comprehensive list of eligible installation costs."
+        },
+        {
+            "start": 766.74,
+            "end": 773.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "control systems and automation, (um) and even the design and engineering fees if you need a professional irrigation designer.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to list included eligible costs."
+        },
+        {
+            "start": 773.54,
+            "end": 777.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "What it doesn't cover, is ongoing maintenance cost or water purchases.",
+            "escalation_label": 0,
+            "label_reason": "Agent clarifies what costs are not covered by the subsidy."
+        },
+        {
+            "start": 776.94,
+            "end": 781.64,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Okay, that's pretty comprehensive. What about removing the old flood irrigation infrastructure though?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks about the eligibility of removing old infrastructure."
+        },
+        {
+            "start": 782.84,
+            "end": 791.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Yeah, demolition and removal of old infrastructure can be included as part of the project costs, as long as it's necessary for the new system installation.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms that demolition and removal costs can be included if necessary for the new system."
+        },
+        {
+            "start": 790.94,
+            "end": 798.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Very cool, okay. So, I think I've got a pretty good handle on this now. So just to recap, I just need to get two quotes.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses confidence in their understanding and begins a recap of the key information."
+        },
+        {
+            "start": 798.64,
+            "end": 801.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "I'm just reading off my (uh) notes here.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues their recap from their notes."
+        },
+        {
+            "start": 801.54,
+            "end": 809.34,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Gather up my property docs, my ABN, water entitlements, the tax returns you mentioned.",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to calmly recap the list of required documents."
+        },
+        {
+            "start": 809.94,
+            "end": 818.94,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Ahh I need to take photos of the current set up, fill out the application and then and then the water plan. Ohh that's right. Online you mentioned that",
+            "escalation_label": 0,
+            "label_reason": "Customer continues their recap of documentation and submission method."
+        },
+        {
+            "start": 818.94,
+            "end": 823.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "MyGov website, I need to get it in before March thirty-first",
+            "escalation_label": 0,
+            "label_reason": "Customer continues their recap, including the online portal and deadline."
+        },
+        {
+            "start": 824.04,
+            "end": 832.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "and you said the grant covers up to fifty percent with a maximum of a hundred and fifty grand. And I can get half up front",
+            "escalation_label": 0,
+            "label_reason": "Customer continues their recap of grant details and payment structure."
+        },
+        {
+            "start": 832.44,
+            "end": 835.14,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "and I can look at the RIC loan for the rest.",
+            "escalation_label": 0,
+            "label_reason": "Customer completes their recap by mentioning the loan option."
+        },
+        {
+            "start": 836.24,
+            "end": 843.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Exactly. Look, you've got it that's perfect summary Maria, and don't forget about the rule financial and counseling service which you did mention, (um)",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the accuracy of the customer's summary and adds a reminder about the counseling service."
+        },
+        {
+            "start": 844.64,
+            "end": 849.04,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "but (um) if you need help with the application, and they're the ones that are local to you.",
+            "escalation_label": 0,
+            "label_reason": "Agent reiterates the purpose and local nature of the counseling service."
+        },
+        {
+            "start": 849.34,
+            "end": 853.24,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Awesome. Well, Danielle thanks so much for your help.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses gratitude to the agent."
+        },
+        {
+            "start": 853.64,
+            "end": 860.44,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "That's really awesome. Look, I'm going to just speak to my husband and then I'll give you guys a call back if I need more info, otherwise I'll just get started.",
+            "escalation_label": 0,
+            "label_reason": "Customer outlines their next steps, indicating satisfaction and readiness to proceed."
+        },
+        {
+            "start": 861.74,
+            "end": 864.94,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "Perfect. My pleasure Maria. (uh) is there anything else I can help you today?",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a polite closing and offers further assistance."
+        },
+        {
+            "start": 864.84,
+            "end": 868.54,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "No thank you. You've been a really a great help, thanks Danielle",
+            "escalation_label": 0,
+            "label_reason": "Customer politely declines further help and reiterates thanks."
+        },
+        {
+            "start": 869.64,
+            "end": 872.74,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "No worries. Well, fingers crossed it all goes through well.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers a polite closing remark, wishing good luck."
+        },
+        {
+            "start": 873.34,
+            "end": 875.04,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "Thanks so much.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides a final thank you."
+        },
+        {
+            "start": 875.84,
+            "end": 876.24,
+            "role": "agent",
+            "speaker_id": "speaker_en_au_female_1",
+            "gender": "female",
+            "text": "All right.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a final closing remark."
+        },
+        {
+            "start": 875.84,
+            "end": 876.84,
+            "role": "customer",
+            "speaker_id": "speaker_en_au_female_2",
+            "gender": "female",
+            "text": "See ya.",
+            "escalation_label": 0,
+            "label_reason": "Customer says goodbye."
+        }
+    ]
+}

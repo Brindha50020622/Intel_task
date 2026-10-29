@@ -1,0 +1,681 @@
+{
+    "file_name": "en_SG_DeliveryService_1586859.wav",
+    "domain": "deliveryservice",
+    "accent": "en-SG",
+    "duration": 623.992,
+    "escalation_label": 1,
+    "segments": [
+        {
+            "start": 14.14,
+            "end": 20.79,
+            "role": "agent",
+            "text": "Good afternoon, thank you for calling Swift Parcels Singapore this is Claire speaking, how may I help you today?",
+            "escalation_label": 0,
+            "label_reason": "Standard greeting from the agent."
+        },
+        {
+            "start": 22.46,
+            "end": 30.54,
+            "role": "customer",
+            "text": "Yeah hey good afternoon. I'm calling about a parcel that hasn't arrived yet it was supposed to come yesterday but I checked but there wasn't anything.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly explains the problem (parcel not arrived)."
+        },
+        {
+            "start": 31.94,
+            "end": 38.04,
+            "role": "agent",
+            "text": "Ohh dear okay sorry to hear that sir, could I have your tracking number please so I can track for you?",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges the issue and requests tracking information."
+        },
+        {
+            "start": 38.84,
+            "end": 41.89,
+            "role": "customer",
+            "text": "Wait hold on let me check from my phone (um)",
+            "escalation_label": 0,
+            "label_reason": "Customer prepares to provide information."
+        },
+        {
+            "start": 43.54,
+            "end": 47.24,
+            "role": "customer",
+            "text": "It's (uh) S for Singapore, P for Poland.",
+            "escalation_label": 0,
+            "label_reason": "Customer provides part of the tracking number."
+        },
+        {
+            "start": 47.84,
+            "end": 50.54,
+            "role": "customer",
+            "text": "Then two three seven nine five eight.",
+            "escalation_label": 0,
+            "label_reason": "Customer completes providing the tracking number."
+        },
+        {
+            "start": 51.84,
+            "end": 53.94,
+            "role": "agent",
+            "text": "Okay give me your number now.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges receiving the tracking number."
+        },
+        {
+            "start": 55.84,
+            "end": 60.56,
+            "role": "agent",
+            "text": "OK so it's a delivery to Tampines Street eighty two card.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms delivery details based on the tracking number."
+        },
+        {
+            "start": 61.84,
+            "end": 62.56,
+            "role": "customer",
+            "text": "Yeah, correct.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms the delivery details."
+        },
+        {
+            "start": 63.84,
+            "end": 66.28,
+            "role": "agent",
+            "text": "And it's under your name Alex.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the recipient's name."
+        },
+        {
+            "start": 67.64,
+            "end": 68.14,
+            "role": "customer",
+            "text": "Yes, correct.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms the name."
+        },
+        {
+            "start": 69.54,
+            "end": 71.24,
+            "role": "agent",
+            "text": "Okay let me check the status.",
+            "escalation_label": 0,
+            "label_reason": "Agent states they will check the status."
+        },
+        {
+            "start": 75.64,
+            "end": 85.04,
+            "role": "agent",
+            "text": "Okay it shows the parcel already left our hub on Tuesday morning but there is no scan for delivery yet.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a factual status update about the parcel."
+        },
+        {
+            "start": 86.16,
+            "end": 92.04,
+            "role": "customer",
+            "text": "Yeah loh it's Friday already and these are quite important documents it's not just some shopping item.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses concern about the delay and the importance of the documents, but not yet strong frustration or an unresolved issue in terms of agent action."
+        },
+        {
+            "start": 93.34,
+            "end": 97.84,
+            "role": "agent",
+            "text": "Ohh OK OK understand OK. Let me trace with this track lah.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges understanding and proceeds to investigate further."
+        },
+        {
+            "start": 101.68,
+            "end": 111.51,
+            "role": "agent",
+            "text": "Okay It's with our east hub courier it says (uh) attempted delivery recipient not available on Wednesday.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides further details from the tracking system, showing an attempted delivery."
+        },
+        {
+            "start": 112.52,
+            "end": 112.94,
+            "role": "customer",
+            "text": "(ah)",
+            "escalation_label": 0,
+            "label_reason": "Customer makes a brief acknowledgment."
+        },
+        {
+            "start": 113.58,
+            "end": 117.84,
+            "role": "customer",
+            "text": "Actually not possible lah, I was home the whole day, nobody called nobody came, are you sure now?",
+            "escalation_label": 1,
+            "label_reason": "Customer disputes the agent's explanation, stating it's 'not possible' and questioning the information, showing clear frustration and disbelief regarding the service."
+        },
+        {
+            "start": 118.94,
+            "end": 129.74,
+            "role": "agent",
+            "text": "Mm there's sometimes drivers do not check that we, the, (uh) couldn't locate the unit or if like maybe your gate was closed.",
+            "escalation_label": 0,
+            "label_reason": "Agent attempts to explain potential reasons for the delivery issue."
+        },
+        {
+            "start": 131.24,
+            "end": 134.36,
+            "role": "customer",
+            "text": "No lah it can't be lah, it's a walk up block no gate also.",
+            "escalation_label": 1,
+            "label_reason": "Customer strongly refutes the agent's explanation, stating 'it can't be lah', demonstrating continued and heightened frustration with the excuses and the unresolved issue."
+        },
+        {
+            "start": 136.27,
+            "end": 142.54,
+            "role": "agent",
+            "text": "Mm okay, let me see, if",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's point and continues investigation."
+        },
+        {
+            "start": 145.14,
+            "end": 153.4,
+            "role": "agent",
+            "text": "Okay okay it says (uh) re-attempt scheduled for Thursday but there's no Thursday scan also actually.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides further information, confirming an issue with the delivery record (no scan for re-attempt)."
+        },
+        {
+            "start": 154.64,
+            "end": 158.44,
+            "role": "customer",
+            "text": "E~ exactly I waited at home yesterday morning and afternoon.",
+            "escalation_label": 1,
+            "label_reason": "Customer emphasizes waiting at home ('E~ exactly I waited at home'), reinforcing their frustration about the failed delivery and the unresolved issue."
+        },
+        {
+            "start": 159.74,
+            "end": 169.6,
+            "role": "agent",
+            "text": "I, I really apologize for this so looks like it might be a routeing delay (uh) let me contact the hub and then we'll see if we can speed this up today.",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes and proposes a resolution step (contacting the hub to speed up delivery)."
+        },
+        {
+            "start": 170.74,
+            "end": 177.64,
+            "role": "customer",
+            "text": "(uh) can you please do that, it's actually very urgent nah these are contract papers, I need to sign and return by tomorrow.",
+            "escalation_label": 0,
+            "label_reason": "Customer reiterates the urgency and importance of the documents, requesting action but not showing new or heightened frustration with the agent."
+        },
+        {
+            "start": 178.84,
+            "end": 184.84,
+            "role": "agent",
+            "text": "Okay I understand (uh) do you mind if I put you on hold for a minute while I call the hub directly?",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms action plan and seeks customer's consent to hold the line."
+        },
+        {
+            "start": 186.04,
+            "end": 187.08,
+            "role": "customer",
+            "text": "Sure sure no problem.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly agrees to the agent's proposal."
+        },
+        {
+            "start": 192.84,
+            "end": 203.25,
+            "role": "agent",
+            "text": "Okay thank you for holding Mr. (uh) I spoke to the hub supervisor they found your parcel is still in the driver's van from yesterday.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides an update after contacting the hub, revealing the parcel's status."
+        },
+        {
+            "start": 204.74,
+            "end": 208.04,
+            "role": "customer",
+            "text": "Why it's been sitting there all this while.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses strong dissatisfaction and disbelief ('Why it's been sitting there all this while') regarding the parcel's status, indicating heightened frustration about the unresolved issue."
+        },
+        {
+            "start": 209.64,
+            "end": 222.19,
+            "role": "agent",
+            "text": "Yeah so apparently he had like too many stops yesterday and he couldn't finish the route so I've I've escalated them to send out the remaining parcels by this afternoon lah.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the cause of the delay and outlines the resolution being taken, mentioning they 'escalated' the delivery."
+        },
+        {
+            "start": 223.94,
+            "end": 225.74,
+            "role": "customer",
+            "text": "Yeah but seriously lah.",
+            "escalation_label": 1,
+            "label_reason": "Customer expresses clear exasperation and dissatisfaction with the situation using 'Yeah but seriously lah'."
+        },
+        {
+            "start": 226.44,
+            "end": 230.34,
+            "role": "customer",
+            "text": "Can you confirm that I can get it today lah? I don't mind paying a bit extra also.",
+            "escalation_label": 1,
+            "label_reason": "Customer is highly concerned about receiving the parcel today, offering to pay extra, indicating the critical and unresolved nature of the delivery due to past failures."
+        },
+        {
+            "start": 231.64,
+            "end": 243.38,
+            "role": "agent",
+            "text": "Okay we actually have two options (uh) one is (um) priority you so basically you push the driver to deliver before the end today.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides options for resolution (priority delivery)."
+        },
+        {
+            "start": 244.14,
+            "end": 250.32,
+            "role": "agent",
+            "text": "Second option is that you can self-collect at our hub after booking.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a second option for resolution (self-collection)."
+        },
+        {
+            "start": 251.62,
+            "end": 255.19,
+            "role": "customer",
+            "text": "Okay no lah but also far for me, I paid for delivery.",
+            "escalation_label": 0,
+            "label_reason": "Customer calmly rejects one option and reiterates expectations regarding paid delivery."
+        },
+        {
+            "start": 255.72,
+            "end": 259.84,
+            "role": "customer",
+            "text": "Priority the one you've shared there's no, no extra charge, no?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for clarification on charges for the priority option."
+        },
+        {
+            "start": 261.09,
+            "end": 267.55,
+            "role": "agent",
+            "text": "Normally yes but it seems this was our delay, yeah can waive the fee for you.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers a solution by waiving a fee due to the company's delay."
+        },
+        {
+            "start": 269.34,
+            "end": 271.74,
+            "role": "customer",
+            "text": "OK lah, OK lah, that one is a bigger, thank you.",
+            "escalation_label": 0,
+            "label_reason": "Customer accepts the proposed solution and expresses thanks."
+        },
+        {
+            "start": 272.65,
+            "end": 280.17,
+            "role": "agent",
+            "text": "Okay no problem I've marked it as (uh) they can let, the driver will redeliver by today.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the resolution action for redelivery."
+        },
+        {
+            "start": 281.52,
+            "end": 286.74,
+            "role": "customer",
+            "text": "Okay can can, thanks for that but actually why is there a delay in the first place?",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks to understand the root cause of the delay after a resolution is found, which is a reasonable inquiry not indicating new frustration."
+        },
+        {
+            "start": 289.54,
+            "end": 299.34,
+            "role": "agent",
+            "text": "Okay lah according to the hub, what they said just now was that (uh) one driver was on medical leave and sick, so they had to combine routes.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the reason for the initial delay (driver on medical leave)."
+        },
+        {
+            "start": 299.34,
+            "end": 309.0,
+            "role": "agent",
+            "text": "So because of that (uh) there's still some areas were delayed one or two days lah so unfortunately it included (um) yours.",
+            "escalation_label": 0,
+            "label_reason": "Agent continues to explain the cause of the delay (combined routes).."
+        },
+        {
+            "start": 311.94,
+            "end": 314.24,
+            "role": "customer",
+            "text": "Ohh, OK lah, at least now I know.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses understanding and acceptance of the explanation."
+        },
+        {
+            "start": 316.74,
+            "end": 323.34,
+            "role": "agent",
+            "text": "Okay so so sorry for the trouble that was caused also and shouldn't have been the case lah.",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes again for the inconvenience."
+        },
+        {
+            "start": 324.84,
+            "end": 331.94,
+            "role": "customer",
+            "text": "I'm worried lah, actually I told myself can't promise that it comes today because you know I will lose the contract and all a very important one, it's very urgent.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses lingering worry about the importance of the delivery and potential consequences, but not direct frustration with the agent or an indication the issue is still unaddressed (a plan is in place)."
+        },
+        {
+            "start": 333.34,
+            "end": 341.84,
+            "role": "agent",
+            "text": "Yes yes OK (uh) yeah I've spoken to the hub and they confirmed that it will go out on the next trip.",
+            "escalation_label": 0,
+            "label_reason": "Agent re-confirms the delivery plan."
+        },
+        {
+            "start": 342.24,
+            "end": 349.34,
+            "role": "agent",
+            "text": "So you should be able to get it (um) somewhere maybe between four and six p.m.",
+            "escalation_label": 0,
+            "label_reason": "Agent confirms the expected delivery timeframe."
+        },
+        {
+            "start": 350.34,
+            "end": 355.14,
+            "role": "customer",
+            "text": "Okay lah can I was thinking three but now four to six even better, I should be home by then.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses satisfaction with the confirmed delivery timeframe."
+        },
+        {
+            "start": 356.34,
+            "end": 363.84,
+            "role": "agent",
+            "text": "OK good good so I will s~ send you an SMS (uh) o~ once the parcel is,",
+            "escalation_label": 0,
+            "label_reason": "Agent offers additional proactive communication via SMS."
+        },
+        {
+            "start": 364.64,
+            "end": 371.64,
+            "role": "agent",
+            "text": "scanned out for delivery lah so you won't be too anxious waiting for it also.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the benefit of the SMS update."
+        },
+        {
+            "start": 372.62,
+            "end": 376.65,
+            "role": "customer",
+            "text": "(uh) then if you are then good luck, maybe if I can track properly this time.",
+            "escalation_label": 0,
+            "label_reason": "Customer makes a mild, somewhat sarcastic comment about previous tracking issues, but not expressing strong frustration."
+        },
+        {
+            "start": 378.44,
+            "end": 381.94,
+            "role": "agent",
+            "text": "Yeah so hopefully the tracking also should be",
+            "escalation_label": 0,
+            "label_reason": "Agent provides reassurance about tracking updates."
+        },
+        {
+            "start": 382.54,
+            "end": 390.74,
+            "role": "agent",
+            "text": "updated live lah so if anything or so I can correctly call or sms you so you will be informed",
+            "escalation_label": 0,
+            "label_reason": "Agent offers further proactive communication options."
+        },
+        {
+            "start": 394.16,
+            "end": 400.52,
+            "role": "customer",
+            "text": "Actually I asked you, if next time I got this kind of urgent document can I just straight away use the priority option?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for information about future service options for urgent documents."
+        },
+        {
+            "start": 401.94,
+            "end": 411.24,
+            "role": "agent",
+            "text": "Yes yes you can so (uh) when you book on our website or app you can actually choose priority service.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides information about the priority service."
+        },
+        {
+            "start": 411.74,
+            "end": 422.14,
+            "role": "agent",
+            "text": "Basically that's guaranteed same-day delivery if you book it before noon lah so if you book after after noon, it will be the next working day.",
+            "escalation_label": 0,
+            "label_reason": "Agent elaborates on the conditions for the priority service."
+        },
+        {
+            "start": 424.54,
+            "end": 428.64,
+            "role": "customer",
+            "text": "Can can can you tell me how much is the cost? What's the extra cost?",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for cost details of the priority service."
+        },
+        {
+            "start": 430.44,
+            "end": 437.54,
+            "role": "agent",
+            "text": "Usually it's normal but there will, there'll be some extra ten dollars top up on top of the normal work.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides initial cost information for priority service."
+        },
+        {
+            "start": 437.84,
+            "end": 446.68,
+            "role": "agent",
+            "text": "So for really urgent like maybe you need like two hours express or earlier then (uh) it will be an additional fifteen dollars.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides additional cost information for more urgent services."
+        },
+        {
+            "start": 448.24,
+            "end": 451.54,
+            "role": "customer",
+            "text": "Okay now I know better then maybe next time once I'll go for that instead.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges understanding and expresses future intent to use the service."
+        },
+        {
+            "start": 453.04,
+            "end": 460.77,
+            "role": "agent",
+            "text": "Yeah I think that what you could do lah especially you mention it's important documents that will ensure you have not more wait",
+            "escalation_label": 0,
+            "label_reason": "Agent provides positive reinforcement for using the priority service for important documents."
+        },
+        {
+            "start": 462.04,
+            "end": 463.0,
+            "role": "agent",
+            "text": "in time to come.",
+            "escalation_label": 0,
+            "label_reason": "Agent completes the thought on the benefits of the priority service."
+        },
+        {
+            "start": 463.94,
+            "end": 468.84,
+            "role": "customer",
+            "text": "Now lah I was quite fine from just now plus my client actually already waiting for the document.",
+            "escalation_label": 0,
+            "label_reason": "Customer reflects on past stress and the client's waiting, but the primary issue is now being addressed and resolved."
+        },
+        {
+            "start": 470.63,
+            "end": 474.24,
+            "role": "agent",
+            "text": "Totally understand so I will make sure that you get it today.",
+            "escalation_label": 0,
+            "label_reason": "Agent acknowledges customer's concern and provides reassurance."
+        },
+        {
+            "start": 475.94,
+            "end": 483.34,
+            "role": "customer",
+            "text": "Okay thank, thank you very much hey by the way while I actually have you, if by chance I'm not home and someone else receives on my behalf you can then",
+            "escalation_label": 0,
+            "label_reason": "Customer asks for information about the procedure for someone else receiving the parcel."
+        },
+        {
+            "start": 485.04,
+            "end": 490.93,
+            "role": "agent",
+            "text": "Mm yes yes so basically they will just need to sign or take a photo acknowledgment.",
+            "escalation_label": 0,
+            "label_reason": "Agent explains the procedure for alternative receipt."
+        },
+        {
+            "start": 491.74,
+            "end": 503.73,
+            "role": "agent",
+            "text": "So in that case if nobody home (uh) the driver may just call you for proper instructions lah so ideally if you are not home, you can still take the call.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides further details and advice regarding delivery if no one is home."
+        },
+        {
+            "start": 505.34,
+            "end": 512.64,
+            "role": "customer",
+            "text": "Okay lah cause I won't know lah if they think I got something urgent I want I need to out but later my wife",
+            "escalation_label": 0,
+            "label_reason": "Customer muses about potential scenarios, not indicating escalation."
+        },
+        {
+            "start": 514.14,
+            "end": 525.44,
+            "role": "agent",
+            "text": "Yeah that sounds so good for you sounds good (uh) I'll email you the updated confirmation mm right after we end this call so you will have (uh) everything in writing so.",
+            "escalation_label": 0,
+            "label_reason": "Agent offers to send an email confirmation of the updated delivery."
+        },
+        {
+            "start": 526.54,
+            "end": 528.44,
+            "role": "customer",
+            "text": "Yeah that good to know thank you.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses approval and thanks for the email confirmation."
+        },
+        {
+            "start": 529.84,
+            "end": 537.71,
+            "role": "agent",
+            "text": "No problem, okay if you don't see the email within ten minutes you can check your spam folder.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides practical advice about checking the spam folder for the email."
+        },
+        {
+            "start": 539.12,
+            "end": 545.04,
+            "role": "customer",
+            "text": "Ohh okay lah I always sometimes get random emails in my spam and also important ones as well, later I go check.",
+            "escalation_label": 0,
+            "label_reason": "Customer acknowledges the advice about checking spam."
+        },
+        {
+            "start": 545.74,
+            "end": 548.24,
+            "role": "agent",
+            "text": "yeah it's usually a system thing.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a brief explanation about system behavior."
+        },
+        {
+            "start": 549.54,
+            "end": 556.24,
+            "role": "customer",
+            "text": "get back to the topic again. So I just want to confirm, delivery will be by today evening.",
+            "escalation_label": 0,
+            "label_reason": "Customer seeks final confirmation of the delivery details."
+        },
+        {
+            "start": 556.94,
+            "end": 558.24,
+            "role": "customer",
+            "text": "Between four to six, right?",
+            "escalation_label": 0,
+            "label_reason": "Customer continues to seek final confirmation of the delivery timeframe."
+        },
+        {
+            "start": 559.34,
+            "end": 569.44,
+            "role": "agent",
+            "text": "Yes correct. four p.m. to six p.m. in the day I'll be in to assist you so I mainly just to level with you and the hub supervisor so just",
+            "escalation_label": 0,
+            "label_reason": "Agent re-confirms the delivery details and promises assistance."
+        },
+        {
+            "start": 569.44,
+            "end": 576.04,
+            "role": "agent",
+            "text": "To clarify again you will also get the SMS once it's already out for delivery and on the way.",
+            "escalation_label": 0,
+            "label_reason": "Agent re-confirms the SMS notification once the parcel is out for delivery."
+        },
+        {
+            "start": 576.98,
+            "end": 582.84,
+            "role": "customer",
+            "text": "(uh) okay well that's good to know okay thanks a lot, really appreciate your help lah, for checking this one.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses appreciation and thanks for the help."
+        },
+        {
+            "start": 583.84,
+            "end": 590.84,
+            "role": "agent",
+            "text": "Nowadays I can't waste your time, sorry again for the delay but (uh) we'll make sure that it reaches you today.",
+            "escalation_label": 0,
+            "label_reason": "Agent apologizes again for the delay and provides final reassurance."
+        },
+        {
+            "start": 592.44,
+            "end": 595.64,
+            "role": "customer",
+            "text": "Okay lah can, I just got at home, thank you so much again Claire.",
+            "escalation_label": 0,
+            "label_reason": "Customer expresses acceptance and thanks for the resolution."
+        },
+        {
+            "start": 597.04,
+            "end": 599.43,
+            "role": "agent",
+            "text": "No worries is anything else?",
+            "escalation_label": 0,
+            "label_reason": "Agent asks if there are any other issues."
+        },
+        {
+            "start": 600.58,
+            "end": 604.51,
+            "role": "customer",
+            "text": "(ah) actually that's all lah hey thank you thank you thank you.",
+            "escalation_label": 0,
+            "label_reason": "Customer confirms the call can end and offers thanks."
+        },
+        {
+            "start": 605.24,
+            "end": 606.57,
+            "role": "agent",
+            "text": "Thank you, bye bye.",
+            "escalation_label": 0,
+            "label_reason": "Agent provides a standard closing and farewell."
+        },
+        {
+            "start": 606.98,
+            "end": 608.02,
+            "role": "customer",
+            "text": "Yeah goodbye.",
+            "escalation_label": 0,
+            "label_reason": "Customer reciprocates the farewell."
+        }
+    ]
+}
