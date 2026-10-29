@@ -53,7 +53,25 @@ I colelcted 30 audio files from this dataset and with 15 escalations and 15 non-
     Compared the models using precision, recall, F1-score, and average precision.
 
 Used a threshold of 0.14(because the dataset contained significantly fewer escalated segments than non-escalated segments. A lower threshold makes the model more likely to flag potential escalations for review. However, this can also increase false positives. Therefore, the threshold is a practical choice for identifying candidate segments, rather than a guarantee that every flagged segment is a true escalation) to flag segments for review. Segments with predicted scores at or above this threshold are flagged as potential escalations.
+
+You can refer model_comparision.csv for different threhold with different scores for the metrics.
+
 The system saves segment-level predictions, timestamps, transcripts, and estimated escalation scores in output files.
+
+<img width="972" height="170" alt="image" src="https://github.com/user-attachments/assets/c7cdff62-6376-41da-9009-7b9f24894598" />
+
+
+
+
+Model output:
+
+  You can find the test folds output in escalation_output.json
+
+  i have attached how the pieplien works when given a audio call, complete transcript with probabilites get saved under predictions and the escalation segments exceeding the threshold would be displayed in the terminal
+  <img width="1246" height="332" alt="Screenshot 2026-10-29 084405" src="https://github.com/user-attachments/assets/4d534335-fd63-4202-b6ee-fec8553e2360" />
+
+  
+
 
 
 
